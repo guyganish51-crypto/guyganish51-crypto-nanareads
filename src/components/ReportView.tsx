@@ -149,7 +149,19 @@ export function ReportView({ id, lang, t }: { id: string; lang: Locale; t: Dict 
 
   if (missing) return <main className="mx-auto max-w-2xl px-4 py-20 text-center"><NanaAvatar size={90} className="mx-auto" /><p className="mt-4 text-lg">{R.notFound}</p></main>;
   if (!d) return <main className="py-24 text-center text-ink-soft">{t.common.loading}</main>;
-  if (d.status === "preview_pending") return <main className="mx-auto max-w-xl px-4"><WritingScreen t={t} /></main>;
+  if (d.status === "preview_pending") return (
+    <main className="mx-auto max-w-xl px-4 pb-10">
+      <WritingScreen t={t} />
+      {d.chat.stats && (
+        <section className="rise">
+          <h2 className="font-display mb-3 text-2xl font-bold">{R.statsTitle}</h2>
+          <StatCards s={d.chat.stats} t={t} lang={lang} pair={d.chat.participants.length <= 2} />
+          <ActivityChart s={d.chat.stats} t={t} lang={lang} />
+          <Phrases s={d.chat.stats} t={t} lang={lang} />
+        </section>
+      )}
+    </main>
+  );
 
   const pair = d.chat.participants.length <= 2;
   const p = d.preview;
