@@ -447,6 +447,14 @@
         "Își face un ceai…"
       ],
       "note": "Durează cam un minut. Îți dăm și un mail când e gata."
+    },
+    "recording": {
+      "cta": "Sau încarcă o înregistrare de ecran",
+      "hint": "Înregistrează ecranul în timp ce derulezi încet conversația, de la cel mai vechi mesaj la cel mai nou, apoi încarcă video-ul. Nana citește bulele.",
+      "extracting": "Alegem cadrele cele mai clare… {pct}%",
+      "reading": "Nana citește capturile… durează 1–2 minute",
+      "errVideo": "Nu am putut citi video-ul. Încearcă o înregistrare de ecran obișnuită (MP4 sau MOV).",
+      "errFew": "Nana a găsit doar câteva mesaje. Derulează mai încet și înregistrează o porțiune mai lungă."
     }
   },
   "report": {

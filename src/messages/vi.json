@@ -447,6 +447,14 @@
         "Đang pha trà…"
       ],
       "note": "Mất khoảng một phút. Xong bọn mình cũng sẽ email cho bạn."
+    },
+    "recording": {
+      "cta": "Hoặc tải lên video quay màn hình",
+      "hint": "Quay màn hình khi bạn cuộn chậm đoạn chat từ tin cũ nhất đến mới nhất, rồi tải video lên. Nana sẽ đọc các bong bóng.",
+      "extracting": "Đang chọn khung hình rõ nhất… {pct}%",
+      "reading": "Nana đang đọc ảnh chụp màn hình… mất 1–2 phút",
+      "errVideo": "Không đọc được video này. Thử video quay màn hình thông thường (MP4 hoặc MOV).",
+      "errFew": "Nana chỉ tìm thấy vài tin nhắn. Cuộn chậm hơn và quay đoạn dài hơn."
     }
   },
   "report": {

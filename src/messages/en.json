@@ -447,6 +447,14 @@
         "Making tea…"
       ],
       "note": "This takes about a minute. We'll also email you when it's ready."
+    },
+    "recording": {
+      "cta": "Or upload a screen recording",
+      "hint": "Record yourself slowly scrolling the chat from the oldest message to the newest, then upload the video. Nana reads the bubbles.",
+      "extracting": "Picking the clearest frames… {pct}%",
+      "reading": "Nana is reading the screenshots… this takes 1–2 minutes",
+      "errVideo": "That video couldn't be read. Try a normal screen recording (MP4 or MOV).",
+      "errFew": "Nana could only find a few messages. Scroll slower and record a longer stretch of the chat."
     }
   },
   "report": {

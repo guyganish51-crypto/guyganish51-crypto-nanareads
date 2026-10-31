@@ -47,6 +47,13 @@ function StatCards({ s, t, lang, pair }: { s: ChatStats; t: Dict; lang: string; 
     </div>
   );
   const Big = ({ v }: { v: string }) => <div className="font-display text-3xl font-bold">{v}</div>;
+  if (s.synthetic) return (
+    <div className="grid grid-cols-2 gap-3 sm:grid-cols-3">
+      <Card i={0} k={S.messages}><Big v={s.total.toLocaleString(lang)} /></Card>
+      <Card i={2} k={S.whoTalks}>{top.map((a) => <div key={a.name} className="flex justify-between gap-2 text-sm"><span className="truncate">{a.name}</span><b>{pct(a.share)}</b></div>)}</Card>
+      <Card i={8} k={S.emojis}><Big v={s.topEmojis.join(" ") || "–"} /></Card>
+    </div>
+  );
   return (
     <div className="grid grid-cols-2 gap-3 sm:grid-cols-3">
       <Card i={0} k={S.messages}><Big v={s.total.toLocaleString(lang)} /></Card>

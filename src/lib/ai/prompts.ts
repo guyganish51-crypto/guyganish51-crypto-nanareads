@@ -46,6 +46,10 @@ const HEAT: Record<Heat, string> = {
 };
 
 export function statsDigest(s: ChatStats): string {
+  if (s.synthetic) {
+    return `messages: ${s.total}. Imported from a screen recording: timestamps are NOT available, so never mention times, reply speeds, dates or silences.\n` +
+      s.authors.slice(0, 15).map((a) => `- ${a.name}: ${a.messages} msgs (${Math.round(a.share * 100)}%), emojis ${a.topEmojis.join("")}`).join("\n");
+  }
   const pct = (x: number) => `${Math.round(x * 100)}%`;
   const lines = [
     `messages: ${s.total}, days spanned: ${s.days}, per day: ${s.perDay}`,

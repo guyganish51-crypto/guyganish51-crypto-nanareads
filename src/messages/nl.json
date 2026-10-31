@@ -1,1 +1,652 @@
-{}
+{
+  "meta": {
+    "siteName": "Nana Reads",
+    "title": "Nana Reads — jouw chat, gelezen door de nieuwsgierigste oma ter wereld",
+    "description": "Upload een chat uit WhatsApp, Telegram, LINE of iMessage. Nana leest elk bericht en vertelt je wat er écht speelt, wie er meer om geeft en wat iedereen van iedereen vindt."
+  },
+  "nav": {
+    "cta": "Stuur Nana een chat",
+    "account": "Mijn chats",
+    "language": "Taal"
+  },
+  "home": {
+    "eyebrow": "81 jaar oud. Heeft elke chat ooit gelezen.",
+    "h1": "Stuur Nana je chat. Zij vertelt je wat er écht speelt.",
+    "sub": "Nana leest elk bericht, telt precies wat jij liever niet geteld had en schrijft een eerlijk, ontzettend grappig rapport over iedereen erin.",
+    "cta": "Stuur Nana een chat",
+    "ctaNote": "Gratis preview · geen creditcard · automatisch verwijderd",
+    "demoTitle": "Kies een chat en zie wat Nana ziet",
+    "demoHint": "Dit zijn verzonnen chats. Die van jou is erger.",
+    "howTitle": "Zo werkt het",
+    "how": [
+      {
+        "t": "Exporteer je chat",
+        "d": "Twee tikken in WhatsApp, Telegram, LINE of KakaoTalk. We laten precies zien hoe."
+      },
+      {
+        "t": "Nana leest alles",
+        "d": "Elk bericht, elk smoesje in een spraakbericht, elk “ben onderweg” vanuit bed."
+      },
+      {
+        "t": "Ontvang het rapport",
+        "d": "Binnen een minuut een gratis preview. Het volledige rapport komt in je inbox — deel het in de chat als je durft."
+      }
+    ],
+    "findsTitle": "Wat Nana ontdekt",
+    "finds": [
+      {
+        "e": "🫖",
+        "t": "Wie er écht om geeft",
+        "d": "Wie de gesprekken begint, wie binnen 4 minuten antwoordt en wie na 4 uur."
+      },
+      {
+        "e": "📉",
+        "t": "Het moment dat het omsloeg",
+        "d": "De precieze week dat de vibe inzakte, met de berichten die het bewijzen."
+      },
+      {
+        "e": "🗝️",
+        "t": "Jullie eigen geheimtaal",
+        "d": "De running jokes en woorden die alleen jullie twee (of jullie twaalf) snappen."
+      },
+      {
+        "e": "🏆",
+        "t": "Ieders rol",
+        "d": "In groepen: de planner, de spookverschijning, degene die “ik ben erbij” zegt en nooit komt opdagen."
+      }
+    ],
+    "privacyTitle": "Privé, zo gebouwd",
+    "privacy": [
+      "Je chat wordt gelezen en geteld in je eigen browser voordat er iets wordt geüpload.",
+      "Uploads zijn versleuteld en worden automatisch verwijderd: na 48 uur als je geen rapport bestelt, 7 dagen na je laatste.",
+      "Nooit verkocht, nooit gedeeld, nooit gebruikt om AI te trainen."
+    ],
+    "worksWith": "Werkt met",
+    "heatTitle": "Kies hoe hard Nana gaat",
+    "heat": {
+      "gentle": {
+        "t": "Lief",
+        "d": "Verjaardagskaart-oma. Plagen, niks wat prikt."
+      },
+      "spicy": {
+        "t": "Pittig",
+        "d": "Een flinke roast. De meeste mensen kiezen deze."
+      },
+      "savage": {
+        "t": "Genadeloos",
+        "d": "Geen genade. Voor groepen die elkaar dagelijks afbranden."
+      }
+    },
+    "finalH": "Jouw chat is de volgende.",
+    "finalSub": "Nana zet al een kopje thee."
+  },
+  "landing": {
+    "relationship": {
+      "metaTitle": "Vindt hij je echt leuk? AI-analyse van je chat — Nana Reads",
+      "metaDesc": "Upload je chat met je crush, partner, situationship of ex. Nana leest elk bericht en vertelt je wie er meer om geeft en wat er veranderd is.",
+      "h1": "Vindt hij je echt leuk? Nana zegt het je.",
+      "sub": "Stuur de chat met je crush, partner, situationship of ex. Nana telt wie als eerste appt, wie je laat wachten en wanneer het omsloeg."
+    },
+    "friends": {
+      "metaTitle": "Groepsapp-analyse & vriendenroast — Nana Reads",
+      "metaDesc": "Upload de groepsapp met je vrienden. Nana roast iedereen, deelt awards uit en zegt wat niemand hardop durft te zeggen.",
+      "h1": "Wat vindt Nana van jou en je vrienden?",
+      "sub": "De mannenapp, de meidenapp, de trip die er nooit van kwam. Nana leest alles en geeft iedereen de titel die hij verdient."
+    },
+    "family": {
+      "metaTitle": "Familie-WhatsAppgroep analyseren — Nana Reads",
+      "metaDesc": "Upload je familie-app. Nana ontdekt wie de familie echt bij elkaar houdt, wie nooit reageert en wie de goedemorgen-bloemetjes stuurt.",
+      "h1": "Jullie familie-app, gelezen door een oma die alles al gezien heeft.",
+      "sub": "Wie de familie bij elkaar houdt, wie alleen reageert op foto's van eten en wie nog steeds boos is over vorige kerst. Nana weet het."
+    },
+    "imessage": {
+      "metaTitle": "iMessage-chat analyseren — Nana Reads",
+      "metaDesc": "Exporteer een iMessage-gesprek vanaf je Mac en laat Nana het lezen. Wie er meer om geeft, wat er veranderd is en wat je nu moet doen.",
+      "h1": "Upload een iMessage-chat. Nana doet de rest.",
+      "sub": "Exporteer in een paar minuten een gesprek vanaf je Mac en Nana leest elk blauw tekstballonnetje."
+    },
+    "whatsapp": {
+      "metaTitle": "WhatsApp-chat analyseren — Nana Reads",
+      "metaDesc": "Exporteer elke WhatsApp-chat in twee tikken. Nana leest elk bericht en schrijft een eerlijk, grappig rapport over iedereen erin.",
+      "h1": "WhatsApp-analyse door je nieuwsgierigste oma.",
+      "sub": "Twee tikken om te exporteren, één minuut tot je gratis preview. Werkt met privéchats en groepen van elke grootte."
+    }
+  },
+  "demos": [
+    {
+      "id": "trip",
+      "label": "De Mannen 🍻",
+      "kind": "Vriendengroep",
+      "count": "24.310 berichten",
+      "messages": [
+        {
+          "a": "Daan",
+          "x": "Mannen. Lissabon. Poll staat erin, stemmen vóór morgen"
+        },
+        {
+          "a": "Joep",
+          "x": "ERBIJ!!"
+        },
+        {
+          "a": "Sem",
+          "x": "erbij maar niet in juni"
+        },
+        {
+          "a": "Daan",
+          "x": "het IS in juni. dat is juist het hele punt"
+        },
+        {
+          "a": "Joep",
+          "x": "wacht in juni heb ik de bruiloft van mijn neef"
+        },
+        {
+          "a": "Sem",
+          "x": "welke poll"
+        },
+        {
+          "a": "Daan",
+          "x": "dezelfde poll als vorig jaar"
+        }
+      ],
+      "stats": [
+        {
+          "k": "Polls aangemaakt",
+          "v": "4"
+        },
+        {
+          "k": "Stemmen",
+          "v": "1"
+        },
+        {
+          "k": "Vluchten geboekt",
+          "v": "0"
+        },
+        {
+          "k": "“Erbij” gestuurd",
+          "v": "37"
+        }
+      ],
+      "headline": "Lissabon: vier polls, één stemmer, nul vluchten",
+      "verdict": "Daan heeft dezelfde poll vier keer geplaatst en elke stem erin is van hemzelf. Niemand in deze groep zegt ooit nee tegen een trip. Ze zeggen alleen nooit ja.",
+      "locked": [
+        "Wie écht plant en wie alleen “ERBIJ” typt",
+        "De neef van Joep, die dit jaar al 3 keer is getrouwd",
+        "Alle smoesjes, gerangschikt op geloofwaardigheid",
+        "Waarom het huisje op de Veluwe elke keer weer wint"
+      ]
+    },
+    {
+      "id": "situationship",
+      "label": "Lotte 🙃",
+      "kind": "Situationship",
+      "count": "5.102 berichten",
+      "messages": [
+        {
+          "a": "Lotte",
+          "x": "heyyy hoe gaat ie 🙂"
+        },
+        {
+          "a": "Ik",
+          "x": "hey?? je was negen dagen van de radar"
+        },
+        {
+          "a": "Lotte",
+          "x": "werk was echt gestoord eerlijk"
+        },
+        {
+          "a": "Ik",
+          "x": "zag je story op het strand"
+        },
+        {
+          "a": "Lotte",
+          "x": "dat was maar een halfuurtje 😅"
+        },
+        {
+          "a": "Ik",
+          "x": "dus zien we elkaar dit weekend?"
+        },
+        {
+          "a": "Lotte",
+          "x": "misschien! eerst even kijken hoe de week loopt"
+        }
+      ],
+      "stats": [
+        {
+          "k": "Jouw mediane reactietijd",
+          "v": "4 min"
+        },
+        {
+          "k": "Mediane reactietijd Lotte",
+          "v": "3 u"
+        },
+        {
+          "k": "Wie begint",
+          "v": "Jij · 81%"
+        },
+        {
+          "k": "Langste stilte",
+          "v": "9 dagen"
+        }
+      ],
+      "headline": "Negen dagen op gelezen, en dan “heyyy hoe gaat ie 🙂”",
+      "verdict": "Lotte antwoordt na drie uur, jij na vier minuten. Jullie weten allebei wat dat betekent, lieverd, en geen van jullie zegt het.",
+      "locked": [
+        "Wie als eerste appt en wie wacht tot er geappt wordt",
+        "Negen dagen stilte: wat er écht gebeurde",
+        "Wat er achter Lottes “😅” schuilgaat",
+        "Wat Nana zou doen als ze jou was"
+      ]
+    },
+    {
+      "id": "family",
+      "label": "Familie 🏡",
+      "kind": "Familiegroep",
+      "count": "61.877 berichten",
+      "messages": [
+        {
+          "a": "Mama",
+          "x": "Goedemorgen familie 🌸🌸🌸"
+        },
+        {
+          "a": "Opa",
+          "x": "Goedemorgen"
+        },
+        {
+          "a": "Mama",
+          "x": "Wie komt er zondag eten? Ik heb aantallen nodig"
+        },
+        {
+          "a": "Bram",
+          "x": "👍"
+        },
+        {
+          "a": "Mama",
+          "x": "👍 is geen aantal Bram"
+        },
+        {
+          "a": "Sanne",
+          "x": "mag ik iemand meenemen"
+        },
+        {
+          "a": "Mama",
+          "x": "WIE"
+        }
+      ],
+      "stats": [
+        {
+          "k": "Goedemorgen-bloemetjes",
+          "v": "1.204"
+        },
+        {
+          "k": "Woorden per bericht van Bram",
+          "v": "1,2"
+        },
+        {
+          "k": "Zondagse koppentellingen",
+          "v": "212"
+        },
+        {
+          "k": "Beantwoord",
+          "v": "19"
+        }
+      ],
+      "headline": "212 keer “wie komt er zondag”, 19 antwoorden, één 👍",
+      "verdict": "Mama heeft 212 keer gevraagd wie er zondag komt eten. Bram heeft 140 keer geantwoord met een duim. En toch zit iedereen elke week gewoon aan tafel.",
+      "locked": [
+        "Mama, de onbetaalde CEO van deze familie",
+        "Bram en de duimpjeseconomie",
+        "Wie Sanne zondag meeneemt",
+        "De berichtjes van opa om 6 uur 's ochtends, ontcijferd"
+      ]
+    }
+  ],
+  "examples": {
+    "title": "Zinnen uit de rapporten van Nana",
+    "note": "Uit de voorbeeldchats hierboven, dus niemands privacy is geschaad.",
+    "items": [
+      "Daan heeft dezelfde poll vier keer geplaatst. Hij is geen reisplanner, hij is een gijzelingsonderhandelaar.",
+      "Jij antwoordt binnen vier minuten. Lotte na drie uur. In mijn tijd noemden we dat “een teken”.",
+      "Bram heeft in zes jaar 4.000 woorden in deze groep getypt. 3.100 daarvan waren “ok”.",
+      "Mama hoeft geen aantallen. Mama heeft een knuffel en een duidelijk antwoord nodig."
+    ]
+  },
+  "flow": {
+    "close": "Sluiten",
+    "stepOf": "{n} van {total}",
+    "back": "Terug",
+    "next": "Verder",
+    "context": {
+      "q": "Wat voor chat moet Nana lezen?",
+      "options": {
+        "partner": {
+          "t": "Liefde",
+          "d": "partner, crush, situationship, ex…"
+        },
+        "friends": {
+          "t": "Vriendengroep",
+          "d": "de mannen, de meiden, de vakantie-app…"
+        },
+        "friend": {
+          "t": "Eén vriend(in)",
+          "d": "beste vriendin, jeugdvriend, werkmaatje…"
+        },
+        "family": {
+          "t": "Familie",
+          "d": "familie-app, mama of papa, broers en zussen…"
+        },
+        "work": {
+          "t": "Werk / team",
+          "d": "teamchat, collega's, de baas…"
+        },
+        "other": {
+          "t": "Iets anders",
+          "d": "huisgenoten, buren, de VvE…"
+        }
+      }
+    },
+    "source": {
+      "q": "Uit welke app komt de chat?",
+      "soon": "Importeren via schermopname komt binnenkort. Gebruik voor nu een app met tekstexport."
+    },
+    "upload": {
+      "q": "Upload de chat uit {app}",
+      "drop": "Tik om het geëxporteerde bestand te kiezen",
+      "dropHint": ".txt, .zip, .json of .csv — tot 200 MB",
+      "reading": "Nana leest… al {count} berichten",
+      "readingLocal": "Dit gebeurt op je eigen apparaat. Er is nog niets geüpload.",
+      "uploading": "Veilig aan het uploaden…",
+      "privacy": "Je chat blijft privé",
+      "howTo": "Hoe exporteer ik hem?",
+      "errors": {
+        "format": "Nana kan dit bestand niet lezen. Zorg dat het de originele export is (.txt of .zip), geen screenshot.",
+        "few": "Die chat is wel erg kort. Nana heeft minstens 10 berichten nodig om een mening te hebben.",
+        "big": "Dat bestand is groter dan 200 MB. Exporteer zonder media en probeer het opnieuw.",
+        "upload": "Uploaden is mislukt. Check je verbinding en probeer het opnieuw."
+      },
+      "found": "{count} berichten gevonden tussen {first} en {last}."
+    },
+    "guides": {
+      "whatsapp": [
+        "Open de chat in WhatsApp",
+        "Tik op de naam bovenaan (iPhone) of ⋮ → Meer (Android)",
+        "Tik op “Chat exporteren” en kies “Zonder media”",
+        "Sla hem op in Bestanden en kies hem hier — of mail hem naar jezelf"
+      ],
+      "telegram": [
+        "Open Telegram Desktop op een computer",
+        "Open de chat → ⋮ → Chatgeschiedenis exporteren",
+        "Vink foto's en video's uit, kies het formaat “Machine-readable JSON”",
+        "Upload hier het bestand result.json"
+      ],
+      "line": [
+        "Open de chat in LINE",
+        "Tik op ≡ (rechtsboven) → Instellingen",
+        "Tik op “Chatgeschiedenis exporteren”",
+        "Sla het .txt-bestand op en kies het hier"
+      ],
+      "kakaotalk": [
+        "Open de chat in KakaoTalk",
+        "Tik op ≡ → ⚙ Chatroominstellingen",
+        "Tik op “Berichten exporteren” → “Alleen tekst opslaan”",
+        "Kies hier het .txt-bestand"
+      ],
+      "imessage": [
+        "Installeer op een Mac de gratis “iMessage Exporter” (of een andere tool die CSV/TXT opslaat)",
+        "Exporteer het gesprek als tekst of CSV",
+        "Upload het bestand hier"
+      ],
+      "instagram": [
+        "Instagram → Instellingen → Je activiteit → Je gegevens downloaden",
+        "Kies Berichten, formaat JSON",
+        "Als de e-mail binnen is, upload je de message_1.json van het gesprek"
+      ],
+      "messenger": [
+        "Facebook → Instellingen → Je gegevens downloaden",
+        "Kies Berichten, formaat JSON",
+        "Upload hier de message_1.json van het gesprek"
+      ],
+      "other": [
+        "Exporteer de chat als tekst-, CSV- of JSON-bestand",
+        "Upload hem hier — Nana leest de meeste formaten"
+      ]
+    },
+    "me": {
+      "q": "Wie ben jij?",
+      "sub": "Zodat Nana mét je praat, niet óver je.",
+      "none": "Ik zit niet in deze chat"
+    },
+    "details": {
+      "q": "Moet Nana nog iets weten?",
+      "notes": "Optionele context (bijv. “we zijn in maart uit elkaar gegaan”, “Tom is mijn broer”)",
+      "lang": "Schrijf het rapport in",
+      "heat": "Hoe hard moet Nana gaan?"
+    },
+    "email": {
+      "q": "Waar moet Nana het rapport naartoe sturen?",
+      "sub": "We mailen je een code van 6 cijfers. Geen wachtwoord, geen spam.",
+      "placeholder": "jij@voorbeeld.nl",
+      "send": "Code versturen",
+      "code": "Vul de code in die we naar {email} hebben gestuurd",
+      "verify": "Bevestigen",
+      "resend": "Stuur een nieuwe code",
+      "orLink": "Of tik op de link in de mail — dat werkt ook.",
+      "terms": "Door verder te gaan ga je akkoord met de {terms} en het {privacy}, en bevestig je dat je 18 jaar of ouder bent.",
+      "errors": {
+        "email": "Dat e-mailadres klopt niet helemaal.",
+        "code": "Die code werkt niet. Probeer het opnieuw of vraag een nieuwe aan.",
+        "rate": "Te veel pogingen. Wacht even een minuutje en probeer het opnieuw."
+      }
+    },
+    "writing": {
+      "t": "Nana leest je chat",
+      "lines": [
+        "Zet haar leesbril op…",
+        "Telt wie als eerste appt…",
+        "Zoekt de week dat het omsloeg…",
+        "Onderstreept de sappige stukjes…",
+        "Zet thee…"
+      ],
+      "note": "Dit duurt ongeveer een minuut. We mailen je ook als het klaar is."
+    },
+    "recording": {
+      "cta": "Of upload een schermopname",
+      "hint": "Neem je scherm op terwijl je langzaam van het oudste naar het nieuwste bericht scrolt en upload de video. Nana leest de ballonnetjes.",
+      "extracting": "De scherpste beelden kiezen… {pct}%",
+      "reading": "Nana leest de screenshots… duurt 1–2 minuten",
+      "errVideo": "Die video kon niet gelezen worden. Probeer een gewone schermopname (MP4 of MOV).",
+      "errFew": "Nana vond maar een paar berichten. Scroll langzamer en neem een langer stuk op."
+    }
+  },
+  "report": {
+    "by": "Nana",
+    "tagline": "81. Heeft elke chat ooit gelezen. Komt nog steeds met soep langs.",
+    "share": "Deel het rapport",
+    "copied": "Link gekopieerd",
+    "privacy": "Privé en in jouw handen",
+    "cutoff": "De chat was te lang om in één keer te lezen, dus Nana heeft alles vanaf {date} gelezen.",
+    "statsTitle": "De cijfers",
+    "stat": {
+      "messages": "Berichten",
+      "perDay": "Per dag",
+      "whoTalks": "Wie praat het meest",
+      "whoStarts": "Wie begint",
+      "afterMidnight": "Na middernacht",
+      "reply": "Mediane reactietijd",
+      "busiestHour": "Drukste uur",
+      "voice": "Spraakberichten",
+      "emojis": "Top-emoji's",
+      "silence": "Langste stilte",
+      "days": "{n} dagen",
+      "min": "{n} min",
+      "h": "{n} u"
+    },
+    "lockedTitle": "Nog meer in het rapport",
+    "peopleTitle": "En over ieder van jullie",
+    "unlock": "Lees het volledige rapport",
+    "unlockNote": "Kost 1 credit · je hebt er {n}",
+    "noCredits": "Je credits zijn op. Betalen kan binnenkort — Nana mailt je.",
+    "writingFull": "Nana schrijft het volledige rapport. Zo'n 2 minuten — we mailen je ook.",
+    "failed": "Er ging iets mis terwijl Nana aan het schrijven was. Je credit is teruggestort. Probeer het opnieuw.",
+    "retry": "Opnieuw proberen",
+    "peopleSection": "Wie is wie",
+    "glossary": "Het woordenboek van deze chat",
+    "awards": "De awards",
+    "reactions": "Hoe ieder van jullie hierop gaat reageren",
+    "verdict": "Het oordeel",
+    "advice": "Wat Nana zou doen",
+    "askTitle": "Vraag Nana nog iets over deze chat",
+    "askPlaceholder": "bijv. Verliest hij interesse? Wie in de groep is eigenlijk geïrriteerd op mij?",
+    "askCta": "Vraag het Nana · 1 credit",
+    "askExpired": "Deze chat is van onze servers verwijderd, dus Nana kan er geen nieuwe vragen over beantwoorden.",
+    "nextTitle": "Welke chat moet Nana hierna lezen?",
+    "nextCta": "Stuur nog een chat",
+    "notFound": "Dit rapport bestaat niet of is verwijderd.",
+    "feedback": "Had Nana gelijk?",
+    "feedbackYes": "Spot on",
+    "feedbackNo": "Niet echt",
+    "thanks": "Dank je — Nana maakt aantekeningen.",
+    "aiNote": "Geschreven door AI, voor de lol. Het kan context verkeerd begrijpen — neem er geen grote beslissingen op basis van."
+  },
+  "account": {
+    "title": "Mijn chats",
+    "signIn": "Log in om je chats en rapporten te zien",
+    "signOut": "Uitloggen",
+    "credits": "Credits: {n}",
+    "empty": "Nog geen chats.",
+    "reports": "Rapporten",
+    "chatExpires": "Chat wordt automatisch verwijderd op {date}",
+    "chatDeleted": "Chat al verwijderd · rapporten bewaard",
+    "deleteChat": "Chat verwijderen",
+    "deleteReport": "Rapport verwijderen",
+    "deleteAccount": "Verwijder mijn account en alles wat erin zit",
+    "confirm": "Weet je het zeker? Dit kan niet ongedaan worden gemaakt.",
+    "open": "Openen",
+    "followup": "Vervolgvraag"
+  },
+  "faq": {
+    "title": "Vragen voordat je uploadt",
+    "items": [
+      {
+        "q": "Wat is Nana Reads?",
+        "a": "Een AI-personage — Nana — dat een chat leest die jij uploadt en een eerlijk, grappig rapport schrijft over iedereen erin: de echte dynamiek, wie er meer om geeft, wat er veranderd is en ieders rol."
+      },
+      {
+        "q": "Is het gratis?",
+        "a": "Je eerste blik is gratis: Nana's opening, de cijfers en de titels van alles in het volledige rapport. Het volledige rapport kost één credit. Er is geen abonnement."
+      },
+      {
+        "q": "Welke apps werken?",
+        "a": "Exports uit WhatsApp (iPhone en Android), Telegram, LINE en KakaoTalk, plus iMessage, Instagram en Messenger via hun data-export. Importeren via schermopname komt binnenkort."
+      },
+      {
+        "q": "Is mijn chat privé?",
+        "a": "Nana telt je berichten eerst in je eigen browser. De upload is versleuteld, wordt nooit gedeeld met iemand in de chat, nooit verkocht en nooit gebruikt om AI te trainen. Hij wordt automatisch verwijderd 48 uur na het uploaden als je geen rapport bestelt, of 7 dagen na je laatste rapport."
+      },
+      {
+        "q": "Krijgen de mensen in de chat het te weten?",
+        "a": "Nee. Niemand krijgt een melding. Een rapport is alleen zichtbaar voor mensen naar wie jij de link stuurt."
+      },
+      {
+        "q": "Welke talen?",
+        "a": "Je chat mag in elke taal zijn, of in een mix. Rapporten worden in 24 talen geschreven en Nana gebruikt de eigen slang van de chat."
+      },
+      {
+        "q": "Hoe lang duurt het?",
+        "a": "De preview duurt ongeveer een minuut. Het volledige rapport zo'n twee minuten. We mailen je als het klaar is, dus je hoeft niet op de pagina te wachten."
+      },
+      {
+        "q": "Kan ik Nana meer vragen?",
+        "a": "Ja. Onder elk rapport kun je een vervolgvraag stellen over dezelfde chat. Elk antwoord is een nieuw, dieper rapport."
+      },
+      {
+        "q": "Hoe verwijder ik mijn gegevens?",
+        "a": "Via “Mijn chats” kun je altijd een chat, een rapport of je hele account verwijderen."
+      },
+      {
+        "q": "Klopt het?",
+        "a": "De cijfers worden exact uit je export geteld. De meningen zijn van Nana — AI kan context verkeerd begrijpen, dus zie het als entertainment, niet als advies."
+      },
+      {
+        "q": "Voor wie is het?",
+        "a": "Volwassenen (18+) die willen lachen, een reality check willen of het bewijs dat ze al die tijd gelijk hadden."
+      }
+    ]
+  },
+  "about": {
+    "title": "Over Nana Reads",
+    "body": [
+      "Nana Reads is een klein, onafhankelijk studioproject. We hebben het personage gemaakt dat we zelf graag hadden gehad: een oma die elke chat ter wereld heeft gelezen, van je houdt en je toch de waarheid vertelt.",
+      "Nana leest chats uit WhatsApp, Telegram, LINE, KakaoTalk, iMessage, Instagram en Messenger en schrijft in 24 talen.",
+      "Privacy vinden we belangrijker dan wie dan ook in deze categorie: je chat wordt eerst in je browser geteld, automatisch verwijderd en nooit gebruikt om AI te trainen."
+    ],
+    "factsTitle": "Kerncijfers",
+    "facts": [
+      [
+        "Naam",
+        "Nana Reads"
+      ],
+      [
+        "Wat het is",
+        "AI-chatrapporten voor vrienden, stellen en families"
+      ],
+      [
+        "Talen",
+        "24"
+      ],
+      [
+        "Prijs",
+        "Gratis preview, daarna betaal je per rapport. Geen abonnement."
+      ],
+      [
+        "Privacy",
+        "Automatisch verwijderd, nooit gebruikt om AI te trainen"
+      ]
+    ]
+  },
+  "support": {
+    "title": "Neem contact op",
+    "sub": "De meeste antwoorden staan bij de vragen hieronder. Zo niet, schrijf ons — elk bericht wordt door een echt mens gelezen.",
+    "email": "Je e-mailadres",
+    "message": "Waarmee kunnen we helpen?",
+    "send": "Versturen",
+    "sent": "Ontvangen. We antwoorden per e-mail."
+  },
+  "feedback": {
+    "title": "Vertel Nana wat je ervan vindt",
+    "sub": "Ideeën, klachten, complimentjes voor Nana. We lezen alles.",
+    "placeholder": "Je feedback",
+    "send": "Versturen",
+    "sent": "Dank je wel!"
+  },
+  "footer": {
+    "chats": "Chats",
+    "help": "Hulp",
+    "company": "Nana Reads",
+    "links": {
+      "home": "Home",
+      "relationship": "Relatiechats",
+      "friends": "Vrienden- & groepschats",
+      "family": "Familiechats",
+      "whatsapp": "WhatsApp-chats",
+      "imessage": "iMessage-chats",
+      "account": "Mijn chats",
+      "faq": "Veelgestelde vragen",
+      "support": "Support",
+      "feedback": "Feedback",
+      "privacy": "Privacy",
+      "terms": "Voorwaarden",
+      "about": "Over ons"
+    },
+    "rights": "© {year} Nana Reads. Alleen voor de lol."
+  },
+  "legal": {
+    "englishOnly": "Deze pagina wordt in het Engels getoond. De Engelse versie is bindend.",
+    "privacy": "Privacybeleid",
+    "terms": "Gebruiksvoorwaarden"
+  },
+  "common": {
+    "loading": "Laden…",
+    "error": "Er ging iets mis.",
+    "or": "of"
+  }
+}

@@ -48,4 +48,6 @@ export interface ChatStats {
   longestSilenceEndedAt: number | null;
   authors: AuthorStats[];
   monthly: { month: string; count: number }[];
+  /** true when timestamps were invented (screen-recording import) */
+  synthetic?: boolean;
 }

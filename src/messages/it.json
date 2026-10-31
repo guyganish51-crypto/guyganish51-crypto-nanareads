@@ -447,6 +447,14 @@
         "Prepara il caffè…"
       ],
       "note": "Ci vuole circa un minuto. Ti mandiamo anche un'email quando è pronto."
+    },
+    "recording": {
+      "cta": "Oppure carica una registrazione dello schermo",
+      "hint": "Registra lo schermo mentre scorri lentamente la chat dal messaggio più vecchio al più recente, poi carica il video. Nana leggerà le nuvolette.",
+      "extracting": "Scelgo i fotogrammi più nitidi… {pct}%",
+      "reading": "Nana sta leggendo gli screenshot… ci vogliono 1–2 minuti",
+      "errVideo": "Non riusciamo a leggere il video. Prova una normale registrazione dello schermo (MP4 o MOV).",
+      "errFew": "Nana ha trovato pochi messaggi. Scorri più piano e registra un tratto più lungo."
     }
   },
   "report": {

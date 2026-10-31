@@ -1,1 +1,652 @@
-{}
+{
+  "meta": {
+    "siteName": "Nana Reads",
+    "title": "Nana Reads — sohbetini dünyanın en meraklı babaannesi okuyor",
+    "description": "WhatsApp, Telegram, LINE ya da iMessage sohbetini yükle. Nana her mesajı okur ve sana aslında neler döndüğünü, kimin daha çok önemsediğini ve kimin kim hakkında ne düşündüğünü söyler."
+  },
+  "nav": {
+    "cta": "Nana'ya sohbet gönder",
+    "account": "Sohbetlerim",
+    "language": "Dil"
+  },
+  "home": {
+    "eyebrow": "81 yaşında. Yazılmış bütün sohbetleri okudu.",
+    "h1": "Sohbetini Nana'ya gönder. Aslında neler döndüğünü o söylesin.",
+    "sub": "Nana her bir mesajı okur, saymamasını tercih edeceğin şeyleri tek tek sayar ve içindeki herkes hakkında dürüst, çok komik bir rapor yazar.",
+    "cta": "Nana'ya sohbet gönder",
+    "ctaNote": "Ücretsiz önizleme · kart yok · otomatik silinir",
+    "demoTitle": "Bir sohbet seç, Nana ne görüyor gör",
+    "demoHint": "Bunlar uydurma sohbetler. Seninki daha beter olacak.",
+    "howTitle": "Nasıl çalışır",
+    "how": [
+      {
+        "t": "Sohbetini dışa aktar",
+        "d": "WhatsApp, Telegram, LINE ya da KakaoTalk'ta iki dokunuş. Nasıl yapılacağını adım adım gösteriyoruz."
+      },
+      {
+        "t": "Nana hepsini okur",
+        "d": "Her mesajı, sesli mesajdaki her bahaneyi, yataktan atılan her “yoldayım”ı."
+      },
+      {
+        "t": "Raporunu al",
+        "d": "Bir dakikada ücretsiz önizleme. Tam rapor gelen kutuna düşer — cesaretin varsa gruba at."
+      }
+    ],
+    "findsTitle": "Nana neler buluyor",
+    "finds": [
+      {
+        "e": "🫖",
+        "t": "Kim gerçekten önemsiyor",
+        "d": "Sohbeti kim başlatıyor, kim 4 dakikada cevap veriyor, kim 4 saatte."
+      },
+      {
+        "e": "📉",
+        "t": "Her şeyin değiştiği an",
+        "d": "Enerjinin düştüğü o hafta, kanıtlayan mesajlarıyla birlikte."
+      },
+      {
+        "e": "🗝️",
+        "t": "Size özel dil",
+        "d": "Sadece ikinizin (ya da on ikinizin) anladığı geyikler ve kelimeler."
+      },
+      {
+        "e": "🏆",
+        "t": "Herkesin rolü",
+        "d": "Gruplarda: organizatör, hayalet, bir de “varım” deyip asla gelmeyen."
+      }
+    ],
+    "privacyTitle": "Baştan sona gizli",
+    "privacy": [
+      "Sohbetin, hiçbir şey yüklenmeden önce kendi tarayıcında okunur ve sayılır.",
+      "Yüklemeler şifrelenir ve otomatik silinir: rapor almazsan 48 saat sonra, son raporundan 7 gün sonra.",
+      "Asla satılmaz, asla paylaşılmaz, asla yapay zekâ eğitmek için kullanılmaz."
+    ],
+    "worksWith": "Şunlarla çalışır",
+    "heatTitle": "Nana ne kadar sert gitsin, sen seç",
+    "heat": {
+      "gentle": {
+        "t": "Tatlı",
+        "d": "Doğum günü kartı babaannesi. Takılır ama acıtmaz."
+      },
+      "spicy": {
+        "t": "Acılı",
+        "d": "Adam akıllı bir roast. Çoğu kişi bunu seçiyor."
+      },
+      "savage": {
+        "t": "Acımasız",
+        "d": "Merhamet yok. Birbirini her gün yerden yere vuran gruplar için."
+      }
+    },
+    "finalH": "Sıradaki sohbet senin.",
+    "finalSub": "Nana çayı demledi bile."
+  },
+  "landing": {
+    "relationship": {
+      "metaTitle": "Senden gerçekten hoşlanıyor mu? Sohbetinin yapay zekâ analizi — Nana Reads",
+      "metaDesc": "Crush'ınla, sevgilinle, situationship'inle ya da eski sevgilinle olan sohbeti yükle. Nana her mesajı okur ve kimin daha çok önemsediğini, neyin değiştiğini söyler.",
+      "h1": "Senden gerçekten hoşlanıyor mu? Nana söylesin.",
+      "sub": "Crush'ınla, sevgilinle, situationship'inle ya da eski sevgilinle olan sohbeti gönder. Nana ilk kimin yazdığını, kimin beklettiğini ve işlerin ne zaman değiştiğini sayar."
+    },
+    "friends": {
+      "metaTitle": "Grup sohbeti analizi ve arkadaş roast'u — Nana Reads",
+      "metaDesc": "Arkadaş grubunun sohbetini yükle. Nana herkesi tiye alır, ödüller dağıtır ve kimsenin yüksek sesle söyleyemediğini söyler.",
+      "h1": "Nana sen ve arkadaşların hakkında ne düşünüyor?",
+      "sub": "Erkekler grubu, kızlar grubu, bir türlü yapılamayan tatil. Nana hepsini okur ve herkese hak ettiği unvanı verir."
+    },
+    "family": {
+      "metaTitle": "Aile WhatsApp grubu analizi — Nana Reads",
+      "metaDesc": "Aile grubunu yükle. Nana aileyi gerçekte kimin bir arada tuttuğunu, kimin hiç cevap vermediğini ve günaydın çiçeklerini kimin attığını bulur.",
+      "h1": "Aile grubunuz, her şeyi görmüş geçirmiş bir babaannenin gözünden.",
+      "sub": "Aileyi kim bir arada tutuyor, kim sadece yemek fotoğraflarına cevap veriyor, kim hâlâ geçen bayrama küs. Nana biliyor."
+    },
+    "imessage": {
+      "metaTitle": "iMessage sohbet analizi — Nana Reads",
+      "metaDesc": "Mac'inden bir iMessage konuşmasını dışa aktar ve Nana'ya okut. Kim daha çok önemsiyor, ne değişti ve şimdi ne yapmalı.",
+      "h1": "Bir iMessage sohbeti yükle. Gerisini Nana halleder.",
+      "sub": "Mac'inden birkaç dakikada bir konuşmayı dışa aktar, Nana her mavi baloncuğu okusun."
+    },
+    "whatsapp": {
+      "metaTitle": "WhatsApp sohbet analizi — Nana Reads",
+      "metaDesc": "Herhangi bir WhatsApp sohbetini iki dokunuşta dışa aktar. Nana her mesajı okur ve içindeki herkes hakkında dürüst, komik bir rapor yazar.",
+      "h1": "WhatsApp sohbet analizi, en meraklı babaanneden.",
+      "sub": "Dışa aktarmak için iki dokunuş, ücretsiz önizleme için bir dakika. Özel sohbetlerde ve her boyuttaki grupta çalışır."
+    }
+  },
+  "demos": [
+    {
+      "id": "trip",
+      "label": "Kankalar 🍻",
+      "kind": "Arkadaş grubu",
+      "count": "24.310 mesaj",
+      "messages": [
+        {
+          "a": "Emre",
+          "x": "Beyler. Bodrum. Anketi açtım, yarına kadar oy verin"
+        },
+        {
+          "a": "Burak",
+          "x": "VARIM!!"
+        },
+        {
+          "a": "Can",
+          "x": "varım ama haziranda olmaz"
+        },
+        {
+          "a": "Emre",
+          "x": "zaten HAZİRANDA. olayın tamamı bu"
+        },
+        {
+          "a": "Burak",
+          "x": "dur haziranda kuzenimin düğünü var"
+        },
+        {
+          "a": "Can",
+          "x": "ne anketi"
+        },
+        {
+          "a": "Emre",
+          "x": "geçen seneki anketin aynısı"
+        }
+      ],
+      "stats": [
+        {
+          "k": "Açılan anket",
+          "v": "4"
+        },
+        {
+          "k": "Oy",
+          "v": "1"
+        },
+        {
+          "k": "Alınan uçak bileti",
+          "v": "0"
+        },
+        {
+          "k": "Atılan “varım”",
+          "v": "37"
+        }
+      ],
+      "headline": "Bodrum: dört anket, bir oy, sıfır bilet",
+      "verdict": "Emre aynı anketi dört kez attı ve içindeki bütün oylar kendisinin. Bu grupta kimse bir tatile asla hayır demiyor. Sadece kimse evet de demiyor.",
+      "locked": [
+        "Kim gerçekten planlıyor, kim sadece “VARIM” yazıyor",
+        "Burak'ın bu yıl 3 kez evlenen kuzeni",
+        "Bütün bahaneler, inandırıcılığa göre sıralı",
+        "Neden her seferinde Can'ın Ayvalık'taki yazlığı kazanıyor"
+      ]
+    },
+    {
+      "id": "situationship",
+      "label": "Elif 🙃",
+      "kind": "Situationship",
+      "count": "5.102 mesaj",
+      "messages": [
+        {
+          "a": "Elif",
+          "x": "selaaam nasılsın 🙂"
+        },
+        {
+          "a": "Ben",
+          "x": "selam?? dokuz gündür ortada yoktun"
+        },
+        {
+          "a": "Elif",
+          "x": "iş çok yoğundu ya cidden"
+        },
+        {
+          "a": "Ben",
+          "x": "plajdan story'ni gördüm"
+        },
+        {
+          "a": "Elif",
+          "x": "o topu topu yarım saatti 😅"
+        },
+        {
+          "a": "Ben",
+          "x": "e bu hafta sonu görüşüyor muyuz?"
+        },
+        {
+          "a": "Elif",
+          "x": "belki! hafta nasıl geçer bir bakalım"
+        }
+      ],
+      "stats": [
+        {
+          "k": "Senin ortalama cevap süren",
+          "v": "4 dk"
+        },
+        {
+          "k": "Elif'in ortalama cevap süresi",
+          "v": "3 sa"
+        },
+        {
+          "k": "İlk kim yazıyor",
+          "v": "Sen · %81"
+        },
+        {
+          "k": "En uzun sessizlik",
+          "v": "9 gün"
+        }
+      ],
+      "headline": "Dokuz gün görüldü, sonra “selaaam nasılsın 🙂”",
+      "verdict": "Elif üç saatte cevap veriyor, sen dört dakikada. Bunun ne demek olduğunu ikiniz de çok iyi biliyorsunuz yavrum, ama ikiniz de söylemiyorsunuz.",
+      "locked": [
+        "İlk kim yazıyor, kim yazılmasını bekliyor",
+        "Dokuz günlük sessizlik: aslında ne oldu",
+        "Elif'in “😅”sinin arkasında ne saklı",
+        "Nana senin yerinde olsa ne yapardı"
+      ]
+    },
+    {
+      "id": "family",
+      "label": "Aile 🏡",
+      "kind": "Aile grubu",
+      "count": "61.877 mesaj",
+      "messages": [
+        {
+          "a": "Annem",
+          "x": "Günaydın ailem 🌸🌸🌸"
+        },
+        {
+          "a": "Dedem",
+          "x": "Günaydın"
+        },
+        {
+          "a": "Annem",
+          "x": "Pazar kahvaltısına kim geliyor? Sayı lazım"
+        },
+        {
+          "a": "Mert",
+          "x": "👍"
+        },
+        {
+          "a": "Annem",
+          "x": "👍 sayı değil Mert"
+        },
+        {
+          "a": "Zeynep",
+          "x": "birini getirebilir miyim"
+        },
+        {
+          "a": "Annem",
+          "x": "KİMİ"
+        }
+      ],
+      "stats": [
+        {
+          "k": "Günaydın çiçekleri",
+          "v": "1.204"
+        },
+        {
+          "k": "Mert'in mesaj başına kelimesi",
+          "v": "1,2"
+        },
+        {
+          "k": "Pazar yoklamaları",
+          "v": "212"
+        },
+        {
+          "k": "Cevaplanan",
+          "v": "19"
+        }
+      ],
+      "headline": "212 Pazar kahvaltısı yoklaması, 19 cevap, bir 👍",
+      "verdict": "Annem Pazar kahvaltısına kimin geleceğini 212 kez sordu. Mert bunların 140'ına başparmakla cevap verdi. Ve yine de herkes her hafta, istisnasız sofraya geliyor.",
+      "locked": [
+        "Annem, bu ailenin maaşsız CEO'su",
+        "Mert ve başparmak ekonomisi",
+        "Zeynep Pazar günü kimi getiriyor",
+        "Dedemin sabah 6 mesajları, çözüldü"
+      ]
+    }
+  ],
+  "examples": {
+    "title": "Nana'nın raporlarından satırlar",
+    "note": "Yukarıdaki örnek sohbetlerden, yani kimsenin mahremiyeti zarar görmedi.",
+    "items": [
+      "Emre aynı anketi dört kez attı. O bir tatil organizatörü değil, rehine müzakerecisi.",
+      "Sen dört dakikada cevap veriyorsun. Elif üç saatte. Bizim zamanımızda buna “işaret” derdik.",
+      "Mert altı yılda bu gruba 4.000 kelime yazmış. 3.100'ü “tamam”.",
+      "Annenin sayıya ihtiyacı yok. Annenin bir sarılmaya ve net bir cevaba ihtiyacı var."
+    ]
+  },
+  "flow": {
+    "close": "Kapat",
+    "stepOf": "{n} / {total}",
+    "back": "Geri",
+    "next": "Devam",
+    "context": {
+      "q": "Nana nasıl bir sohbet okusun?",
+      "options": {
+        "partner": {
+          "t": "Aşk",
+          "d": "sevgili, crush, situationship, eski sevgili…"
+        },
+        "friends": {
+          "t": "Arkadaş grubu",
+          "d": "erkekler, kızlar, tatil grubu…"
+        },
+        "friend": {
+          "t": "Tek bir arkadaş",
+          "d": "en yakın arkadaş, çocukluk arkadaşı, iş kankası…"
+        },
+        "family": {
+          "t": "Aile",
+          "d": "aile grubu, annen ya da baban, kardeşler…"
+        },
+        "work": {
+          "t": "İş / ekip",
+          "d": "ekip sohbeti, iş arkadaşları, patron…"
+        },
+        "other": {
+          "t": "Başka bir şey",
+          "d": "ev arkadaşları, komşular, apartman yönetimi grubu…"
+        }
+      }
+    },
+    "source": {
+      "q": "Sohbet nereden?",
+      "soon": "Ekran kaydından içe aktarma yakında geliyor. Şimdilik metin olarak dışa aktaran bir uygulama kullan."
+    },
+    "upload": {
+      "q": "Sohbeti yükle: {app}",
+      "drop": "Dışa aktarılan dosyayı seçmek için dokun",
+      "dropHint": ".txt, .zip, .json ya da .csv — 200 MB'a kadar",
+      "reading": "Nana okuyor… şu ana kadar {count} mesaj",
+      "readingLocal": "Bu işlem senin cihazında yapılıyor. Henüz hiçbir şey yüklenmedi.",
+      "uploading": "Güvenle yükleniyor…",
+      "privacy": "Sohbetin gizli kalır",
+      "howTo": "Nasıl dışa aktarırım?",
+      "errors": {
+        "format": "Nana bu dosyayı okuyamadı. Ekran görüntüsü değil, orijinal dışa aktarma dosyası (.txt ya da .zip) olduğundan emin ol.",
+        "few": "Bu sohbet biraz kısa. Nana'nın fikir sahibi olması için en az 10 mesaj lazım.",
+        "big": "Bu dosya 200 MB'tan büyük. Medya olmadan dışa aktar ve tekrar dene.",
+        "upload": "Yükleme başarısız oldu. Bağlantını kontrol edip tekrar dene."
+      },
+      "found": "{first} ile {last} arasında {count} mesaj bulundu."
+    },
+    "guides": {
+      "whatsapp": [
+        "Sohbeti WhatsApp'ta aç",
+        "Üstteki isme dokun (iPhone) ya da ⋮ → Diğer (Android)",
+        "“Sohbeti dışa aktar”a dokun ve “Medya olmadan”ı seç",
+        "Dosyalar'a kaydet ve buradan seç — ya da kendine e-postayla gönder"
+      ],
+      "telegram": [
+        "Bilgisayarda Telegram Desktop'ı aç",
+        "Sohbeti aç → ⋮ → Sohbet geçmişini dışa aktar",
+        "Fotoğraf ve videoların işaretini kaldır, format olarak “Machine-readable JSON”u seç",
+        "result.json dosyasını buraya yükle"
+      ],
+      "line": [
+        "Sohbeti LINE'da aç",
+        "≡ (sağ üst) → Ayarlar'a dokun",
+        "“Sohbet geçmişini dışa aktar”a dokun",
+        ".txt dosyasını kaydet ve buradan seç"
+      ],
+      "kakaotalk": [
+        "Sohbeti KakaoTalk'ta aç",
+        "≡ → ⚙ Sohbet odası ayarları'na dokun",
+        "“Mesajları dışa aktar” → “Sadece metni kaydet”e dokun",
+        ".txt dosyasını buradan seç"
+      ],
+      "imessage": [
+        "Mac'e ücretsiz “iMessage Exporter”ı kur (ya da CSV/TXT kaydeden herhangi bir aracı)",
+        "Konuşmayı metin ya da CSV olarak dışa aktar",
+        "Dosyayı buraya yükle"
+      ],
+      "instagram": [
+        "Instagram → Ayarlar → Hareketlerin → Bilgilerini indir",
+        "Mesajlar'ı seç, format JSON",
+        "E-posta gelince konuşmanın message_1.json dosyasını yükle"
+      ],
+      "messenger": [
+        "Facebook → Ayarlar → Bilgilerini indir",
+        "Mesajlar'ı seç, format JSON",
+        "Konuşmanın message_1.json dosyasını buraya yükle"
+      ],
+      "other": [
+        "Sohbeti metin, CSV ya da JSON dosyası olarak dışa aktar",
+        "Buraya yükle — Nana çoğu formatı okur"
+      ]
+    },
+    "me": {
+      "q": "Hangisi sensin?",
+      "sub": "Nana senin hakkında değil, seninle konuşsun diye.",
+      "none": "Bu sohbette değilim"
+    },
+    "details": {
+      "q": "Nana'nın bilmesi gereken bir şey var mı?",
+      "notes": "İsteğe bağlı bilgi (örn. “martta ayrıldık”, “Tolga benim abim”)",
+      "lang": "Rapor dili",
+      "heat": "Nana ne kadar sert gitsin?"
+    },
+    "email": {
+      "q": "Nana raporu nereye göndersin?",
+      "sub": "Sana e-postayla 6 haneli bir kod göndereceğiz. Şifre yok, spam yok.",
+      "placeholder": "sen@ornek.com",
+      "send": "Kodu gönder",
+      "code": "{email} adresine gönderdiğimiz kodu gir",
+      "verify": "Doğrula",
+      "resend": "Yeni kod gönder",
+      "orLink": "Ya da e-postadaki bağlantıya dokun — o da olur.",
+      "terms": "Devam ederek {terms} ve {privacy} metinlerini kabul etmiş ve 18 yaşından büyük olduğunu onaylamış olursun.",
+      "errors": {
+        "email": "Bu e-posta pek doğru görünmüyor.",
+        "code": "Bu kod olmadı. Tekrar dene ya da yeni bir kod iste.",
+        "rate": "Çok fazla deneme. Bir dakika bekleyip tekrar dene."
+      }
+    },
+    "writing": {
+      "t": "Nana sohbetini okuyor",
+      "lines": [
+        "Gözlüklerini takıyor…",
+        "İlk kimin yazdığını sayıyor…",
+        "Her şeyin değiştiği haftayı arıyor…",
+        "En sulu kısımların altını çiziyor…",
+        "Çay demliyor…"
+      ],
+      "note": "Bu yaklaşık bir dakika sürer. Hazır olunca sana e-posta da atacağız."
+    },
+    "recording": {
+      "cta": "Ya da ekran kaydı yükle",
+      "hint": "Sohbeti en eski mesajdan en yeniye yavaşça kaydırırken ekranını kaydet ve videoyu yükle. Nana baloncukları okur.",
+      "extracting": "En net kareler seçiliyor… %{pct}",
+      "reading": "Nana ekran görüntülerini okuyor… 1–2 dakika sürer",
+      "errVideo": "Bu video okunamadı. Normal bir ekran kaydı dene (MP4 veya MOV).",
+      "errFew": "Nana sadece birkaç mesaj bulabildi. Daha yavaş kaydır ve daha uzun bir kısmı kaydet."
+    }
+  },
+  "report": {
+    "by": "Nana",
+    "tagline": "81 yaşında. Yazılmış bütün sohbetleri okudu. Hâlâ çorba getiriyor.",
+    "share": "Raporu paylaş",
+    "copied": "Bağlantı kopyalandı",
+    "privacy": "Gizli ve senin kontrolünde",
+    "cutoff": "Sohbet tek seferde okunamayacak kadar uzundu, o yüzden Nana {date} tarihinden itibaren her şeyi okudu.",
+    "statsTitle": "Rakamlar",
+    "stat": {
+      "messages": "Mesaj",
+      "perDay": "Günde",
+      "whoTalks": "En çok kim konuşuyor",
+      "whoStarts": "İlk kim yazıyor",
+      "afterMidnight": "Gece yarısından sonra",
+      "reply": "Ortalama cevap süresi",
+      "busiestHour": "En yoğun saat",
+      "voice": "Sesli mesaj",
+      "emojis": "En çok kullanılan emojiler",
+      "silence": "En uzun sessizlik",
+      "days": "{n} gün",
+      "min": "{n} dk",
+      "h": "{n} sa"
+    },
+    "lockedTitle": "Raporda daha neler var",
+    "peopleTitle": "Ve her biriniz hakkında",
+    "unlock": "Tam raporu oku",
+    "unlockNote": "1 kredi kullanır · {n} kredin var",
+    "noCredits": "Kredin bitti. Ödemeler yakında açılıyor — Nana sana e-posta atacak.",
+    "writingFull": "Nana tam raporu yazıyor. Yaklaşık 2 dakika — sana e-posta da atacağız.",
+    "failed": "Nana yazarken bir şeyler ters gitti. Kredin iade edildi. Lütfen tekrar dene.",
+    "retry": "Tekrar dene",
+    "peopleSection": "Kim kimdir",
+    "glossary": "Bu sohbetin sözlüğü",
+    "awards": "Ödüller",
+    "reactions": "Her biriniz buna nasıl tepki verecek",
+    "verdict": "Karar",
+    "advice": "Nana olsa ne yapardı",
+    "askTitle": "Bu sohbet hakkında Nana'ya başka bir şey sor",
+    "askPlaceholder": "örn. İlgisini mi kaybediyor? Gruptaki kim aslında bana gıcık?",
+    "askCta": "Nana'ya sor · 1 kredi",
+    "askExpired": "Bu sohbet sunucularımızdan silindi, o yüzden Nana onunla ilgili yeni sorulara cevap veremiyor.",
+    "nextTitle": "Nana sırada hangi sohbeti okusun?",
+    "nextCta": "Başka bir sohbet gönder",
+    "notFound": "Bu rapor yok ya da silinmiş.",
+    "feedback": "Nana haklı mıydı?",
+    "feedbackYes": "Tam isabet",
+    "feedbackNo": "Pek değil",
+    "thanks": "Teşekkürler — Nana not alıyor.",
+    "aiNote": "Eğlence amaçlı yapay zekâ tarafından yazıldı. Bağlamı yanlış anlayabilir — buna dayanarak büyük kararlar verme."
+  },
+  "account": {
+    "title": "Sohbetlerim",
+    "signIn": "Sohbetlerini ve raporlarını görmek için giriş yap",
+    "signOut": "Çıkış yap",
+    "credits": "Kredi: {n}",
+    "empty": "Henüz sohbet yok.",
+    "reports": "Raporlar",
+    "chatExpires": "Sohbet {date} tarihinde otomatik silinecek",
+    "chatDeleted": "Sohbet zaten silindi · raporlar duruyor",
+    "deleteChat": "Sohbeti sil",
+    "deleteReport": "Raporu sil",
+    "deleteAccount": "Hesabımı ve içindeki her şeyi sil",
+    "confirm": "Emin misin? Bu geri alınamaz.",
+    "open": "Aç",
+    "followup": "Ek soru"
+  },
+  "faq": {
+    "title": "Yüklemeden önce sorular",
+    "items": [
+      {
+        "q": "Nana Reads nedir?",
+        "a": "Bir yapay zekâ karakteri — Nana — yüklediğin sohbeti okur ve içindeki herkes hakkında dürüst, komik bir rapor yazar: gerçek dinamik, kimin daha çok önemsediği, neyin değiştiği ve herkesin rolü."
+      },
+      {
+        "q": "Ücretsiz mi?",
+        "a": "İlk bakış ücretsiz: Nana'nın girişi, rakamlar ve tam rapordaki her şeyin başlıkları. Tam rapor bir kredi kullanır. Abonelik yok."
+      },
+      {
+        "q": "Hangi uygulamalar çalışıyor?",
+        "a": "WhatsApp (iPhone ve Android), Telegram, LINE ve KakaoTalk dışa aktarmaları, ayrıca veri dışa aktarma yoluyla iMessage, Instagram ve Messenger. Ekran kaydından içe aktarma yakında geliyor."
+      },
+      {
+        "q": "Sohbetim gizli mi?",
+        "a": "Nana önce mesajlarını kendi tarayıcında sayar. Yükleme şifrelenir, sohbetteki kimseyle asla paylaşılmaz, asla satılmaz ve asla yapay zekâ eğitmek için kullanılmaz. Rapor almazsan yüklemeden 48 saat sonra, aldıysan son raporundan 7 gün sonra otomatik silinir."
+      },
+      {
+        "q": "Sohbetteki kişiler öğrenecek mi?",
+        "a": "Hayır. Kimseye bildirim gitmez. Raporu sadece bağlantıyı gönderdiğin kişiler görür."
+      },
+      {
+        "q": "Hangi diller?",
+        "a": "Sohbetin herhangi bir dilde ya da karışık olabilir. Raporlar 24 dilde yazılır ve Nana sohbetin kendi argosunu kullanır."
+      },
+      {
+        "q": "Ne kadar sürer?",
+        "a": "Önizleme yaklaşık bir dakika sürer. Tam rapor yaklaşık iki dakika. Hazır olunca sana e-posta atıyoruz, sayfada beklemene gerek yok."
+      },
+      {
+        "q": "Nana'ya daha fazla soru sorabilir miyim?",
+        "a": "Evet. Her raporun altında aynı sohbet hakkında ek bir soru sorabilirsin. Her cevap yeni ve daha derin bir rapordur."
+      },
+      {
+        "q": "Verilerimi nasıl silerim?",
+        "a": "“Sohbetlerim” bölümünden istediğin zaman bir sohbeti, bir raporu ya da tüm hesabını silebilirsin."
+      },
+      {
+        "q": "Doğru mu?",
+        "a": "Rakamlar dışa aktardığın dosyadan birebir sayılır. Yorumlar Nana'ya ait — yapay zekâ bağlamı yanlış anlayabilir, o yüzden bunu tavsiye değil eğlence olarak gör."
+      },
+      {
+        "q": "Kimin için?",
+        "a": "Biraz gülmek, gerçeklerle yüzleşmek ya da başından beri haklı olduğunu kanıtlamak isteyen yetişkinler (18+) için."
+      }
+    ]
+  },
+  "about": {
+    "title": "Nana Reads hakkında",
+    "body": [
+      "Nana Reads küçük, bağımsız bir stüdyo projesi. Var olmasını dilediğimiz karakteri yarattık: dünyadaki bütün sohbetleri okumuş, seni seven ve yine de sana doğruyu söyleyen bir babaanne.",
+      "Nana WhatsApp, Telegram, LINE, KakaoTalk, iMessage, Instagram ve Messenger sohbetlerini okur ve 24 dilde yazar.",
+      "Gizliliği bu alandaki herkesten daha çok önemsiyoruz: sohbetin önce tarayıcında sayılır, otomatik silinir ve asla yapay zekâ eğitmek için kullanılmaz."
+    ],
+    "factsTitle": "Temel bilgiler",
+    "facts": [
+      [
+        "Ad",
+        "Nana Reads"
+      ],
+      [
+        "Ne",
+        "Arkadaşlar, çiftler ve aileler için yapay zekâ sohbet raporları"
+      ],
+      [
+        "Diller",
+        "24"
+      ],
+      [
+        "Fiyat",
+        "Ücretsiz önizleme, sonra rapor başına ödeme. Abonelik yok."
+      ],
+      [
+        "Gizlilik",
+        "Otomatik silinir, asla yapay zekâ eğitmek için kullanılmaz"
+      ]
+    ]
+  },
+  "support": {
+    "title": "Bize yaz",
+    "sub": "Cevapların çoğu aşağıdaki sorularda. Bulamazsan bize yaz — her mesajı gerçek bir insan okuyor.",
+    "email": "E-posta adresin",
+    "message": "Nasıl yardımcı olabiliriz?",
+    "send": "Gönder",
+    "sent": "Aldık. E-postayla cevap vereceğiz."
+  },
+  "feedback": {
+    "title": "Nana'ya ne düşündüğünü söyle",
+    "sub": "Fikirler, şikâyetler, Nana'ya iltifatlar. Hepsini okuyoruz.",
+    "placeholder": "Geri bildirimin",
+    "send": "Gönder",
+    "sent": "Teşekkürler!"
+  },
+  "footer": {
+    "chats": "Sohbetler",
+    "help": "Yardım",
+    "company": "Nana Reads",
+    "links": {
+      "home": "Ana sayfa",
+      "relationship": "İlişki sohbetleri",
+      "friends": "Arkadaş ve grup sohbetleri",
+      "family": "Aile sohbetleri",
+      "whatsapp": "WhatsApp sohbetleri",
+      "imessage": "iMessage sohbetleri",
+      "account": "Sohbetlerim",
+      "faq": "SSS",
+      "support": "Destek",
+      "feedback": "Geri bildirim",
+      "privacy": "Gizlilik",
+      "terms": "Koşullar",
+      "about": "Hakkımızda"
+    },
+    "rights": "© {year} Nana Reads. Yalnızca eğlence amaçlıdır."
+  },
+  "legal": {
+    "englishOnly": "Bu sayfa İngilizce gösterilmektedir. Bağlayıcı olan İngilizce sürümdür.",
+    "privacy": "Gizlilik politikası",
+    "terms": "Hizmet koşulları"
+  },
+  "common": {
+    "loading": "Yükleniyor…",
+    "error": "Bir şeyler ters gitti.",
+    "or": "veya"
+  }
+}

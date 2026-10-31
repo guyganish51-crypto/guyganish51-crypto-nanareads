@@ -9,6 +9,7 @@ import { fmt } from "@/lib/fmt";
 import { parseText, ParseError } from "@/lib/chat/parse";
 import { computeStats } from "@/lib/chat/stats";
 import type { ParsedChat } from "@/lib/chat/types";
+import { extractFrames } from "@/lib/chat/frames";
 import { supabaseBrowser } from "@/lib/supabase/client";
 import { NanaAvatar } from "./NanaAvatar";
 import { AppBadge, APP_KEYS, appLabel } from "./AppIcons";
@@ -17,7 +18,6 @@ type Step = "context" | "source" | "upload" | "me" | "details" | "email" | "writ
 const STEPS: Step[] = ["context", "source", "upload", "me", "details", "email", "writing"];
 const CONTEXTS = ["partner", "friends", "friend", "family", "work", "other"] as const;
 const CTX_EMOJI: Record<string, string> = { partner: "💌", friends: "😂", friend: "🫶", family: "🏡", work: "📋", other: "🤷" };
-const RECORDING_ONLY = new Set<string>();
 const MAX_BYTES = 200 * 1024 * 1024;
 
 interface Saved { attemptId?: string; secret?: string; chatId?: string; context?: string; source?: string }
@@ -78,6 +78,9 @@ export function StartFlow({ lang, t }: { lang: Locale; t: Dict }) {
   const [code, setCode] = useState("");
   const [showGuide, setShowGuide] = useState(false);
   const fileRef = useRef<HTMLInputElement>(null);
+  const videoRef = useRef<HTMLInputElement>(null);
+  const [recParts, setRecParts] = useState<string[] | null>(null);
+  const [pct, setPct] = useState(0);
 
   useEffect(() => {
     const s = load();
@@ -135,6 +138,37 @@ export function StartFlow({ lang, t }: { lang: Locale; t: Dict }) {
       setBusy(null);
       track("upload_error", saved.attemptId, { error: String(e).slice(0, 120) });
       setErr(e instanceof ParseError ? F.upload.errors.format : F.upload.errors.upload);
+    }
+  }
+
+  async function onVideo(file: File) {
+    setErr(null);
+    try {
+      setBusy("frames"); setPct(0);
+      const { zip, count } = await extractFrames(file, setPct);
+      if (count < 2) throw new Error("video");
+      setBusy("vision");
+      const post = (b: object) => fetch(`/api/attempts/${saved.attemptId}/recording`, {
+        method: "POST", headers: { "content-type": "application/json" }, body: JSON.stringify({ secret: saved.secret, ...b }),
+      });
+      const s = await post({ action: "sign" });
+      if (!s.ok) throw new Error("sign");
+      const { path, token } = await s.json();
+      const { error } = await sb.storage.from("chats").uploadToSignedUrl(path, token, zip, { contentType: "application/zip" });
+      if (error) throw new Error("upload");
+      const r = await post({ action: "read", path, source: saved.source, lang: reportLang });
+      if (r.status === 422) { setBusy(null); return setErr(F.recording.errFew); }
+      if (!r.ok) throw new Error("read");
+      const { chatId, participants } = await r.json();
+      update({ chatId });
+      setParsed(null); setRecParts(participants); setMe("Me");
+      track("recording_done", saved.attemptId, { frames: count });
+      setBusy(null);
+      go("details");
+    } catch (e) {
+      setBusy(null);
+      track("recording_error", saved.attemptId, { error: String(e).slice(0, 120) });
+      setErr(String(e).includes("video") ? F.recording.errVideo : F.upload.errors.upload);
     }
   }
 
@@ -221,12 +255,11 @@ export function StartFlow({ lang, t }: { lang: Locale; t: Dict }) {
           <h1 className="font-display my-6 text-3xl font-bold">{F.source.q}</h1>
           <div className="grid grid-cols-2 gap-3">
             {APP_KEYS.map((a) => (
-              <button key={a} disabled={RECORDING_ONLY.has(a)} onClick={() => { update({ source: a }); go("upload"); }} className="card flex items-center gap-3 p-4 text-start disabled:opacity-50">
+              <button key={a} onClick={() => { update({ source: a }); go("upload"); }} className="card flex items-center gap-3 p-4 text-start disabled:opacity-50">
                 <AppBadge app={a} size={34} /><span className="font-semibold">{appLabel(a)}</span>
               </button>
             ))}
           </div>
-          <p className="mt-4 text-sm text-ink-soft">{F.source.soon}</p>
         </section>
       )}
 
@@ -242,7 +275,7 @@ export function StartFlow({ lang, t }: { lang: Locale; t: Dict }) {
             {busy ? (
               <>
                 <NanaAvatar size={64} className="animate-bounce" />
-                <span className="text-lg font-semibold">{busy === "read" ? fmt(F.upload.reading, { count: "…" }) : F.upload.uploading}</span>
+                <span className="text-lg font-semibold">{busy === "read" ? fmt(F.upload.reading, { count: "…" }) : busy === "frames" ? fmt(F.recording.extracting, { pct }) : busy === "vision" ? F.recording.reading : F.upload.uploading}</span>
                 <span className="text-sm text-ink-soft">{F.upload.readingLocal}</span>
               </>
             ) : (
@@ -254,6 +287,12 @@ export function StartFlow({ lang, t }: { lang: Locale; t: Dict }) {
             )}
           </button>
           <p className="mt-3 flex items-center gap-2 text-sm text-ink-soft">🔒 {F.upload.privacy}</p>
+          <input ref={videoRef} type="file" className="hidden" accept="video/*"
+            onChange={(e) => { const f = e.target.files?.[0]; if (f) onVideo(f); e.target.value = ""; }} />
+          <div className="card mt-4 p-4">
+            <button disabled={!!busy} className="btn btn-ghost w-full !text-base" onClick={() => videoRef.current?.click()}>🎥 {F.recording.cta}</button>
+            <p className="mt-2 text-sm text-ink-soft">{F.recording.hint}</p>
+          </div>
           <button className="mt-4 text-sm font-semibold underline" onClick={() => setShowGuide((v) => !v)}>{F.upload.howTo}</button>
           {showGuide && (
             <ol className="card mt-3 list-inside list-decimal space-y-1.5 p-4">
