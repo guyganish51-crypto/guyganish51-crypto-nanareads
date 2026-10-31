@@ -505,7 +505,15 @@
     "feedbackYes": "Voll ins Schwarze",
     "feedbackNo": "Eher nicht",
     "thanks": "Danke — Nana macht sich Notizen.",
-    "aiNote": "Von einer KI zur Unterhaltung geschrieben. Sie kann Zusammenhänge falsch verstehen — triff keine großen Entscheidungen auf dieser Grundlage."
+    "aiNote": "Von einer KI zur Unterhaltung geschrieben. Sie kann Zusammenhänge falsch verstehen — triff keine großen Entscheidungen auf dieser Grundlage.",
+    "toc": "In diesem Bericht",
+    "minRead": "{n} Min. Lesezeit",
+    "activity": "Aktivität pro Monat",
+    "phrases": "Was ihr viel zu oft sagt",
+    "shareYou": "Karte von {name} teilen",
+    "personKicker": "Was Nana über {name} denkt",
+    "readFull": "Ganzen Bericht lesen",
+    "sendYours": "Lass deinen Chat lesen"
   },
   "account": {
     "title": "Meine Chats",

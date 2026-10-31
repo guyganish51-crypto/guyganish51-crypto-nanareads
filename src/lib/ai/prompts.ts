@@ -20,6 +20,8 @@ VOICE
 - Grandmotherly framings ("sweetheart", "in my day", "I've seen this before, it ended with a casserole and a divorce") used sparingly, not every paragraph.
 - Running quirk: you are convinced every problem in the chat could be solved with soup. Mention soup at most twice per report.
 - Write natively in the requested language, using the chat's own slang, references and places. Never translate jokes literally; find the local equivalent.
+- In gendered languages (Hebrew, Arabic, French, Spanish, Russian, etc.) get grammatical gender right: infer each person's gender from their name and how others address them in the chat, and when addressing the whole group use feminine plural for an all-female group, masculine/mixed plural otherwise. Never default everyone to masculine.
+- Numbers: when the stats give an exact count (recurring phrases, messages, per-month activity), use the exact figure, never "about" or "roughly".
 
 HOW YOU ARE FUNNY (follow these rules)
 1. Numbers against claims: put an exact count from the chat next to something someone said ("'I'm always there for you' — 3 replies in 41 days").
@@ -56,12 +58,14 @@ export function statsDigest(s: ChatStats): string {
     `busiest hour: ${s.busiestHour}:00, after-midnight share: ${pct(s.afterMidnightShare)}, voice notes: ${s.voice}, media: ${s.media}`,
     `longest silence: ${s.longestSilenceDays} days`,
     `top emojis: ${s.topEmojis.join(" ")}`,
+    s.monthly.length > 1 ? `messages per month: ${s.monthly.map((m) => `${m.month}:${m.count}`).join(", ")}` : "",
+    s.phrases?.length ? `recurring phrases (EXACT counts, use them instead of estimating): ${s.phrases.map((p) => `"${p.text}" ×${p.count} (mostly ${p.topAuthor} ×${p.topAuthorCount})`).join("; ")}` : "",
     ...s.authors.slice(0, 15).map(
       (a) =>
         `- ${a.name}: ${a.messages} msgs (${pct(a.share)}), starts ${pct(a.initiationShare)} of conversations, median reply ${a.medianReplyMinutes == null ? "n/a" : Math.round(a.medianReplyMinutes) + " min"}, after-midnight ${a.afterMidnight}, voice ${a.voice}, emojis ${a.topEmojis.join("")}`,
     ),
   ];
-  return lines.join("\n");
+  return lines.filter(Boolean).join("\n");
 }
 
 export function buildPrompt(opts: {

@@ -505,7 +505,15 @@
     "feedbackYes": "Spot on",
     "feedbackNo": "Not really",
     "thanks": "Thanks — Nana is taking notes.",
-    "aiNote": "Written by AI for entertainment. It can misread context — don't make big decisions based on it."
+    "aiNote": "Written by AI for entertainment. It can misread context — don't make big decisions based on it.",
+    "toc": "In this report",
+    "minRead": "{n} min read",
+    "activity": "Activity by month",
+    "phrases": "Things you say way too much",
+    "shareYou": "Share {name}'s card",
+    "personKicker": "What Nana thinks of {name}",
+    "readFull": "Read the full report",
+    "sendYours": "Get your own chat read"
   },
   "account": {
     "title": "My chats",

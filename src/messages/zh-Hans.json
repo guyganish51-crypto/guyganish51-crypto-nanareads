@@ -505,7 +505,15 @@
     "feedbackYes": "一针见血",
     "feedbackNo": "不太对",
     "thanks": "谢谢——娜娜正在记笔记。",
-    "aiNote": "由 AI 撰写，仅供娱乐。AI 可能误读语境——别根据它做重大决定。"
+    "aiNote": "由 AI 撰写，仅供娱乐。AI 可能误读语境——别根据它做重大决定。",
+    "toc": "本报告内容",
+    "minRead": "阅读约 {n} 分钟",
+    "activity": "每月活跃度",
+    "phrases": "你们说得太多的话",
+    "shareYou": "分享 {name} 的卡片",
+    "personKicker": "娜娜眼中的 {name}",
+    "readFull": "阅读完整报告",
+    "sendYours": "让娜娜也读读你的聊天"
   },
   "account": {
     "title": "我的聊天",

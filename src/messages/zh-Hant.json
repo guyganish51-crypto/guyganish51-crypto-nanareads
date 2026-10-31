@@ -505,7 +505,15 @@
     "feedbackYes": "超準",
     "feedbackNo": "不太準",
     "thanks": "謝謝——娜娜正在做筆記。",
-    "aiNote": "由 AI 撰寫，僅供娛樂。AI 可能誤解脈絡——別根據它做重大決定。"
+    "aiNote": "由 AI 撰寫，僅供娛樂。AI 可能誤解脈絡——別根據它做重大決定。",
+    "toc": "本報告內容",
+    "minRead": "閱讀約 {n} 分鐘",
+    "activity": "每月活躍度",
+    "phrases": "你們說太多次的話",
+    "shareYou": "分享 {name} 的卡片",
+    "personKicker": "娜娜眼中的 {name}",
+    "readFull": "閱讀完整報告",
+    "sendYours": "讓娜娜也讀讀你的聊天"
   },
   "account": {
     "title": "我的聊天",

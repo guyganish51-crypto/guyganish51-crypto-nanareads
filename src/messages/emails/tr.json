@@ -1,0 +1,42 @@
+{
+  "previewReady": {
+    "subject": "Nana okumayı bitirdi 🫖",
+    "pre": "İçeride: {names}",
+    "h": "Sohbetinizi okudum.",
+    "body": "Her biriniz hakkında yazdıklarım:",
+    "more": "…ve dahası",
+    "cta": "Ön izlememi oku"
+  },
+  "nudge": {
+    "subject": "{title}",
+    "pre": "Çoğu hâlâ kilitli.",
+    "h": "Raporun seni bekliyor",
+    "body": "Girişi okudun. İçeride daha neler var:",
+    "cta": "Raporun tamamını oku",
+    "credit": "Hâlâ bir ücretsiz kredin var — Nana'dan."
+  },
+  "hook": {
+    "pre": "Raporunla ilgili son hatırlatma.",
+    "h": "Çaydanlığı kaldırmadan önce son bir şey",
+    "body": "{title}",
+    "cta": "Raporun tamamını aç",
+    "ps": "Not: Oku, gruba at ve ilk kim cevap veriyor izle 👀"
+  },
+  "fullReady": {
+    "subject": "Raporunun tamamı hazır ✍️",
+    "pre": "{title}",
+    "h": "Bitti. Her bir kelimesi.",
+    "cta": "Hemen oku",
+    "ps": "Not: Gruba at. Hadi bakalım, cesaretin var mı?"
+  },
+  "next": {
+    "subject": "Bu sadece ısınmaydı 👀",
+    "pre": "Şimdi bana asıl kafanı kurcalayan sohbeti gönder.",
+    "h": "Gerçekten hangi sohbeti okumamı istiyorsun?",
+    "body": "Gece 2'de tekrar tekrar okuduğun. Eski sevgili. O adı konmamış şey. Annen.",
+    "cta": "Nana'ya bir sohbet daha gönder"
+  },
+  "footer": "Bu e-postayı Nana'dan bir sohbet okumasını istediğin için alıyorsun.",
+  "unsubscribe": "Abonelikten çık",
+  "sign": "— Nana"
+}

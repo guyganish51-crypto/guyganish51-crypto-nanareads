@@ -103,3 +103,17 @@ test("stats + transcript budget", () => {
   assert.ok(t.cutoff);
   assert.ok(t.transcript.length <= 700);
 });
+
+test("phrases exact counts", async () => {
+  const { topPhrases } = await import("../src/lib/chat/stats.ts");
+  const base = Date.UTC(2025, 0, 1);
+  const msgs = [
+    ...Array.from({ length: 12 }, (_, i) => ({ t: base + i, a: i % 4 ? "Gutman" : "Roni", x: "אני במעלית" })),
+    ...Array.from({ length: 6 }, (_, i) => ({ t: base + 100 + i, a: "Roni", x: "who is coming friday night?" })),
+  ];
+  const p = topPhrases(msgs);
+  assert.equal(p[0].text, "אני במעלית");
+  assert.equal(p[0].count, 12);
+  assert.equal(p[0].topAuthor, "Gutman");
+  assert.ok(p.some((x) => x.count === 6));
+});

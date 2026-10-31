@@ -505,7 +505,15 @@
     "feedbackYes": "Mitt i prick",
     "feedbackNo": "Inte riktigt",
     "thanks": "Tack — Nana antecknar.",
-    "aiNote": "Skriven av AI för underhållning. Den kan missförstå sammanhanget — fatta inga stora beslut baserat på den."
+    "aiNote": "Skriven av AI för underhållning. Den kan missförstå sammanhanget — fatta inga stora beslut baserat på den.",
+    "toc": "I den här rapporten",
+    "minRead": "{n} min läsning",
+    "activity": "Aktivitet per månad",
+    "phrases": "Saker ni säger alldeles för ofta",
+    "shareYou": "Dela {name}s kort",
+    "personKicker": "Vad Nana tycker om {name}",
+    "readFull": "Läs hela rapporten",
+    "sendYours": "Låt Nana läsa din chatt"
   },
   "account": {
     "title": "Mina chattar",

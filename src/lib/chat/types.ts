@@ -48,6 +48,8 @@ export interface ChatStats {
   longestSilenceEndedAt: number | null;
   authors: AuthorStats[];
   monthly: { month: string; count: number }[];
+  /** recurring phrases with exact counts (catchphrases, running jokes) */
+  phrases?: { text: string; count: number; topAuthor: string; topAuthorCount: number }[];
   /** true when timestamps were invented (screen-recording import) */
   synthetic?: boolean;
 }

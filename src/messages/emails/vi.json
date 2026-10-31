@@ -1,0 +1,42 @@
+{
+  "previewReady": {
+    "subject": "Nana đọc xong rồi 🫖",
+    "pre": "Bên trong: {names}",
+    "h": "Bà đọc xong chat của mấy đứa rồi.",
+    "body": "Đây là những gì bà viết về từng đứa:",
+    "more": "…và còn nữa",
+    "cta": "Đọc bản xem trước của bà"
+  },
+  "nudge": {
+    "subject": "{title}",
+    "pre": "Phần lớn vẫn còn khóa.",
+    "h": "Báo cáo của con đang chờ",
+    "body": "Con đọc phần mở đầu rồi. Bên trong còn những thứ này:",
+    "cta": "Đọc toàn bộ báo cáo",
+    "credit": "Con vẫn còn một lượt miễn phí — Nana bao."
+  },
+  "hook": {
+    "pre": "Lời nhắc cuối cùng về báo cáo của con.",
+    "h": "Một chuyện cuối trước khi bà cất ấm trà",
+    "body": "{title}",
+    "cta": "Mở toàn bộ báo cáo",
+    "ps": "T.B. Đọc đi, quăng vào nhóm, rồi xem ai trả lời đầu tiên 👀"
+  },
+  "fullReady": {
+    "subject": "Báo cáo đầy đủ của con xong rồi ✍️",
+    "pre": "{title}",
+    "h": "Xong. Không sót chữ nào.",
+    "cta": "Đọc ngay",
+    "ps": "T.B. Chia sẻ vào nhóm đi. Bà thách đó."
+  },
+  "next": {
+    "subject": "Đó mới chỉ là khởi động 👀",
+    "pre": "Giờ gửi bà đoạn chat mà con thật sự cứ nghĩ tới.",
+    "h": "Con thật sự muốn bà đọc đoạn chat nào?",
+    "body": "Cái con đọc đi đọc lại lúc 2 giờ sáng. Người yêu cũ. Mối quan hệ mập mờ. Mẹ con.",
+    "cta": "Gửi Nana một đoạn chat khác"
+  },
+  "footer": "Con nhận được email này vì đã nhờ Nana đọc một đoạn chat.",
+  "unsubscribe": "Hủy đăng ký",
+  "sign": "— Nana"
+}

@@ -1,0 +1,42 @@
+{
+  "previewReady": {
+    "subject": "A Nana terminou de ler 🫖",
+    "pre": "Aqui dentro: {names}",
+    "h": "Li a conversa de vocês.",
+    "body": "Olha o que eu escrevi sobre cada um:",
+    "more": "…e mais",
+    "cta": "Ler minha prévia"
+  },
+  "nudge": {
+    "subject": "{title}",
+    "pre": "Quase tudo ainda está trancado.",
+    "h": "Seu relatório está te esperando",
+    "body": "Você leu o começo. Olha o que ainda tem aqui dentro:",
+    "cta": "Ler o relatório completo",
+    "credit": "Você ainda tem um crédito grátis — é por conta da Nana."
+  },
+  "hook": {
+    "pre": "Último lembrete sobre o seu relatório.",
+    "h": "Só mais uma coisa antes de eu guardar a chaleira",
+    "body": "{title}",
+    "cta": "Abrir o relatório completo",
+    "ps": "P.S. Lê, joga no grupo e vê quem responde primeiro 👀"
+  },
+  "fullReady": {
+    "subject": "Seu relatório completo está pronto ✍️",
+    "pre": "{title}",
+    "h": "Pronto. Cada palavrinha.",
+    "cta": "Ler agora",
+    "ps": "P.S. Manda no grupo. Duvido."
+  },
+  "next": {
+    "subject": "Isso foi só o aquecimento 👀",
+    "pre": "Agora me manda a conversa que não sai da sua cabeça.",
+    "h": "Qual conversa você quer mesmo que eu leia?",
+    "body": "Aquela que você relê às 2 da manhã. O ex. O rolo. Sua mãe.",
+    "cta": "Mandar outra conversa pra Nana"
+  },
+  "footer": "Você está recebendo este e-mail porque pediu para a Nana ler uma conversa.",
+  "unsubscribe": "Cancelar inscrição",
+  "sign": "— Nana"
+}

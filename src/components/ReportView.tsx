@@ -71,6 +71,60 @@ function StatCards({ s, t, lang, pair }: { s: ChatStats; t: Dict; lang: string; 
   );
 }
 
+function ActivityChart({ s, t, lang }: { s: ChatStats; t: Dict; lang: string }) {
+  const months = s.monthly.slice(-24);
+  if (months.length < 3 || s.synthetic) return null;
+  const max = Math.max(...months.map((m) => m.count));
+  const peak = months.find((m) => m.count === max)!;
+  const fmtMonth = (m: string) => new Date(`${m}-01T00:00:00Z`).toLocaleDateString(lang, { month: "short", year: "2-digit", timeZone: "UTC" });
+  return (
+    <div className="card mt-3 p-4">
+      <div className="mb-3 flex items-baseline justify-between gap-2">
+        <h3 className="font-semibold">{t.report.activity}</h3>
+        <span className="text-xs text-ink-soft">{fmtMonth(peak.month)} · {peak.count.toLocaleString(lang)}</span>
+      </div>
+      <div className="flex h-28 items-end gap-[3px]" dir="ltr" role="img" aria-label={t.report.activity}>
+        {months.map((m) => (
+          <div key={m.month} title={`${fmtMonth(m.month)}: ${m.count}`} className={`flex-1 rounded-t border-2 border-b-0 border-ink ${m === peak ? "bg-tomato" : "bg-sky"}`}
+            style={{ height: `${Math.max(4, (m.count / max) * 100)}%` }} />
+        ))}
+      </div>
+      <div className="mt-1 flex justify-between text-[11px] text-ink-soft" dir="ltr"><span>{fmtMonth(months[0].month)}</span><span>{fmtMonth(months[months.length - 1].month)}</span></div>
+    </div>
+  );
+}
+
+function Phrases({ s, t, lang }: { s: ChatStats; t: Dict; lang: string }) {
+  const p = (s.phrases ?? []).slice(0, 6);
+  if (!p.length) return null;
+  return (
+    <div className="card mt-3 p-4">
+      <h3 className="mb-2 font-semibold">{t.report.phrases}</h3>
+      <ul className="space-y-1.5">
+        {p.map((x) => (
+          <li key={x.text} className="flex items-center justify-between gap-3">
+            <span dir="auto" className="truncate">"{x.text}"</span>
+            <span className="shrink-0 text-sm"><b>×{x.count.toLocaleString(lang)}</b> <span className="text-ink-soft">· {x.topAuthor}</span></span>
+          </li>
+        ))}
+      </ul>
+    </div>
+  );
+}
+
+function ReadingProgress() {
+  const [p, setP] = useState(0);
+  useEffect(() => {
+    const on = () => {
+      const h = document.documentElement;
+      setP(Math.min(100, (h.scrollTop / Math.max(1, h.scrollHeight - h.clientHeight)) * 100));
+    };
+    window.addEventListener("scroll", on, { passive: true });
+    return () => window.removeEventListener("scroll", on);
+  }, []);
+  return <div className="fixed inset-x-0 top-0 z-40 h-1 bg-tomato transition-[width]" style={{ width: `${p}%` }} />;
+}
+
 export function ReportView({ id, lang, t }: { id: string; lang: Locale; t: Dict }) {
   const R = t.report;
   const [d, setD] = useState<Data | null>(null);
@@ -106,6 +160,13 @@ export function ReportView({ id, lang, t }: { id: string; lang: Locale; t: Dict 
     const url = `${location.origin}/${lang}/r/${d.id}`;
     try {
       if (navigator.share) await navigator.share({ title: d.title ?? "Nana Reads", url });
+      else { await navigator.clipboard.writeText(url); setMsg(R.copied); }
+    } catch { /* cancelled */ }
+  };
+  const sharePerson = async (i: number, name: string) => {
+    const url = `${location.origin}/${lang}/r/${d.id}/p/${i}`;
+    try {
+      if (navigator.share) await navigator.share({ title: fmt(R.personKicker, { name }), url });
       else { await navigator.clipboard.writeText(url); setMsg(R.copied); }
     } catch { /* cancelled */ }
   };
@@ -157,6 +218,8 @@ export function ReportView({ id, lang, t }: { id: string; lang: Locale; t: Dict 
             <section className="mt-8">
               <h2 className="font-display mb-3 text-2xl font-bold">{R.statsTitle}</h2>
               <StatCards s={d.chat.stats} t={t} lang={lang} pair={pair} />
+              <ActivityChart s={d.chat.stats} t={t} lang={lang} />
+              <Phrases s={d.chat.stats} t={t} lang={lang} />
             </section>
           )}
           <section className="card mt-8 p-5">
@@ -165,7 +228,10 @@ export function ReportView({ id, lang, t }: { id: string; lang: Locale; t: Dict 
             <ul className="space-y-2">{p.sections.map((s, i) => <li key={i} className="flex gap-2"><span>{s.emoji}</span><span className="font-semibold">{s.heading}</span><span className="ms-auto">🔒</span></li>)}</ul>
             {p.people.length > 0 && <>
               <h2 className="mt-5 mb-2 text-sm font-bold uppercase tracking-wide text-ink-soft">{R.peopleTitle}</h2>
-              <ul className="space-y-1.5">{p.people.map((x, i) => <li key={i}><b>{x.name}</b> — {x.title}</li>)}</ul>
+              <ul className="space-y-1.5">{p.people.map((x, i) => (
+                <li key={i} className="flex items-center justify-between gap-2"><span><b>{x.name}</b> — {x.title}</span>
+                  <button aria-label={fmt(R.shareYou, { name: x.name })} className="shrink-0 text-sm underline" onClick={() => sharePerson(i, x.name)}>↗</button></li>
+              ))}</ul>
             </>}
             {d.isOwner && d.status === "preview_ready" && (
               <div className="mt-6">
@@ -180,20 +246,29 @@ export function ReportView({ id, lang, t }: { id: string; lang: Locale; t: Dict 
 
       {rep && (
         <article className="mt-6">
+          <ReadingProgress />
           {d.status === "full_pending" && <p className="card p-4 text-center font-semibold">✍️ {R.writingFull}</p>}
           <Blocks blocks={rep.opening} me={me} />
+          <nav className="card my-6 p-4" aria-label={R.toc}>
+            <p className="mb-2 text-xs font-bold uppercase tracking-wide text-ink-soft">{R.toc} · {fmt(R.minRead, { n: Math.max(2, Math.round(JSON.stringify(rep).length / 1100)) })}</p>
+            <ol className="flex flex-wrap gap-2">
+              {rep.sections.map((s, i) => <li key={i}><a href={`#s${i}`} className="chip text-sm">{s.emoji} {s.heading.length > 34 ? s.heading.slice(0, 32) + "…" : s.heading}</a></li>)}
+              {rep.people.length > 0 && <li><a href="#people" className="chip text-sm">🪞 {R.peopleSection}</a></li>}
+              <li><a href="#verdict" className="chip text-sm">⚖️ {R.verdict}</a></li>
+            </ol>
+          </nav>
           {d.chat.stats && d.number === 1 && (
-            <section className="my-8"><h2 className="font-display mb-3 text-2xl font-bold">{R.statsTitle}</h2><StatCards s={d.chat.stats} t={t} lang={lang} pair={pair} /></section>
+            <section className="my-8"><h2 className="font-display mb-3 text-2xl font-bold">{R.statsTitle}</h2><StatCards s={d.chat.stats} t={t} lang={lang} pair={pair} /><ActivityChart s={d.chat.stats} t={t} lang={lang} /><Phrases s={d.chat.stats} t={t} lang={lang} /></section>
           )}
           {rep.sections.map((s, i) => (
-            <section key={i} className="mt-10">
+            <section key={i} id={`s${i}`} className="mt-10 scroll-mt-20">
               <div className="text-3xl">{s.emoji}</div>
               <h2 className="font-display mt-1 text-2xl font-bold leading-snug">{s.heading}</h2>
               <Blocks blocks={s.blocks} me={me} />
             </section>
           ))}
           {rep.people.length > 0 && (
-            <section className="mt-12">
+            <section id="people" className="mt-12 scroll-mt-20">
               <h2 className="font-display mb-4 text-2xl font-bold">🪞 {R.peopleSection}</h2>
               <div className="space-y-5">
                 {rep.people.map((x, i) => (
@@ -201,6 +276,7 @@ export function ReportView({ id, lang, t }: { id: string; lang: Locale; t: Dict 
                     <h3 className="text-lg font-bold">{x.name}</h3>
                     <p className="text-sm font-medium text-tomato-dark">{x.title}</p>
                     <Blocks blocks={x.blocks} me={me} />
+                    <button className="chip mt-2 text-sm" onClick={() => sharePerson(i, x.name)}>↗ {fmt(R.shareYou, { name: x.name })}</button>
                   </div>
                 ))}
               </div>
@@ -209,7 +285,7 @@ export function ReportView({ id, lang, t }: { id: string; lang: Locale; t: Dict 
           {rep.glossary.length > 0 && (
             <section className="mt-12">
               <h2 className="font-display mb-4 text-2xl font-bold">📖 {R.glossary}</h2>
-              <dl className="space-y-3">{rep.glossary.map((g, i) => <div key={i}><dt className="font-bold">“{g.term}”</dt><dd className="text-ink-soft">{g.meaning}</dd></div>)}</dl>
+              <dl className="space-y-3">{rep.glossary.map((g, i) => <div key={i}><dt className="font-bold">"{g.term}"</dt><dd className="text-ink-soft">{g.meaning}</dd></div>)}</dl>
             </section>
           )}
           {rep.awards.length > 0 && (
@@ -224,7 +300,7 @@ export function ReportView({ id, lang, t }: { id: string; lang: Locale; t: Dict 
               <ul className="space-y-2">{rep.reactions.map((a, i) => <li key={i}><b>{a.name}:</b> {a.prediction}</li>)}</ul>
             </section>
           )}
-          <section className="card mt-12 !bg-butter/40 p-6">
+          <section id="verdict" className="card mt-12 scroll-mt-20 !bg-butter/40 p-6">
             <h2 className="font-display mb-2 text-2xl font-bold">⚖️ {R.verdict}</h2>
             <div className="prose-nana"><p>{rep.verdict.roast}</p><p>{rep.verdict.heart}</p></div>
             <p className="font-display mt-3 text-xl font-semibold">{rep.verdict.last_line}</p>

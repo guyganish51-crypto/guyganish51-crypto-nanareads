@@ -29,6 +29,18 @@ const loaders: Record<Locale, () => Promise<unknown>> = {
   ko: () => import("@/messages/ko.json").then((m) => m.default),
   "zh-Hans": () => import("@/messages/zh-Hans.json").then((m) => m.default),
   "zh-Hant": () => import("@/messages/zh-Hant.json").then((m) => m.default),
+  fa: () => import("@/messages/fa.json").then((m) => m.default),
+  ur: () => import("@/messages/ur.json").then((m) => m.default),
+  bn: () => import("@/messages/bn.json").then((m) => m.default),
+  ms: () => import("@/messages/ms.json").then((m) => m.default),
+  fil: () => import("@/messages/fil.json").then((m) => m.default),
+  cs: () => import("@/messages/cs.json").then((m) => m.default),
+  hu: () => import("@/messages/hu.json").then((m) => m.default),
+  da: () => import("@/messages/da.json").then((m) => m.default),
+  nb: () => import("@/messages/nb.json").then((m) => m.default),
+  fi: () => import("@/messages/fi.json").then((m) => m.default),
+  bg: () => import("@/messages/bg.json").then((m) => m.default),
+  hr: () => import("@/messages/hr.json").then((m) => m.default),
 };
 
 function deepMerge<T>(base: T, over: unknown): T {

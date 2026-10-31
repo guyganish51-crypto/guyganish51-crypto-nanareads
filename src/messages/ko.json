@@ -505,7 +505,15 @@
     "feedbackYes": "완전 정확해",
     "feedbackNo": "글쎄요",
     "thanks": "고마워요 — 나나가 메모하고 있어요.",
-    "aiNote": "재미를 위해 AI가 쓴 글이에요. 맥락을 잘못 읽을 수 있으니, 중요한 결정의 근거로 삼지 마세요."
+    "aiNote": "재미를 위해 AI가 쓴 글이에요. 맥락을 잘못 읽을 수 있으니, 중요한 결정의 근거로 삼지 마세요.",
+    "toc": "이 리포트에서",
+    "minRead": "{n}분 읽기",
+    "activity": "월별 활동",
+    "phrases": "너무 자주 하는 말",
+    "shareYou": "{name} 카드 공유",
+    "personKicker": "나나가 본 {name}",
+    "readFull": "전체 리포트 읽기",
+    "sendYours": "내 채팅도 나나에게"
   },
   "account": {
     "title": "내 채팅",

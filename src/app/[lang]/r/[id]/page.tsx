@@ -14,7 +14,8 @@ export async function generateMetadata({ params }: PageProps<"/[lang]/r/[id]">):
       title = data?.title ?? null;
     }
   } catch { /* missing key in dev */ }
-  return { title: title ?? undefined, robots: { index: false, follow: false }, openGraph: title ? { title } : undefined };
+  const images = [`/api/og/${id}`];
+  return { title: title ?? undefined, robots: { index: false, follow: false }, openGraph: { ...(title ? { title } : {}), images }, twitter: { card: "summary_large_image", images } };
 }
 
 export default async function ReportPage({ params }: PageProps<"/[lang]/r/[id]">) {

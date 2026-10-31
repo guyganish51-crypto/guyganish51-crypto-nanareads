@@ -505,7 +505,15 @@
     "feedbackYes": "Tam isabet",
     "feedbackNo": "Pek değil",
     "thanks": "Teşekkürler — Nana not alıyor.",
-    "aiNote": "Eğlence amaçlı yapay zekâ tarafından yazıldı. Bağlamı yanlış anlayabilir — buna dayanarak büyük kararlar verme."
+    "aiNote": "Eğlence amaçlı yapay zekâ tarafından yazıldı. Bağlamı yanlış anlayabilir — buna dayanarak büyük kararlar verme.",
+    "toc": "Bu raporda",
+    "minRead": "{n} dk okuma",
+    "activity": "Aylara göre aktivite",
+    "phrases": "Fazlasıyla tekrarladığınız şeyler",
+    "shareYou": "{name} kartını paylaş",
+    "personKicker": "Nana, {name} hakkında ne düşünüyor",
+    "readFull": "Raporun tamamını oku",
+    "sendYours": "Kendi sohbetini okut"
   },
   "account": {
     "title": "Sohbetlerim",

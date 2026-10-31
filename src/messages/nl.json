@@ -505,7 +505,15 @@
     "feedbackYes": "Spot on",
     "feedbackNo": "Niet echt",
     "thanks": "Dank je — Nana maakt aantekeningen.",
-    "aiNote": "Geschreven door AI, voor de lol. Het kan context verkeerd begrijpen — neem er geen grote beslissingen op basis van."
+    "aiNote": "Geschreven door AI, voor de lol. Het kan context verkeerd begrijpen — neem er geen grote beslissingen op basis van.",
+    "toc": "In dit rapport",
+    "minRead": "{n} min lezen",
+    "activity": "Activiteit per maand",
+    "phrases": "Dingen die jullie veel te vaak zeggen",
+    "shareYou": "Deel de kaart van {name}",
+    "personKicker": "Wat Nana van {name} vindt",
+    "readFull": "Lees het volledige rapport",
+    "sendYours": "Laat je eigen chat lezen"
   },
   "account": {
     "title": "Mijn chats",

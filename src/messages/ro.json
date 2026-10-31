@@ -505,7 +505,15 @@
     "feedbackYes": "Fix așa",
     "feedbackNo": "Nu prea",
     "thanks": "Mulțumim — Nana își notează.",
-    "aiNote": "Scris de AI, pentru distracție. Poate înțelege greșit contextul — nu lua decizii mari pe baza lui."
+    "aiNote": "Scris de AI, pentru distracție. Poate înțelege greșit contextul — nu lua decizii mari pe baza lui.",
+    "toc": "În acest raport",
+    "minRead": "{n} min de citit",
+    "activity": "Activitate pe luni",
+    "phrases": "Lucruri pe care le spuneți mult prea des",
+    "shareYou": "Distribuie cardul lui {name}",
+    "personKicker": "Ce crede Nana despre {name}",
+    "readFull": "Citește raportul complet",
+    "sendYours": "Dă-i Nanei chatul tău"
   },
   "account": {
     "title": "Conversațiile mele",

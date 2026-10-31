@@ -505,7 +505,15 @@
     "feedbackYes": "Chuẩn không cần chỉnh",
     "feedbackNo": "Không hẳn",
     "thanks": "Cảm ơn — bà Nana đang ghi chép lại.",
-    "aiNote": "Do AI viết để giải trí. AI có thể hiểu sai ngữ cảnh — đừng đưa ra quyết định lớn dựa vào nó."
+    "aiNote": "Do AI viết để giải trí. AI có thể hiểu sai ngữ cảnh — đừng đưa ra quyết định lớn dựa vào nó.",
+    "toc": "Trong báo cáo này",
+    "minRead": "{n} phút đọc",
+    "activity": "Hoạt động theo tháng",
+    "phrases": "Những câu các bạn nói quá nhiều",
+    "shareYou": "Chia sẻ thẻ của {name}",
+    "personKicker": "Nana nghĩ gì về {name}",
+    "readFull": "Đọc báo cáo đầy đủ",
+    "sendYours": "Để Nana đọc chat của bạn"
   },
   "account": {
     "title": "Chat của tôi",

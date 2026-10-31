@@ -505,7 +505,15 @@
     "feedbackYes": "In pieno",
     "feedbackNo": "Non proprio",
     "thanks": "Grazie — Nana prende appunti.",
-    "aiNote": "Scritto dall'IA per divertimento. Può fraintendere il contesto — non prendere decisioni importanti basandoti su questo."
+    "aiNote": "Scritto dall'IA per divertimento. Può fraintendere il contesto — non prendere decisioni importanti basandoti su questo.",
+    "toc": "In questo report",
+    "minRead": "{n} min di lettura",
+    "activity": "Attività per mese",
+    "phrases": "Cose che dite decisamente troppo",
+    "shareYou": "Condividi la card di {name}",
+    "personKicker": "Cosa pensa Nana di {name}",
+    "readFull": "Leggi il report completo",
+    "sendYours": "Fai leggere la tua chat"
   },
   "account": {
     "title": "Le mie chat",

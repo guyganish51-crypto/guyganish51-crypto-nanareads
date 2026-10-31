@@ -505,7 +505,15 @@
     "feedbackYes": "W punkt",
     "feedbackNo": "Nie bardzo",
     "thanks": "Dzięki — Nana robi notatki.",
-    "aiNote": "Napisane przez AI dla zabawy. Może źle odczytać kontekst — nie podejmuj na tej podstawie ważnych decyzji."
+    "aiNote": "Napisane przez AI dla zabawy. Może źle odczytać kontekst — nie podejmuj na tej podstawie ważnych decyzji.",
+    "toc": "W tym raporcie",
+    "minRead": "{n} min czytania",
+    "activity": "Aktywność w miesiącach",
+    "phrases": "Rzeczy, które mówicie zdecydowanie za często",
+    "shareYou": "Udostępnij kartę: {name}",
+    "personKicker": "Co Nana myśli o: {name}",
+    "readFull": "Przeczytaj cały raport",
+    "sendYours": "Daj Nanie swój czat"
   },
   "account": {
     "title": "Moje czaty",

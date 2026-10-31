@@ -1,0 +1,42 @@
+{
+  "previewReady": {
+    "subject": "Nana ha finito di leggere 🫖",
+    "pre": "Dentro: {names}",
+    "h": "Ho letto la vostra chat.",
+    "body": "Ecco cosa ho scritto su ognuno di voi:",
+    "more": "…e altro ancora",
+    "cta": "Leggi l'anteprima"
+  },
+  "nudge": {
+    "subject": "{title}",
+    "pre": "Quasi tutto è ancora sotto chiave.",
+    "h": "Il tuo report ti aspetta",
+    "body": "Hai letto l'inizio. Ecco cosa c'è ancora dentro:",
+    "cta": "Leggi il report completo",
+    "credit": "Hai ancora un credito gratis — offre Nana."
+  },
+  "hook": {
+    "pre": "Ultimo promemoria sul tuo report.",
+    "h": "Un'ultima cosa prima di mettere via il bollitore",
+    "body": "{title}",
+    "cta": "Apri il report completo",
+    "ps": "P.S. Leggilo, buttalo nel gruppo e guarda chi risponde per primo 👀"
+  },
+  "fullReady": {
+    "subject": "Il tuo report completo è pronto ✍️",
+    "pre": "{title}",
+    "h": "Fatto. Fino all'ultima parola.",
+    "cta": "Leggilo ora",
+    "ps": "P.S. Condividilo nel gruppo. Ti sfido."
+  },
+  "next": {
+    "subject": "Era solo il riscaldamento 👀",
+    "pre": "Ora mandami la chat a cui pensi davvero.",
+    "h": "Quale chat vuoi davvero che legga?",
+    "body": "Quella che rileggi alle 2 di notte. L'ex. La frequentazione senza nome. Tua madre.",
+    "cta": "Manda un'altra chat a Nana"
+  },
+  "footer": "Ricevi questa email perché hai chiesto a Nana di leggere una chat.",
+  "unsubscribe": "Annulla l'iscrizione",
+  "sign": "— Nana"
+}

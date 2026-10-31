@@ -505,7 +505,15 @@
     "feedbackYes": "Tepat banget",
     "feedbackNo": "Nggak juga",
     "thanks": "Makasih — Nana lagi nyatet.",
-    "aiNote": "Ditulis oleh AI buat hiburan. Bisa salah nangkep konteks — jangan ambil keputusan besar berdasarkan ini."
+    "aiNote": "Ditulis oleh AI buat hiburan. Bisa salah nangkep konteks — jangan ambil keputusan besar berdasarkan ini.",
+    "toc": "Di laporan ini",
+    "minRead": "{n} menit baca",
+    "activity": "Aktivitas per bulan",
+    "phrases": "Hal yang kalian ucapkan kebanyakan",
+    "shareYou": "Bagikan kartu {name}",
+    "personKicker": "Pendapat Nana soal {name}",
+    "readFull": "Baca laporan lengkap",
+    "sendYours": "Biar Nana baca chat kamu"
   },
   "account": {
     "title": "Chat saya",

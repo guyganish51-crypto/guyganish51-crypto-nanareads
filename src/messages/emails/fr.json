@@ -1,0 +1,42 @@
+{
+  "previewReady": {
+    "subject": "Nana a fini de lire 🫖",
+    "pre": "Au programme : {names}",
+    "h": "J'ai lu votre conversation.",
+    "body": "Voilà ce que j'ai écrit sur chacun de vous :",
+    "more": "…et plus encore",
+    "cta": "Lire mon aperçu"
+  },
+  "nudge": {
+    "subject": "{title}",
+    "pre": "Presque tout est encore sous clé.",
+    "h": "Ton rapport t'attend",
+    "body": "Tu as lu le début. Voilà ce qui t'attend encore :",
+    "cta": "Lire le rapport complet",
+    "credit": "Il te reste un crédit gratuit — c'est Nana qui régale."
+  },
+  "hook": {
+    "pre": "Dernier rappel pour ton rapport.",
+    "h": "Une dernière chose avant que je range la bouilloire",
+    "body": "{title}",
+    "cta": "Ouvrir le rapport complet",
+    "ps": "P.-S. Lis-le, balance-le dans le groupe, et regarde qui répond en premier 👀"
+  },
+  "fullReady": {
+    "subject": "Ton rapport complet est prêt ✍️",
+    "pre": "{title}",
+    "h": "Terminé. Jusqu'au dernier mot.",
+    "cta": "Le lire maintenant",
+    "ps": "P.-S. Partage-le dans le groupe. Chiche."
+  },
+  "next": {
+    "subject": "Ça, c'était juste l'échauffement 👀",
+    "pre": "Maintenant, envoie-moi la conversation qui t'obsède vraiment.",
+    "h": "Quelle conversation veux-tu vraiment que je lise ?",
+    "body": "Celle que tu relis à 2 h du matin. L'ex. Le plan pas clair. Ta mère.",
+    "cta": "Envoyer une autre conversation à Nana"
+  },
+  "footer": "Tu reçois cet e-mail parce que tu as demandé à Nana de lire une conversation.",
+  "unsubscribe": "Se désabonner",
+  "sign": "— Nana"
+}

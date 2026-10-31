@@ -505,7 +505,15 @@
     "feedbackYes": "En plein dans le mille",
     "feedbackNo": "Pas vraiment",
     "thanks": "Merci — Nana prend note.",
-    "aiNote": "Écrit par une IA pour le divertissement. Elle peut mal comprendre le contexte — ne prends pas de grandes décisions là-dessus."
+    "aiNote": "Écrit par une IA pour le divertissement. Elle peut mal comprendre le contexte — ne prends pas de grandes décisions là-dessus.",
+    "toc": "Dans ce rapport",
+    "minRead": "{n} min de lecture",
+    "activity": "Activité par mois",
+    "phrases": "Ce que vous répétez beaucoup trop",
+    "shareYou": "Partager la carte de {name}",
+    "personKicker": "Ce que Nana pense de {name}",
+    "readFull": "Lire le rapport complet",
+    "sendYours": "Fais lire ta conversation"
   },
   "account": {
     "title": "Mes convs",

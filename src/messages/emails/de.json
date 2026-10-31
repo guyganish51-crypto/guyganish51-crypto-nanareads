@@ -1,0 +1,42 @@
+{
+  "previewReady": {
+    "subject": "Nana hat fertig gelesen 🫖",
+    "pre": "Mit dabei: {names}",
+    "h": "Ich habe euren Chat gelesen.",
+    "body": "Das habe ich über jeden von euch geschrieben:",
+    "more": "…und mehr",
+    "cta": "Meine Vorschau lesen"
+  },
+  "nudge": {
+    "subject": "{title}",
+    "pre": "Das meiste ist noch verschlossen.",
+    "h": "Dein Bericht wartet auf dich",
+    "body": "Den Anfang kennst du schon. Das steckt noch drin:",
+    "cta": "Ganzen Bericht lesen",
+    "credit": "Du hast noch ein Gratis-Guthaben — geht auf Nana."
+  },
+  "hook": {
+    "pre": "Letzte Erinnerung an deinen Bericht.",
+    "h": "Eine letzte Sache, bevor ich den Wasserkocher wegräume",
+    "body": "{title}",
+    "cta": "Ganzen Bericht öffnen",
+    "ps": "PS: Lies ihn, wirf ihn in den Chat und schau, wer zuerst antwortet 👀"
+  },
+  "fullReady": {
+    "subject": "Dein ganzer Bericht ist fertig ✍️",
+    "pre": "{title}",
+    "h": "Fertig. Jedes einzelne Wort.",
+    "cta": "Jetzt lesen",
+    "ps": "PS: Teil ihn im Chat. Trau dich."
+  },
+  "next": {
+    "subject": "Das war nur zum Aufwärmen 👀",
+    "pre": "Jetzt schick mir den Chat, an den du wirklich ständig denkst.",
+    "h": "Welchen Chat soll ich wirklich lesen?",
+    "body": "Den, den du um 2 Uhr nachts nochmal liest. Der Ex. Das Situationship. Deine Mutter.",
+    "cta": "Nana noch einen Chat schicken"
+  },
+  "footer": "Du bekommst diese E-Mail, weil du Nana einen Chat zum Lesen gegeben hast.",
+  "unsubscribe": "Abmelden",
+  "sign": "— Nana"
+}

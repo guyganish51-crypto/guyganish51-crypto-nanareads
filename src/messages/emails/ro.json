@@ -1,0 +1,42 @@
+{
+  "previewReady": {
+    "subject": "Nana a terminat de citit 🫖",
+    "pre": "Înăuntru: {names}",
+    "h": "Am citit conversația voastră.",
+    "body": "Uite ce am scris despre fiecare dintre voi:",
+    "more": "…și altele",
+    "cta": "Citește previzualizarea"
+  },
+  "nudge": {
+    "subject": "{title}",
+    "pre": "Cea mai mare parte e încă sub cheie.",
+    "h": "Raportul tău te așteaptă",
+    "body": "Ai citit începutul. Uite ce mai e înăuntru:",
+    "cta": "Citește raportul complet",
+    "credit": "Mai ai un credit gratuit — din partea lui Nana."
+  },
+  "hook": {
+    "pre": "Ultimul memento despre raportul tău.",
+    "h": "Încă un lucru înainte să strâng ceainicul",
+    "body": "{title}",
+    "cta": "Deschide raportul complet",
+    "ps": "P.S. Citește-l, aruncă-l pe grup și vezi cine răspunde primul 👀"
+  },
+  "fullReady": {
+    "subject": "Raportul tău complet e gata ✍️",
+    "pre": "{title}",
+    "h": "Gata. Până la ultimul cuvânt.",
+    "cta": "Citește-l acum",
+    "ps": "P.S. Dă-l pe grup. Te provoc."
+  },
+  "next": {
+    "subject": "Asta a fost doar încălzirea 👀",
+    "pre": "Acum trimite-mi conversația la care te gândești de fapt.",
+    "h": "Ce conversație vrei de fapt să citesc?",
+    "body": "Cea pe care o recitești la 2 noaptea. Fostul. Relația fără nume. Mama ta.",
+    "cta": "Trimite-i lui Nana încă o conversație"
+  },
+  "footer": "Primești acest e-mail pentru că i-ai cerut lui Nana să citească o conversație.",
+  "unsubscribe": "Dezabonare",
+  "sign": "— Nana"
+}

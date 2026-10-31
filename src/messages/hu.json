@@ -1,0 +1,660 @@
+{
+  "meta": {
+    "siteName": "Nana Reads",
+    "title": "Nana Reads — a chatedet a világ legkíváncsibb nagyija olvassa el",
+    "description": "Töltsd fel a WhatsApp-, Telegram-, LINE- vagy iMessage-beszélgetésedet. Nana elolvas minden üzenetet, és elmondja, mi folyik ott valójában, kinek fontosabb a dolog, és ki mit gondol a másikról."
+  },
+  "nav": {
+    "cta": "Küldj Nanának egy chatet",
+    "account": "Chatjeim",
+    "language": "Nyelv"
+  },
+  "home": {
+    "eyebrow": "81 éves. Elolvasott minden chatet, amit valaha írtak.",
+    "h1": "Küldd el Nanának a chatedet. Megmondja, mi folyik ott valójában.",
+    "sub": "Nana elolvas minden egyes üzenetet, megszámolja azt is, amit inkább nem kéne, és őszinte, nagyon vicces jelentést ír mindenkiről, aki benne van.",
+    "cta": "Küldj Nanának egy chatet",
+    "ctaNote": "Ingyenes előnézet · nem kell kártya · automatikusan törlődik",
+    "demoTitle": "Válassz egy chatet, és nézd meg, mit lát Nana",
+    "demoHint": "Ezek kitalált chatek. A tiéd rosszabb lesz.",
+    "howTitle": "Hogyan működik?",
+    "how": [
+      {
+        "t": "Exportáld a chatet",
+        "d": "Két koppintás a WhatsAppban, a Telegramon, a LINE-on vagy a KakaoTalkon. Pontosan megmutatjuk, hogyan."
+      },
+      {
+        "t": "Nana mindent elolvas",
+        "d": "Minden üzenetet, minden hangüzenetes kifogást, minden ágyból küldött „már úton vagyok”-ot."
+      },
+      {
+        "t": "Megkapod a jelentést",
+        "d": "Ingyenes előnézet egy perc alatt. A teljes jelentés a postafiókodba érkezik — oszd meg a csoportban, ha mered."
+      }
+    ],
+    "findsTitle": "Amit Nana kiderít",
+    "finds": [
+      {
+        "e": "🫖",
+        "t": "Kinek számít igazán",
+        "d": "Ki kezdi a beszélgetéseket, ki válaszol 4 perc alatt, és ki 4 óra alatt."
+      },
+      {
+        "e": "📉",
+        "t": "A pillanat, amikor megváltozott",
+        "d": "A pontos hét, amikor leült a hangulat — az üzenetekkel együtt, amik bizonyítják."
+      },
+      {
+        "e": "🗝️",
+        "t": "A saját nyelvetek",
+        "d": "A belsős poénok és szavak, amiket csak ti ketten (vagy ti tizenketten) értetek."
+      },
+      {
+        "e": "🏆",
+        "t": "Mindenki szerepe",
+        "d": "Csoportokban: a szervező, a szellem, és aki azt írja, hogy „benne vagyok”, aztán sosem jön el."
+      }
+    ],
+    "privacyTitle": "Adatvédelem alapból",
+    "privacy": [
+      "A chatedet a böngésződben olvassuk be és számoljuk meg, mielőtt bármi feltöltődne.",
+      "A feltöltések titkosítva vannak, és automatikusan törlődnek: 48 óra után, ha nem rendelsz jelentést, illetve 7 nappal az utolsó után.",
+      "Soha nem adjuk el, soha nem osztjuk meg, és soha nem tanítunk vele AI-t."
+    ],
+    "worksWith": "Működik ezekkel",
+    "heatTitle": "Válaszd ki, mennyire legyen kemény Nana",
+    "heat": {
+      "gentle": {
+        "t": "Szelíd",
+        "d": "Születésnapi képeslap-nagyi. Ugratás, de semmi, ami fáj."
+      },
+      "spicy": {
+        "t": "Csípős",
+        "d": "Rendes roast. A legtöbben ezt választják."
+      },
+      "savage": {
+        "t": "Kegyetlen",
+        "d": "Nincs kegyelem. Olyan társaságoknak, akik naponta szívatják egymást."
+      }
+    },
+    "finalH": "A te chated következik.",
+    "finalSub": "Nana már fel is tette a teavizet."
+  },
+  "landing": {
+    "relationship": {
+      "metaTitle": "Tényleg tetszel neki? AI-elemzés a chatetekről — Nana Reads",
+      "metaDesc": "Töltsd fel a chatet a crushoddal, a pároddal, a situationshipeddel vagy az exeddel. Nana elolvas minden üzenetet, és megmondja, kinek fontosabb, és mi változott.",
+      "h1": "Tényleg tetszel neki? Nana megmondja.",
+      "sub": "Küldd el a chatet a crushoddal, a pároddal, a situationshipeddel vagy az exeddel. Nana megszámolja, ki ír először, ki vár, és mikor fordult meg minden."
+    },
+    "friends": {
+      "metaTitle": "Csoportos chat elemzése és baráti roast — Nana Reads",
+      "metaDesc": "Töltsd fel a baráti csoportotok chatjét. Nana mindenkit kifiguráz, díjakat oszt ki, és kimondja, amit senki sem mer.",
+      "h1": "Mit gondol Nana rólad és a barátaidról?",
+      "sub": "A srácok chatje, a csajok chatje, az út, amiből sosem lett semmi. Nana mindent elolvas, és mindenki megkapja a címet, amit megérdemel."
+    },
+    "family": {
+      "metaTitle": "Családi WhatsApp-csoport elemzése — Nana Reads",
+      "metaDesc": "Töltsd fel a családi csoportot. Nana kideríti, ki tartja össze igazából a családot, ki nem válaszol soha, és ki küldi a jó reggelt virágokat.",
+      "h1": "A családi chatet egy nagyi olvassa, aki már mindent látott.",
+      "sub": "Ki tartja össze a családot, ki válaszol csak a kajás képekre, és ki haragszik még mindig a tavalyi karácsony miatt. Nana tudja."
+    },
+    "imessage": {
+      "metaTitle": "iMessage-chat elemzése — Nana Reads",
+      "metaDesc": "Exportálj egy iMessage-beszélgetést a Macedről, és hagyd, hogy Nana elolvassa. Kinek fontosabb, mi változott, és mi legyen a következő lépés.",
+      "h1": "Töltsd fel az iMessage-chatet. A többit Nana intézi.",
+      "sub": "Pár perc alatt exportálsz egy beszélgetést a Macedről, Nana pedig elolvas minden kék buborékot."
+    },
+    "whatsapp": {
+      "metaTitle": "WhatsApp-chat elemzése — Nana Reads",
+      "metaDesc": "Bármelyik WhatsApp-chatet két koppintással exportálhatod. Nana elolvas minden üzenetet, és őszinte, vicces jelentést ír mindenkiről.",
+      "h1": "WhatsApp-chat elemzés a legkíváncsibb nagyidtól.",
+      "sub": "Két koppintás az export, egy perc az ingyenes előnézet. Működik privát chatekkel és bármekkora csoporttal."
+    }
+  },
+  "demos": [
+    {
+      "id": "trip",
+      "label": "A srácok 🍻",
+      "kind": "Baráti csoport",
+      "count": "24 310 üzenet",
+      "messages": [
+        {
+          "a": "Bence",
+          "x": "Srácok. Horvátország. Kint a szavazás, holnapig szavazzatok"
+        },
+        {
+          "a": "Máté",
+          "x": "BENNE!!"
+        },
+        {
+          "a": "Dani",
+          "x": "benne de ne júniusban"
+        },
+        {
+          "a": "Bence",
+          "x": "pont hogy júniusban VAN. ez a lényeg"
+        },
+        {
+          "a": "Máté",
+          "x": "várj júniusban van az unokatesóm esküvője"
+        },
+        {
+          "a": "Dani",
+          "x": "milyen szavazás"
+        },
+        {
+          "a": "Bence",
+          "x": "ugyanaz mint tavaly"
+        }
+      ],
+      "stats": [
+        {
+          "k": "Létrehozott szavazások",
+          "v": "4"
+        },
+        {
+          "k": "Szavazatok",
+          "v": "1"
+        },
+        {
+          "k": "Lefoglalt repjegyek",
+          "v": "0"
+        },
+        {
+          "k": "Elküldött „benne vagyok”",
+          "v": "37"
+        }
+      ],
+      "headline": "Horvátország: négy szavazás, egy szavazó, nulla repjegy",
+      "verdict": "Bence négyszer tette ki ugyanazt a szavazást, és minden szavazat az övé. Ebben a csoportban senki nem mond nemet egy útra. Csak igent nem mond soha senki.",
+      "locked": [
+        "Ki szervez valójában, és ki írja csak be, hogy „BENNE”",
+        "Máté unokatesója, akinek idén már 3 esküvője volt",
+        "Minden kifogás, hihetőség szerint rangsorolva",
+        "Miért nyer mindig a balatoni nyaraló"
+      ]
+    },
+    {
+      "id": "situationship",
+      "label": "Réka 🙃",
+      "kind": "Situationship",
+      "count": "5 102 üzenet",
+      "messages": [
+        {
+          "a": "Réka",
+          "x": "sziaaa hogy vagy 🙂"
+        },
+        {
+          "a": "Én",
+          "x": "szia?? kilenc napra eltűntél"
+        },
+        {
+          "a": "Réka",
+          "x": "őszintén, a munka most nagyon durva"
+        },
+        {
+          "a": "Én",
+          "x": "láttam a strandos storydat"
+        },
+        {
+          "a": "Réka",
+          "x": "az kb fél óra volt 😅"
+        },
+        {
+          "a": "Én",
+          "x": "akkor találkozunk hétvégén?"
+        },
+        {
+          "a": "Réka",
+          "x": "talán! majd meglátjuk, milyen lesz a hét"
+        }
+      ],
+      "stats": [
+        {
+          "k": "A te medián válaszidőd",
+          "v": "4 perc"
+        },
+        {
+          "k": "Réka medián válaszideje",
+          "v": "3 óra"
+        },
+        {
+          "k": "Ki kezdi",
+          "v": "Te · 81%"
+        },
+        {
+          "k": "Leghosszabb csend",
+          "v": "9 nap"
+        }
+      ],
+      "headline": "Kilenc nap olvasatlanul hagyva, aztán „sziaaa hogy vagy 🙂”",
+      "verdict": "Réka három óra alatt válaszol, te négy perc alatt. Mindketten tudjátok, mit jelent ez, drágám, és egyikőtök sem mondja ki.",
+      "locked": [
+        "Ki ír először, és ki várja, hogy neki írjanak",
+        "Kilenc nap csend: mi történt valójában",
+        "Mi rejlik Réka „😅”-ja mögött",
+        "Mit tenne Nana a helyedben"
+      ]
+    },
+    {
+      "id": "family",
+      "label": "Család 🏡",
+      "kind": "Családi csoport",
+      "count": "61 877 üzenet",
+      "messages": [
+        {
+          "a": "Anya",
+          "x": "Jó reggelt családom 🌸🌸🌸"
+        },
+        {
+          "a": "Nagypapa",
+          "x": "Jó reggelt"
+        },
+        {
+          "a": "Anya",
+          "x": "Ki jön vasárnap ebédre? Számok kellenek"
+        },
+        {
+          "a": "Bálint",
+          "x": "👍"
+        },
+        {
+          "a": "Anya",
+          "x": "a 👍 nem szám Bálint"
+        },
+        {
+          "a": "Zsófi",
+          "x": "hozhatok valakit"
+        },
+        {
+          "a": "Anya",
+          "x": "KIT"
+        }
+      ],
+      "stats": [
+        {
+          "k": "Jó reggelt virágok",
+          "v": "1 204"
+        },
+        {
+          "k": "Bálint szavai üzenetenként",
+          "v": "1,2"
+        },
+        {
+          "k": "Vasárnapi létszámfelmérések",
+          "v": "212"
+        },
+        {
+          "k": "Megválaszolva",
+          "v": "19"
+        }
+      ],
+      "headline": "212 vasárnapi létszámfelmérés, 19 válasz, egy 👍",
+      "verdict": "Anya 212-szer kérdezte meg, ki jön vasárnap ebédre. Bálint ebből 140-szer egy lájkkal válaszolt. És mindenki ott van, minden egyes héten.",
+      "locked": [
+        "Anya, a család fizetés nélküli vezérigazgatója",
+        "Bálint és a lájkok gazdaságtana",
+        "Kit hoz Zsófi vasárnap",
+        "Nagypapa hajnali 6 órás üzenetei, megfejtve"
+      ]
+    }
+  ],
+  "examples": {
+    "title": "Mondatok Nana jelentéseiből",
+    "note": "A fenti példa-chatekből, úgyhogy senki magánélete nem sérült.",
+    "items": [
+      "Bence négyszer tette ki ugyanazt a szavazást. Ő nem útszervező, hanem túszközvetítő.",
+      "Te négy perc alatt válaszolsz. Réka három óra alatt. Az én időmben ezt úgy hívtuk: „jel”.",
+      "Bálint hat év alatt 4 000 szót írt ebbe a csoportba. Ebből 3 100 az volt, hogy „ok”.",
+      "Anyának nem létszám kell. Anyának egy ölelés kell és egy egyenes válasz."
+    ]
+  },
+  "flow": {
+    "close": "Bezárás",
+    "stepOf": "{n}/{total}",
+    "back": "Vissza",
+    "next": "Tovább",
+    "context": {
+      "q": "Milyen chatet olvasson el Nana?",
+      "options": {
+        "partner": {
+          "t": "Romantika",
+          "d": "párod, crushod, situationship, ex…"
+        },
+        "friends": {
+          "t": "Baráti csoport",
+          "d": "a srácok, a csajok, az utazós chat…"
+        },
+        "friend": {
+          "t": "Egy barát",
+          "d": "legjobb barát, gyerekkori barát, munkahelyi bestie…"
+        },
+        "family": {
+          "t": "Család",
+          "d": "családi csoport, anya vagy apa, tesók…"
+        },
+        "work": {
+          "t": "Munka / csapat",
+          "d": "csapatchat, kollégák, a főnök…"
+        },
+        "other": {
+          "t": "Valami más",
+          "d": "lakótársak, szomszédok, a lakóközösség…"
+        }
+      }
+    },
+    "source": {
+      "q": "Honnan van a chat?",
+      "soon": "A képernyőfelvétel importálása hamarosan jön. Addig használj egy olyan appot, ami tud szöveges exportot."
+    },
+    "upload": {
+      "q": "Töltsd fel a chatet innen: {app}",
+      "drop": "Koppints, és válaszd ki az exportált fájlt",
+      "dropHint": ".txt, .zip, .json vagy .csv — legfeljebb 200 MB",
+      "reading": "Nana olvas… eddig {count} üzenet",
+      "readingLocal": "Ez a te eszközödön történik. Még semmi nem töltődött fel.",
+      "uploading": "Biztonságos feltöltés…",
+      "privacy": "A chated privát marad",
+      "howTo": "Hogyan exportáljam?",
+      "errors": {
+        "format": "Nana nem tudta elolvasni ezt a fájlt. Ellenőrizd, hogy az eredeti export-e (.txt vagy .zip), és nem képernyőkép.",
+        "few": "Ez a chat kicsit rövid. Nanának legalább 10 üzenet kell ahhoz, hogy véleménye legyen.",
+        "big": "A fájl nagyobb 200 MB-nál. Exportáld média nélkül, és próbáld újra.",
+        "upload": "A feltöltés nem sikerült. Ellenőrizd a kapcsolatot, és próbáld újra."
+      },
+      "found": "{count} üzenetet találtunk {first} és {last} között."
+    },
+    "guides": {
+      "whatsapp": [
+        "Nyisd meg a chatet a WhatsAppban",
+        "Koppints a névre fent (iPhone) vagy a ⋮ → Továbbiak lehetőségre (Android)",
+        "Koppints a „Csevegés exportálása” gombra, és válaszd a „Média nélkül” lehetőséget",
+        "Mentsd a Fájlokba, és válaszd ki itt — vagy küldd el magadnak e-mailben"
+      ],
+      "telegram": [
+        "Nyisd meg a Telegram Desktopot számítógépen",
+        "Nyisd meg a chatet → ⋮ → Csevegési előzmények exportálása",
+        "Vedd ki a pipát a fotók és videók elől, és válaszd a „Géppel olvasható JSON” formátumot",
+        "Töltsd fel ide a result.json fájlt"
+      ],
+      "line": [
+        "Nyisd meg a chatet a LINE-ban",
+        "Koppints a ≡ ikonra (jobbra fent) → Beállítások",
+        "Koppints a „Csevegési előzmények exportálása” lehetőségre",
+        "Mentsd el a .txt fájlt, és válaszd ki itt"
+      ],
+      "kakaotalk": [
+        "Nyisd meg a chatet a KakaoTalkban",
+        "Koppints a ≡ → ⚙ Csevegőszoba beállításai lehetőségre",
+        "Koppints az „Üzenetek exportálása” → „Csak szöveg mentése” lehetőségre",
+        "Válaszd ki itt a .txt fájlt"
+      ],
+      "imessage": [
+        "Telepítsd Macre az ingyenes „iMessage Exporter”-t (vagy bármilyen eszközt, ami CSV/TXT-be ment)",
+        "Exportáld a beszélgetést szövegként vagy CSV-ként",
+        "Töltsd fel ide a fájlt"
+      ],
+      "instagram": [
+        "Instagram → Beállítások → Tevékenységed → Adataid letöltése",
+        "Válaszd az Üzeneteket, JSON formátumban",
+        "Amikor megjön az e-mail, töltsd fel a beszélgetés message_1.json fájlját"
+      ],
+      "messenger": [
+        "Facebook → Beállítások → Adataid letöltése",
+        "Válaszd az Üzeneteket, JSON formátumban",
+        "Töltsd fel ide a beszélgetés message_1.json fájlját"
+      ],
+      "other": [
+        "Exportáld a chatet szöveges, CSV- vagy JSON-fájlként",
+        "Töltsd fel ide — Nana a legtöbb formátumot el tudja olvasni"
+      ]
+    },
+    "me": {
+      "q": "Melyikük vagy te?",
+      "sub": "Hogy Nana hozzád beszéljen, ne rólad.",
+      "none": "Nem vagyok benne ebben a chatben"
+    },
+    "details": {
+      "q": "Van valami, amit Nanának tudnia kéne?",
+      "notes": "Opcionális háttér (pl. „márciusban szakítottunk”, „Tamás a bátyám”)",
+      "lang": "A jelentés nyelve",
+      "heat": "Mennyire legyen kemény Nana?"
+    },
+    "email": {
+      "q": "Hova küldje Nana a jelentést?",
+      "sub": "Küldünk e-mailben egy 6 jegyű kódot. Nincs jelszó, nincs spam.",
+      "placeholder": "te@pelda.hu",
+      "send": "Kód küldése",
+      "code": "Írd be a kódot, amit ide küldtünk: {email}",
+      "verify": "Ellenőrzés",
+      "resend": "Új kód küldése",
+      "orLink": "Vagy koppints az e-mailben lévő linkre — az is működik.",
+      "terms": "A folytatással elfogadod a következőket: {terms} és {privacy}, és megerősíted, hogy elmúltál 18 éves.",
+      "errors": {
+        "email": "Ez az e-mail-cím nem tűnik jónak.",
+        "code": "Ez a kód nem működött. Próbáld újra, vagy kérj újat.",
+        "rate": "Túl sok próbálkozás. Várj egy percet, és próbáld újra."
+      }
+    },
+    "writing": {
+      "t": "Nana olvassa a chatedet",
+      "lines": [
+        "Felteszi a szemüvegét…",
+        "Számolja, ki ír először…",
+        "Keresi a hetet, amikor minden megváltozott…",
+        "Aláhúzza a legjobb részeket…",
+        "Teát főz…"
+      ],
+      "note": "Ez nagyjából egy perc. E-mailt is küldünk, amikor kész."
+    },
+    "recording": {
+      "cta": "Vagy tölts fel egy képernyőfelvételt",
+      "hint": "Vedd fel, ahogy lassan végiggörgeted a chatet a legrégebbi üzenettől a legújabbig, aztán töltsd fel a videót. Nana elolvassa a buborékokat.",
+      "extracting": "A legélesebb képkockák kiválogatása… {pct}%",
+      "reading": "Nana olvassa a képernyőképeket… ez 1–2 perc",
+      "errVideo": "Ezt a videót nem sikerült beolvasni. Próbálj egy sima képernyőfelvételt (MP4 vagy MOV).",
+      "errFew": "Nana csak néhány üzenetet talált. Görgess lassabban, és vegyél fel hosszabb részt a chatből."
+    }
+  },
+  "report": {
+    "by": "Nana",
+    "tagline": "81 éves. Elolvasott minden chatet, amit valaha írtak. Még mindig hoz levest.",
+    "share": "Jelentés megosztása",
+    "copied": "Link kimásolva",
+    "privacy": "Privát, és te irányítod",
+    "cutoff": "A chat túl hosszú volt ahhoz, hogy egyszerre elolvassa, ezért Nana {date} óta mindent elolvasott.",
+    "statsTitle": "A számok",
+    "stat": {
+      "messages": "Üzenetek",
+      "perDay": "Naponta",
+      "whoTalks": "Ki beszél a legtöbbet",
+      "whoStarts": "Ki kezdi",
+      "afterMidnight": "Éjfél után",
+      "reply": "Medián válaszidő",
+      "busiestHour": "Legforgalmasabb óra",
+      "voice": "Hangüzenetek",
+      "emojis": "Top emojik",
+      "silence": "Leghosszabb csend",
+      "days": "{n} nap",
+      "min": "{n} perc",
+      "h": "{n} óra"
+    },
+    "lockedTitle": "Még a jelentésben vár",
+    "peopleTitle": "És mindegyikőtökről",
+    "unlock": "A teljes jelentés elolvasása",
+    "unlockNote": "1 kreditbe kerül · neked {n} van",
+    "noCredits": "Elfogytak a kreditjeid. A fizetés hamarosan elindul — Nana majd ír e-mailt.",
+    "writingFull": "Nana írja a teljes jelentést. Kb. 2 perc — e-mailt is küldünk.",
+    "failed": "Valami elromlott, miközben Nana írt. A kreditedet visszaadtuk. Kérlek, próbáld újra.",
+    "retry": "Újrapróbálás",
+    "peopleSection": "Ki kicsoda",
+    "glossary": "A chat szótára",
+    "awards": "A díjak",
+    "reactions": "Hogyan fog reagálni erre mindegyikőtök",
+    "verdict": "Az ítélet",
+    "advice": "Mit tenne Nana",
+    "askTitle": "Kérdezz még valamit Nanától erről a chatről",
+    "askPlaceholder": "pl. Kezd elmúlni az érdeklődése? Ki haragszik rám valójában a csoportban?",
+    "askCta": "Kérdezd Nanát · 1 kredit",
+    "askExpired": "Ezt a chatet már töröltük a szervereinkről, így Nana nem tud róla új kérdésekre válaszolni.",
+    "nextTitle": "Melyik chatet olvassa el Nana legközelebb?",
+    "nextCta": "Küldj még egy chatet",
+    "notFound": "Ez a jelentés nem létezik, vagy törölték.",
+    "feedback": "Igaza volt Nanának?",
+    "feedbackYes": "Telitalálat",
+    "feedbackNo": "Nem igazán",
+    "thanks": "Köszi — Nana jegyzetel.",
+    "aiNote": "AI írta szórakoztatási céllal. Félreértheti a kontextust — ne hozz ez alapján nagy döntéseket.",
+    "toc": "Ebben a jelentésben",
+    "minRead": "{n} perc olvasás",
+    "activity": "Aktivitás havonta",
+    "phrases": "Amit túl sokszor mondasz",
+    "shareYou": "{name} kártyájának megosztása",
+    "personKicker": "Mit gondol Nana róla: {name}",
+    "readFull": "A teljes jelentés elolvasása",
+    "sendYours": "Olvastasd el a saját chatedet"
+  },
+  "account": {
+    "title": "Chatjeim",
+    "signIn": "Jelentkezz be, hogy lásd a chatjeidet és jelentéseidet",
+    "signOut": "Kijelentkezés",
+    "credits": "Kreditek: {n}",
+    "empty": "Még nincs chated.",
+    "reports": "Jelentések",
+    "chatExpires": "A chat automatikusan törlődik: {date}",
+    "chatDeleted": "A chat már törölve · a jelentések megmaradtak",
+    "deleteChat": "Chat törlése",
+    "deleteReport": "Jelentés törlése",
+    "deleteAccount": "A fiókom és minden benne lévő adat törlése",
+    "confirm": "Biztos vagy benne? Ezt nem lehet visszavonni.",
+    "open": "Megnyitás",
+    "followup": "Ráadás kérdés"
+  },
+  "faq": {
+    "title": "Kérdések feltöltés előtt",
+    "items": [
+      {
+        "q": "Mi az a Nana Reads?",
+        "a": "Egy AI-karakter — Nana —, aki elolvassa a feltöltött chatet, és őszinte, vicces jelentést ír mindenkiről, aki benne van: a valódi dinamikáról, arról, kinek fontosabb, mi változott, és kinek mi a szerepe."
+      },
+      {
+        "q": "Ingyenes?",
+        "a": "Az első betekintés ingyenes: Nana bevezetője, a számok és a teljes jelentés összes fejezetcíme. A teljes jelentés egy kreditbe kerül. Nincs előfizetés."
+      },
+      {
+        "q": "Milyen appokkal működik?",
+        "a": "WhatsApp (iPhone és Android), Telegram, LINE és KakaoTalk exportokkal, valamint iMessage-, Instagram- és Messenger-adatexportokkal. A képernyőfelvétel importálása hamarosan jön."
+      },
+      {
+        "q": "Privát marad a chatem?",
+        "a": "Nana először a böngésződben számolja meg az üzeneteidet. A feltöltés titkosított, soha nem osztjuk meg senkivel a chatből, soha nem adjuk el, és soha nem tanítunk vele AI-t. Automatikusan törlődik 48 órával a feltöltés után, ha nem rendelsz jelentést, vagy 7 nappal a legutóbbi jelentésed után."
+      },
+      {
+        "q": "Megtudják a chatben lévők?",
+        "a": "Nem. Senki nem kap értesítést. A jelentést csak azok látják, akiknek elküldöd a linket."
+      },
+      {
+        "q": "Milyen nyelveken?",
+        "a": "A chated bármilyen nyelven lehet, akár vegyesen is. A jelentések 24 nyelven készülnek, és Nana a chat saját szlengjét használja."
+      },
+      {
+        "q": "Mennyi ideig tart?",
+        "a": "Az előnézet nagyjából egy perc. A teljes jelentés körülbelül két perc. E-mailt küldünk, amikor kész, így nem kell az oldalon várnod."
+      },
+      {
+        "q": "Kérdezhetek még Nanától?",
+        "a": "Igen. Minden jelentés alatt feltehetsz egy további kérdést ugyanarról a chatről. Minden válasz egy új, mélyebb jelentés."
+      },
+      {
+        "q": "Hogyan törölhetem az adataimat?",
+        "a": "A „Chatjeim” oldalon bármikor törölhetsz egy chatet, egy jelentést vagy az egész fiókodat."
+      },
+      {
+        "q": "Pontos?",
+        "a": "A számokat pontosan az exportodból számoljuk. A vélemények Nanáéi — az AI félreértheti a kontextust, ezért vedd szórakozásnak, ne tanácsnak."
+      },
+      {
+        "q": "Kinek szól?",
+        "a": "Felnőtteknek (18+), akik nevetni akarnak, egy kis józanító pofont kapnának, vagy bizonyítékot arra, hogy végig nekik volt igazuk."
+      }
+    ]
+  },
+  "about": {
+    "title": "A Nana Readsről",
+    "body": [
+      "A Nana Reads egy kis független stúdió projektje. Megalkottunk egy karaktert, akit mi is szerettünk volna, ha létezik: egy nagyit, aki elolvasta a világ összes chatjét, szeret téged, és ennek ellenére megmondja az igazat.",
+      "Nana olvas WhatsApp-, Telegram-, LINE-, KakaoTalk-, iMessage-, Instagram- és Messenger-chateket, és 24 nyelven ír.",
+      "Nekünk jobban számít az adatvédelem, mint bárki másnak ebben a kategóriában: a chatedet először a böngésződben számoljuk meg, automatikusan töröljük, és soha nem tanítunk vele AI-t."
+    ],
+    "factsTitle": "Röviden",
+    "facts": [
+      [
+        "Név",
+        "Nana Reads"
+      ],
+      [
+        "Mi ez",
+        "AI-chatjelentések barátoknak, pároknak és családoknak"
+      ],
+      [
+        "Nyelvek",
+        "24"
+      ],
+      [
+        "Árazás",
+        "Ingyenes előnézet, utána jelentésenként fizetsz. Nincs előfizetés."
+      ],
+      [
+        "Adatvédelem",
+        "Automatikusan törlődik, soha nem tanítunk vele AI-t"
+      ]
+    ]
+  },
+  "support": {
+    "title": "Írj nekünk",
+    "sub": "A legtöbb választ megtalálod a lenti kérdésekben. Ha mégsem, írj nekünk — minden üzenetet egy igazi ember olvas el.",
+    "email": "Az e-mail-címed",
+    "message": "Miben segíthetünk?",
+    "send": "Küldés",
+    "sent": "Megkaptuk. E-mailben válaszolunk."
+  },
+  "feedback": {
+    "title": "Mondd el Nanának, mit gondolsz",
+    "sub": "Ötletek, panaszok, bókok Nanának. Mindent elolvasunk.",
+    "placeholder": "A visszajelzésed",
+    "send": "Küldés",
+    "sent": "Köszönjük!"
+  },
+  "footer": {
+    "chats": "Chatek",
+    "help": "Segítség",
+    "company": "Nana Reads",
+    "links": {
+      "home": "Kezdőlap",
+      "relationship": "Párkapcsolati chatek",
+      "friends": "Baráti és csoportos chatek",
+      "family": "Családi chatek",
+      "whatsapp": "WhatsApp-chatek",
+      "imessage": "iMessage-chatek",
+      "account": "Chatjeim",
+      "faq": "GYIK",
+      "support": "Ügyfélszolgálat",
+      "feedback": "Visszajelzés",
+      "privacy": "Adatvédelem",
+      "terms": "Feltételek",
+      "about": "Rólunk"
+    },
+    "rights": "© {year} Nana Reads. Kizárólag szórakoztatási célra."
+  },
+  "legal": {
+    "englishOnly": "Ez az oldal angolul jelenik meg. Az angol változat a kötelező érvényű.",
+    "privacy": "Adatvédelmi szabályzat",
+    "terms": "Felhasználási feltételek"
+  },
+  "common": {
+    "loading": "Betöltés…",
+    "error": "Valami hiba történt.",
+    "or": "vagy"
+  }
+}

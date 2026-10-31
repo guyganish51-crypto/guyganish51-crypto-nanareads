@@ -1,0 +1,660 @@
+{
+  "meta": {
+    "siteName": "Nana Reads",
+    "title": "Nana Reads — tvůj chat přečte ta nejzvědavější babička na světě",
+    "description": "Nahraj chat z WhatsAppu, Telegramu, LINE nebo iMessage. Nana přečte každou zprávu a řekne ti, co se tam doopravdy děje, komu na tom záleží víc a co si kdo o kom myslí."
+  },
+  "nav": {
+    "cta": "Ať to Nana přečte",
+    "account": "Moje chaty",
+    "language": "Jazyk"
+  },
+  "home": {
+    "eyebrow": "81 let. Přečetla každý chat, co kdy kdo napsal.",
+    "h1": "Pošli svůj chat a Nana ti řekne, co se tam doopravdy děje.",
+    "sub": "Nana přečte úplně každou zprávu, spočítá i to, co bys radši nechal pod pokličkou, a napíše o všech v chatu upřímný a hodně vtipný report.",
+    "cta": "Ať to Nana přečte",
+    "ctaNote": "Ukázka zdarma · bez karty · automaticky se maže",
+    "demoTitle": "Vyber chat a uvidíš, co vidí Nana",
+    "demoHint": "Tyhle chaty jsou vymyšlené. Ten tvůj bude horší.",
+    "howTitle": "Jak to funguje",
+    "how": [
+      {
+        "t": "Exportuj chat",
+        "d": "Dvě ťuknutí ve WhatsAppu, Telegramu, LINE nebo KakaoTalku. Přesně ti ukážeme jak."
+      },
+      {
+        "t": "Nana to přečte celé",
+        "d": "Každou zprávu, každou výmluvu v hlasovce, každé „už jdu“ poslané z postele."
+      },
+      {
+        "t": "Dostaneš report",
+        "d": "Ukázka zdarma do minuty. Celý report ti přistane v e-mailu — a pokud máš odvahu, pošli ho do chatu."
+      }
+    ],
+    "findsTitle": "Co Nana najde",
+    "finds": [
+      {
+        "e": "🫖",
+        "t": "Komu na tom fakt záleží",
+        "d": "Kdo začíná konverzace, kdo odpovídá do 4 minut a kdo za 4 hodiny."
+      },
+      {
+        "e": "📉",
+        "t": "Chvíle, kdy se to zlomilo",
+        "d": "Přesný týden, kdy šla energie dolů, i se zprávami, které to dokazují."
+      },
+      {
+        "e": "🗝️",
+        "t": "Váš tajný jazyk",
+        "d": "Vnitřní fóry a slova, kterým rozumíte jen vy dva (nebo vy dvanáct)."
+      },
+      {
+        "e": "🏆",
+        "t": "Role každého z vás",
+        "d": "Ve skupinách: organizátor, duch a ten, kdo napíše „jdu do toho“ a nikdy nedorazí."
+      }
+    ],
+    "privacyTitle": "Soukromí na prvním místě",
+    "privacy": [
+      "Tvůj chat se přečte a spočítá přímo v prohlížeči, ještě než se cokoli nahraje.",
+      "Nahrané soubory jsou šifrované a automaticky se mažou: po 48 hodinách, pokud si report neobjednáš, a 7 dní po tom posledním.",
+      "Nikdy se neprodávají, nikdy se nesdílejí a nikdy se na nich netrénuje AI."
+    ],
+    "worksWith": "Funguje s",
+    "heatTitle": "Vyber, jak moc Nana přitlačí",
+    "heat": {
+      "gentle": {
+        "t": "Jemně",
+        "d": "Babička z narozeninového přání. Popíchne, ale nebolí to."
+      },
+      "spicy": {
+        "t": "Ostře",
+        "d": "Pořádný roast. Tohle si vybírá většina."
+      },
+      "savage": {
+        "t": "Bez slitování",
+        "d": "Žádná milost. Pro partu, která se navzájem griluje každý den."
+      }
+    },
+    "finalH": "Tvůj chat je na řadě.",
+    "finalSub": "Nana už staví vodu na čaj."
+  },
+  "landing": {
+    "relationship": {
+      "metaTitle": "Líbíš se mu vůbec? AI rozbor vašeho chatu — Nana Reads",
+      "metaDesc": "Nahraj chat se svým crushem, partnerem, situationshipem nebo ex. Nana přečte každou zprávu a řekne ti, komu záleží víc a co se změnilo.",
+      "h1": "Líbíš se mu vůbec? Nana ti to řekne na rovinu.",
+      "sub": "Pošli chat se svým crushem, partnerem, situationshipem nebo ex. Nana spočítá, kdo píše první, kdo čeká a kdy se to celé otočilo."
+    },
+    "friends": {
+      "metaTitle": "Rozbor skupinového chatu a roast kamarádů — Nana Reads",
+      "metaDesc": "Nahraj skupinový chat s kamarády. Nana zgriluje každého, rozdá ceny a řekne nahlas to, co si nikdo netroufne.",
+      "h1": "Co si Nana myslí o tobě a tvých kamarádech?",
+      "sub": "Klučičí chat, holčičí chat, výlet, ze kterého nikdy nic nebylo. Nana přečte všechno a dá každému titul, který si zaslouží."
+    },
+    "family": {
+      "metaTitle": "Rozbor rodinné skupiny na WhatsAppu — Nana Reads",
+      "metaDesc": "Nahraj rodinný skupinový chat. Nana zjistí, kdo rodinu doopravdy drží pohromadě, kdo nikdy neodpovídá a kdo posílá ty kytičky na dobré ráno.",
+      "h1": "Váš rodinný chat přečte babička, která už viděla všechno.",
+      "sub": "Kdo drží rodinu pohromadě, kdo odpovídá jen na fotky jídla a kdo se pořád zlobí kvůli loňským Vánocům. Nana to ví."
+    },
+    "imessage": {
+      "metaTitle": "Rozbor chatu z iMessage — Nana Reads",
+      "metaDesc": "Exportuj konverzaci z iMessage na svém Macu a Nana si ji přečte. Komu záleží víc, co se změnilo a co dál.",
+      "h1": "Nahraj chat z iMessage. Zbytek zařídí Nana.",
+      "sub": "Exportuj konverzaci z Macu za pár minut a Nana přečte každou modrou bublinu."
+    },
+    "whatsapp": {
+      "metaTitle": "Rozbor chatu z WhatsAppu — Nana Reads",
+      "metaDesc": "Exportuj jakýkoli chat z WhatsAppu dvěma ťuknutími. Nana přečte každou zprávu a napíše o všech upřímný a vtipný report.",
+      "h1": "Rozbor chatu z WhatsAppu od tvé nejzvědavější babičky.",
+      "sub": "Dvě ťuknutí na export, minuta do ukázky zdarma. Funguje se soukromými chaty i se skupinami jakékoli velikosti."
+    }
+  },
+  "demos": [
+    {
+      "id": "trip",
+      "label": "Kluci 🍻",
+      "kind": "Parta kamarádů",
+      "count": "24 310 zpráv",
+      "messages": [
+        {
+          "a": "Honza",
+          "x": "Kluci. Chorvatsko. Anketa visí, hlasujte do zítřka"
+        },
+        {
+          "a": "Kuba",
+          "x": "JSEM TAM!!"
+        },
+        {
+          "a": "Tonda",
+          "x": "jo ale ne v červnu"
+        },
+        {
+          "a": "Honza",
+          "x": "ono to JE v červnu. o to právě jde"
+        },
+        {
+          "a": "Kuba",
+          "x": "počkej v červnu mám bratrancovu svatbu"
+        },
+        {
+          "a": "Tonda",
+          "x": "jaká anketa"
+        },
+        {
+          "a": "Honza",
+          "x": "ta samá jako loni"
+        }
+      ],
+      "stats": [
+        {
+          "k": "Vytvořené ankety",
+          "v": "4"
+        },
+        {
+          "k": "Hlasy",
+          "v": "1"
+        },
+        {
+          "k": "Zabukované letenky",
+          "v": "0"
+        },
+        {
+          "k": "Odesláno „jsem tam“",
+          "v": "37"
+        }
+      ],
+      "headline": "Chorvatsko: čtyři ankety, jeden volič, nula letenek",
+      "verdict": "Honza dal do chatu tu samou anketu čtyřikrát a každý hlas v ní je jeho. Nikdo v téhle partě nikdy neřekne výletu ne. Jenom nikdy neřeknou ano.",
+      "locked": [
+        "Kdo doopravdy plánuje a kdo jen píše „JSEM TAM“",
+        "Kubův bratranec, který měl letos 3 svatby",
+        "Všechny výmluvy seřazené podle uvěřitelnosti",
+        "Proč pokaždé vyhraje chata v Krkonoších"
+      ]
+    },
+    {
+      "id": "situationship",
+      "label": "Tereza 🙃",
+      "kind": "Situationship",
+      "count": "5 102 zpráv",
+      "messages": [
+        {
+          "a": "Tereza",
+          "x": "ahojjj jak se máš 🙂"
+        },
+        {
+          "a": "Já",
+          "x": "ahoj?? devět dní jsi byla pryč"
+        },
+        {
+          "a": "Tereza",
+          "x": "v práci je to fakt šílený"
+        },
+        {
+          "a": "Já",
+          "x": "viděl jsem tvoji story z pláže"
+        },
+        {
+          "a": "Tereza",
+          "x": "to bylo tak na půl hodiny 😅"
+        },
+        {
+          "a": "Já",
+          "x": "tak uvidíme se o víkendu?"
+        },
+        {
+          "a": "Tereza",
+          "x": "možná! uvidíme, jak bude vypadat týden"
+        }
+      ],
+      "stats": [
+        {
+          "k": "Tvoje typická odpověď",
+          "v": "4 min"
+        },
+        {
+          "k": "Terezina typická odpověď",
+          "v": "3 h"
+        },
+        {
+          "k": "Kdo začíná",
+          "v": "Ty · 81 %"
+        },
+        {
+          "k": "Nejdelší ticho",
+          "v": "9 dní"
+        }
+      ],
+      "headline": "Devět dní na přečteno a pak „ahojjj jak se máš 🙂“",
+      "verdict": "Tereza odpovídá za tři hodiny, ty za čtyři minuty. Oba moc dobře víte, co to znamená, zlatíčko, a ani jeden z vás to neřekne nahlas.",
+      "locked": [
+        "Kdo píše první a kdo čeká, až mu někdo napíše",
+        "Devět dní ticha: co se doopravdy stalo",
+        "Co se skrývá za Terezinou „😅“",
+        "Co by Nana udělala na tvém místě"
+      ]
+    },
+    {
+      "id": "family",
+      "label": "Rodina 🏡",
+      "kind": "Rodinná skupina",
+      "count": "61 877 zpráv",
+      "messages": [
+        {
+          "a": "Máma",
+          "x": "Dobré ráno rodinko 🌸🌸🌸"
+        },
+        {
+          "a": "Děda",
+          "x": "Dobré ráno"
+        },
+        {
+          "a": "Máma",
+          "x": "Kdo přijde v neděli na oběd? Potřebuju čísla"
+        },
+        {
+          "a": "Ondra",
+          "x": "👍"
+        },
+        {
+          "a": "Máma",
+          "x": "👍 není číslo Ondro"
+        },
+        {
+          "a": "Bára",
+          "x": "můžu někoho přivést"
+        },
+        {
+          "a": "Máma",
+          "x": "KOHO"
+        }
+      ],
+      "stats": [
+        {
+          "k": "Kytičky na dobré ráno",
+          "v": "1 204"
+        },
+        {
+          "k": "Ondrova slova na zprávu",
+          "v": "1,2"
+        },
+        {
+          "k": "Nedělní sčítání lidu",
+          "v": "212"
+        },
+        {
+          "k": "Zodpovězeno",
+          "v": "19"
+        }
+      ],
+      "headline": "212 nedělních sčítání lidu, 19 odpovědí, jeden 👍",
+      "verdict": "Máma se 212krát ptala, kdo přijde v neděli na oběd. Ondra ve 140 případech odpověděl palcem. A stejně všichni dorazí, každý týden.",
+      "locked": [
+        "Máma, neplacená ředitelka téhle rodiny",
+        "Ondra a ekonomika palců",
+        "Koho Bára přivede v neděli",
+        "Dědovy zprávy v 6 ráno, rozluštěné"
+      ]
+    }
+  ],
+  "examples": {
+    "title": "Co Nana napsala v reportech",
+    "note": "Z ukázkových chatů nahoře, takže ničí soukromí neutrpělo.",
+    "items": [
+      "Honza dal do chatu stejnou anketu čtyřikrát. To není organizátor výletů, to je vyjednavač při braní rukojmí.",
+      "Ty odpovídáš za čtyři minuty. Tereza za tři hodiny. Za mých časů se tomu říkalo „znamení“.",
+      "Ondra za šest let napsal do téhle skupiny 4 000 slov. 3 100 z nich bylo „ok“.",
+      "Máma nepotřebuje počty. Máma potřebuje obejmout a slyšet jasnou odpověď."
+    ]
+  },
+  "flow": {
+    "close": "Zavřít",
+    "stepOf": "{n} z {total}",
+    "back": "Zpět",
+    "next": "Pokračovat",
+    "context": {
+      "q": "Jaký chat má Nana číst?",
+      "options": {
+        "partner": {
+          "t": "Romantika",
+          "d": "partner, crush, situationship, ex…"
+        },
+        "friends": {
+          "t": "Parta kamarádů",
+          "d": "kluci, holky, chat k výletu…"
+        },
+        "friend": {
+          "t": "Jeden kamarád",
+          "d": "nejlepší kamarád, kamarád z dětství, parťák z práce…"
+        },
+        "family": {
+          "t": "Rodina",
+          "d": "rodinná skupina, máma nebo táta, sourozenci…"
+        },
+        "work": {
+          "t": "Práce / tým",
+          "d": "týmový chat, kolegové, šéf…"
+        },
+        "other": {
+          "t": "Něco jiného",
+          "d": "spolubydlící, sousedi, výbor SVJ…"
+        }
+      }
+    },
+    "source": {
+      "q": "Odkud je ten chat?",
+      "soon": "Import ze záznamu obrazovky brzy přidáme. Zatím použij aplikaci, která umí textový export."
+    },
+    "upload": {
+      "q": "Nahraj chat z {app}",
+      "drop": "Ťukni a vyber exportovaný soubor",
+      "dropHint": ".txt, .zip, .json nebo .csv — až 200 MB",
+      "reading": "Nana čte… zatím {count} zpráv",
+      "readingLocal": "Děje se to v tvém zařízení. Zatím se nic nenahrálo.",
+      "uploading": "Bezpečně nahráváme…",
+      "privacy": "Tvůj chat zůstane soukromý",
+      "howTo": "Jak ho mám exportovat?",
+      "errors": {
+        "format": "Tenhle soubor Nana neumí přečíst. Ujisti se, že je to původní export (.txt nebo .zip), ne snímek obrazovky.",
+        "few": "Tenhle chat je trochu krátký. Aby si Nana udělala názor, potřebuje aspoň 10 zpráv.",
+        "big": "Soubor má přes 200 MB. Exportuj ho bez médií a zkus to znovu.",
+        "upload": "Nahrávání se nepovedlo. Zkontroluj připojení a zkus to znovu."
+      },
+      "found": "Našli jsme {count} zpráv mezi {first} a {last}."
+    },
+    "guides": {
+      "whatsapp": [
+        "Otevři chat ve WhatsAppu",
+        "Ťukni na jméno nahoře (iPhone) nebo na ⋮ → Další (Android)",
+        "Ťukni na „Exportovat chat“ a vyber „Bez médií“",
+        "Ulož ho do Souborů a vyber ho tady — nebo si ho pošli e-mailem"
+      ],
+      "telegram": [
+        "Otevři Telegram Desktop na počítači",
+        "Otevři chat → ⋮ → Exportovat historii chatu",
+        "Odškrtni fotky a videa a vyber formát „Strojově čitelný JSON“",
+        "Nahraj sem soubor result.json"
+      ],
+      "line": [
+        "Otevři chat v LINE",
+        "Ťukni na ≡ (vpravo nahoře) → Nastavení",
+        "Ťukni na „Exportovat historii chatu“",
+        "Ulož soubor .txt a vyber ho tady"
+      ],
+      "kakaotalk": [
+        "Otevři chat v KakaoTalku",
+        "Ťukni na ≡ → ⚙ Nastavení chatovací místnosti",
+        "Ťukni na „Exportovat zprávy“ → „Uložit jen text“",
+        "Vyber tady soubor .txt"
+      ],
+      "imessage": [
+        "Na Macu si nainstaluj bezplatný „iMessage Exporter“ (nebo jakýkoli nástroj, který ukládá CSV/TXT)",
+        "Exportuj konverzaci jako text nebo CSV",
+        "Nahraj soubor sem"
+      ],
+      "instagram": [
+        "Instagram → Nastavení → Tvoje aktivita → Stáhnout tvoje informace",
+        "Vyber Zprávy, formát JSON",
+        "Až přijde e-mail, nahraj soubor message_1.json z dané konverzace"
+      ],
+      "messenger": [
+        "Facebook → Nastavení → Stáhnout tvoje informace",
+        "Vyber Zprávy, formát JSON",
+        "Nahraj sem soubor message_1.json z dané konverzace"
+      ],
+      "other": [
+        "Exportuj chat jako textový, CSV nebo JSON soubor",
+        "Nahraj ho sem — Nana přečte většinu formátů"
+      ]
+    },
+    "me": {
+      "q": "Který z nich jsi ty?",
+      "sub": "Ať Nana mluví s tebou, a ne o tobě.",
+      "none": "V tomhle chatu nejsem"
+    },
+    "details": {
+      "q": "Má Nana něco vědět?",
+      "notes": "Nepovinný kontext (např. „rozešli jsme se v březnu“, „Tomáš je můj brácha“)",
+      "lang": "Jazyk reportu",
+      "heat": "Jak moc má Nana přitlačit?"
+    },
+    "email": {
+      "q": "Kam má Nana poslat report?",
+      "sub": "Pošleme ti e-mailem šestimístný kód. Žádné heslo, žádný spam.",
+      "placeholder": "ty@priklad.cz",
+      "send": "Poslat kód",
+      "code": "Zadej kód, který jsme poslali na {email}",
+      "verify": "Ověřit",
+      "resend": "Poslat nový kód",
+      "orLink": "Nebo ťukni na odkaz v e-mailu — funguje taky.",
+      "terms": "Pokračováním souhlasíš s dokumenty {terms} a {privacy} a potvrzuješ, že ti je 18 let nebo víc.",
+      "errors": {
+        "email": "Tenhle e-mail nevypadá správně.",
+        "code": "Tenhle kód nefunguje. Zkus to znovu nebo si řekni o nový.",
+        "rate": "Příliš mnoho pokusů. Počkej minutku a zkus to znovu."
+      }
+    },
+    "writing": {
+      "t": "Nana čte tvůj chat",
+      "lines": [
+        "Nasazuje si brýle…",
+        "Počítá, kdo píše první…",
+        "Hledá týden, kdy se všechno změnilo…",
+        "Podtrhává ty nejlepší kousky…",
+        "Vaří čaj…"
+      ],
+      "note": "Trvá to asi minutu. Až to bude hotové, pošleme ti i e-mail."
+    },
+    "recording": {
+      "cta": "Nebo nahraj záznam obrazovky",
+      "hint": "Nahraj, jak pomalu scrolluješ chatem od nejstarší zprávy po nejnovější, a video nahraj sem. Nana přečte bubliny.",
+      "extracting": "Vybíráme nejostřejší snímky… {pct} %",
+      "reading": "Nana čte snímky obrazovky… trvá to 1–2 minuty",
+      "errVideo": "Tohle video nejde přečíst. Zkus běžný záznam obrazovky (MP4 nebo MOV).",
+      "errFew": "Nana našla jen pár zpráv. Scrolluj pomaleji a nahraj delší kus chatu."
+    }
+  },
+  "report": {
+    "by": "Nana",
+    "tagline": "81 let. Přečetla každý chat, co kdy kdo napsal. Pořád nosí polívku.",
+    "share": "Sdílet report",
+    "copied": "Odkaz zkopírován",
+    "privacy": "Soukromé a pod tvou kontrolou",
+    "cutoff": "Chat byl moc dlouhý na jedno přečtení, takže Nana četla všechno od {date} dál.",
+    "statsTitle": "Čísla",
+    "stat": {
+      "messages": "Zprávy",
+      "perDay": "Za den",
+      "whoTalks": "Kdo mluví nejvíc",
+      "whoStarts": "Kdo začíná",
+      "afterMidnight": "Po půlnoci",
+      "reply": "Typická odpověď",
+      "busiestHour": "Nejrušnější hodina",
+      "voice": "Hlasovky",
+      "emojis": "Top emoji",
+      "silence": "Nejdelší ticho",
+      "days": "{n} dní",
+      "min": "{n} min",
+      "h": "{n} h"
+    },
+    "lockedTitle": "V reportu je toho ještě víc",
+    "peopleTitle": "A o každém z vás",
+    "unlock": "Přečíst celý report",
+    "unlockNote": "Stojí 1 kredit · máš {n}",
+    "noCredits": "Došly ti kredity. Platby brzy spustíme — Nana ti pošle e-mail.",
+    "writingFull": "Nana píše celý report. Zhruba 2 minuty — pošleme ti i e-mail.",
+    "failed": "Při psaní se něco pokazilo. Kredit ti vracíme. Zkus to prosím znovu.",
+    "retry": "Zkusit znovu",
+    "peopleSection": "Kdo je kdo",
+    "glossary": "Slovník tohohle chatu",
+    "awards": "Ceny",
+    "reactions": "Jak na tohle zareaguje každý z vás",
+    "verdict": "Verdikt",
+    "advice": "Co by udělala Nana",
+    "askTitle": "Chceš vědět ještě něco? Nana ti k tomuhle chatu odpoví",
+    "askPlaceholder": "např. Ztrácí o mě zájem? Kdo ze skupiny je na mě doopravdy naštvaný?",
+    "askCta": "Zeptat se · 1 kredit",
+    "askExpired": "Tenhle chat už je smazaný z našich serverů, takže Nana na nové otázky k němu odpovědět nemůže.",
+    "nextTitle": "Jaký chat má Nana číst příště?",
+    "nextCta": "Poslat další chat",
+    "notFound": "Tenhle report neexistuje nebo byl smazán.",
+    "feedback": "Trefila se Nana?",
+    "feedbackYes": "Přesně tak",
+    "feedbackNo": "Moc ne",
+    "thanks": "Díky — Nana si to zapisuje.",
+    "aiNote": "Napsala to AI pro zábavu. Může špatně pochopit kontext — nedělej podle toho velká rozhodnutí.",
+    "toc": "V tomhle reportu",
+    "minRead": "Čtení na {n} min",
+    "activity": "Aktivita po měsících",
+    "phrases": "Co říkáš až moc často",
+    "shareYou": "Sdílet kartu: {name}",
+    "personKicker": "Co si Nana myslí — {name}",
+    "readFull": "Přečíst celý report",
+    "sendYours": "Ať Nana přečte i tvůj chat"
+  },
+  "account": {
+    "title": "Moje chaty",
+    "signIn": "Přihlas se a uvidíš svoje chaty a reporty",
+    "signOut": "Odhlásit se",
+    "credits": "Kredity: {n}",
+    "empty": "Zatím žádné chaty.",
+    "reports": "Reporty",
+    "chatExpires": "Chat se automaticky smaže {date}",
+    "chatDeleted": "Chat už je smazaný · reporty zůstávají",
+    "deleteChat": "Smazat chat",
+    "deleteReport": "Smazat report",
+    "deleteAccount": "Smazat můj účet i všechno v něm",
+    "confirm": "Opravdu? Tohle nejde vrátit.",
+    "open": "Otevřít",
+    "followup": "Doplňující otázka"
+  },
+  "faq": {
+    "title": "Otázky, než něco nahraješ",
+    "items": [
+      {
+        "q": "Co je Nana Reads?",
+        "a": "AI postava — Nana — která přečte chat, který nahraješ, a napíše o všech v něm upřímný a vtipný report: skutečnou dynamiku, komu záleží víc, co se změnilo a jakou roli kdo hraje."
+      },
+      {
+        "q": "Je to zdarma?",
+        "a": "První pohled je zdarma: úvod, který Nana napíše, čísla a názvy všech kapitol celého reportu. Celý report stojí jeden kredit. Žádné předplatné."
+      },
+      {
+        "q": "Které aplikace fungují?",
+        "a": "Exporty z WhatsAppu (iPhone i Android), Telegramu, LINE a KakaoTalku, plus iMessage, Instagram a Messenger přes jejich export dat. Import ze záznamu obrazovky brzy přidáme."
+      },
+      {
+        "q": "Je můj chat v soukromí?",
+        "a": "Nana nejdřív spočítá tvoje zprávy přímo v prohlížeči. Nahrávání je šifrované, nikdy se nesdílí s nikým z chatu, nikdy se neprodává a nikdy se na něm netrénuje AI. Automaticky se smaže 48 hodin po nahrání, pokud si report neobjednáš, nebo 7 dní po tvém posledním reportu."
+      },
+      {
+        "q": "Dozvědí se to lidi z chatu?",
+        "a": "Ne. Nikomu nepřijde žádné upozornění. Report uvidí jen ti, komu pošleš odkaz."
+      },
+      {
+        "q": "Jaké jazyky?",
+        "a": "Tvůj chat může být v jakémkoli jazyce nebo v mixu. Reporty píšeme ve 24 jazycích a Nana používá slang přímo z tvého chatu."
+      },
+      {
+        "q": "Jak dlouho to trvá?",
+        "a": "Ukázka trvá asi minutu. Celý report zhruba dvě minuty. Až bude hotový, pošleme ti e-mail, takže nemusíš čekat na stránce."
+      },
+      {
+        "q": "Může mi Nana odpovědět i na další otázky?",
+        "a": "Ano. Pod každým reportem můžeš položit doplňující otázku ke stejnému chatu. Každá odpověď je nový, hlubší report."
+      },
+      {
+        "q": "Jak smažu svoje data?",
+        "a": "V sekci „Moje chaty“ můžeš kdykoli smazat chat, report nebo celý účet."
+      },
+      {
+        "q": "Je to přesné?",
+        "a": "Čísla se počítají přesně z tvého exportu. Názory si ale tvoří Nana sama — AI může špatně pochopit kontext, tak to ber jako zábavu, ne jako radu."
+      },
+      {
+        "q": "Pro koho to je?",
+        "a": "Pro dospělé (18+), kteří se chtějí zasmát, dostat facku realitou nebo důkaz, že měli celou dobu pravdu."
+      }
+    ]
+  },
+  "about": {
+    "title": "O Nana Reads",
+    "body": [
+      "Nana Reads je malý nezávislý studiový projekt. Vytvořili jsme postavu, o které jsme snili: babičku, která přečetla každý chat na světě, má tě ráda a stejně ti řekne pravdu.",
+      "Nana čte chaty z WhatsAppu, Telegramu, LINE, KakaoTalku, iMessage, Instagramu a Messengeru a píše ve 24 jazycích.",
+      "Na soukromí nám záleží víc než komukoli jinému v tomhle oboru: tvůj chat se nejdřív spočítá v prohlížeči, automaticky se smaže a nikdy se na něm netrénuje AI."
+    ],
+    "factsTitle": "V kostce",
+    "facts": [
+      [
+        "Název",
+        "Nana Reads"
+      ],
+      [
+        "Co to je",
+        "AI reporty z chatů pro kamarády, páry a rodiny"
+      ],
+      [
+        "Jazyky",
+        "24"
+      ],
+      [
+        "Cena",
+        "Ukázka zdarma, pak platíš za každý report. Žádné předplatné."
+      ],
+      [
+        "Soukromí",
+        "Automaticky se maže, nikdy se na tom netrénuje AI"
+      ]
+    ]
+  },
+  "support": {
+    "title": "Napiš nám",
+    "sub": "Většinu odpovědí najdeš v otázkách níže. Pokud ne, napiš nám — každou zprávu čte skutečný člověk.",
+    "email": "Tvůj e-mail",
+    "message": "S čím ti můžeme pomoct?",
+    "send": "Odeslat",
+    "sent": "Máme to. Odpovíme e-mailem."
+  },
+  "feedback": {
+    "title": "Napiš, co si myslíš — Nana poslouchá",
+    "sub": "Nápady, stížnosti i pochvaly. Nana i my čteme všechno.",
+    "placeholder": "Tvoje zpětná vazba",
+    "send": "Odeslat",
+    "sent": "Děkujeme!"
+  },
+  "footer": {
+    "chats": "Chaty",
+    "help": "Pomoc",
+    "company": "Nana Reads",
+    "links": {
+      "home": "Domů",
+      "relationship": "Chaty ze vztahů",
+      "friends": "Chaty s kamarády a skupiny",
+      "family": "Rodinné chaty",
+      "whatsapp": "Chaty z WhatsAppu",
+      "imessage": "Chaty z iMessage",
+      "account": "Moje chaty",
+      "faq": "Časté dotazy",
+      "support": "Podpora",
+      "feedback": "Zpětná vazba",
+      "privacy": "Soukromí",
+      "terms": "Podmínky",
+      "about": "O nás"
+    },
+    "rights": "© {year} Nana Reads. Jen pro zábavu."
+  },
+  "legal": {
+    "englishOnly": "Tato stránka je zobrazena v angličtině. Závazná je anglická verze.",
+    "privacy": "Zásady ochrany soukromí",
+    "terms": "Podmínky služby"
+  },
+  "common": {
+    "loading": "Načítání…",
+    "error": "Něco se pokazilo.",
+    "or": "nebo"
+  }
+}
