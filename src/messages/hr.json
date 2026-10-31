@@ -1,1 +1,660 @@
-{}
+{
+  "meta": {
+    "siteName": "Nana Reads",
+    "title": "Nana Reads — tvoj chat, pročitan od najznatiželjnije bake na svijetu",
+    "description": "Učitaj chat iz aplikacije WhatsApp, Telegram, LINE ili iMessage. Nana čita svaku poruku i kaže ti što se zapravo događa, kome je više stalo i što tko misli o kome."
+  },
+  "nav": {
+    "cta": "Pošalji Nani chat",
+    "account": "Moji chatovi",
+    "language": "Jezik"
+  },
+  "home": {
+    "eyebrow": "81 godina. Pročitala je svaki chat ikad napisan.",
+    "h1": "Pošalji Nani svoj chat. Reći će ti što se zapravo događa.",
+    "sub": "Nana čita baš svaku poruku, broji ono što bi radije da ne broji i piše iskren, jako smiješan izvještaj o svima u njemu.",
+    "cta": "Pošalji Nani chat",
+    "ctaNote": "Besplatni pregled · bez kartice · automatski se briše",
+    "demoTitle": "Odaberi chat i vidi što Nana vidi",
+    "demoHint": "Ovo su izmišljeni chatovi. Tvoj će biti gori.",
+    "howTitle": "Kako to funkcionira",
+    "how": [
+      {
+        "t": "Izvezi chat",
+        "d": "Dva dodira u aplikaciji WhatsApp, Telegram, LINE ili KakaoTalk. Pokazat ćemo ti točno kako."
+      },
+      {
+        "t": "Nana pročita sve",
+        "d": "Svaku poruku, svaku glasovnu ispriku, svaki „evo me, krećem“ poslan iz kreveta."
+      },
+      {
+        "t": "Dobiješ izvještaj",
+        "d": "Besplatni pregled za minutu. Cijeli izvještaj stiže ti u inbox — podijeli ga u chatu ako se usudiš."
+      }
+    ],
+    "findsTitle": "Što Nana pronađe",
+    "finds": [
+      {
+        "e": "🫖",
+        "t": "Kome je stvarno stalo",
+        "d": "Tko započinje razgovore, tko odgovara za 4 minute, a tko za 4 sata."
+      },
+      {
+        "e": "📉",
+        "t": "Trenutak kad se sve promijenilo",
+        "d": "Točan tjedan kad je energija pala, s porukama koje to dokazuju."
+      },
+      {
+        "e": "🗝️",
+        "t": "Vaš tajni jezik",
+        "d": "Interni vicevi i riječi koje razumijete samo vas dvoje (ili vas dvanaestero)."
+      },
+      {
+        "e": "🏆",
+        "t": "Uloga svakoga",
+        "d": "U grupama: organizator, duh i onaj koji kaže „ja sam za“ i nikad se ne pojavi."
+      }
+    ],
+    "privacyTitle": "Privatno od samog početka",
+    "privacy": [
+      "Tvoj chat čita se i broji u tvom pregledniku prije nego što se išta učita.",
+      "Učitani podaci su šifrirani i automatski se brišu: nakon 48 sati ako ne naručiš izvještaj, inače 7 dana nakon zadnjeg.",
+      "Nikad prodano, nikad dijeljeno, nikad korišteno za treniranje umjetne inteligencije."
+    ],
+    "worksWith": "Radi s",
+    "heatTitle": "Odaberi koliko će Nana biti oštra",
+    "heat": {
+      "gentle": {
+        "t": "Nježno",
+        "d": "Baka s rođendanske čestitke. Zafrkancija, ništa što peče."
+      },
+      "spicy": {
+        "t": "Ljuto",
+        "d": "Pravo prozivanje. Većina bira ovo."
+      },
+      "savage": {
+        "t": "Bez milosti",
+        "d": "Nula milosti. Za ekipe koje se svaki dan prozivaju."
+      }
+    },
+    "finalH": "Tvoj chat je sljedeći.",
+    "finalSub": "Nana već kuha kavu."
+  },
+  "landing": {
+    "relationship": {
+      "metaTitle": "Sviđaš li mu se stvarno? AI analiza vašeg chata — Nana Reads",
+      "metaDesc": "Učitaj chat sa simpatijom, partnerom, situationshipom ili bivšim. Nana čita svaku poruku i kaže ti kome je više stalo i što se promijenilo.",
+      "h1": "Sviđaš li mu se stvarno? Nana će ti reći.",
+      "sub": "Pošalji chat sa simpatijom, partnerom, situationshipom ili bivšim. Nana broji tko prvi piše, tko čeka i kad su se stvari promijenile."
+    },
+    "friends": {
+      "metaTitle": "Analiza grupnog chata i prozivanje ekipe — Nana Reads",
+      "metaDesc": "Učitaj grupni chat svoje ekipe. Nana proziva sve redom, dijeli nagrade i govori ono što nitko ne kaže naglas.",
+      "h1": "Što Nana misli o tebi i tvojoj ekipi?",
+      "sub": "Chat dečki, chat cura, putovanje koje se nikad nije dogodilo. Nana sve pročita i svakome dodijeli titulu koju zaslužuje."
+    },
+    "family": {
+      "metaTitle": "Analiza obiteljske WhatsApp grupe — Nana Reads",
+      "metaDesc": "Učitaj obiteljski grupni chat. Nana otkriva tko stvarno drži obitelj na okupu, tko nikad ne odgovara i tko šalje cvijeće za dobro jutro.",
+      "h1": "Vaš obiteljski chat, pročitan od bake koja je sve vidjela.",
+      "sub": "Tko drži obitelj na okupu, tko odgovara samo na slike hrane i tko se još ljuti zbog prošlog Božića. Nana zna."
+    },
+    "imessage": {
+      "metaTitle": "Analiza iMessage chata — Nana Reads",
+      "metaDesc": "Izvezi iMessage razgovor s Mac računala i pusti Nanu da ga pročita. Kome je više stalo, što se promijenilo i što dalje.",
+      "h1": "Učitaj iMessage chat. Nana će odraditi ostalo.",
+      "sub": "Izvezi razgovor s Mac računala za par minuta i Nana će pročitati svaki plavi oblačić."
+    },
+    "whatsapp": {
+      "metaTitle": "Analiza WhatsApp chata — Nana Reads",
+      "metaDesc": "Izvezi bilo koji WhatsApp chat u dva dodira. Nana čita svaku poruku i piše iskren, smiješan izvještaj o svima u njemu.",
+      "h1": "Analiza WhatsApp chata, iz pera tvoje najznatiželjnije bake.",
+      "sub": "Dva dodira za izvoz, jedna minuta do besplatnog pregleda. Radi s privatnim chatovima i grupama bilo koje veličine."
+    }
+  },
+  "demos": [
+    {
+      "id": "trip",
+      "label": "Ekipa 🍻",
+      "kind": "Grupa prijatelja",
+      "count": "24.310 poruka",
+      "messages": [
+        {
+          "a": "Luka",
+          "x": "Dečki. Amsterdam. Anketa je gore, glasajte do sutra"
+        },
+        {
+          "a": "Ivan",
+          "x": "JA SAM ZA!!"
+        },
+        {
+          "a": "Marko",
+          "x": "za sam ali ne u lipnju"
+        },
+        {
+          "a": "Luka",
+          "x": "JE u lipnju. u tome je cijela poanta"
+        },
+        {
+          "a": "Ivan",
+          "x": "čekaj u lipnju mi je bratićevo vjenčanje"
+        },
+        {
+          "a": "Marko",
+          "x": "koja anketa"
+        },
+        {
+          "a": "Luka",
+          "x": "ista anketa kao lani"
+        }
+      ],
+      "stats": [
+        {
+          "k": "Napravljene ankete",
+          "v": "4"
+        },
+        {
+          "k": "Glasovi",
+          "v": "1"
+        },
+        {
+          "k": "Rezervirani letovi",
+          "v": "0"
+        },
+        {
+          "k": "Poslano „ja sam za“",
+          "v": "37"
+        }
+      ],
+      "headline": "Amsterdam: četiri ankete, jedan glasač, nula letova",
+      "verdict": "Luka je četiri puta objavio istu anketu i svaki glas u njoj je njegov. Nitko u ovoj ekipi nikad ne kaže „ne“ putovanju. Samo nikad ne kažu „da“.",
+      "locked": [
+        "Tko stvarno organizira, a tko samo napiše „ZA“",
+        "Ivanov bratić, koji se ove godine ženio 3 puta",
+        "Svaka isprika, rangirana po uvjerljivosti",
+        "Zašto vikendica u Zagorju svaki put pobijedi"
+      ]
+    },
+    {
+      "id": "situationship",
+      "label": "Petra 🙃",
+      "kind": "Situationship",
+      "count": "5.102 poruke",
+      "messages": [
+        {
+          "a": "Petra",
+          "x": "heeej kako si 🙂"
+        },
+        {
+          "a": "Ja",
+          "x": "hej?? nestala si na devet dana"
+        },
+        {
+          "a": "Petra",
+          "x": "na poslu je bilo ludo iskreno"
+        },
+        {
+          "a": "Ja",
+          "x": "tvoj story s plaže kaže drugačije"
+        },
+        {
+          "a": "Petra",
+          "x": "to je bilo ono pola sata 😅"
+        },
+        {
+          "a": "Ja",
+          "x": "pa vidimo li se ovaj vikend?"
+        },
+        {
+          "a": "Petra",
+          "x": "možda! vidjet ćemo kako prođe tjedan"
+        }
+      ],
+      "stats": [
+        {
+          "k": "Tvoj medijan odgovora",
+          "v": "4 min"
+        },
+        {
+          "k": "Petrin medijan odgovora",
+          "v": "3 h"
+        },
+        {
+          "k": "Tko započinje",
+          "v": "Ti · 81 %"
+        },
+        {
+          "k": "Najdulja tišina",
+          "v": "9 dana"
+        }
+      ],
+      "headline": "Devet dana na „seen“, pa onda „heeej kako si 🙂“",
+      "verdict": "Petra odgovara za tri sata, ti za četiri minute. Oboje znate što to znači, dušo, i nitko od vas to ne govori naglas.",
+      "locked": [
+        "Tko prvi piše, a tko čeka da mu se netko javi",
+        "Devet dana tišine: što se stvarno dogodilo",
+        "Što se krije iza Petrinog „😅“",
+        "Što bi Nana napravila na tvom mjestu"
+      ]
+    },
+    {
+      "id": "family",
+      "label": "Obitelj 🏡",
+      "kind": "Obiteljska grupa",
+      "count": "61.877 poruka",
+      "messages": [
+        {
+          "a": "Mama",
+          "x": "Dobro jutro obitelji 🌸🌸🌸"
+        },
+        {
+          "a": "Djed",
+          "x": "Dobro jutro"
+        },
+        {
+          "a": "Mama",
+          "x": "Tko dolazi na nedjeljni ručak? Trebam broj"
+        },
+        {
+          "a": "Filip",
+          "x": "👍"
+        },
+        {
+          "a": "Mama",
+          "x": "👍 nije broj Filipe"
+        },
+        {
+          "a": "Ana",
+          "x": "mogu li dovesti nekoga"
+        },
+        {
+          "a": "Mama",
+          "x": "KOGA"
+        }
+      ],
+      "stats": [
+        {
+          "k": "Cvijeće za dobro jutro",
+          "v": "1.204"
+        },
+        {
+          "k": "Filipove riječi po poruci",
+          "v": "1,2"
+        },
+        {
+          "k": "Nedjeljna prebrojavanja",
+          "v": "212"
+        },
+        {
+          "k": "Odgovoreno",
+          "v": "19"
+        }
+      ],
+      "headline": "212 nedjeljnih prebrojavanja, 19 odgovora, jedan 👍",
+      "verdict": "Mama je 212 puta pitala tko dolazi na nedjeljni ručak. Filip je na 140 tih pitanja odgovorio palcem. I svi ipak dođu, svaki tjedan.",
+      "locked": [
+        "Mama, neplaćena direktorica ove obitelji",
+        "Filip i ekonomija palčeva",
+        "Koga Ana dovodi u nedjelju",
+        "Djedove poruke u 6 ujutro, dešifrirane"
+      ]
+    }
+  ],
+  "examples": {
+    "title": "Rečenice iz Naninih izvještaja",
+    "note": "Iz gornjih primjera chatova, pa ničija privatnost nije stradala.",
+    "items": [
+      "Luka je četiri puta objavio istu anketu. On nije organizator putovanja, on je pregovarač za taoce.",
+      "Ti odgovaraš za četiri minute. Petra odgovara za tri sata. U moje vrijeme to smo zvali „znak“.",
+      "Filip je u ovoj grupi u šest godina napisao 4.000 riječi. Njih 3.100 bilo je „ok“.",
+      "Mami ne treba broj. Mami treba zagrljaj i jasan odgovor."
+    ]
+  },
+  "flow": {
+    "close": "Zatvori",
+    "stepOf": "{n} od {total}",
+    "back": "Natrag",
+    "next": "Nastavi",
+    "context": {
+      "q": "Kakav chat Nana treba pročitati?",
+      "options": {
+        "partner": {
+          "t": "Ljubav",
+          "d": "partner, simpatija, situationship, bivši…"
+        },
+        "friends": {
+          "t": "Grupa prijatelja",
+          "d": "dečki, cure, chat za putovanje…"
+        },
+        "friend": {
+          "t": "Jedan prijatelj",
+          "d": "najbolji prijatelj, prijatelj iz djetinjstva, kolega s posla…"
+        },
+        "family": {
+          "t": "Obitelj",
+          "d": "obiteljska grupa, mama ili tata, braća i sestre…"
+        },
+        "work": {
+          "t": "Posao / tim",
+          "d": "timski chat, kolege, šef…"
+        },
+        "other": {
+          "t": "Nešto drugo",
+          "d": "cimeri, susjedi, predstavnik stanara…"
+        }
+      }
+    },
+    "source": {
+      "q": "Odakle je chat?",
+      "soon": "Uvoz snimke zaslona stiže uskoro. Za sada koristi aplikaciju koja ima izvoz teksta."
+    },
+    "upload": {
+      "q": "Učitaj chat iz aplikacije {app}",
+      "drop": "Dodirni za odabir izvezene datoteke",
+      "dropHint": ".txt, .zip, .json ili .csv — do 200 MB",
+      "reading": "Nana čita… dosad {count} poruka",
+      "readingLocal": "Ovo se događa na tvom uređaju. Još ništa nije učitano.",
+      "uploading": "Sigurno učitavanje…",
+      "privacy": "Tvoj chat ostaje privatan",
+      "howTo": "Kako ga izvesti?",
+      "errors": {
+        "format": "Nana nije mogla pročitati tu datoteku. Provjeri je li to originalni izvoz (.txt ili .zip), a ne snimka zaslona.",
+        "few": "Taj chat je malo prekratak. Nani treba barem 10 poruka da bi imala mišljenje.",
+        "big": "Datoteka je veća od 200 MB. Izvezi bez medija i pokušaj ponovno.",
+        "upload": "Učitavanje nije uspjelo. Provjeri vezu i pokušaj ponovno."
+      },
+      "found": "Pronađeno je {count} poruka između {first} i {last}."
+    },
+    "guides": {
+      "whatsapp": [
+        "Otvori chat u aplikaciji WhatsApp",
+        "Dodirni ime na vrhu (iPhone) ili ⋮ → Više (Android)",
+        "Dodirni „Izvezi chat“ i odaberi „Bez medija“",
+        "Spremi ga u Datoteke pa ga odaberi ovdje — ili ga pošalji sebi e-mailom"
+      ],
+      "telegram": [
+        "Otvori Telegram Desktop na računalu",
+        "Otvori chat → ⋮ → Izvezi povijest chata",
+        "Isključi fotografije i videozapise, odaberi format „Strojno čitljivi JSON“",
+        "Ovdje učitaj datoteku result.json"
+      ],
+      "line": [
+        "Otvori chat u aplikaciji LINE",
+        "Dodirni ≡ (gore desno) → Postavke",
+        "Dodirni „Izvezi povijest chata“",
+        "Spremi .txt datoteku i odaberi je ovdje"
+      ],
+      "kakaotalk": [
+        "Otvori chat u aplikaciji KakaoTalk",
+        "Dodirni ≡ → ⚙ Postavke sobe za chat",
+        "Dodirni „Izvezi poruke“ → „Spremi samo tekst“",
+        "Ovdje odaberi .txt datoteku"
+      ],
+      "imessage": [
+        "Na Mac računalo instaliraj besplatni „iMessage Exporter“ (ili bilo koji alat koji sprema CSV/TXT)",
+        "Izvezi razgovor kao tekst ili CSV",
+        "Ovdje učitaj datoteku"
+      ],
+      "instagram": [
+        "Instagram → Postavke → Tvoja aktivnost → Preuzmi svoje podatke",
+        "Odaberi Poruke, format JSON",
+        "Kad stigne e-mail, učitaj message_1.json tog razgovora"
+      ],
+      "messenger": [
+        "Facebook → Postavke → Preuzmi svoje podatke",
+        "Odaberi Poruke, format JSON",
+        "Ovdje učitaj message_1.json tog razgovora"
+      ],
+      "other": [
+        "Izvezi chat kao tekstualnu, CSV ili JSON datoteku",
+        "Učitaj je ovdje — Nana čita većinu formata"
+      ]
+    },
+    "me": {
+      "q": "Koji od njih si ti?",
+      "sub": "Da Nana može razgovarati s tobom, a ne o tebi.",
+      "none": "Nisam u ovom chatu"
+    },
+    "details": {
+      "q": "Nešto što bi Nana trebala znati?",
+      "notes": "Kontekst po želji (npr. „prekinuli smo u ožujku“, „Tomislav mi je brat“)",
+      "lang": "Jezik izvještaja",
+      "heat": "Koliko će Nana biti oštra?"
+    },
+    "email": {
+      "q": "Kamo da Nana pošalje izvještaj?",
+      "sub": "Poslat ćemo ti 6-znamenkasti kod e-mailom. Bez lozinke, bez spama.",
+      "placeholder": "ti@primjer.hr",
+      "send": "Pošalji kod",
+      "code": "Unesi kod koji smo poslali na {email}",
+      "verify": "Potvrdi",
+      "resend": "Pošalji novi kod",
+      "orLink": "Ili dodirni poveznicu u e-mailu — i to radi.",
+      "terms": "Nastavkom prihvaćaš sljedeće: {terms} i {privacy}, te potvrđuješ da imaš 18 ili više godina.",
+      "errors": {
+        "email": "Ta e-mail adresa ne izgleda ispravno.",
+        "code": "Taj kod nije uspio. Pokušaj ponovno ili zatraži novi.",
+        "rate": "Previše pokušaja. Pričekaj minutu i pokušaj ponovno."
+      }
+    },
+    "writing": {
+      "t": "Nana čita tvoj chat",
+      "lines": [
+        "Stavlja naočale…",
+        "Broji tko prvi piše…",
+        "Traži tjedan kad se sve promijenilo…",
+        "Podcrtava sočne dijelove…",
+        "Kuha kavu…"
+      ],
+      "note": "Ovo traje otprilike minutu. Javit ćemo ti i e-mailom kad bude gotovo."
+    },
+    "recording": {
+      "cta": "Ili učitaj snimku zaslona",
+      "hint": "Snimi kako polako skrolaš chat od najstarije poruke do najnovije, pa učitaj video. Nana čita oblačiće.",
+      "extracting": "Biram najjasnije kadrove… {pct} %",
+      "reading": "Nana čita snimke zaslona… ovo traje 1–2 minute",
+      "errVideo": "Taj video nije moguće pročitati. Pokušaj s običnom snimkom zaslona (MP4 ili MOV).",
+      "errFew": "Nana je pronašla samo nekoliko poruka. Skrolaj sporije i snimi dulji dio chata."
+    }
+  },
+  "report": {
+    "by": "Nana",
+    "tagline": "81. Pročitala je svaki chat ikad napisan. I dalje donosi juhu.",
+    "share": "Podijeli izvještaj",
+    "copied": "Poveznica kopirana",
+    "privacy": "Privatno i pod tvojom kontrolom",
+    "cutoff": "Chat je bio predug da bi se pročitao odjednom, pa je Nana pročitala sve od {date} nadalje.",
+    "statsTitle": "Brojke",
+    "stat": {
+      "messages": "Poruke",
+      "perDay": "Dnevno",
+      "whoTalks": "Tko najviše priča",
+      "whoStarts": "Tko započinje",
+      "afterMidnight": "Nakon ponoći",
+      "reply": "Medijan odgovora",
+      "busiestHour": "Najživlji sat",
+      "voice": "Glasovne poruke",
+      "emojis": "Najčešći emojiji",
+      "silence": "Najdulja tišina",
+      "days": "{n} dana",
+      "min": "{n} min",
+      "h": "{n} h"
+    },
+    "lockedTitle": "Još u izvještaju",
+    "peopleTitle": "I o svakome od vas",
+    "unlock": "Pročitaj cijeli izvještaj",
+    "unlockNote": "Troši 1 kredit · imaš ih {n}",
+    "noCredits": "Krediti su ti potrošeni. Plaćanje se otvara uskoro — Nana će ti se javiti e-mailom.",
+    "writingFull": "Nana piše cijeli izvještaj. Otprilike 2 minute — javit ćemo ti i e-mailom.",
+    "failed": "Nešto je pošlo po zlu dok je Nana pisala. Kredit ti je vraćen. Pokušaj ponovno.",
+    "retry": "Pokušaj ponovno",
+    "peopleSection": "Tko je tko",
+    "glossary": "Rječnik ovog chata",
+    "awards": "Nagrade",
+    "reactions": "Kako će svatko od vas reagirati na ovo",
+    "verdict": "Presuda",
+    "advice": "Što bi Nana napravila",
+    "askTitle": "Pitaj Nanu još nešto o ovom chatu",
+    "askPlaceholder": "npr. Gubi li interes? Tko je u grupi zapravo ljut na mene?",
+    "askCta": "Pitaj Nanu · 1 kredit",
+    "askExpired": "Ovaj chat je obrisan s naših poslužitelja, pa Nana ne može odgovarati na nova pitanja o njemu.",
+    "nextTitle": "Koji chat Nana treba pročitati sljedeći?",
+    "nextCta": "Pošalji još jedan chat",
+    "notFound": "Ovaj izvještaj ne postoji ili je obrisan.",
+    "feedback": "Je li Nana bila u pravu?",
+    "feedbackYes": "Pogodila je",
+    "feedbackNo": "Baš i ne",
+    "thanks": "Hvala — Nana bilježi.",
+    "aiNote": "Napisala umjetna inteligencija, za zabavu. Može krivo shvatiti kontekst — nemoj na temelju toga donositi velike odluke.",
+    "toc": "U ovom izvještaju",
+    "minRead": "{n} min čitanja",
+    "activity": "Aktivnost po mjesecima",
+    "phrases": "Stvari koje govoriš puno prečesto",
+    "shareYou": "Podijeli karticu: {name}",
+    "personKicker": "Što Nana misli o osobi {name}",
+    "readFull": "Pročitaj cijeli izvještaj",
+    "sendYours": "Daj Nani da pročita i tvoj chat"
+  },
+  "account": {
+    "title": "Moji chatovi",
+    "signIn": "Prijavi se da vidiš svoje chatove i izvještaje",
+    "signOut": "Odjava",
+    "credits": "Krediti: {n}",
+    "empty": "Još nema chatova.",
+    "reports": "Izvještaji",
+    "chatExpires": "Chat se automatski briše {date}",
+    "chatDeleted": "Chat je već obrisan · izvještaji su sačuvani",
+    "deleteChat": "Obriši chat",
+    "deleteReport": "Obriši izvještaj",
+    "deleteAccount": "Obriši moj račun i sve u njemu",
+    "confirm": "Sigurno? Ovo se ne može poništiti.",
+    "open": "Otvori",
+    "followup": "Dodatno pitanje"
+  },
+  "faq": {
+    "title": "Pitanja prije učitavanja",
+    "items": [
+      {
+        "q": "Što je Nana Reads?",
+        "a": "AI lik — Nana — koji čita chat koji učitaš i piše iskren, smiješan izvještaj o svima u njemu: pravu dinamiku, kome je više stalo, što se promijenilo i tko ima koju ulogu."
+      },
+      {
+        "q": "Je li besplatno?",
+        "a": "Prvi pogled je besplatan: Nanin uvod, brojke i naslovi svega što je u cijelom izvještaju. Cijeli izvještaj troši jedan kredit. Nema pretplate."
+      },
+      {
+        "q": "Koje aplikacije rade?",
+        "a": "Izvozi iz aplikacija WhatsApp (iPhone i Android), Telegram, LINE i KakaoTalk, plus iMessage, Instagram i Messenger putem izvoza podataka. Uvoz snimke zaslona stiže uskoro."
+      },
+      {
+        "q": "Je li moj chat privatan?",
+        "a": "Nana prvo broji tvoje poruke u tvom pregledniku. Učitani podaci su šifrirani, nikad se ne dijele ni s kim iz chata, nikad se ne prodaju i nikad se ne koriste za treniranje umjetne inteligencije. Automatski se brišu 48 sati nakon učitavanja ako ne naručiš izvještaj, ili 7 dana nakon tvog zadnjeg izvještaja."
+      },
+      {
+        "q": "Hoće li ljudi iz chata saznati?",
+        "a": "Neće. Nitko ne dobiva obavijest. Izvještaj vide samo ljudi kojima pošalješ poveznicu."
+      },
+      {
+        "q": "Na kojim jezicima?",
+        "a": "Tvoj chat može biti na bilo kojem jeziku ili mješavini jezika. Izvještaji se pišu na 24 jezika, a Nana koristi sleng samog chata."
+      },
+      {
+        "q": "Koliko traje?",
+        "a": "Pregled traje otprilike minutu. Cijeli izvještaj oko dvije minute. Javimo ti se e-mailom kad je gotovo, pa ne moraš čekati na stranici."
+      },
+      {
+        "q": "Mogu li Nanu pitati još nešto?",
+        "a": "Možeš. Ispod svakog izvještaja možeš postaviti dodatno pitanje o istom chatu. Svaki odgovor je novi, dublji izvještaj."
+      },
+      {
+        "q": "Kako obrisati svoje podatke?",
+        "a": "U „Mojim chatovima“ u bilo kojem trenutku možeš obrisati chat, izvještaj ili cijeli račun."
+      },
+      {
+        "q": "Je li točno?",
+        "a": "Brojke se broje točno iz tvog izvoza. Mišljenja su Nanina — umjetna inteligencija može krivo shvatiti kontekst, pa to shvati kao zabavu, a ne kao savjet."
+      },
+      {
+        "q": "Za koga je?",
+        "a": "Za odrasle (18+) koji se žele nasmijati, suočiti sa stvarnošću ili dokazati da su cijelo vrijeme bili u pravu."
+      }
+    ]
+  },
+  "about": {
+    "title": "O Nana Reads",
+    "body": [
+      "Nana Reads je mali nezavisni studijski projekt. Stvorili smo lik za koji smo željeli da postoji: baku koja je pročitala svaki chat na svijetu, voli te i svejedno ti kaže istinu.",
+      "Nana čita chatove iz aplikacija WhatsApp, Telegram, LINE, KakaoTalk, iMessage, Instagram i Messenger i piše na 24 jezika.",
+      "Do privatnosti nam je stalo više nego ikome u ovoj kategoriji: tvoj chat najprije se broji u tvom pregledniku, automatski se briše i nikad se ne koristi za treniranje umjetne inteligencije."
+    ],
+    "factsTitle": "Ključne činjenice",
+    "facts": [
+      [
+        "Ime",
+        "Nana Reads"
+      ],
+      [
+        "Što je to",
+        "AI izvještaji o chatovima za prijatelje, parove i obitelji"
+      ],
+      [
+        "Jezici",
+        "24"
+      ],
+      [
+        "Cijena",
+        "Besplatni pregled, zatim plaćanje po izvještaju. Bez pretplate."
+      ],
+      [
+        "Privatnost",
+        "Automatski se briše, nikad se ne koristi za treniranje umjetne inteligencije"
+      ]
+    ]
+  },
+  "support": {
+    "title": "Javi nam se",
+    "sub": "Većina odgovora nalazi se u pitanjima ispod. Ako ne, piši nam — svaku poruku čita stvarna osoba.",
+    "email": "Tvoj e-mail",
+    "message": "Kako ti možemo pomoći?",
+    "send": "Pošalji",
+    "sent": "Primljeno. Odgovorit ćemo e-mailom."
+  },
+  "feedback": {
+    "title": "Reci Nani što misliš",
+    "sub": "Ideje, pritužbe, komplimenti za Nanu. Čitamo sve.",
+    "placeholder": "Tvoje mišljenje",
+    "send": "Pošalji",
+    "sent": "Hvala ti!"
+  },
+  "footer": {
+    "chats": "Chatovi",
+    "help": "Pomoć",
+    "company": "Nana Reads",
+    "links": {
+      "home": "Početna",
+      "relationship": "Ljubavni chatovi",
+      "friends": "Chatovi prijatelja i grupa",
+      "family": "Obiteljski chatovi",
+      "whatsapp": "WhatsApp chatovi",
+      "imessage": "iMessage chatovi",
+      "account": "Moji chatovi",
+      "faq": "Česta pitanja",
+      "support": "Podrška",
+      "feedback": "Povratne informacije",
+      "privacy": "Privatnost",
+      "terms": "Uvjeti",
+      "about": "O nama"
+    },
+    "rights": "© {year} Nana Reads. Samo za zabavu."
+  },
+  "legal": {
+    "englishOnly": "Ova stranica prikazana je na engleskom. Obvezujuća je engleska verzija.",
+    "privacy": "Pravila privatnosti",
+    "terms": "Uvjeti korištenja"
+  },
+  "common": {
+    "loading": "Učitavanje…",
+    "error": "Nešto je pošlo po zlu.",
+    "or": "ili"
+  }
+}

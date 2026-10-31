@@ -1,0 +1,42 @@
+{
+  "previewReady": {
+    "subject": "Nana luki chattisi ☕",
+    "pre": "Sisällä: {names}",
+    "h": "Olen lukenut chattisi.",
+    "body": "Tässä, mitä kirjoitin jokaisesta teistä:",
+    "more": "…ja paljon muuta",
+    "cta": "Lue esikatseluni"
+  },
+  "nudge": {
+    "subject": "{title}",
+    "pre": "Suurin osa on vielä lukossa.",
+    "h": "Raporttisi odottaa",
+    "body": "Olet lukenut alun. Tässä, mitä sisällä vielä on:",
+    "cta": "Lue koko raportti",
+    "credit": "Sinulla on vielä ilmainen krediitti — Nana tarjoaa."
+  },
+  "hook": {
+    "pre": "Viimeinen muistutus raportistasi.",
+    "h": "Vielä yksi juttu, ennen kuin nostan kahvipannun hellalta",
+    "body": "{title}",
+    "cta": "Avaa koko raportti",
+    "ps": "PS. Lue se, pudota se chattiin ja katso, kuka vastaa ensin 👀"
+  },
+  "fullReady": {
+    "subject": "Koko raporttisi on valmis ✍️",
+    "pre": "{title}",
+    "h": "Valmis. Joka ikinen sana.",
+    "cta": "Lue nyt",
+    "ps": "PS. Jaa se chattiin. Uskallatko?"
+  },
+  "next": {
+    "subject": "Tuo oli vasta lämmittelyä 👀",
+    "pre": "Lähetä nyt se chatti, jota oikeasti mietit.",
+    "h": "Minkä chatin oikeasti haluat minun lukevan?",
+    "body": "Sen, jota luet uudestaan kahdelta yöllä. Exän. Säädön. Äitisi.",
+    "cta": "Lähetä Nanalle toinen chatti"
+  },
+  "footer": "Saat tämän viestin, koska pyysit Nanaa lukemaan chatin.",
+  "unsubscribe": "Peru tilaus",
+  "sign": "— Nana"
+}

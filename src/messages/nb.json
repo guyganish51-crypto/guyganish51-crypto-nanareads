@@ -1,1 +1,660 @@
-{}
+{
+  "meta": {
+    "siteName": "Nana Reads",
+    "title": "Nana Reads — chatten din, lest av verdens mest nysgjerrige bestemor",
+    "description": "Last opp en chat fra WhatsApp, Telegram, LINE eller iMessage. Nana leser hver eneste melding og forteller deg hva som egentlig foregår, hvem som bryr seg mest, og hva alle egentlig synes om hverandre."
+  },
+  "nav": {
+    "cta": "Send Nana en chat",
+    "account": "Mine chatter",
+    "language": "Språk"
+  },
+  "home": {
+    "eyebrow": "81 år gammel. Har lest alle chatter som noen gang er skrevet.",
+    "h1": "Send Nana chatten din. Hun forteller deg hva som egentlig foregår.",
+    "sub": "Nana leser hver eneste melding, teller det du helst skulle sett at hun lot være, og skriver en ærlig og veldig morsom rapport om alle i den.",
+    "cta": "Send Nana en chat",
+    "ctaNote": "Gratis forhåndsvisning · ikke noe kort · slettes automatisk",
+    "demoTitle": "Velg en chat, se hva Nana ser",
+    "demoHint": "Dette er oppdiktede chatter. Din blir verre.",
+    "howTitle": "Slik funker det",
+    "how": [
+      {
+        "t": "Eksporter chatten",
+        "d": "To trykk i WhatsApp, Telegram, LINE eller KakaoTalk. Vi viser deg nøyaktig hvordan."
+      },
+      {
+        "t": "Nana leser alt sammen",
+        "d": "Hver melding, hver unnskyldning på talemelding, hver «på vei nå» sendt fra senga."
+      },
+      {
+        "t": "Få rapporten",
+        "d": "Gratis forhåndsvisning på et minutt. Hele rapporten havner i innboksen din — del den i chatten hvis du tør."
+      }
+    ],
+    "findsTitle": "Det Nana finner",
+    "finds": [
+      {
+        "e": "🫖",
+        "t": "Hvem som faktisk bryr seg",
+        "d": "Hvem som starter samtalene, hvem som svarer på 4 minutter og hvem på 4 timer."
+      },
+      {
+        "e": "📉",
+        "t": "Øyeblikket det snudde",
+        "d": "Den eksakte uka energien forsvant, med meldingene som beviser det."
+      },
+      {
+        "e": "🗝️",
+        "t": "Det hemmelige språket deres",
+        "d": "Interne vitser og ord bare dere to (eller dere tolv) skjønner."
+      },
+      {
+        "e": "🏆",
+        "t": "Alles rolle",
+        "d": "I grupper: planleggeren, spøkelset, og han som sier «jeg er med» og aldri dukker opp."
+      }
+    ],
+    "privacyTitle": "Privat helt fra start",
+    "privacy": [
+      "Chatten din leses og telles i nettleseren din før noe som helst lastes opp.",
+      "Opplastinger krypteres og slettes automatisk: etter 48 timer hvis du ikke bestiller en rapport, ellers 7 dager etter den siste.",
+      "Aldri solgt, aldri delt, aldri brukt til å trene KI."
+    ],
+    "worksWith": "Funker med",
+    "heatTitle": "Velg hvor hardt Nana skal gå på",
+    "heat": {
+      "gentle": {
+        "t": "Snill",
+        "d": "Bursdagskort-bestemor. Erting, ingenting som svir."
+      },
+      "spicy": {
+        "t": "Krydret",
+        "d": "En skikkelig roast. De fleste velger denne."
+      },
+      "savage": {
+        "t": "Brutal",
+        "d": "Null nåde. For gjenger som roaster hverandre daglig."
+      }
+    },
+    "finalH": "Chatten din er neste.",
+    "finalSub": "Nana har allerede satt på kaffen."
+  },
+  "landing": {
+    "relationship": {
+      "metaTitle": "Liker han deg egentlig? KI-analyse av chatten din — Nana Reads",
+      "metaDesc": "Last opp chatten med crushen, kjæresten, situationshipen eller eksen. Nana leser hver melding og forteller deg hvem som bryr seg mest og hva som endret seg.",
+      "h1": "Liker han deg egentlig? Nana sier det som det er.",
+      "sub": "Send chatten med crushen, kjæresten, situationshipen eller eksen. Nana teller hvem som skriver først, hvem som venter, og når ting snudde."
+    },
+    "friends": {
+      "metaTitle": "Gruppechat-analyse og vennegjeng-roast — Nana Reads",
+      "metaDesc": "Last opp gruppechatten til vennegjengen. Nana roaster alle sammen, deler ut priser og sier det ingen tør å si høyt.",
+      "h1": "Hva synes Nana om deg og vennene dine?",
+      "sub": "Guttechatten, jentechatten, turen som aldri ble noe av. Nana leser alt og gir alle tittelen de fortjener."
+    },
+    "family": {
+      "metaTitle": "Analyse av familiegruppa på WhatsApp — Nana Reads",
+      "metaDesc": "Last opp familiechatten. Nana finner ut hvem som egentlig holder familien sammen, hvem som aldri svarer, og hvem som sender god morgen-blomstene.",
+      "h1": "Familiechatten deres, lest av en bestemor som har sett alt.",
+      "sub": "Hvem som holder familien sammen, hvem som bare svarer på matbilder, og hvem som fortsatt er sur etter julaften i fjor. Nana vet."
+    },
+    "imessage": {
+      "metaTitle": "iMessage-analyse — Nana Reads",
+      "metaDesc": "Eksporter en iMessage-samtale fra Macen og la Nana lese den. Hvem bryr seg mest, hva endret seg, og hva gjør du nå.",
+      "h1": "Last opp en iMessage-chat. Nana tar resten.",
+      "sub": "Eksporter en samtale fra Macen på et par minutter, så leser Nana hver eneste blå boble."
+    },
+    "whatsapp": {
+      "metaTitle": "WhatsApp-analyse — Nana Reads",
+      "metaDesc": "Eksporter en hvilken som helst WhatsApp-chat med to trykk. Nana leser hver melding og skriver en ærlig, morsom rapport om alle i den.",
+      "h1": "WhatsApp-analyse, levert av din mest nysgjerrige bestemor.",
+      "sub": "To trykk for å eksportere, ett minutt til gratis forhåndsvisning. Funker med private chatter og grupper i alle størrelser."
+    }
+  },
+  "demos": [
+    {
+      "id": "trip",
+      "label": "Gutta 🍻",
+      "kind": "Vennegjeng",
+      "count": "24 310 meldinger",
+      "messages": [
+        {
+          "a": "Magnus",
+          "x": "Gutta. Praha. Avstemningen er ute, stem innen i morgen"
+        },
+        {
+          "a": "Sindre",
+          "x": "MED!!"
+        },
+        {
+          "a": "Jonas",
+          "x": "med, men ikke i juni"
+        },
+        {
+          "a": "Magnus",
+          "x": "den ER i juni. det er hele poenget"
+        },
+        {
+          "a": "Sindre",
+          "x": "vent juni, da har jeg bryllupet til kusina mi"
+        },
+        {
+          "a": "Jonas",
+          "x": "hvilken avstemning"
+        },
+        {
+          "a": "Magnus",
+          "x": "samme avstemning som i fjor"
+        }
+      ],
+      "stats": [
+        {
+          "k": "Avstemninger laget",
+          "v": "4"
+        },
+        {
+          "k": "Stemmer",
+          "v": "1"
+        },
+        {
+          "k": "Fly booket",
+          "v": "0"
+        },
+        {
+          "k": "«Med» sendt",
+          "v": "37"
+        }
+      ],
+      "headline": "Praha: fire avstemninger, én velger, null fly",
+      "verdict": "Magnus har lagt ut den samme avstemningen fire ganger, og hver eneste stemme er hans egen. Ingen i denne gjengen sier nei til en tur. De sier bare aldri ja.",
+      "locked": [
+        "Hvem som faktisk planlegger, og hvem som bare skriver «MED»",
+        "Sindres kusine, som har hatt 3 bryllup i år",
+        "Hver eneste unnskyldning, rangert etter troverdighet",
+        "Hvorfor hytta på fjellet vinner hver eneste gang"
+      ]
+    },
+    {
+      "id": "situationship",
+      "label": "Ida 🙃",
+      "kind": "Situationship",
+      "count": "5 102 meldinger",
+      "messages": [
+        {
+          "a": "Ida",
+          "x": "heiii hvordan går det 🙂"
+        },
+        {
+          "a": "Meg",
+          "x": "hei?? du forsvant i ni dager"
+        },
+        {
+          "a": "Ida",
+          "x": "jobben har vært helt sinnssyk altså"
+        },
+        {
+          "a": "Meg",
+          "x": "så storyen din fra stranda"
+        },
+        {
+          "a": "Ida",
+          "x": "det var typ en halvtime 😅"
+        },
+        {
+          "a": "Meg",
+          "x": "så ses vi i helga eller?"
+        },
+        {
+          "a": "Ida",
+          "x": "kanskje! får se hvordan uka blir"
+        }
+      ],
+      "stats": [
+        {
+          "k": "Ditt mediansvar",
+          "v": "4 min"
+        },
+        {
+          "k": "Idas mediansvar",
+          "v": "3 t"
+        },
+        {
+          "k": "Hvem som starter",
+          "v": "Deg · 81 %"
+        },
+        {
+          "k": "Lengste stillhet",
+          "v": "9 dager"
+        }
+      ],
+      "headline": "Ni dager på lest, så «heiii hvordan går det 🙂»",
+      "verdict": "Ida svarer på tre timer, du svarer på fire minutter. Dere vet begge hva det betyr, vennen min, og ingen av dere sier det høyt.",
+      "locked": [
+        "Hvem som skriver først, og hvem som venter på å få en melding",
+        "Ni dager med stillhet: hva som egentlig skjedde",
+        "Hva som skjuler seg bak Idas «😅»",
+        "Hva Nana ville gjort i ditt sted"
+      ]
+    },
+    {
+      "id": "family",
+      "label": "Familien 🏡",
+      "kind": "Familiegruppe",
+      "count": "61 877 meldinger",
+      "messages": [
+        {
+          "a": "Mamma",
+          "x": "God morgen familie 🌸🌸🌸"
+        },
+        {
+          "a": "Bestefar",
+          "x": "God morgen"
+        },
+        {
+          "a": "Mamma",
+          "x": "Hvem kommer på søndagsmiddag? Jeg trenger et antall"
+        },
+        {
+          "a": "Henrik",
+          "x": "👍"
+        },
+        {
+          "a": "Mamma",
+          "x": "👍 er ikke et antall Henrik"
+        },
+        {
+          "a": "Ingrid",
+          "x": "kan jeg ta med noen"
+        },
+        {
+          "a": "Mamma",
+          "x": "HVEM"
+        }
+      ],
+      "stats": [
+        {
+          "k": "God morgen-blomster",
+          "v": "1 204"
+        },
+        {
+          "k": "Henriks ord per melding",
+          "v": "1,2"
+        },
+        {
+          "k": "Søndagsopptellinger",
+          "v": "212"
+        },
+        {
+          "k": "Besvart",
+          "v": "19"
+        }
+      ],
+      "headline": "212 søndagsopptellinger, 19 svar, én 👍",
+      "verdict": "Mamma har spurt hvem som kommer på søndagsmiddag 212 ganger. Henrik har svart med en tommel på 140 av dem. Og alle dukker opp likevel, hver eneste uke.",
+      "locked": [
+        "Mamma, familiens ulønnede toppsjef",
+        "Henrik og tommeløkonomien",
+        "Hvem Ingrid tar med på søndag",
+        "Bestefars meldinger klokka 6 om morgenen, dekodet"
+      ]
+    }
+  ],
+  "examples": {
+    "title": "Linjer fra Nanas rapporter",
+    "note": "Fra eksempelchattene over, så ingens personvern kom til skade.",
+    "items": [
+      "Magnus har lagt ut den samme avstemningen fire ganger. Han er ikke turplanlegger, han er gisselforhandler.",
+      "Du svarer på fire minutter. Ida svarer på tre timer. På min tid kalte vi det «et tegn».",
+      "Henrik har skrevet 4 000 ord i denne gruppa på seks år. 3 100 av dem var «ok».",
+      "Mamma trenger ikke et antall. Mamma trenger en klem og et ærlig svar."
+    ]
+  },
+  "flow": {
+    "close": "Lukk",
+    "stepOf": "{n} av {total}",
+    "back": "Tilbake",
+    "next": "Fortsett",
+    "context": {
+      "q": "Hva slags chat skal Nana lese?",
+      "options": {
+        "partner": {
+          "t": "Romantikk",
+          "d": "kjæreste, crush, situationship, eks…"
+        },
+        "friends": {
+          "t": "Vennegjeng",
+          "d": "gutta, jentene, turchatten…"
+        },
+        "friend": {
+          "t": "Én venn",
+          "d": "bestevenn, barndomsvenn, jobbkompis…"
+        },
+        "family": {
+          "t": "Familie",
+          "d": "familiegruppa, mamma eller pappa, søsken…"
+        },
+        "work": {
+          "t": "Jobb / team",
+          "d": "teamchat, kolleger, sjefen…"
+        },
+        "other": {
+          "t": "Noe annet",
+          "d": "romkamerater, naboer, styret i borettslaget…"
+        }
+      }
+    },
+    "source": {
+      "q": "Hvor er chatten fra?",
+      "soon": "Import av skjermopptak kommer snart. Inntil videre: bruk en app som kan eksportere tekst."
+    },
+    "upload": {
+      "q": "Last opp chatten fra {app}",
+      "drop": "Trykk for å velge den eksporterte fila",
+      "dropHint": ".txt, .zip, .json eller .csv — opptil 200 MB",
+      "reading": "Nana leser… {count} meldinger så langt",
+      "readingLocal": "Dette skjer på enheten din. Ingenting er lastet opp ennå.",
+      "uploading": "Laster opp trygt…",
+      "privacy": "Chatten din forblir privat",
+      "howTo": "Hvordan eksporterer jeg den?",
+      "errors": {
+        "format": "Nana fikk ikke lest den fila. Sjekk at det er den originale eksporten (.txt eller .zip), ikke et skjermbilde.",
+        "few": "Den chatten er litt kort. Nana trenger minst 10 meldinger for å ha en mening.",
+        "big": "Fila er over 200 MB. Eksporter uten media og prøv igjen.",
+        "upload": "Opplastingen feilet. Sjekk tilkoblingen og prøv igjen."
+      },
+      "found": "Fant {count} meldinger mellom {first} og {last}."
+    },
+    "guides": {
+      "whatsapp": [
+        "Åpne chatten i WhatsApp",
+        "Trykk på navnet øverst (iPhone) eller ⋮ → Mer (Android)",
+        "Trykk «Eksporter chat» og velg «Uten media»",
+        "Lagre den i Filer og velg den her — eller send den til deg selv på e-post"
+      ],
+      "telegram": [
+        "Åpne Telegram Desktop på en datamaskin",
+        "Åpne chatten → ⋮ → Eksporter chatlogg",
+        "Fjern haken for bilder og videoer, velg formatet «Maskinlesbar JSON»",
+        "Last opp fila result.json her"
+      ],
+      "line": [
+        "Åpne chatten i LINE",
+        "Trykk ≡ (øverst til høyre) → Innstillinger",
+        "Trykk «Eksporter chatlogg»",
+        "Lagre .txt-fila og velg den her"
+      ],
+      "kakaotalk": [
+        "Åpne chatten i KakaoTalk",
+        "Trykk ≡ → ⚙ Innstillinger for chatterom",
+        "Trykk «Eksporter meldinger» → «Lagre kun tekst»",
+        "Velg .txt-fila her"
+      ],
+      "imessage": [
+        "På en Mac: installer gratisverktøyet «iMessage Exporter» (eller et annet verktøy som lagrer CSV/TXT)",
+        "Eksporter samtalen som tekst eller CSV",
+        "Last opp fila her"
+      ],
+      "instagram": [
+        "Instagram → Innstillinger → Aktiviteten din → Last ned informasjonen din",
+        "Velg Meldinger, format JSON",
+        "Når e-posten kommer, last opp message_1.json fra samtalen"
+      ],
+      "messenger": [
+        "Facebook → Innstillinger → Last ned informasjonen din",
+        "Velg Meldinger, format JSON",
+        "Last opp message_1.json fra samtalen her"
+      ],
+      "other": [
+        "Eksporter chatten som tekst-, CSV- eller JSON-fil",
+        "Last den opp her — Nana leser de fleste formater"
+      ]
+    },
+    "me": {
+      "q": "Hvem av dem er deg?",
+      "sub": "Så Nana kan snakke til deg, ikke om deg.",
+      "none": "Jeg er ikke med i denne chatten"
+    },
+    "details": {
+      "q": "Noe Nana bør vite?",
+      "notes": "Valgfri kontekst (f.eks. «vi slo opp i mars», «Ola er broren min»)",
+      "lang": "Skriv rapporten på",
+      "heat": "Hvor hardt skal Nana gå på?"
+    },
+    "email": {
+      "q": "Hvor skal Nana sende rapporten?",
+      "sub": "Vi sender deg en 6-sifret kode på e-post. Ikke noe passord, ikke noe spam.",
+      "placeholder": "deg@eksempel.no",
+      "send": "Send kode",
+      "code": "Skriv inn koden vi sendte til {email}",
+      "verify": "Bekreft",
+      "resend": "Send ny kode",
+      "orLink": "Eller trykk på lenken i e-posten — det funker også.",
+      "terms": "Ved å fortsette godtar du {terms} og {privacy}, og bekrefter at du er 18 år eller eldre.",
+      "errors": {
+        "email": "Den e-postadressen ser ikke helt riktig ut.",
+        "code": "Koden funket ikke. Prøv igjen eller be om en ny.",
+        "rate": "For mange forsøk. Vent et minutt og prøv igjen."
+      }
+    },
+    "writing": {
+      "t": "Nana leser chatten din",
+      "lines": [
+        "Tar på seg brillene…",
+        "Teller hvem som skriver først…",
+        "Finner uka da alt snudde…",
+        "Streker under de saftige bitene…",
+        "Setter på kaffen…"
+      ],
+      "note": "Dette tar omtrent ett minutt. Vi sender deg også en e-post når den er klar."
+    },
+    "recording": {
+      "cta": "Eller last opp et skjermopptak",
+      "hint": "Ta opp mens du sakte scroller gjennom chatten fra den eldste meldingen til den nyeste, og last opp videoen. Nana leser boblene.",
+      "extracting": "Plukker ut de skarpeste bildene… {pct} %",
+      "reading": "Nana leser skjermbildene… dette tar 1–2 minutter",
+      "errVideo": "Den videoen kunne ikke leses. Prøv et vanlig skjermopptak (MP4 eller MOV).",
+      "errFew": "Nana fant bare noen få meldinger. Scroll saktere og ta opp en lengre bit av chatten."
+    }
+  },
+  "report": {
+    "by": "Nana",
+    "tagline": "81. Har lest alle chatter som noen gang er skrevet. Kommer fortsatt med suppe.",
+    "share": "Del rapporten",
+    "copied": "Lenke kopiert",
+    "privacy": "Privat og under din kontroll",
+    "cutoff": "Chatten var for lang til å leses i én omgang, så Nana leste alt fra {date} og utover.",
+    "statsTitle": "Tallene",
+    "stat": {
+      "messages": "Meldinger",
+      "perDay": "Per dag",
+      "whoTalks": "Hvem prater mest",
+      "whoStarts": "Hvem starter",
+      "afterMidnight": "Etter midnatt",
+      "reply": "Mediansvar",
+      "busiestHour": "Travleste time",
+      "voice": "Talemeldinger",
+      "emojis": "Mest brukte emojier",
+      "silence": "Lengste stillhet",
+      "days": "{n} dager",
+      "min": "{n} min",
+      "h": "{n} t"
+    },
+    "lockedTitle": "Fortsatt i rapporten",
+    "peopleTitle": "Og om hver av dere",
+    "unlock": "Les hele rapporten",
+    "unlockNote": "Bruker 1 kreditt · du har {n}",
+    "noCredits": "Du er tom for kreditter. Betaling åpner snart — Nana sender deg en e-post.",
+    "writingFull": "Nana skriver hele rapporten. Ca. 2 minutter — vi sender deg en e-post også.",
+    "failed": "Noe gikk galt mens Nana skrev. Kreditten din er refundert. Prøv igjen.",
+    "retry": "Prøv igjen",
+    "peopleSection": "Hvem er hvem",
+    "glossary": "Ordboka for denne chatten",
+    "awards": "Prisutdelingen",
+    "reactions": "Slik kommer hver av dere til å reagere på dette",
+    "verdict": "Dommen",
+    "advice": "Hva Nana ville gjort",
+    "askTitle": "Spør Nana om noe annet i denne chatten",
+    "askPlaceholder": "f.eks. Er han i ferd med å miste interessen? Hvem i gruppa er egentlig irritert på meg?",
+    "askCta": "Spør Nana · 1 kreditt",
+    "askExpired": "Denne chatten er slettet fra serverne våre, så Nana kan ikke svare på nye spørsmål om den.",
+    "nextTitle": "Hvilken chat skal Nana lese neste gang?",
+    "nextCta": "Send en chat til",
+    "notFound": "Denne rapporten finnes ikke eller er slettet.",
+    "feedback": "Traff Nana?",
+    "feedbackYes": "Midt i blinken",
+    "feedbackNo": "Ikke helt",
+    "thanks": "Takk — Nana noterer.",
+    "aiNote": "Skrevet av KI for underholdning. Den kan misforstå sammenhengen — ikke ta store beslutninger basert på den.",
+    "toc": "I denne rapporten",
+    "minRead": "{n} min lesing",
+    "activity": "Aktivitet per måned",
+    "phrases": "Ting du sier altfor ofte",
+    "shareYou": "Del kortet til {name}",
+    "personKicker": "Hva Nana synes om {name}",
+    "readFull": "Les hele rapporten",
+    "sendYours": "Få din egen chat lest"
+  },
+  "account": {
+    "title": "Mine chatter",
+    "signIn": "Logg inn for å se chattene og rapportene dine",
+    "signOut": "Logg ut",
+    "credits": "Kreditter: {n}",
+    "empty": "Ingen chatter ennå.",
+    "reports": "Rapporter",
+    "chatExpires": "Chatten slettes automatisk {date}",
+    "chatDeleted": "Chatten er allerede slettet · rapportene er beholdt",
+    "deleteChat": "Slett chat",
+    "deleteReport": "Slett rapport",
+    "deleteAccount": "Slett kontoen min og alt i den",
+    "confirm": "Er du sikker? Dette kan ikke angres.",
+    "open": "Åpne",
+    "followup": "Oppfølging"
+  },
+  "faq": {
+    "title": "Spørsmål før du laster opp",
+    "items": [
+      {
+        "q": "Hva er Nana Reads?",
+        "a": "En KI-karakter — Nana — som leser en chat du laster opp og skriver en ærlig, morsom rapport om alle i den: den egentlige dynamikken, hvem som bryr seg mest, hva som endret seg, og hvilken rolle alle har."
+      },
+      {
+        "q": "Er det gratis?",
+        "a": "Første titt er gratis: Nanas innledning, tallene og titlene på alt i hele rapporten. Hele rapporten koster én kreditt. Det er ikke noe abonnement."
+      },
+      {
+        "q": "Hvilke apper funker?",
+        "a": "Eksporter fra WhatsApp (iPhone og Android), Telegram, LINE og KakaoTalk, pluss iMessage, Instagram og Messenger via dataeksportene deres. Import av skjermopptak kommer snart."
+      },
+      {
+        "q": "Er chatten min privat?",
+        "a": "Nana teller meldingene dine i nettleseren din først. Opplastingen er kryptert, deles aldri med noen i chatten, selges aldri og brukes aldri til å trene KI. Den slettes automatisk 48 timer etter opplasting hvis du ikke bestiller en rapport, eller 7 dager etter den siste rapporten din."
+      },
+      {
+        "q": "Får de i chatten vite det?",
+        "a": "Nei. Ingen blir varslet. En rapport ses bare av folk du sender lenken til."
+      },
+      {
+        "q": "Hvilke språk?",
+        "a": "Chatten kan være på hvilket som helst språk, eller en blanding. Rapportene skrives på 24 språk, og Nana bruker chattens egen slang."
+      },
+      {
+        "q": "Hvor lang tid tar det?",
+        "a": "Forhåndsvisningen tar omtrent ett minutt. Hele rapporten rundt to minutter. Vi sender deg en e-post når den er klar, så du slipper å sitte og vente på siden."
+      },
+      {
+        "q": "Kan jeg spørre Nana om mer?",
+        "a": "Ja. Under hver rapport kan du stille et oppfølgingsspørsmål om den samme chatten. Hvert svar er en ny, dypere rapport."
+      },
+      {
+        "q": "Hvordan sletter jeg dataene mine?",
+        "a": "Under «Mine chatter» kan du når som helst slette en chat, en rapport eller hele kontoen din."
+      },
+      {
+        "q": "Stemmer det?",
+        "a": "Tallene telles nøyaktig fra eksporten din. Meningene er Nanas — KI kan misforstå sammenhengen, så se på det som underholdning, ikke råd."
+      },
+      {
+        "q": "Hvem er det for?",
+        "a": "Voksne (18+) som vil ha en god latter, en realitetssjekk eller bevis på at de hadde rett hele tiden."
+      }
+    ]
+  },
+  "about": {
+    "title": "Om Nana Reads",
+    "body": [
+      "Nana Reads er et lite, uavhengig studioprosjekt. Vi lagde en karakter vi skulle ønske fantes: en bestemor som har lest alle chatter i verden, er glad i deg, og sier sannheten likevel.",
+      "Nana leser chatter fra WhatsApp, Telegram, LINE, KakaoTalk, iMessage, Instagram og Messenger, og skriver på 24 språk.",
+      "Vi bryr oss mer om personvern enn noen andre i denne kategorien: chatten din telles først i nettleseren din, slettes automatisk og brukes aldri til å trene KI."
+    ],
+    "factsTitle": "Nøkkelfakta",
+    "facts": [
+      [
+        "Navn",
+        "Nana Reads"
+      ],
+      [
+        "Hva det er",
+        "KI-rapporter om chatter for venner, par og familier"
+      ],
+      [
+        "Språk",
+        "24"
+      ],
+      [
+        "Pris",
+        "Gratis forhåndsvisning, deretter betaling per rapport. Ikke noe abonnement."
+      ],
+      [
+        "Personvern",
+        "Slettes automatisk, brukes aldri til å trene KI"
+      ]
+    ]
+  },
+  "support": {
+    "title": "Snakk med oss",
+    "sub": "De fleste svarene finner du i spørsmålene under. Hvis ikke, skriv til oss — et ekte menneske leser hver melding.",
+    "email": "E-postadressen din",
+    "message": "Hva kan vi hjelpe med?",
+    "send": "Send",
+    "sent": "Mottatt. Vi svarer på e-post."
+  },
+  "feedback": {
+    "title": "Si til Nana hva du synes",
+    "sub": "Ideer, klager, komplimenter til Nana. Vi leser alt.",
+    "placeholder": "Tilbakemeldingen din",
+    "send": "Send",
+    "sent": "Tusen takk!"
+  },
+  "footer": {
+    "chats": "Chatter",
+    "help": "Hjelp",
+    "company": "Nana Reads",
+    "links": {
+      "home": "Hjem",
+      "relationship": "Kjærlighetschatter",
+      "friends": "Venne- og gruppechatter",
+      "family": "Familiechatter",
+      "whatsapp": "WhatsApp-chatter",
+      "imessage": "iMessage-chatter",
+      "account": "Mine chatter",
+      "faq": "Vanlige spørsmål",
+      "support": "Kundestøtte",
+      "feedback": "Tilbakemelding",
+      "privacy": "Personvern",
+      "terms": "Vilkår",
+      "about": "Om oss"
+    },
+    "rights": "© {year} Nana Reads. Kun for underholdning."
+  },
+  "legal": {
+    "englishOnly": "Denne siden vises på engelsk. Den engelske versjonen er den juridisk bindende.",
+    "privacy": "Personvernerklæring",
+    "terms": "Vilkår for bruk"
+  },
+  "common": {
+    "loading": "Laster…",
+    "error": "Noe gikk galt.",
+    "or": "eller"
+  }
+}

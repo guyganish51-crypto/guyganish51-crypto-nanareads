@@ -1,0 +1,42 @@
+{
+  "previewReady": {
+    "subject": "Nana je pročitala ☕",
+    "pre": "Unutra: {names}",
+    "h": "Pročitala sam tvoj chat.",
+    "body": "Evo što sam napisala o svakome od vas:",
+    "more": "…i još puno toga",
+    "cta": "Pročitaj moj pregled"
+  },
+  "nudge": {
+    "subject": "{title}",
+    "pre": "Većina je još zaključana.",
+    "h": "Tvoj izvještaj čeka",
+    "body": "Uvod je pročitan. Evo što je još unutra:",
+    "cta": "Pročitaj cijeli izvještaj",
+    "credit": "Još imaš besplatni kredit — Nana časti."
+  },
+  "hook": {
+    "pre": "Zadnji podsjetnik za tvoj izvještaj.",
+    "h": "Još jedna stvar prije nego što maknem džezvu",
+    "body": "{title}",
+    "cta": "Otvori cijeli izvještaj",
+    "ps": "P.S. Pročitaj ga, ubaci ga u chat i gledaj tko će prvi odgovoriti 👀"
+  },
+  "fullReady": {
+    "subject": "Tvoj cijeli izvještaj je gotov ✍️",
+    "pre": "{title}",
+    "h": "Gotovo. Do zadnje riječi.",
+    "cta": "Pročitaj sada",
+    "ps": "P.S. Podijeli ga u chatu. Ako se usudiš."
+  },
+  "next": {
+    "subject": "To je bilo samo zagrijavanje 👀",
+    "pre": "Sad mi pošalji chat o kojem stvarno razmišljaš.",
+    "h": "Koji chat stvarno želiš da pročitam?",
+    "body": "Onaj koji iznova čitaš u 2 ujutro. S bivšim. Sa situationshipom. S mamom.",
+    "cta": "Pošalji Nani još jedan chat"
+  },
+  "footer": "Ovo primaš jer je Nana na tvoj zahtjev pročitala chat.",
+  "unsubscribe": "Odjavi se",
+  "sign": "— Nana"
+}

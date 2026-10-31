@@ -1,1 +1,660 @@
-{}
+{
+  "meta": {
+    "siteName": "Nana Reads",
+    "title": "Nana Reads — chattisi maailman uteliaimman mummon luettavana",
+    "description": "Lataa WhatsApp-, Telegram-, LINE- tai iMessage-keskustelu. Nana lukee jokaisen viestin ja kertoo, mitä oikeasti on meneillään, kumpi välittää enemmän ja mitä kaikki ajattelevat toisistaan."
+  },
+  "nav": {
+    "cta": "Lähetä Nanalle chatti",
+    "account": "Omat chatit",
+    "language": "Kieli"
+  },
+  "home": {
+    "eyebrow": "81-vuotias. Lukenut jokaisen koskaan kirjoitetun chatin.",
+    "h1": "Lähetä Nanalle chattisi. Hän kertoo, mitä oikeasti on meneillään.",
+    "sub": "Nana lukee ihan jokaisen viestin, laskee senkin, mitä et toivoisi hänen laskevan, ja kirjoittaa rehellisen ja tosi hauskan raportin kaikista mukana olevista.",
+    "cta": "Lähetä Nanalle chatti",
+    "ctaNote": "Ilmainen esikatselu · ei korttia · poistuu automaattisesti",
+    "demoTitle": "Valitse chatti ja katso, mitä Nana näkee",
+    "demoHint": "Nämä ovat keksittyjä chatteja. Sinun on pahempi.",
+    "howTitle": "Näin se toimii",
+    "how": [
+      {
+        "t": "Vie chattisi",
+        "d": "Kaksi napautusta WhatsAppissa, Telegramissa, LINEssa tai KakaoTalkissa. Näytämme tarkalleen miten."
+      },
+      {
+        "t": "Nana lukee kaiken",
+        "d": "Jokaisen viestin, jokaisen ääniviestiselityksen, jokaisen sängystä lähetetyn ”oon tulossa”."
+      },
+      {
+        "t": "Saat raportin",
+        "d": "Ilmainen esikatselu minuutissa. Koko raportti tulee sähköpostiisi — jaa se chattiin, jos uskallat."
+      }
+    ],
+    "findsTitle": "Mitä Nana löytää",
+    "finds": [
+      {
+        "e": "🫖",
+        "t": "Kuka oikeasti välittää",
+        "d": "Kuka aloittaa keskustelut, kuka vastaa 4 minuutissa ja kuka 4 tunnissa."
+      },
+      {
+        "e": "📉",
+        "t": "Hetki, jolloin kaikki muuttui",
+        "d": "Se tarkka viikko, jolloin into lopahti, ja viestit, jotka todistavat sen."
+      },
+      {
+        "e": "🗝️",
+        "t": "Teidän oma kielenne",
+        "d": "Sisäpiirin vitsit ja sanat, jotka vain te kaksi (tai te kaksitoista) ymmärrätte."
+      },
+      {
+        "e": "🏆",
+        "t": "Jokaisen rooli",
+        "d": "Ryhmissä: suunnittelija, haamu ja se, joka sanoo ”mukana” eikä ikinä tule."
+      }
+    ],
+    "privacyTitle": "Yksityinen alusta asti",
+    "privacy": [
+      "Chattisi luetaan ja lasketaan selaimessasi ennen kuin mitään ladataan.",
+      "Lataukset salataan ja poistetaan automaattisesti: 48 tunnin kuluttua, jos et tilaa raporttia, muuten 7 päivää viimeisimmän raportin jälkeen.",
+      "Ei koskaan myydä, ei koskaan jaeta, ei koskaan käytetä tekoälyn kouluttamiseen."
+    ],
+    "worksWith": "Toimii näiden kanssa",
+    "heatTitle": "Valitse, kuinka kovaa Nana menee",
+    "heat": {
+      "gentle": {
+        "t": "Lempeä",
+        "d": "Syntymäpäiväkortti-mummo. Kiusoittelua, ei mitään, mikä kirpaisee."
+      },
+      "spicy": {
+        "t": "Tulinen",
+        "d": "Kunnon roustaus. Useimmat valitsevat tämän."
+      },
+      "savage": {
+        "t": "Armoton",
+        "d": "Ei armoa. Porukoille, jotka roustaavat toisiaan päivittäin."
+      }
+    },
+    "finalH": "Sinun chattisi on seuraava.",
+    "finalSub": "Nana keittää jo kahvit."
+  },
+  "landing": {
+    "relationship": {
+      "metaTitle": "Tykkääkö hän sinusta oikeasti? Tekoäly analysoi chattisi — Nana Reads",
+      "metaDesc": "Lataa chatti ihastuksesi, kumppanisi, säätösi tai exäsi kanssa. Nana lukee jokaisen viestin ja kertoo, kumpi välittää enemmän ja mikä muuttui.",
+      "h1": "Tykkääkö hän sinusta oikeasti? Nana kertoo.",
+      "sub": "Lähetä chatti ihastuksesi, kumppanisi, säätösi tai exäsi kanssa. Nana laskee, kuka viestii ensin, kuka odottaa ja milloin jokin muuttui."
+    },
+    "friends": {
+      "metaTitle": "Ryhmächatin analyysi ja kaveriporukan roustaus — Nana Reads",
+      "metaDesc": "Lataa kaveriporukan ryhmächatti. Nana roustaa jokaisen, jakaa palkinnot ja sanoo ääneen sen, mitä kukaan ei sano.",
+      "h1": "Mitä Nana ajattelee sinusta ja kavereistasi?",
+      "sub": "Jätkien chatti, tyttöjen chatti, se reissu, joka ei koskaan toteutunut. Nana lukee kaiken ja antaa jokaiselle tittelin, jonka tämä ansaitsee."
+    },
+    "family": {
+      "metaTitle": "Perheen WhatsApp-ryhmän analyysi — Nana Reads",
+      "metaDesc": "Lataa perheen ryhmächatti. Nana selvittää, kuka oikeasti pitää perheen koossa, kuka ei ikinä vastaa ja kuka lähettää ne huomenta-kukat.",
+      "h1": "Perheesi chatti mummon luettavana — ja tämä mummo on nähnyt kaiken.",
+      "sub": "Kuka pitää perheen koossa, kuka vastaa vain ruokakuviin ja kuka on yhä nyrpeänä viime joulusta. Nana tietää."
+    },
+    "imessage": {
+      "metaTitle": "iMessage-chatin analyysi — Nana Reads",
+      "metaDesc": "Vie iMessage-keskustelu Macilta ja anna Nanan lukea se. Kumpi välittää enemmän, mikä muuttui ja mitä seuraavaksi.",
+      "h1": "Lataa iMessage-chatti. Nana hoitaa loput.",
+      "sub": "Vie keskustelu Macilta parissa minuutissa, niin Nana lukee jokaisen sinisen kuplan."
+    },
+    "whatsapp": {
+      "metaTitle": "WhatsApp-chatin analyysi — Nana Reads",
+      "metaDesc": "Vie mikä tahansa WhatsApp-chatti kahdella napautuksella. Nana lukee jokaisen viestin ja kirjoittaa rehellisen, hauskan raportin kaikista mukana olevista.",
+      "h1": "WhatsApp-chatin analyysi uteliaimman mummosi tekemänä.",
+      "sub": "Kaksi napautusta vientiin, minuutti ilmaiseen esikatseluun. Toimii yksityischateissa ja kaikenkokoisissa ryhmissä."
+    }
+  },
+  "demos": [
+    {
+      "id": "trip",
+      "label": "Jätkät 🍻",
+      "kind": "Kaveriporukka",
+      "count": "24 310 viestiä",
+      "messages": [
+        {
+          "a": "Mikko",
+          "x": "Jätkät. Berliini. Kysely on auki, äänestäkää huomiseen mennessä"
+        },
+        {
+          "a": "Janne",
+          "x": "MUKANA!!"
+        },
+        {
+          "a": "Teemu",
+          "x": "mukana mut ei kesäkuussa"
+        },
+        {
+          "a": "Mikko",
+          "x": "se ON kesäkuussa. se on koko pointti"
+        },
+        {
+          "a": "Janne",
+          "x": "hetkinen kesäkuussa mulla on serkun häät"
+        },
+        {
+          "a": "Teemu",
+          "x": "mikä kysely"
+        },
+        {
+          "a": "Mikko",
+          "x": "sama kysely ku viime vuonna"
+        }
+      ],
+      "stats": [
+        {
+          "k": "Kyselyitä luotu",
+          "v": "4"
+        },
+        {
+          "k": "Ääniä",
+          "v": "1"
+        },
+        {
+          "k": "Lentoja varattu",
+          "v": "0"
+        },
+        {
+          "k": "”Mukana” lähetetty",
+          "v": "37"
+        }
+      ],
+      "headline": "Berliini: neljä kyselyä, yksi äänestäjä, nolla lentoa",
+      "verdict": "Mikko on julkaissut saman kyselyn neljä kertaa, ja jokainen ääni on hänen omansa. Kukaan tässä porukassa ei koskaan sano reissulle ei. He eivät vain koskaan sano kyllä.",
+      "locked": [
+        "Kuka oikeasti suunnittelee ja kuka vain kirjoittaa ”MUKANA”",
+        "Jannen serkku, jolla on ollut tänä vuonna 3 häät",
+        "Jokainen tekosyy uskottavuusjärjestyksessä",
+        "Miksi mökki voittaa joka ikinen kerta"
+      ]
+    },
+    {
+      "id": "situationship",
+      "label": "Emma 🙃",
+      "kind": "Säätö",
+      "count": "5 102 viestiä",
+      "messages": [
+        {
+          "a": "Emma",
+          "x": "moiii mitä kuuluu 🙂"
+        },
+        {
+          "a": "Minä",
+          "x": "moi?? katosit yhdeksäks päiväks"
+        },
+        {
+          "a": "Emma",
+          "x": "töissä on ollu ihan hullua oikeesti"
+        },
+        {
+          "a": "Minä",
+          "x": "näin sun storyn rannalta"
+        },
+        {
+          "a": "Emma",
+          "x": "se oli joku puol tuntia 😅"
+        },
+        {
+          "a": "Minä",
+          "x": "nähdäänks me siis viikonloppuna?"
+        },
+        {
+          "a": "Emma",
+          "x": "ehkä! katotaan miten viikko menee"
+        }
+      ],
+      "stats": [
+        {
+          "k": "Sinun vastausaikasi (mediaani)",
+          "v": "4 min"
+        },
+        {
+          "k": "Emman vastausaika (mediaani)",
+          "v": "3 h"
+        },
+        {
+          "k": "Kuka aloittaa",
+          "v": "Sinä · 81 %"
+        },
+        {
+          "k": "Pisin hiljaisuus",
+          "v": "9 päivää"
+        }
+      ],
+      "headline": "Yhdeksän päivää luettuna, sitten ”moiii mitä kuuluu 🙂”",
+      "verdict": "Emma vastaa kolmessa tunnissa, sinä neljässä minuutissa. Te molemmat tiedätte, mitä se tarkoittaa, kultaseni, eikä kumpikaan teistä sano sitä ääneen.",
+      "locked": [
+        "Kuka viestii ensin ja kuka odottaa viestiä",
+        "Yhdeksän päivää hiljaisuutta: mitä oikeasti tapahtui",
+        "Mitä Emman ”😅” kätkee",
+        "Mitä Nana tekisi sinun sijassasi"
+      ]
+    },
+    {
+      "id": "family",
+      "label": "Perhe 🏡",
+      "kind": "Perheryhmä",
+      "count": "61 877 viestiä",
+      "messages": [
+        {
+          "a": "Äiti",
+          "x": "Hyvää huomenta perhe 🌸🌸🌸"
+        },
+        {
+          "a": "Ukki",
+          "x": "Huomenta"
+        },
+        {
+          "a": "Äiti",
+          "x": "Kuka tulee sunnuntaina syömään? Tarvitsen määrän"
+        },
+        {
+          "a": "Ville",
+          "x": "👍"
+        },
+        {
+          "a": "Äiti",
+          "x": "👍 ei ole määrä Ville"
+        },
+        {
+          "a": "Laura",
+          "x": "voinko tuoda jonkun"
+        },
+        {
+          "a": "Äiti",
+          "x": "KENET"
+        }
+      ],
+      "stats": [
+        {
+          "k": "Huomenta-kukkia",
+          "v": "1 204"
+        },
+        {
+          "k": "Villen sanoja per viesti",
+          "v": "1,2"
+        },
+        {
+          "k": "Sunnuntain osallistujakyselyt",
+          "v": "212"
+        },
+        {
+          "k": "Vastattu",
+          "v": "19"
+        }
+      ],
+      "headline": "212 sunnuntaikyselyä, 19 vastausta, yksi 👍",
+      "verdict": "Äiti on kysynyt 212 kertaa, kuka tulee sunnuntaina syömään. Ville on vastannut peukulla 140 kertaa. Ja silti kaikki tulevat paikalle, joka ikinen viikko.",
+      "locked": [
+        "Äiti, tämän perheen palkaton toimitusjohtaja",
+        "Ville ja peukkutalous",
+        "Kenet Laura tuo sunnuntaina",
+        "Ukin aamukuuden viestit, purettuina"
+      ]
+    }
+  ],
+  "examples": {
+    "title": "Poimintoja Nanan raporteista",
+    "note": "Yllä olevista esimerkkichateista, joten kenenkään yksityisyys ei kärsinyt.",
+    "items": [
+      "Mikko on julkaissut saman kyselyn neljä kertaa. Hän ei ole matkanjärjestäjä, hän on panttivankineuvottelija.",
+      "Sinä vastaat neljässä minuutissa. Emma vastaa kolmessa tunnissa. Minun nuoruudessani sitä sanottiin ”merkiksi”.",
+      "Ville on kirjoittanut tähän ryhmään 4 000 sanaa kuudessa vuodessa. Niistä 3 100 oli ”ok”.",
+      "Äiti ei tarvitse osallistujamäärää. Äiti tarvitsee halauksen ja suoran vastauksen."
+    ]
+  },
+  "flow": {
+    "close": "Sulje",
+    "stepOf": "{n}/{total}",
+    "back": "Takaisin",
+    "next": "Jatka",
+    "context": {
+      "q": "Millaisen chatin Nana lukee?",
+      "options": {
+        "partner": {
+          "t": "Romantiikka",
+          "d": "kumppani, ihastus, säätö, exä…"
+        },
+        "friends": {
+          "t": "Kaveriporukka",
+          "d": "jätkät, tytöt, reissuchatti…"
+        },
+        "friend": {
+          "t": "Yksi kaveri",
+          "d": "paras kaveri, lapsuudenystävä, työkaveri…"
+        },
+        "family": {
+          "t": "Perhe",
+          "d": "perheryhmä, äiti tai isä, sisarukset…"
+        },
+        "work": {
+          "t": "Työ / tiimi",
+          "d": "tiimichatti, työkaverit, pomo…"
+        },
+        "other": {
+          "t": "Jotain muuta",
+          "d": "kämppikset, naapurit, taloyhtiön hallitus…"
+        }
+      }
+    },
+    "source": {
+      "q": "Mistä chatti on?",
+      "soon": "Näyttötallenteen tuonti on tulossa pian. Käytä toistaiseksi sovellusta, josta voi viedä tekstiä."
+    },
+    "upload": {
+      "q": "Lataa chatti sovelluksesta {app}",
+      "drop": "Napauta ja valitse viety tiedosto",
+      "dropHint": ".txt, .zip, .json tai .csv — enintään 200 Mt",
+      "reading": "Nana lukee… {count} viestiä tähän mennessä",
+      "readingLocal": "Tämä tapahtuu laitteellasi. Mitään ei ole vielä ladattu.",
+      "uploading": "Ladataan turvallisesti…",
+      "privacy": "Chattisi pysyy yksityisenä",
+      "howTo": "Miten vien sen?",
+      "errors": {
+        "format": "Nana ei saanut tiedostosta selvää. Varmista, että se on alkuperäinen vienti (.txt tai .zip), ei kuvakaappaus.",
+        "few": "Chatti on vähän lyhyt. Nana tarvitsee vähintään 10 viestiä, jotta hänellä olisi mielipide.",
+        "big": "Tiedosto on yli 200 Mt. Vie chatti ilman mediaa ja yritä uudelleen.",
+        "upload": "Lataus epäonnistui. Tarkista yhteys ja yritä uudelleen."
+      },
+      "found": "Löytyi {count} viestiä väliltä {first}–{last}."
+    },
+    "guides": {
+      "whatsapp": [
+        "Avaa chatti WhatsAppissa",
+        "Napauta nimeä ylhäällä (iPhone) tai ⋮ → Lisää (Android)",
+        "Napauta ”Vie keskustelu” ja valitse ”Ilman mediaa”",
+        "Tallenna se Tiedostoihin ja valitse se täältä — tai lähetä se itsellesi sähköpostilla"
+      ],
+      "telegram": [
+        "Avaa Telegram Desktop tietokoneella",
+        "Avaa chatti → ⋮ → Vie keskusteluhistoria",
+        "Poista valinnat kuvista ja videoista, valitse muodoksi ”Koneluettava JSON”",
+        "Lataa result.json-tiedosto tänne"
+      ],
+      "line": [
+        "Avaa chatti LINEssa",
+        "Napauta ≡ (oikealla ylhäällä) → Asetukset",
+        "Napauta ”Vie keskusteluhistoria”",
+        "Tallenna .txt-tiedosto ja valitse se täältä"
+      ],
+      "kakaotalk": [
+        "Avaa chatti KakaoTalkissa",
+        "Napauta ≡ → ⚙ Keskusteluhuoneen asetukset",
+        "Napauta ”Vie viestit” → ”Tallenna vain teksti”",
+        "Valitse .txt-tiedosto täältä"
+      ],
+      "imessage": [
+        "Asenna Maciin ilmainen ”iMessage Exporter” (tai mikä tahansa työkalu, joka tallentaa CSV/TXT-muodossa)",
+        "Vie keskustelu tekstinä tai CSV-tiedostona",
+        "Lataa tiedosto tänne"
+      ],
+      "instagram": [
+        "Instagram → Asetukset → Oma toimintasi → Lataa tietosi",
+        "Valitse Viestit, muoto JSON",
+        "Kun sähköposti saapuu, lataa keskustelun message_1.json"
+      ],
+      "messenger": [
+        "Facebook → Asetukset → Lataa tietosi",
+        "Valitse Viestit, muoto JSON",
+        "Lataa keskustelun message_1.json tänne"
+      ],
+      "other": [
+        "Vie chatti teksti-, CSV- tai JSON-tiedostona",
+        "Lataa se tänne — Nana lukee useimpia muotoja"
+      ]
+    },
+    "me": {
+      "q": "Kuka näistä olet sinä?",
+      "sub": "Jotta Nana voi puhua sinulle eikä sinusta.",
+      "none": "En ole tässä chatissa"
+    },
+    "details": {
+      "q": "Pitäisikö Nanan tietää jotain?",
+      "notes": "Vapaaehtoinen taustatieto (esim. ”erottiin maaliskuussa”, ”Jussi on veljeni”)",
+      "lang": "Raportin kieli",
+      "heat": "Kuinka kovaa Nana menee?"
+    },
+    "email": {
+      "q": "Mihin Nana lähettää raportin?",
+      "sub": "Lähetämme sinulle sähköpostilla 6-numeroisen koodin. Ei salasanaa, ei roskapostia.",
+      "placeholder": "sina@esimerkki.fi",
+      "send": "Lähetä koodi",
+      "code": "Syötä koodi, jonka lähetimme osoitteeseen {email}",
+      "verify": "Vahvista",
+      "resend": "Lähetä uusi koodi",
+      "orLink": "Tai napauta sähköpostin linkkiä — sekin toimii.",
+      "terms": "Jatkamalla hyväksyt seuraavat: {terms} ja {privacy}. Vahvistat myös olevasi vähintään 18-vuotias.",
+      "errors": {
+        "email": "Tuo sähköpostiosoite ei näytä oikealta.",
+        "code": "Koodi ei toiminut. Yritä uudelleen tai pyydä uusi.",
+        "rate": "Liian monta yritystä. Odota minuutti ja yritä uudelleen."
+      }
+    },
+    "writing": {
+      "t": "Nana lukee chattiasi",
+      "lines": [
+        "Laittaa lasit päähän…",
+        "Laskee, kuka viestii ensin…",
+        "Etsii viikkoa, jolloin kaikki muuttui…",
+        "Alleviivaa mehukkaimmat kohdat…",
+        "Keittää kahvia…"
+      ],
+      "note": "Tämä kestää noin minuutin. Lähetämme sinulle myös sähköpostia, kun se on valmis."
+    },
+    "recording": {
+      "cta": "Tai lataa näyttötallenne",
+      "hint": "Tallenna näyttö, kun selaat chattia hitaasti vanhimmasta viestistä uusimpaan, ja lataa video. Nana lukee kuplat.",
+      "extracting": "Poimitaan tarkimpia ruutuja… {pct} %",
+      "reading": "Nana lukee kuvakaappauksia… tämä kestää 1–2 minuuttia",
+      "errVideo": "Videota ei voitu lukea. Kokeile tavallista näyttötallennetta (MP4 tai MOV).",
+      "errFew": "Nana löysi vain muutaman viestin. Selaa hitaammin ja tallenna pidempi pätkä chattia."
+    }
+  },
+  "report": {
+    "by": "Nana",
+    "tagline": "81. On lukenut jokaisen koskaan kirjoitetun chatin. Tuo yhä keittoa.",
+    "share": "Jaa raportti",
+    "copied": "Linkki kopioitu",
+    "privacy": "Yksityinen ja sinun hallinnassasi",
+    "cutoff": "Chatti oli liian pitkä luettavaksi kerralla, joten Nana luki kaiken {date} alkaen.",
+    "statsTitle": "Numerot",
+    "stat": {
+      "messages": "Viestit",
+      "perDay": "Päivässä",
+      "whoTalks": "Kuka puhuu eniten",
+      "whoStarts": "Kuka aloittaa",
+      "afterMidnight": "Puolenyön jälkeen",
+      "reply": "Vastausajan mediaani",
+      "busiestHour": "Vilkkain tunti",
+      "voice": "Ääniviestit",
+      "emojis": "Suosituimmat emojit",
+      "silence": "Pisin hiljaisuus",
+      "days": "{n} päivää",
+      "min": "{n} min",
+      "h": "{n} h"
+    },
+    "lockedTitle": "Raportissa vielä",
+    "peopleTitle": "Ja jokaisesta teistä",
+    "unlock": "Lue koko raportti",
+    "unlockNote": "Käyttää 1 krediitin · sinulla on {n}",
+    "noCredits": "Krediittisi ovat lopussa. Maksaminen avautuu pian — Nana ilmoittaa sähköpostilla.",
+    "writingFull": "Nana kirjoittaa koko raporttia. Noin 2 minuuttia — lähetämme myös sähköpostia.",
+    "failed": "Jokin meni pieleen, kun Nana kirjoitti. Krediittisi palautettiin. Yritä uudelleen.",
+    "retry": "Yritä uudelleen",
+    "peopleSection": "Kuka on kuka",
+    "glossary": "Tämän chatin sanakirja",
+    "awards": "Palkintogaala",
+    "reactions": "Näin kukin teistä reagoi tähän",
+    "verdict": "Tuomio",
+    "advice": "Mitä Nana tekisi",
+    "askTitle": "Kysy Nanalta jotain muuta tästä chatista",
+    "askPlaceholder": "esim. Onko hän menettämässä kiinnostuksensa? Kuka porukasta on oikeasti ärsyyntynyt minuun?",
+    "askCta": "Kysy Nanalta · 1 krediitti",
+    "askExpired": "Tämä chatti on poistettu palvelimiltamme, joten Nana ei voi vastata siitä uusiin kysymyksiin.",
+    "nextTitle": "Minkä chatin Nana lukee seuraavaksi?",
+    "nextCta": "Lähetä toinen chatti",
+    "notFound": "Tätä raporttia ei ole olemassa tai se on poistettu.",
+    "feedback": "Osuiko Nana oikeaan?",
+    "feedbackYes": "Naulan kantaan",
+    "feedbackNo": "Ei oikein",
+    "thanks": "Kiitos — Nana tekee muistiinpanoja.",
+    "aiNote": "Tekoälyn kirjoittama viihdetarkoitukseen. Se voi ymmärtää asiayhteyden väärin — älä tee isoja päätöksiä sen perusteella.",
+    "toc": "Tässä raportissa",
+    "minRead": "{n} min lukuaika",
+    "activity": "Aktiivisuus kuukausittain",
+    "phrases": "Asiat, joita sanot aivan liian usein",
+    "shareYou": "Jaa kortti: {name}",
+    "personKicker": "Mitä Nana ajattelee: {name}",
+    "readFull": "Lue koko raportti",
+    "sendYours": "Anna Nanan lukea oma chattisi"
+  },
+  "account": {
+    "title": "Omat chatit",
+    "signIn": "Kirjaudu sisään nähdäksesi chattisi ja raporttisi",
+    "signOut": "Kirjaudu ulos",
+    "credits": "Krediitit: {n}",
+    "empty": "Ei vielä chatteja.",
+    "reports": "Raportit",
+    "chatExpires": "Chatti poistuu automaattisesti {date}",
+    "chatDeleted": "Chatti on jo poistettu · raportit säilytetty",
+    "deleteChat": "Poista chatti",
+    "deleteReport": "Poista raportti",
+    "deleteAccount": "Poista tilini ja kaikki sen sisältö",
+    "confirm": "Oletko varma? Tätä ei voi perua.",
+    "open": "Avaa",
+    "followup": "Jatkokysymys"
+  },
+  "faq": {
+    "title": "Kysymyksiä ennen lataamista",
+    "items": [
+      {
+        "q": "Mikä Nana Reads on?",
+        "a": "Tekoälyhahmo — Nana — joka lukee lataamasi chatin ja kirjoittaa rehellisen, hauskan raportin kaikista mukana olevista: todellisen dynamiikan, kuka välittää enemmän, mikä muuttui ja jokaisen roolin."
+      },
+      {
+        "q": "Onko se ilmainen?",
+        "a": "Ensisilmäys on ilmainen: Nanan avaus, numerot ja koko raportin kaikkien osioiden otsikot. Koko raportti maksaa yhden krediitin. Tilausta ei ole."
+      },
+      {
+        "q": "Mitkä sovellukset toimivat?",
+        "a": "WhatsAppin (iPhone ja Android), Telegramin, LINEn ja KakaoTalkin viennit sekä iMessage, Instagram ja Messenger niiden datavientien kautta. Näyttötallenteen tuonti on tulossa pian."
+      },
+      {
+        "q": "Onko chattini yksityinen?",
+        "a": "Nana laskee viestisi ensin selaimessasi. Lataus on salattu, sitä ei koskaan jaeta kenellekään chatissa olevalle, ei myydä eikä käytetä tekoälyn kouluttamiseen. Se poistetaan automaattisesti 48 tuntia latauksen jälkeen, jos et tilaa raporttia, tai 7 päivää viimeisimmän raporttisi jälkeen."
+      },
+      {
+        "q": "Saavatko chatissa olevat tietää?",
+        "a": "Eivät. Kenellekään ei ilmoiteta. Raportin näkevät vain ne, joille lähetät linkin."
+      },
+      {
+        "q": "Millä kielillä?",
+        "a": "Chattisi voi olla millä kielellä tahansa tai sekoitus useampaa. Raportteja kirjoitetaan 24 kielellä, ja Nana käyttää chatin omaa slangia."
+      },
+      {
+        "q": "Kauanko se kestää?",
+        "a": "Esikatselu kestää noin minuutin, koko raportti noin kaksi minuuttia. Lähetämme sähköpostia, kun se on valmis, joten sivulla ei tarvitse odotella."
+      },
+      {
+        "q": "Voinko kysyä Nanalta lisää?",
+        "a": "Voit. Jokaisen raportin alla voit esittää jatkokysymyksen samasta chatista. Jokainen vastaus on uusi, syvempi raportti."
+      },
+      {
+        "q": "Miten poistan tietoni?",
+        "a": "Kohdassa ”Omat chatit” voit milloin tahansa poistaa chatin, raportin tai koko tilisi."
+      },
+      {
+        "q": "Onko se tarkka?",
+        "a": "Numerot lasketaan tarkasti viennistäsi. Mielipiteet ovat Nanan — tekoäly voi ymmärtää asiayhteyden väärin, joten pidä tätä viihteenä, älä neuvona."
+      },
+      {
+        "q": "Kenelle se on?",
+        "a": "Aikuisille (18+), jotka kaipaavat naurua, todellisuustarkistusta tai todisteen siitä, että olivat oikeassa koko ajan."
+      }
+    ]
+  },
+  "about": {
+    "title": "Tietoa Nana Readsista",
+    "body": [
+      "Nana Reads on pieni itsenäinen studioprojekti. Teimme hahmon, jonka toivoimme olevan olemassa: mummon, joka on lukenut kaikki maailman chatit, rakastaa sinua ja kertoo silti totuuden.",
+      "Nana lukee WhatsApp-, Telegram-, LINE-, KakaoTalk-, iMessage-, Instagram- ja Messenger-chatteja ja kirjoittaa 24 kielellä.",
+      "Välitämme yksityisyydestä enemmän kuin kukaan muu tässä kategoriassa: chattisi lasketaan ensin selaimessasi, se poistetaan automaattisesti eikä sitä koskaan käytetä tekoälyn kouluttamiseen."
+    ],
+    "factsTitle": "Perustiedot",
+    "facts": [
+      [
+        "Nimi",
+        "Nana Reads"
+      ],
+      [
+        "Mikä se on",
+        "Tekoälyn chattiraportit kavereille, pariskunnille ja perheille"
+      ],
+      [
+        "Kielet",
+        "24"
+      ],
+      [
+        "Hinnoittelu",
+        "Ilmainen esikatselu, sitten maksu raporttikohtaisesti. Ei tilausta."
+      ],
+      [
+        "Yksityisyys",
+        "Poistetaan automaattisesti, ei koskaan käytetä tekoälyn kouluttamiseen"
+      ]
+    ]
+  },
+  "support": {
+    "title": "Ota yhteyttä",
+    "sub": "Useimmat vastaukset löytyvät alla olevista kysymyksistä. Jos ei, kirjoita meille — oikea ihminen lukee jokaisen viestin.",
+    "email": "Sähköpostisi",
+    "message": "Miten voimme auttaa?",
+    "send": "Lähetä",
+    "sent": "Saatiin. Vastaamme sähköpostilla."
+  },
+  "feedback": {
+    "title": "Kerro Nanalle mielipiteesi",
+    "sub": "Ideoita, valituksia, kehuja Nanalle. Luemme kaiken.",
+    "placeholder": "Palautteesi",
+    "send": "Lähetä",
+    "sent": "Kiitos!"
+  },
+  "footer": {
+    "chats": "Chatit",
+    "help": "Apua",
+    "company": "Nana Reads",
+    "links": {
+      "home": "Etusivu",
+      "relationship": "Parisuhdechatit",
+      "friends": "Kaveri- ja ryhmächatit",
+      "family": "Perhechatit",
+      "whatsapp": "WhatsApp-chatit",
+      "imessage": "iMessage-chatit",
+      "account": "Omat chatit",
+      "faq": "UKK",
+      "support": "Tuki",
+      "feedback": "Palaute",
+      "privacy": "Tietosuoja",
+      "terms": "Ehdot",
+      "about": "Tietoa meistä"
+    },
+    "rights": "© {year} Nana Reads. Vain viihdekäyttöön."
+  },
+  "legal": {
+    "englishOnly": "Tämä sivu näytetään englanniksi. Englanninkielinen versio on sitova.",
+    "privacy": "Tietosuojakäytäntö",
+    "terms": "Käyttöehdot"
+  },
+  "common": {
+    "loading": "Ladataan…",
+    "error": "Jokin meni pieleen.",
+    "or": "tai"
+  }
+}
