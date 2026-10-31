@@ -5,6 +5,7 @@ import { PageShell } from "@/components/PageShell";
 import { alternates, href } from "@/lib/site";
 import { getDictionary } from "@/lib/i18n/dictionaries";
 import { isLocale } from "@/lib/i18n/config";
+import { Arrow } from "@/components/Arrow";
 
 export async function generateMetadata({ params }: PageProps<"/[lang]/faq">): Promise<Metadata> {
   const { lang } = await params;
@@ -26,7 +27,7 @@ export default async function Faq({ params }: PageProps<"/[lang]/faq">) {
           </details>
         ))}
       </div>
-      <div className="mt-8 text-center"><Link href={href(lang, "/start")} className="btn btn-primary">{t.nav.cta} →</Link></div>
+      <div className="mt-8 text-center"><Link href={href(lang, "/start")} className="btn btn-primary">{t.nav.cta} <Arrow /></Link></div>
     </PageShell>
   );
 }

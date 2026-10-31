@@ -7,6 +7,7 @@ import { Footer } from "./Footer";
 import { DemoPicker } from "./DemoPicker";
 import { NanaAvatar } from "./NanaAvatar";
 import { AppBadge, APP_KEYS, appLabel } from "./AppIcons";
+import { Arrow } from "@/components/Arrow";
 
 export function Landing({ lang, t, h1, sub, from }: { lang: Locale; t: Dict; h1: string; sub: string; from: string }) {
   const H = t.home;
@@ -21,11 +22,11 @@ export function Landing({ lang, t, h1, sub, from }: { lang: Locale; t: Dict; h1:
           <p className="mt-4 text-sm font-medium text-ink-soft">{H.eyebrow}</p>
           <h1 className="font-display mt-2 max-w-3xl text-4xl font-bold leading-[1.05] tracking-tight sm:text-6xl">{h1}</h1>
           <p className="mt-4 max-w-2xl text-lg text-ink-soft">{sub}</p>
-          <Link href={start} className="btn btn-primary mt-7 !px-8 !py-4 !text-lg">{H.cta} →</Link>
+          <Link href={start} className="btn btn-primary mt-7 !px-8 !py-4 !text-lg">{H.cta} <Arrow /></Link>
           <p className="mt-3 text-sm text-ink-soft">{H.ctaNote}</p>
         </section>
 
-        <div className="relative mt-10 overflow-hidden" aria-hidden>
+        <div className="relative mt-10 overflow-hidden" aria-hidden dir="ltr">
           <div className="marquee flex w-max gap-3">
             {[...strip, ...strip, ...strip, ...strip].map((s, i) => (
               <span key={i} className="chip text-sm">{s}</span>
@@ -108,7 +109,7 @@ export function Landing({ lang, t, h1, sub, from }: { lang: Locale; t: Dict; h1:
         <section className="mt-16 flex flex-col items-center text-center">
           <h2 className="font-display text-4xl font-bold">{H.finalH}</h2>
           <p className="mt-2 text-ink-soft">{H.finalSub}</p>
-          <Link href={start} className="btn btn-primary mt-6 !px-8 !py-4 !text-lg">{H.cta} →</Link>
+          <Link href={start} className="btn btn-primary mt-6 !px-8 !py-4 !text-lg">{H.cta} <Arrow /></Link>
         </section>
       </main>
       <Footer lang={lang} t={t} />

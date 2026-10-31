@@ -8,6 +8,7 @@ import type { ChatStats } from "@/lib/chat/types";
 import type { Preview, Report, Block } from "@/lib/ai/schema";
 import { NanaAvatar } from "./NanaAvatar";
 import { WritingScreen } from "./StartFlow";
+import { Arrow } from "@/components/Arrow";
 
 interface Data {
   id: string; chatId: string | null; number: number; status: string; unlocked: boolean; lang: string;
@@ -168,7 +169,7 @@ export function ReportView({ id, lang, t }: { id: string; lang: Locale; t: Dict 
             </>}
             {d.isOwner && d.status === "preview_ready" && (
               <div className="mt-6">
-                <button className="btn btn-primary w-full" disabled={busy} onClick={unlock}>{R.unlock} →</button>
+                <button className="btn btn-primary w-full" disabled={busy} onClick={unlock}>{R.unlock} <Arrow /></button>
                 <p className="mt-2 text-center text-sm text-ink-soft">{fmt(R.unlockNote, { n: d.credits ?? 0 })}</p>
               </div>
             )}
@@ -214,7 +215,7 @@ export function ReportView({ id, lang, t }: { id: string; lang: Locale; t: Dict 
           {rep.awards.length > 0 && (
             <section className="mt-12">
               <h2 className="font-display mb-4 text-2xl font-bold">🏆 {R.awards}</h2>
-              <ul className="space-y-3">{rep.awards.map((a, i) => <li key={i} className="card p-4"><b>{a.award}</b> → {a.winner}<p className="text-sm text-ink-soft">{a.why}</p></li>)}</ul>
+              <ul className="space-y-3">{rep.awards.map((a, i) => <li key={i} className="card p-4"><b>{a.award}</b>: {a.winner}<p className="text-sm text-ink-soft">{a.why}</p></li>)}</ul>
             </section>
           )}
           {rep.reactions.length > 0 && (
@@ -255,7 +256,7 @@ export function ReportView({ id, lang, t }: { id: string; lang: Locale; t: Dict 
       <p className="mt-10 text-xs text-ink-soft">{R.aiNote}</p>
       <section className="mt-10 text-center">
         <h2 className="font-display text-2xl font-bold">{R.nextTitle}</h2>
-        <Link href={`/${lang}/start?from=report_end`} className="btn btn-primary mt-4">{R.nextCta} →</Link>
+        <Link href={`/${lang}/start?from=report_end`} className="btn btn-primary mt-4">{R.nextCta} <Arrow /></Link>
       </section>
     </main>
   );

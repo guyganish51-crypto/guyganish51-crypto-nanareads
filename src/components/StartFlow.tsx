@@ -13,6 +13,7 @@ import { extractFrames } from "@/lib/chat/frames";
 import { supabaseBrowser } from "@/lib/supabase/client";
 import { NanaAvatar } from "./NanaAvatar";
 import { AppBadge, APP_KEYS, appLabel } from "./AppIcons";
+import { Arrow } from "@/components/Arrow";
 
 type Step = "context" | "source" | "upload" | "me" | "details" | "email" | "writing";
 const STEPS: Step[] = ["context", "source", "upload", "me", "details", "email", "writing"];
@@ -345,7 +346,7 @@ export function StartFlow({ lang, t }: { lang: Locale; t: Dict }) {
             </div>
             <p className="mt-2 text-sm text-ink-soft">{t.home.heat[heat].d}</p>
           </div>
-          <button className="btn btn-primary w-full" disabled={!!busy} onClick={saveDetails}>{F.next} →</button>
+          <button className="btn btn-primary w-full" disabled={!!busy} onClick={saveDetails}>{F.next} <Arrow /></button>
         </section>
       )}
 

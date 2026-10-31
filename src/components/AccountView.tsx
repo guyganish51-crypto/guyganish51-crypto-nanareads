@@ -5,6 +5,7 @@ import type { Dict } from "@/lib/i18n/dictionaries";
 import type { Locale } from "@/lib/i18n/config";
 import { fmt } from "@/lib/fmt";
 import { supabaseBrowser } from "@/lib/supabase/client";
+import { Arrow } from "@/components/Arrow";
 
 interface Me {
   email: string; credits: number;
@@ -69,7 +70,7 @@ export function AccountView({ lang, t }: { lang: Locale; t: Dict }) {
         <button className="chip text-sm" onClick={async () => { await sb.auth.signOut(); location.reload(); }}>{A.signOut}</button>
       </div>
       {me.chats.length === 0 && me.reports.length === 0 && (
-        <div className="card p-6 text-center"><p>{A.empty}</p><Link className="btn btn-primary mt-4" href={`/${lang}/start`}>{t.nav.cta} →</Link></div>
+        <div className="card p-6 text-center"><p>{A.empty}</p><Link className="btn btn-primary mt-4" href={`/${lang}/start`}>{t.nav.cta} <Arrow /></Link></div>
       )}
       {me.chats.map((c) => {
         const reps = me.reports.filter((r) => r.chat_id === c.id).sort((a, b) => a.number - b.number);
