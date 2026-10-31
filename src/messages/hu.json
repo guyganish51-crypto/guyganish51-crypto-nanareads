@@ -511,7 +511,7 @@
     "activity": "Aktivitás havonta",
     "phrases": "Amit túl sokszor mondasz",
     "shareYou": "{name} kártyájának megosztása",
-    "personKicker": "Mit gondol Nana róla: {name}",
+    "personKicker": "Nana véleménye: {name}",
     "readFull": "A teljes jelentés elolvasása",
     "sendYours": "Olvastasd el a saját chatedet"
   },

@@ -1,0 +1,42 @@
+{
+  "previewReady": {
+    "subject": "Nana végzett az olvasással 🫖",
+    "pre": "Benne: {names}",
+    "h": "Elolvastam a chateteket.",
+    "body": "Ezt írtam mindegyikőtökről:",
+    "more": "…és még sok más",
+    "cta": "Elolvasom az előnézetet"
+  },
+  "nudge": {
+    "subject": "{title}",
+    "pre": "A java még zárva van.",
+    "h": "Vár a jelentésed",
+    "body": "A bevezetőt már olvastad. Ez van még benne:",
+    "cta": "A teljes jelentés elolvasása",
+    "credit": "Még van egy ingyenes kredited — Nana állja."
+  },
+  "hook": {
+    "pre": "Utolsó emlékeztető a jelentésedről.",
+    "h": "Még egy dolog, mielőtt elpakolom a teáskannát",
+    "body": "{title}",
+    "cta": "A teljes jelentés megnyitása",
+    "ps": "U.i. Olvasd el, dobd be a csoportba, és figyeld, ki válaszol először 👀"
+  },
+  "fullReady": {
+    "subject": "Kész a teljes jelentésed ✍️",
+    "pre": "{title}",
+    "h": "Kész. Minden egyes szava.",
+    "cta": "Elolvasom most",
+    "ps": "U.i. Oszd meg a csoportban. Fogadok, hogy nem mered."
+  },
+  "next": {
+    "subject": "Ez csak a bemelegítés volt 👀",
+    "pre": "Most küldd el azt a chatet, amin tényleg agyalsz.",
+    "h": "Melyik chatet akarod igazán, hogy elolvassam?",
+    "body": "Amit hajnali 2-kor újraolvasol. Az exed. A situationshipod. Az anyukád.",
+    "cta": "Küldj Nanának még egy chatet"
+  },
+  "footer": "Azért kapod ezt az e-mailt, mert megkérted Nanát, hogy olvasson el egy chatet.",
+  "unsubscribe": "Leiratkozás",
+  "sign": "— Nana"
+}

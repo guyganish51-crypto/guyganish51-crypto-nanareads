@@ -1,0 +1,42 @@
+{
+  "previewReady": {
+    "subject": "Nana har læst færdig 🫖",
+    "pre": "Indeni: {names}",
+    "h": "Jeg har læst jeres chat.",
+    "body": "Her er, hvad jeg skrev om hver af jer:",
+    "more": "…og meget mere",
+    "cta": "Læs min smagsprøve"
+  },
+  "nudge": {
+    "subject": "{title}",
+    "pre": "Det meste er stadig låst.",
+    "h": "Din rapport venter",
+    "body": "Du har læst indledningen. Her er, hvad der stadig gemmer sig:",
+    "cta": "Læs hele rapporten",
+    "credit": "Du har stadig en gratis kredit — den giver Nana."
+  },
+  "hook": {
+    "pre": "Sidste påmindelse om din rapport.",
+    "h": "Lige én ting, før jeg sætter kedlen på plads",
+    "body": "{title}",
+    "cta": "Åbn hele rapporten",
+    "ps": "PS. Læs den, smid den i chatten, og se, hvem der svarer først 👀"
+  },
+  "fullReady": {
+    "subject": "Din fulde rapport er klar ✍️",
+    "pre": "{title}",
+    "h": "Færdig. Hvert eneste ord.",
+    "cta": "Læs den nu",
+    "ps": "PS. Del den i chatten. Jeg tør godt vædde på, at du ikke tør."
+  },
+  "next": {
+    "subject": "Det var bare opvarmningen 👀",
+    "pre": "Send mig nu den chat, du faktisk tænker på.",
+    "h": "Hvilken chat vil du egentlig have, at jeg læser?",
+    "body": "Den, du genlæser kl. 2 om natten. Eksen. Dit situationship. Din mor.",
+    "cta": "Send Nana endnu en chat"
+  },
+  "footer": "Du får denne mail, fordi du bad Nana om at læse en chat.",
+  "unsubscribe": "Afmeld",
+  "sign": "— Nana"
+}

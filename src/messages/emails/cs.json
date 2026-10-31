@@ -1,0 +1,42 @@
+{
+  "previewReady": {
+    "subject": "Nana to dočetla 🫖",
+    "pre": "Uvnitř: {names}",
+    "h": "Přečetla jsem váš chat.",
+    "body": "Tohle jsem napsala o každém z vás:",
+    "more": "…a další",
+    "cta": "Přečíst ukázku"
+  },
+  "nudge": {
+    "subject": "{title}",
+    "pre": "Většina je pořád zamčená.",
+    "h": "Tvůj report na tebe čeká",
+    "body": "Úvod už máš přečtený. Tohle tam ještě čeká:",
+    "cta": "Přečíst celý report",
+    "credit": "Pořád máš jeden kredit zdarma — Nana zve."
+  },
+  "hook": {
+    "pre": "Poslední připomínka tvého reportu.",
+    "h": "Ještě jedna věc, než uklidím konvici",
+    "body": "{title}",
+    "cta": "Otevřít celý report",
+    "ps": "P.S. Přečti si ho, hoď ho do chatu a sleduj, kdo odpoví první 👀"
+  },
+  "fullReady": {
+    "subject": "Tvůj celý report je hotový ✍️",
+    "pre": "{title}",
+    "h": "Hotovo. Do posledního slova.",
+    "cta": "Přečíst teď",
+    "ps": "P.S. Pošli ho do chatu. Schválně, jestli si troufneš."
+  },
+  "next": {
+    "subject": "To byla jen rozcvička 👀",
+    "pre": "Teď mi pošli ten chat, na který doopravdy myslíš.",
+    "h": "Který chat chceš, abych si přečetla doopravdy?",
+    "body": "Ten, co si čteš znovu ve 2 ráno. Ex. Situationship. Tvoje máma.",
+    "cta": "Poslat další chat"
+  },
+  "footer": "Tenhle e-mail ti přišel, protože jsi chtěl(a), aby Nana přečetla chat.",
+  "unsubscribe": "Odhlásit odběr",
+  "sign": "— Nana"
+}
