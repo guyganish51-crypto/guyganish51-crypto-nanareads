@@ -1,0 +1,644 @@
+{
+  "meta": {
+    "siteName": "Nana Reads",
+    "title": "Nana Reads — your chat, read by the nosiest grandma alive",
+    "description": "Upload a WhatsApp, Telegram, LINE or iMessage chat. Nana reads every message and tells you what's really going on, who cares more, and what everyone thinks of everyone."
+  },
+  "nav": {
+    "cta": "Send Nana a chat",
+    "account": "My chats",
+    "language": "Language"
+  },
+  "home": {
+    "eyebrow": "81 years old. Read every chat ever written.",
+    "h1": "Send Nana your chat. She'll tell you what's really going on.",
+    "sub": "Nana reads every single message, counts what you'd rather she didn't, and writes an honest, very funny report about everyone in it.",
+    "cta": "Send Nana a chat",
+    "ctaNote": "Free preview · no card · deleted automatically",
+    "demoTitle": "Pick a chat, see what Nana sees",
+    "demoHint": "These are made-up chats. Yours will be worse.",
+    "howTitle": "How it works",
+    "how": [
+      {
+        "t": "Export your chat",
+        "d": "Two taps in WhatsApp, Telegram, LINE or KakaoTalk. We show you exactly how."
+      },
+      {
+        "t": "Nana reads all of it",
+        "d": "Every message, every voice note excuse, every 'on my way' sent from bed."
+      },
+      {
+        "t": "Get the report",
+        "d": "Free preview in a minute. The full report lands in your inbox — share it with the chat if you dare."
+      }
+    ],
+    "findsTitle": "What Nana finds",
+    "finds": [
+      {
+        "e": "🫖",
+        "t": "Who actually cares",
+        "d": "Who starts the conversations, who replies in 4 minutes and who in 4 hours."
+      },
+      {
+        "e": "📉",
+        "t": "The moment it changed",
+        "d": "The exact week the energy dropped, with the messages that prove it."
+      },
+      {
+        "e": "🗝️",
+        "t": "Your private language",
+        "d": "The running jokes and words only you two (or you twelve) understand."
+      },
+      {
+        "e": "🏆",
+        "t": "Everyone's role",
+        "d": "In groups: the planner, the ghost, the one who says 'I'm in' and never shows up."
+      }
+    ],
+    "privacyTitle": "Private by design",
+    "privacy": [
+      "Your chat is read and counted inside your browser before anything is uploaded.",
+      "Uploads are encrypted and deleted automatically: 48 hours if you don't order a report, 7 days after your last one.",
+      "Never sold, never shared, never used to train AI."
+    ],
+    "worksWith": "Works with",
+    "heatTitle": "Choose how hard Nana goes",
+    "heat": {
+      "gentle": {
+        "t": "Gentle",
+        "d": "Birthday-card grandma. Teasing, nothing that stings."
+      },
+      "spicy": {
+        "t": "Spicy",
+        "d": "A proper roast. Most people pick this."
+      },
+      "savage": {
+        "t": "Savage",
+        "d": "No mercy. For groups who roast each other daily."
+      }
+    },
+    "finalH": "Your chat is next.",
+    "finalSub": "Nana is already putting the kettle on."
+  },
+  "landing": {
+    "relationship": {
+      "metaTitle": "Does he actually like you? AI text analysis of your chat — Nana Reads",
+      "metaDesc": "Upload your chat with a crush, partner, situationship or ex. Nana reads every message and tells you who cares more and what changed.",
+      "h1": "Does he actually like you? Nana will tell you.",
+      "sub": "Send the chat with your crush, partner, situationship or ex. Nana counts who texts first, who waits, and when things changed."
+    },
+    "friends": {
+      "metaTitle": "Group chat analyzer & friend roast — Nana Reads",
+      "metaDesc": "Upload your friends' group chat. Nana roasts everyone in it, hands out awards and says what nobody says out loud.",
+      "h1": "What does Nana think of you and your friends?",
+      "sub": "The boys' chat, the girls' chat, the trip that never happened. Nana reads it all and gives everyone the title they deserve."
+    },
+    "family": {
+      "metaTitle": "Family WhatsApp group analyzer — Nana Reads",
+      "metaDesc": "Upload your family group chat. Nana finds out who really holds the family together, who never replies, and who sends the good-morning flowers.",
+      "h1": "Your family chat, read by a grandma who's seen it all.",
+      "sub": "Who keeps the family together, who replies only to photos of food, and who is still angry about last Passover. Nana knows."
+    },
+    "imessage": {
+      "metaTitle": "iMessage chat analyzer — Nana Reads",
+      "metaDesc": "Export an iMessage conversation from your Mac and let Nana read it. Who cares more, what changed, and what to do next.",
+      "h1": "Upload an iMessage chat. Nana does the rest.",
+      "sub": "Export a conversation from your Mac in a couple of minutes, and Nana will read every blue bubble."
+    },
+    "whatsapp": {
+      "metaTitle": "WhatsApp chat analyzer — Nana Reads",
+      "metaDesc": "Export any WhatsApp chat in two taps. Nana reads every message and writes an honest, funny report about everyone in it.",
+      "h1": "WhatsApp chat analysis, by your nosiest grandma.",
+      "sub": "Two taps to export, one minute to your free preview. Works with private chats and groups of any size."
+    }
+  },
+  "demos": [
+    {
+      "id": "trip",
+      "label": "The Lads 🍻",
+      "kind": "Friends group",
+      "count": "24,310 messages",
+      "messages": [
+        {
+          "a": "Dan",
+          "x": "Lads. Lisbon. Poll is up, vote by tomorrow"
+        },
+        {
+          "a": "Omer",
+          "x": "IN!!"
+        },
+        {
+          "a": "Yali",
+          "x": "in but not June"
+        },
+        {
+          "a": "Dan",
+          "x": "it IS in June. that's the whole point"
+        },
+        {
+          "a": "Omer",
+          "x": "wait June I've got my cousin's wedding"
+        },
+        {
+          "a": "Yali",
+          "x": "what poll"
+        },
+        {
+          "a": "Dan",
+          "x": "same poll as last year"
+        }
+      ],
+      "stats": [
+        {
+          "k": "Polls created",
+          "v": "4"
+        },
+        {
+          "k": "Votes",
+          "v": "1"
+        },
+        {
+          "k": "Flights booked",
+          "v": "0"
+        },
+        {
+          "k": "'I'm in' sent",
+          "v": "37"
+        }
+      ],
+      "headline": "Lisbon: four polls, one voter, zero flights",
+      "verdict": "Dan has posted the same poll four times and every vote in it is his. Nobody in this group ever says no to a trip. They just never say yes.",
+      "locked": [
+        "Who really plans, and who just types 'IN'",
+        "Omer's cousin, who has had 3 weddings this year",
+        "Every excuse, ranked by believability",
+        "Why the cabin up north wins every single time"
+      ]
+    },
+    {
+      "id": "situationship",
+      "label": "Noa 🙃",
+      "kind": "Situationship",
+      "count": "5,102 messages",
+      "messages": [
+        {
+          "a": "Noa",
+          "x": "heyyy how are you 🙂"
+        },
+        {
+          "a": "Me",
+          "x": "hey?? you vanished for nine days"
+        },
+        {
+          "a": "Noa",
+          "x": "work has been insane honestly"
+        },
+        {
+          "a": "Me",
+          "x": "saw your story from the beach"
+        },
+        {
+          "a": "Noa",
+          "x": "that was like half an hour 😅"
+        },
+        {
+          "a": "Me",
+          "x": "so are we seeing each other this weekend?"
+        },
+        {
+          "a": "Noa",
+          "x": "maybe! let's see how the week goes"
+        }
+      ],
+      "stats": [
+        {
+          "k": "Your median reply",
+          "v": "4 min"
+        },
+        {
+          "k": "Noa's median reply",
+          "v": "3 h"
+        },
+        {
+          "k": "Who starts it",
+          "v": "You · 81%"
+        },
+        {
+          "k": "Longest silence",
+          "v": "9 days"
+        }
+      ],
+      "headline": "Nine days on read, then 'heyyy how are you 🙂'",
+      "verdict": "Noa answers in three hours, you answer in four minutes. You both know what that means, sweetheart, and neither of you is saying it.",
+      "locked": [
+        "Who texts first, and who waits to be texted",
+        "Nine days of silence: what actually happened",
+        "What's hiding behind Noa's '😅'",
+        "What Nana would do in your place"
+      ]
+    },
+    {
+      "id": "family",
+      "label": "Family 🏡",
+      "kind": "Family group",
+      "count": "61,877 messages",
+      "messages": [
+        {
+          "a": "Mum",
+          "x": "Good morning family 🌸🌸🌸"
+        },
+        {
+          "a": "Grandpa",
+          "x": "Good morning"
+        },
+        {
+          "a": "Mum",
+          "x": "Who is coming Friday? I need numbers"
+        },
+        {
+          "a": "Ben",
+          "x": "👍"
+        },
+        {
+          "a": "Mum",
+          "x": "👍 is not a number Ben"
+        },
+        {
+          "a": "Sara",
+          "x": "can I bring someone"
+        },
+        {
+          "a": "Mum",
+          "x": "WHO"
+        }
+      ],
+      "stats": [
+        {
+          "k": "Good-morning flowers",
+          "v": "1,204"
+        },
+        {
+          "k": "Ben's words per message",
+          "v": "1.2"
+        },
+        {
+          "k": "Friday headcounts",
+          "v": "212"
+        },
+        {
+          "k": "Answered",
+          "v": "19"
+        }
+      ],
+      "headline": "212 Friday headcounts, 19 answers, one 👍",
+      "verdict": "Mum has asked who's coming on Friday 212 times. Ben has answered with a thumb 140 of them. And everybody shows up anyway, every single week.",
+      "locked": [
+        "Mum, the unpaid CEO of this family",
+        "Ben and the economy of thumbs",
+        "Who Sara is bringing on Friday",
+        "Grandpa's 6 a.m. messages, decoded"
+      ]
+    }
+  ],
+  "examples": {
+    "title": "Lines from Nana's reports",
+    "note": "From the example chats above, so nobody's privacy was harmed.",
+    "items": [
+      "Dan has posted the same poll four times. He is not a trip planner, he is a hostage negotiator.",
+      "You answer in four minutes. Noa answers in three hours. In my day we called that 'a sign'.",
+      "Ben has typed 4,000 words in this group in six years. 3,100 of them were 'ok'.",
+      "Mum doesn't need a headcount. Mum needs a hug and a straight answer."
+    ]
+  },
+  "flow": {
+    "close": "Close",
+    "stepOf": "{n} of {total}",
+    "back": "Back",
+    "next": "Continue",
+    "context": {
+      "q": "What kind of chat should Nana read?",
+      "options": {
+        "partner": {
+          "t": "Romance",
+          "d": "partner, crush, situationship, ex…"
+        },
+        "friends": {
+          "t": "Friends group",
+          "d": "the boys, the girls, the trip chat…"
+        },
+        "friend": {
+          "t": "One friend",
+          "d": "best friend, childhood friend, work bestie…"
+        },
+        "family": {
+          "t": "Family",
+          "d": "family group, mum or dad, siblings…"
+        },
+        "work": {
+          "t": "Work / team",
+          "d": "team chat, colleagues, the boss…"
+        },
+        "other": {
+          "t": "Something else",
+          "d": "flatmates, neighbours, the building committee…"
+        }
+      }
+    },
+    "source": {
+      "q": "Where is the chat from?",
+      "soon": "Screen recording import is coming soon. For now, use an app with a text export."
+    },
+    "upload": {
+      "q": "Upload the chat from {app}",
+      "drop": "Tap to choose the exported file",
+      "dropHint": ".txt, .zip, .json or .csv — up to 200 MB",
+      "reading": "Nana is reading… {count} messages so far",
+      "readingLocal": "This happens on your device. Nothing has been uploaded yet.",
+      "uploading": "Uploading securely…",
+      "privacy": "Your chat stays private",
+      "howTo": "How do I export it?",
+      "errors": {
+        "format": "Nana couldn't read that file. Make sure it's the original export (.txt or .zip), not a screenshot.",
+        "few": "That chat is a bit short. Nana needs at least 10 messages to have an opinion.",
+        "big": "That file is over 200 MB. Export without media and try again.",
+        "upload": "The upload failed. Check your connection and try again."
+      },
+      "found": "Found {count} messages between {first} and {last}."
+    },
+    "guides": {
+      "whatsapp": [
+        "Open the chat in WhatsApp",
+        "Tap the name at the top (iPhone) or ⋮ → More (Android)",
+        "Tap 'Export chat' and choose 'Without media'",
+        "Save it to Files, then pick it here — or email it to yourself"
+      ],
+      "telegram": [
+        "Open Telegram Desktop on a computer",
+        "Open the chat → ⋮ → Export chat history",
+        "Untick photos and videos, choose format 'Machine-readable JSON'",
+        "Upload the result.json file here"
+      ],
+      "line": [
+        "Open the chat in LINE",
+        "Tap ≡ (top right) → Settings",
+        "Tap 'Export chat history'",
+        "Save the .txt file and pick it here"
+      ],
+      "kakaotalk": [
+        "Open the chat in KakaoTalk",
+        "Tap ≡ → ⚙ Chatroom settings",
+        "Tap 'Export messages' → 'Save text only'",
+        "Pick the .txt file here"
+      ],
+      "imessage": [
+        "On a Mac, install the free 'iMessage Exporter' (or any tool that saves CSV/TXT)",
+        "Export the conversation as text or CSV",
+        "Upload the file here"
+      ],
+      "instagram": [
+        "Instagram → Settings → Your activity → Download your information",
+        "Choose Messages, format JSON",
+        "When the email arrives, upload the conversation's message_1.json"
+      ],
+      "messenger": [
+        "Facebook → Settings → Download your information",
+        "Choose Messages, format JSON",
+        "Upload the conversation's message_1.json here"
+      ],
+      "other": [
+        "Export the chat as a text, CSV or JSON file",
+        "Upload it here — Nana reads most formats"
+      ]
+    },
+    "me": {
+      "q": "Which one is you?",
+      "sub": "So Nana can talk to you, not about you.",
+      "none": "I'm not in this chat"
+    },
+    "details": {
+      "q": "Anything Nana should know?",
+      "notes": "Optional context (e.g. 'we broke up in March', 'Tom is my brother')",
+      "lang": "Write the report in",
+      "heat": "How hard should Nana go?"
+    },
+    "email": {
+      "q": "Where should Nana send the report?",
+      "sub": "We'll email you a 6-digit code. No password, no spam.",
+      "placeholder": "you@example.com",
+      "send": "Send code",
+      "code": "Enter the code we sent to {email}",
+      "verify": "Verify",
+      "resend": "Send a new code",
+      "orLink": "Or tap the link in the email — it works too.",
+      "terms": "By continuing you accept the {terms} and {privacy}, and confirm you're 18 or older.",
+      "errors": {
+        "email": "That email doesn't look right.",
+        "code": "That code didn't work. Try again or request a new one.",
+        "rate": "Too many attempts. Wait a minute and try again."
+      }
+    },
+    "writing": {
+      "t": "Nana is reading your chat",
+      "lines": [
+        "Putting her glasses on…",
+        "Counting who texts first…",
+        "Finding the week it all changed…",
+        "Underlining the good bits…",
+        "Making tea…"
+      ],
+      "note": "This takes about a minute. We'll also email you when it's ready."
+    }
+  },
+  "report": {
+    "by": "Nana",
+    "tagline": "81. Has read every chat ever written. Still brings soup.",
+    "share": "Share the report",
+    "copied": "Link copied",
+    "privacy": "Private and under your control",
+    "cutoff": "The chat was too long to read in one go, so Nana read everything from {date} onwards.",
+    "statsTitle": "The numbers",
+    "stat": {
+      "messages": "Messages",
+      "perDay": "Per day",
+      "whoTalks": "Who talks most",
+      "whoStarts": "Who starts it",
+      "afterMidnight": "After midnight",
+      "reply": "Median reply",
+      "busiestHour": "Busiest hour",
+      "voice": "Voice notes",
+      "emojis": "Top emojis",
+      "silence": "Longest silence",
+      "days": "{n} days",
+      "min": "{n} min",
+      "h": "{n} h"
+    },
+    "lockedTitle": "Still in the report",
+    "peopleTitle": "And about each of you",
+    "unlock": "Read the full report",
+    "unlockNote": "Uses 1 credit · you have {n}",
+    "noCredits": "You're out of credits. Payments open soon — Nana will email you.",
+    "writingFull": "Nana is writing the full report. About 2 minutes — we'll email you too.",
+    "failed": "Something went wrong while Nana was writing. Your credit was refunded. Please try again.",
+    "retry": "Try again",
+    "peopleSection": "Who's who",
+    "glossary": "The dictionary of this chat",
+    "awards": "The awards",
+    "reactions": "How each of you will react to this",
+    "verdict": "The verdict",
+    "advice": "What Nana would do",
+    "askTitle": "Ask Nana something else about this chat",
+    "askPlaceholder": "e.g. Is he losing interest? Who in the group is actually annoyed with me?",
+    "askCta": "Ask Nana · 1 credit",
+    "askExpired": "This chat has been deleted from our servers, so Nana can't answer new questions about it.",
+    "nextTitle": "Which chat should Nana read next?",
+    "nextCta": "Send another chat",
+    "notFound": "This report doesn't exist or was deleted.",
+    "feedback": "Was Nana right?",
+    "feedbackYes": "Spot on",
+    "feedbackNo": "Not really",
+    "thanks": "Thanks — Nana is taking notes.",
+    "aiNote": "Written by AI for entertainment. It can misread context — don't make big decisions based on it."
+  },
+  "account": {
+    "title": "My chats",
+    "signIn": "Sign in to see your chats and reports",
+    "signOut": "Sign out",
+    "credits": "Credits: {n}",
+    "empty": "No chats yet.",
+    "reports": "Reports",
+    "chatExpires": "Chat deleted automatically on {date}",
+    "chatDeleted": "Chat already deleted · reports kept",
+    "deleteChat": "Delete chat",
+    "deleteReport": "Delete report",
+    "deleteAccount": "Delete my account and everything in it",
+    "confirm": "Are you sure? This can't be undone.",
+    "open": "Open",
+    "followup": "Follow-up"
+  },
+  "faq": {
+    "title": "Questions before you upload",
+    "items": [
+      {
+        "q": "What is Nana Reads?",
+        "a": "An AI character — Nana — who reads a chat you upload and writes an honest, funny report about everyone in it: the real dynamic, who cares more, what changed, and everyone's role."
+      },
+      {
+        "q": "Is it free?",
+        "a": "Your first look is free: Nana's opening, the numbers, and the titles of everything in the full report. The full report uses one credit. There's no subscription."
+      },
+      {
+        "q": "Which apps work?",
+        "a": "WhatsApp (iPhone and Android), Telegram, LINE and KakaoTalk exports, plus iMessage, Instagram and Messenger through their data exports. Screen-recording import is coming soon."
+      },
+      {
+        "q": "Is my chat private?",
+        "a": "Nana counts your messages inside your browser first. The upload is encrypted, never shared with anyone in the chat, never sold, and never used to train AI. It's deleted automatically 48 hours after upload if you don't order a report, or 7 days after your latest report."
+      },
+      {
+        "q": "Will people in the chat know?",
+        "a": "No. Nobody is notified. A report is only seen by people you send the link to."
+      },
+      {
+        "q": "Which languages?",
+        "a": "Your chat can be in any language or a mix. Reports are written in 24 languages, and Nana uses the chat's own slang."
+      },
+      {
+        "q": "How long does it take?",
+        "a": "The preview takes about a minute. The full report about two minutes. We email you when it's ready, so you don't have to wait on the page."
+      },
+      {
+        "q": "Can I ask Nana more?",
+        "a": "Yes. Under every report you can ask a follow-up question about the same chat. Each answer is a new, deeper report."
+      },
+      {
+        "q": "How do I delete my data?",
+        "a": "From 'My chats' you can delete a chat, a report or your whole account at any time."
+      },
+      {
+        "q": "Is it accurate?",
+        "a": "The numbers are counted exactly from your export. The opinions are Nana's — AI can misread context, so treat it as entertainment, not advice."
+      },
+      {
+        "q": "Who is it for?",
+        "a": "Adults (18+) who want a laugh, a reality check, or proof they were right all along."
+      }
+    ]
+  },
+  "about": {
+    "title": "About Nana Reads",
+    "body": [
+      "Nana Reads is a small independent studio project. We built a character we wished existed: a grandmother who has read every chat in the world, loves you, and tells you the truth anyway.",
+      "Nana reads WhatsApp, Telegram, LINE, KakaoTalk, iMessage, Instagram and Messenger chats and writes in 24 languages.",
+      "We care about privacy more than anyone in this category: your chat is counted in your browser first, deleted automatically, and never used to train AI."
+    ],
+    "factsTitle": "Key facts",
+    "facts": [
+      [
+        "Name",
+        "Nana Reads"
+      ],
+      [
+        "What it is",
+        "AI chat reports for friends, couples and families"
+      ],
+      [
+        "Languages",
+        "24"
+      ],
+      [
+        "Pricing",
+        "Free preview, then pay per report. No subscription."
+      ],
+      [
+        "Privacy",
+        "Deleted automatically, never used to train AI"
+      ]
+    ]
+  },
+  "support": {
+    "title": "Talk to us",
+    "sub": "Most answers are in the questions below. If not, write to us — a real person reads every message.",
+    "email": "Your email",
+    "message": "How can we help?",
+    "send": "Send",
+    "sent": "Got it. We'll reply by email."
+  },
+  "feedback": {
+    "title": "Tell Nana what you think",
+    "sub": "Ideas, complaints, compliments for Nana. We read everything.",
+    "placeholder": "Your feedback",
+    "send": "Send",
+    "sent": "Thank you!"
+  },
+  "footer": {
+    "chats": "Chats",
+    "help": "Help",
+    "company": "Nana Reads",
+    "links": {
+      "home": "Home",
+      "relationship": "Relationship chats",
+      "friends": "Friend & group chats",
+      "family": "Family chats",
+      "whatsapp": "WhatsApp chats",
+      "imessage": "iMessage chats",
+      "account": "My chats",
+      "faq": "FAQ",
+      "support": "Support",
+      "feedback": "Feedback",
+      "privacy": "Privacy",
+      "terms": "Terms",
+      "about": "About"
+    },
+    "rights": "© {year} Nana Reads. For entertainment only."
+  },
+  "legal": {
+    "englishOnly": "This page is shown in English. The English version is the binding one.",
+    "privacy": "Privacy policy",
+    "terms": "Terms of service"
+  },
+  "common": {
+    "loading": "Loading…",
+    "error": "Something went wrong.",
+    "or": "or"
+  }
+}
