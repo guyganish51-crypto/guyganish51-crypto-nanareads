@@ -1,1 +1,644 @@
-{}
+{
+  "meta": {
+    "siteName": "Nana Reads",
+    "title": "Nana Reads — đoạn chat của bạn, qua mắt bà nội nhiều chuyện nhất thế gian",
+    "description": "Tải lên đoạn chat WhatsApp, Telegram, LINE hay iMessage. Bà Nana đọc từng tin nhắn rồi nói thẳng chuyện gì đang thật sự xảy ra, ai quan tâm hơn, và ai nghĩ gì về ai."
+  },
+  "nav": {
+    "cta": "Gửi chat cho bà Nana",
+    "account": "Chat của tôi",
+    "language": "Ngôn ngữ"
+  },
+  "home": {
+    "eyebrow": "81 tuổi. Đã đọc hết mọi đoạn chat trên đời.",
+    "h1": "Gửi chat cho bà Nana. Bà sẽ nói cho con biết chuyện gì đang xảy ra.",
+    "sub": "Bà Nana đọc từng tin nhắn một, đếm cả những thứ con mong bà đừng đếm, rồi viết một bản báo cáo thật lòng và cực kỳ buồn cười về tất cả mọi người trong đó.",
+    "cta": "Gửi chat cho bà Nana",
+    "ctaNote": "Xem trước miễn phí · không cần thẻ · tự động xoá",
+    "demoTitle": "Chọn một đoạn chat, xem bà Nana thấy gì",
+    "demoHint": "Đây là chat bịa thôi. Chat của con chắc còn tệ hơn.",
+    "howTitle": "Cách hoạt động",
+    "how": [
+      {
+        "t": "Xuất đoạn chat",
+        "d": "Hai lần chạm trong WhatsApp, Telegram, LINE hoặc KakaoTalk. Bọn mình chỉ từng bước."
+      },
+      {
+        "t": "Bà Nana đọc hết",
+        "d": "Từng tin nhắn, từng lời bào chữa bằng tin nhắn thoại, từng câu “đang tới rồi” gửi từ trên giường."
+      },
+      {
+        "t": "Nhận báo cáo",
+        "d": "Bản xem trước miễn phí trong một phút. Bản đầy đủ gửi thẳng vào email — dám thì gửi luôn vào nhóm."
+      }
+    ],
+    "findsTitle": "Bà Nana tìm ra gì",
+    "finds": [
+      {
+        "e": "🫖",
+        "t": "Ai thật sự quan tâm",
+        "d": "Ai mở lời trước, ai trả lời sau 4 phút và ai sau 4 tiếng."
+      },
+      {
+        "e": "📉",
+        "t": "Khoảnh khắc mọi thứ thay đổi",
+        "d": "Đúng cái tuần mọi thứ nguội đi, kèm luôn tin nhắn làm bằng chứng."
+      },
+      {
+        "e": "🗝️",
+        "t": "Ngôn ngữ riêng của các con",
+        "d": "Những câu đùa và từ ngữ chỉ hai đứa (hoặc cả mười hai đứa) mới hiểu."
+      },
+      {
+        "e": "🏆",
+        "t": "Vai diễn của từng người",
+        "d": "Trong nhóm: đứa lên kế hoạch, đứa mất tích, đứa nói “có tao” rồi không bao giờ xuất hiện."
+      }
+    ],
+    "privacyTitle": "Riêng tư ngay từ thiết kế",
+    "privacy": [
+      "Đoạn chat được đọc và đếm ngay trong trình duyệt của bạn trước khi tải bất cứ thứ gì lên.",
+      "Dữ liệu tải lên được mã hoá và tự động xoá: sau 48 giờ nếu bạn không đặt báo cáo, hoặc 7 ngày sau báo cáo gần nhất.",
+      "Không bán, không chia sẻ, không dùng để huấn luyện AI."
+    ],
+    "worksWith": "Dùng được với",
+    "heatTitle": "Chọn độ “gắt” của bà Nana",
+    "heat": {
+      "gentle": {
+        "t": "Nhẹ nhàng",
+        "d": "Bà nội viết thiệp sinh nhật. Trêu chút thôi, không đau."
+      },
+      "spicy": {
+        "t": "Cay",
+        "d": "Một màn “bóc phốt” đúng nghĩa. Đa số chọn mức này."
+      },
+      "savage": {
+        "t": "Không nương tay",
+        "d": "Không khoan nhượng. Dành cho hội ngày nào cũng cà khịa nhau."
+      }
+    },
+    "finalH": "Tới lượt đoạn chat của con rồi.",
+    "finalSub": "Bà Nana đang pha ấm trà rồi đấy."
+  },
+  "landing": {
+    "relationship": {
+      "metaTitle": "Anh ấy có thật sự thích bạn không? AI phân tích tin nhắn — Nana Reads",
+      "metaDesc": "Tải lên đoạn chat với crush, người yêu, mối quan hệ mập mờ hay người yêu cũ. Bà Nana đọc từng tin nhắn và nói ai quan tâm hơn, cái gì đã thay đổi.",
+      "h1": "Anh ấy có thật sự thích con không? Bà Nana sẽ nói.",
+      "sub": "Gửi đoạn chat với crush, người yêu, người mập mờ hay người cũ. Bà Nana đếm xem ai nhắn trước, ai bắt đợi, và mọi thứ đổi khác từ lúc nào."
+    },
+    "friends": {
+      "metaTitle": "Phân tích group chat & “bóc phốt” hội bạn — Nana Reads",
+      "metaDesc": "Tải lên group chat của hội bạn. Bà Nana cà khịa từng người, trao giải và nói ra điều không ai dám nói.",
+      "h1": "Bà Nana nghĩ gì về con và hội bạn của con?",
+      "sub": "Nhóm anh em, nhóm chị em, nhóm “đi Đà Lạt” chưa bao giờ đi. Bà Nana đọc hết và trao cho mỗi đứa đúng cái danh hiệu nó xứng đáng."
+    },
+    "family": {
+      "metaTitle": "Phân tích nhóm chat gia đình — Nana Reads",
+      "metaDesc": "Tải lên nhóm chat gia đình. Bà Nana tìm ra ai thật sự giữ cả nhà lại với nhau, ai không bao giờ trả lời, và ai gửi hình hoa chào buổi sáng.",
+      "h1": "Nhóm chat gia đình, qua mắt một bà nội đã thấy đủ mọi chuyện.",
+      "sub": "Ai giữ lửa cho cả nhà, ai chỉ trả lời khi có hình đồ ăn, và ai vẫn còn giận chuyện Tết năm ngoái. Bà Nana biết hết."
+    },
+    "imessage": {
+      "metaTitle": "Phân tích chat iMessage — Nana Reads",
+      "metaDesc": "Xuất cuộc trò chuyện iMessage từ Mac và để bà Nana đọc. Ai quan tâm hơn, cái gì đã thay đổi, và nên làm gì tiếp theo.",
+      "h1": "Tải lên chat iMessage. Phần còn lại để bà Nana lo.",
+      "sub": "Xuất cuộc trò chuyện từ Mac trong vài phút, và bà Nana sẽ đọc từng bong bóng xanh."
+    },
+    "whatsapp": {
+      "metaTitle": "Phân tích chat WhatsApp — Nana Reads",
+      "metaDesc": "Xuất bất kỳ đoạn chat WhatsApp nào chỉ với hai lần chạm. Bà Nana đọc từng tin nhắn và viết một bản báo cáo thật lòng, buồn cười về mọi người trong đó.",
+      "h1": "Phân tích chat WhatsApp, bởi bà nội nhiều chuyện nhất của con.",
+      "sub": "Hai lần chạm để xuất, một phút để có bản xem trước miễn phí. Dùng được cho chat riêng và nhóm lớn cỡ nào cũng được."
+    }
+  },
+  "demos": [
+    {
+      "id": "trip",
+      "label": "Anh Em Cây Khế 🍻",
+      "kind": "Nhóm bạn",
+      "count": "24.310 tin nhắn",
+      "messages": [
+        {
+          "a": "Tuấn",
+          "x": "Anh em. Đà Lạt. Poll lên rồi, mai vote nha"
+        },
+        {
+          "a": "Hùng",
+          "x": "CÓ TAO!!"
+        },
+        {
+          "a": "Minh",
+          "x": "có nhưng đừng tháng 6"
+        },
+        {
+          "a": "Tuấn",
+          "x": "nó LÀ tháng 6. mục đích là vậy mà"
+        },
+        {
+          "a": "Hùng",
+          "x": "ủa tháng 6 tao đi đám cưới em họ"
+        },
+        {
+          "a": "Minh",
+          "x": "poll nào"
+        },
+        {
+          "a": "Tuấn",
+          "x": "cái poll y chang năm ngoái"
+        }
+      ],
+      "stats": [
+        {
+          "k": "Số poll đã tạo",
+          "v": "4"
+        },
+        {
+          "k": "Số phiếu",
+          "v": "1"
+        },
+        {
+          "k": "Vé xe đã đặt",
+          "v": "0"
+        },
+        {
+          "k": "Số lần “có tao”",
+          "v": "37"
+        }
+      ],
+      "headline": "Đà Lạt: bốn cái poll, một người vote, không một vé xe",
+      "verdict": "Tuấn đăng cùng một cái poll bốn lần và phiếu nào cũng là của nó. Hội này chưa bao giờ nói “không” với chuyến đi nào. Chỉ là cũng chưa bao giờ nói “đi”.",
+      "locked": [
+        "Ai thật sự lên kế hoạch, ai chỉ biết gõ “CÓ TAO”",
+        "Em họ của Hùng, năm nay đã cưới 3 lần",
+        "Xếp hạng mọi lời bào chữa theo độ đáng tin",
+        "Vì sao lần nào cũng chốt đi Vũng Tàu"
+      ]
+    },
+    {
+      "id": "situationship",
+      "label": "Linh 🙃",
+      "kind": "Mập mờ",
+      "count": "5.102 tin nhắn",
+      "messages": [
+        {
+          "a": "Linh",
+          "x": "heyyy dạo này sao rồi 🙂"
+        },
+        {
+          "a": "Tôi",
+          "x": "hả?? biến mất chín ngày luôn đó"
+        },
+        {
+          "a": "Linh",
+          "x": "công việc điên thật sự luôn á"
+        },
+        {
+          "a": "Tôi",
+          "x": "thấy story đi biển rồi nha"
+        },
+        {
+          "a": "Linh",
+          "x": "có nửa tiếng à 😅"
+        },
+        {
+          "a": "Tôi",
+          "x": "vậy cuối tuần này gặp nhau không?"
+        },
+        {
+          "a": "Linh",
+          "x": "để xem! xem tuần này thế nào đã"
+        }
+      ],
+      "stats": [
+        {
+          "k": "Bạn trả lời (trung vị)",
+          "v": "4 phút"
+        },
+        {
+          "k": "Linh trả lời (trung vị)",
+          "v": "3 giờ"
+        },
+        {
+          "k": "Ai nhắn trước",
+          "v": "Bạn · 81%"
+        },
+        {
+          "k": "Im lặng lâu nhất",
+          "v": "9 ngày"
+        }
+      ],
+      "headline": "Seen chín ngày, rồi “heyyy dạo này sao rồi 🙂”",
+      "verdict": "Linh trả lời sau ba tiếng, con trả lời sau bốn phút. Cả hai đứa đều biết vậy nghĩa là gì, con ạ, chỉ là không ai chịu nói ra.",
+      "locked": [
+        "Ai nhắn trước, ai ngồi chờ được nhắn",
+        "Chín ngày im lặng: chuyện gì đã thật sự xảy ra",
+        "Đằng sau cái “😅” của Linh là gì",
+        "Nếu là bà Nana thì bà sẽ làm gì"
+      ]
+    },
+    {
+      "id": "family",
+      "label": "Gia đình 🏡",
+      "kind": "Nhóm gia đình",
+      "count": "61.877 tin nhắn",
+      "messages": [
+        {
+          "a": "Mẹ",
+          "x": "Chào buổi sáng cả nhà 🌸🌸🌸"
+        },
+        {
+          "a": "Ông",
+          "x": "Chào buổi sáng"
+        },
+        {
+          "a": "Mẹ",
+          "x": "Chủ nhật ai về ăn cơm? Mẹ cần con số"
+        },
+        {
+          "a": "Nam",
+          "x": "👍"
+        },
+        {
+          "a": "Mẹ",
+          "x": "👍 không phải con số nha Nam"
+        },
+        {
+          "a": "Trang",
+          "x": "con dẫn thêm một người được không"
+        },
+        {
+          "a": "Mẹ",
+          "x": "AI"
+        }
+      ],
+      "stats": [
+        {
+          "k": "Hình hoa chào buổi sáng",
+          "v": "1.204"
+        },
+        {
+          "k": "Số chữ mỗi tin của Nam",
+          "v": "1,2"
+        },
+        {
+          "k": "Lần hỏi “Chủ nhật ai về”",
+          "v": "212"
+        },
+        {
+          "k": "Được trả lời",
+          "v": "19"
+        }
+      ],
+      "headline": "212 lần hỏi Chủ nhật ai về, 19 câu trả lời, một cái 👍",
+      "verdict": "Mẹ đã hỏi Chủ nhật ai về ăn cơm 212 lần. Nam trả lời bằng ngón cái 140 lần trong số đó. Vậy mà tuần nào cả nhà cũng về đông đủ.",
+      "locked": [
+        "Mẹ, vị CEO không lương của gia đình này",
+        "Nam và nền kinh tế ngón cái",
+        "Chủ nhật này Trang dẫn ai về",
+        "Giải mã tin nhắn 6 giờ sáng của Ông"
+      ]
+    }
+  ],
+  "examples": {
+    "title": "Trích từ báo cáo của bà Nana",
+    "note": "Lấy từ các đoạn chat mẫu ở trên, nên không ai bị lộ gì cả.",
+    "items": [
+      "Tuấn đăng cùng một cái poll bốn lần. Nó không phải người lên kế hoạch du lịch, nó là chuyên gia đàm phán giải cứu con tin.",
+      "Con trả lời sau bốn phút. Linh trả lời sau ba tiếng. Thời của bà, cái đó gọi là “điềm”.",
+      "Sáu năm nay Nam gõ 4.000 chữ trong nhóm này. 3.100 chữ trong đó là “ok”.",
+      "Mẹ đâu cần đếm người. Mẹ cần một cái ôm và một câu trả lời đàng hoàng."
+    ]
+  },
+  "flow": {
+    "close": "Đóng",
+    "stepOf": "{n} / {total}",
+    "back": "Quay lại",
+    "next": "Tiếp tục",
+    "context": {
+      "q": "Bà Nana nên đọc loại chat nào?",
+      "options": {
+        "partner": {
+          "t": "Tình cảm",
+          "d": "người yêu, crush, mập mờ, người cũ…"
+        },
+        "friends": {
+          "t": "Nhóm bạn",
+          "d": "hội anh em, hội chị em, nhóm đi chơi…"
+        },
+        "friend": {
+          "t": "Một người bạn",
+          "d": "bạn thân, bạn từ nhỏ, bạn thân ở công ty…"
+        },
+        "family": {
+          "t": "Gia đình",
+          "d": "nhóm gia đình, bố hoặc mẹ, anh chị em…"
+        },
+        "work": {
+          "t": "Công việc / team",
+          "d": "nhóm team, đồng nghiệp, sếp…"
+        },
+        "other": {
+          "t": "Cái khác",
+          "d": "bạn cùng phòng, hàng xóm, nhóm cư dân chung cư…"
+        }
+      }
+    },
+    "source": {
+      "q": "Đoạn chat từ ứng dụng nào?",
+      "soon": "Sắp có tính năng nhập từ video quay màn hình. Hiện tại, hãy dùng ứng dụng có xuất văn bản."
+    },
+    "upload": {
+      "q": "Tải lên đoạn chat từ {app}",
+      "drop": "Chạm để chọn file đã xuất",
+      "dropHint": ".txt, .zip, .json hoặc .csv — tối đa 200 MB",
+      "reading": "Bà Nana đang đọc… đã được {count} tin nhắn",
+      "readingLocal": "Việc này diễn ra trên thiết bị của bạn. Chưa có gì được tải lên cả.",
+      "uploading": "Đang tải lên an toàn…",
+      "privacy": "Đoạn chat của bạn được giữ riêng tư",
+      "howTo": "Xuất chat thế nào?",
+      "errors": {
+        "format": "Bà Nana không đọc được file này. Hãy chắc đó là file xuất gốc (.txt hoặc .zip), không phải ảnh chụp màn hình.",
+        "few": "Đoạn chat hơi ngắn. Bà Nana cần ít nhất 10 tin nhắn mới có ý kiến được.",
+        "big": "File này lớn hơn 200 MB. Hãy xuất không kèm media rồi thử lại.",
+        "upload": "Tải lên thất bại. Kiểm tra kết nối rồi thử lại nhé."
+      },
+      "found": "Tìm thấy {count} tin nhắn từ {first} đến {last}."
+    },
+    "guides": {
+      "whatsapp": [
+        "Mở đoạn chat trong WhatsApp",
+        "Chạm vào tên ở trên cùng (iPhone) hoặc ⋮ → Thêm (Android)",
+        "Chạm “Xuất đoạn chat” và chọn “Không kèm tệp phương tiện”",
+        "Lưu vào Tệp rồi chọn ở đây — hoặc gửi email cho chính mình"
+      ],
+      "telegram": [
+        "Mở Telegram Desktop trên máy tính",
+        "Mở đoạn chat → ⋮ → Xuất lịch sử trò chuyện",
+        "Bỏ chọn ảnh và video, chọn định dạng “Machine-readable JSON”",
+        "Tải file result.json lên đây"
+      ],
+      "line": [
+        "Mở đoạn chat trong LINE",
+        "Chạm ≡ (góc trên bên phải) → Cài đặt",
+        "Chạm “Xuất lịch sử trò chuyện”",
+        "Lưu file .txt rồi chọn ở đây"
+      ],
+      "kakaotalk": [
+        "Mở đoạn chat trong KakaoTalk",
+        "Chạm ≡ → ⚙ Cài đặt phòng chat",
+        "Chạm “Xuất tin nhắn” → “Chỉ lưu văn bản”",
+        "Chọn file .txt ở đây"
+      ],
+      "imessage": [
+        "Trên Mac, cài “iMessage Exporter” miễn phí (hoặc công cụ bất kỳ lưu được CSV/TXT)",
+        "Xuất cuộc trò chuyện dạng văn bản hoặc CSV",
+        "Tải file lên đây"
+      ],
+      "instagram": [
+        "Instagram → Cài đặt → Hoạt động của bạn → Tải thông tin của bạn xuống",
+        "Chọn Tin nhắn, định dạng JSON",
+        "Khi email tới, tải lên file message_1.json của cuộc trò chuyện"
+      ],
+      "messenger": [
+        "Facebook → Cài đặt → Tải thông tin của bạn xuống",
+        "Chọn Tin nhắn, định dạng JSON",
+        "Tải file message_1.json của cuộc trò chuyện lên đây"
+      ],
+      "other": [
+        "Xuất đoạn chat thành file văn bản, CSV hoặc JSON",
+        "Tải lên đây — bà Nana đọc được hầu hết định dạng"
+      ]
+    },
+    "me": {
+      "q": "Ai là con?",
+      "sub": "Để bà Nana nói chuyện với con, chứ không phải nói về con.",
+      "none": "Tôi không có trong đoạn chat này"
+    },
+    "details": {
+      "q": "Có gì bà Nana nên biết không?",
+      "notes": "Bối cảnh (không bắt buộc), vd: “bọn mình chia tay hồi tháng 3”, “Tùng là anh trai mình”",
+      "lang": "Viết báo cáo bằng",
+      "heat": "Bà Nana nên “gắt” cỡ nào?"
+    },
+    "email": {
+      "q": "Bà Nana gửi báo cáo về đâu?",
+      "sub": "Bọn mình sẽ gửi mã 6 số qua email. Không mật khẩu, không spam.",
+      "placeholder": "ban@example.com",
+      "send": "Gửi mã",
+      "code": "Nhập mã đã gửi tới {email}",
+      "verify": "Xác nhận",
+      "resend": "Gửi mã mới",
+      "orLink": "Hoặc bấm vào liên kết trong email — cũng được luôn.",
+      "terms": "Khi tiếp tục, bạn đồng ý với {terms} và {privacy}, đồng thời xác nhận bạn từ 18 tuổi trở lên.",
+      "errors": {
+        "email": "Email này trông không đúng lắm.",
+        "code": "Mã không đúng. Thử lại hoặc yêu cầu mã mới nhé.",
+        "rate": "Thử quá nhiều lần. Đợi một phút rồi thử lại."
+      }
+    },
+    "writing": {
+      "t": "Bà Nana đang đọc đoạn chat của con",
+      "lines": [
+        "Đang đeo kính…",
+        "Đang đếm xem ai nhắn trước…",
+        "Đang tìm cái tuần mọi thứ đổi khác…",
+        "Đang gạch chân mấy đoạn hay…",
+        "Đang pha trà…"
+      ],
+      "note": "Mất khoảng một phút. Xong bọn mình cũng sẽ email cho bạn."
+    }
+  },
+  "report": {
+    "by": "Bà Nana",
+    "tagline": "81 tuổi. Đã đọc hết mọi đoạn chat trên đời. Vẫn mang cháo tới.",
+    "share": "Chia sẻ báo cáo",
+    "copied": "Đã sao chép liên kết",
+    "privacy": "Riêng tư và do bạn kiểm soát",
+    "cutoff": "Đoạn chat dài quá không đọc một lèo được, nên bà Nana đọc mọi thứ từ {date} trở đi.",
+    "statsTitle": "Những con số",
+    "stat": {
+      "messages": "Tin nhắn",
+      "perDay": "Mỗi ngày",
+      "whoTalks": "Ai nói nhiều nhất",
+      "whoStarts": "Ai mở lời",
+      "afterMidnight": "Sau nửa đêm",
+      "reply": "Thời gian trả lời (trung vị)",
+      "busiestHour": "Giờ sôi nổi nhất",
+      "voice": "Tin nhắn thoại",
+      "emojis": "Emoji dùng nhiều nhất",
+      "silence": "Im lặng lâu nhất",
+      "days": "{n} ngày",
+      "min": "{n} phút",
+      "h": "{n} giờ"
+    },
+    "lockedTitle": "Còn trong báo cáo",
+    "peopleTitle": "Và về từng đứa",
+    "unlock": "Đọc báo cáo đầy đủ",
+    "unlockNote": "Dùng 1 lượt · bạn còn {n}",
+    "noCredits": "Bạn đã hết lượt. Sắp mở thanh toán — bà Nana sẽ email cho bạn.",
+    "writingFull": "Bà Nana đang viết báo cáo đầy đủ. Khoảng 2 phút — bọn mình cũng sẽ email cho bạn.",
+    "failed": "Có lỗi xảy ra khi bà Nana đang viết. Lượt của bạn đã được hoàn lại. Vui lòng thử lại.",
+    "retry": "Thử lại",
+    "peopleSection": "Ai là ai",
+    "glossary": "Từ điển của đoạn chat này",
+    "awards": "Lễ trao giải",
+    "reactions": "Mỗi đứa sẽ phản ứng thế nào khi đọc cái này",
+    "verdict": "Phán quyết",
+    "advice": "Nếu là bà Nana",
+    "askTitle": "Hỏi bà Nana thêm về đoạn chat này",
+    "askPlaceholder": "vd: Anh ấy có đang chán mình không? Trong nhóm ai đang ngấm ngầm bực mình?",
+    "askCta": "Hỏi bà Nana · 1 lượt",
+    "askExpired": "Đoạn chat này đã bị xoá khỏi máy chủ, nên bà Nana không trả lời câu hỏi mới về nó được nữa.",
+    "nextTitle": "Bà Nana nên đọc chat nào tiếp?",
+    "nextCta": "Gửi thêm một đoạn chat",
+    "notFound": "Báo cáo này không tồn tại hoặc đã bị xoá.",
+    "feedback": "Bà Nana nói có đúng không?",
+    "feedbackYes": "Chuẩn không cần chỉnh",
+    "feedbackNo": "Không hẳn",
+    "thanks": "Cảm ơn — bà Nana đang ghi chép lại.",
+    "aiNote": "Do AI viết để giải trí. AI có thể hiểu sai ngữ cảnh — đừng đưa ra quyết định lớn dựa vào nó."
+  },
+  "account": {
+    "title": "Chat của tôi",
+    "signIn": "Đăng nhập để xem các đoạn chat và báo cáo",
+    "signOut": "Đăng xuất",
+    "credits": "Số lượt: {n}",
+    "empty": "Chưa có đoạn chat nào.",
+    "reports": "Báo cáo",
+    "chatExpires": "Đoạn chat tự động xoá vào {date}",
+    "chatDeleted": "Đoạn chat đã bị xoá · báo cáo vẫn giữ",
+    "deleteChat": "Xoá đoạn chat",
+    "deleteReport": "Xoá báo cáo",
+    "deleteAccount": "Xoá tài khoản và mọi thứ bên trong",
+    "confirm": "Bạn chắc chứ? Không hoàn tác được đâu.",
+    "open": "Mở",
+    "followup": "Câu hỏi thêm"
+  },
+  "faq": {
+    "title": "Hỏi trước khi tải lên",
+    "items": [
+      {
+        "q": "Nana Reads là gì?",
+        "a": "Một nhân vật AI — bà Nana — đọc đoạn chat bạn tải lên và viết một bản báo cáo thật lòng, buồn cười về mọi người trong đó: mối quan hệ thật sự, ai quan tâm hơn, cái gì đã thay đổi, và vai của từng người."
+      },
+      {
+        "q": "Có miễn phí không?",
+        "a": "Lần xem đầu tiên là miễn phí: lời mở đầu của bà Nana, các con số, và tiêu đề của mọi phần trong báo cáo đầy đủ. Báo cáo đầy đủ dùng một lượt. Không có gói đăng ký."
+      },
+      {
+        "q": "Dùng được với ứng dụng nào?",
+        "a": "File xuất từ WhatsApp (iPhone và Android), Telegram, LINE và KakaoTalk, cùng iMessage, Instagram và Messenger qua tính năng tải dữ liệu. Sắp có nhập từ video quay màn hình."
+      },
+      {
+        "q": "Đoạn chat của tôi có riêng tư không?",
+        "a": "Bà Nana đếm tin nhắn ngay trong trình duyệt của bạn trước. Dữ liệu tải lên được mã hoá, không bao giờ chia sẻ với ai trong đoạn chat, không bán, không dùng để huấn luyện AI. Nó tự động bị xoá sau 48 giờ nếu bạn không đặt báo cáo, hoặc 7 ngày sau báo cáo gần nhất."
+      },
+      {
+        "q": "Người trong đoạn chat có biết không?",
+        "a": "Không. Không ai nhận được thông báo. Chỉ những người bạn gửi liên kết mới xem được báo cáo."
+      },
+      {
+        "q": "Hỗ trợ những ngôn ngữ nào?",
+        "a": "Đoạn chat có thể bằng bất kỳ ngôn ngữ nào, hoặc trộn lẫn. Báo cáo được viết bằng 24 ngôn ngữ, và bà Nana dùng luôn tiếng lóng của chính đoạn chat."
+      },
+      {
+        "q": "Mất bao lâu?",
+        "a": "Bản xem trước mất khoảng một phút. Báo cáo đầy đủ khoảng hai phút. Xong bọn mình sẽ email cho bạn, nên không cần ngồi chờ trên trang."
+      },
+      {
+        "q": "Có hỏi thêm bà Nana được không?",
+        "a": "Được. Dưới mỗi báo cáo, bạn có thể đặt câu hỏi thêm về cùng đoạn chat. Mỗi câu trả lời là một báo cáo mới, sâu hơn."
+      },
+      {
+        "q": "Xoá dữ liệu thế nào?",
+        "a": "Trong “Chat của tôi”, bạn có thể xoá một đoạn chat, một báo cáo hoặc cả tài khoản bất cứ lúc nào."
+      },
+      {
+        "q": "Có chính xác không?",
+        "a": "Các con số được đếm chính xác từ file xuất của bạn. Còn ý kiến là của bà Nana — AI có thể hiểu sai ngữ cảnh, nên hãy xem như giải trí, đừng xem như lời khuyên."
+      },
+      {
+        "q": "Dành cho ai?",
+        "a": "Người lớn (18+) muốn cười một trận, muốn tỉnh ra, hoặc muốn có bằng chứng là mình đúng từ đầu."
+      }
+    ]
+  },
+  "about": {
+    "title": "Về Nana Reads",
+    "body": [
+      "Nana Reads là dự án của một studio độc lập nhỏ. Bọn mình tạo ra nhân vật mà bọn mình ước là có thật: một bà nội đã đọc hết mọi đoạn chat trên đời, thương con hết mực, và vẫn nói thật.",
+      "Bà Nana đọc chat WhatsApp, Telegram, LINE, KakaoTalk, iMessage, Instagram và Messenger, và viết bằng 24 ngôn ngữ.",
+      "Bọn mình coi trọng quyền riêng tư hơn bất kỳ ai trong mảng này: đoạn chat được đếm trong trình duyệt của bạn trước, tự động xoá, và không bao giờ dùng để huấn luyện AI."
+    ],
+    "factsTitle": "Thông tin chính",
+    "facts": [
+      [
+        "Tên",
+        "Nana Reads"
+      ],
+      [
+        "Là gì",
+        "Báo cáo chat bằng AI cho bạn bè, cặp đôi và gia đình"
+      ],
+      [
+        "Ngôn ngữ",
+        "24"
+      ],
+      [
+        "Giá",
+        "Xem trước miễn phí, sau đó trả theo từng báo cáo. Không có gói đăng ký."
+      ],
+      [
+        "Quyền riêng tư",
+        "Tự động xoá, không bao giờ dùng để huấn luyện AI"
+      ]
+    ]
+  },
+  "support": {
+    "title": "Nói chuyện với bọn mình",
+    "sub": "Hầu hết câu trả lời có trong phần hỏi đáp bên dưới. Nếu không, cứ viết cho bọn mình — có người thật đọc từng tin nhắn.",
+    "email": "Email của bạn",
+    "message": "Bọn mình giúp gì được cho bạn?",
+    "send": "Gửi",
+    "sent": "Đã nhận. Bọn mình sẽ trả lời qua email."
+  },
+  "feedback": {
+    "title": "Nói cho bà Nana biết bạn nghĩ gì",
+    "sub": "Ý tưởng, phàn nàn, lời khen cho bà Nana. Bọn mình đọc hết.",
+    "placeholder": "Góp ý của bạn",
+    "send": "Gửi",
+    "sent": "Cảm ơn bạn!"
+  },
+  "footer": {
+    "chats": "Chat",
+    "help": "Trợ giúp",
+    "company": "Nana Reads",
+    "links": {
+      "home": "Trang chủ",
+      "relationship": "Chat tình cảm",
+      "friends": "Chat bạn bè & nhóm",
+      "family": "Chat gia đình",
+      "whatsapp": "Chat WhatsApp",
+      "imessage": "Chat iMessage",
+      "account": "Chat của tôi",
+      "faq": "Hỏi đáp",
+      "support": "Hỗ trợ",
+      "feedback": "Góp ý",
+      "privacy": "Quyền riêng tư",
+      "terms": "Điều khoản",
+      "about": "Giới thiệu"
+    },
+    "rights": "© {year} Nana Reads. Chỉ mang tính giải trí."
+  },
+  "legal": {
+    "englishOnly": "Trang này hiển thị bằng tiếng Anh. Bản tiếng Anh là bản có giá trị ràng buộc.",
+    "privacy": "Chính sách quyền riêng tư",
+    "terms": "Điều khoản dịch vụ"
+  },
+  "common": {
+    "loading": "Đang tải…",
+    "error": "Có lỗi xảy ra.",
+    "or": "hoặc"
+  }
+}

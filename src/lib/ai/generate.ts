@@ -133,6 +133,7 @@ export async function runFull(reportId: string) {
     const report = verifyReport(res.output, messages);
     await db.from("reports").update({
       status: "full_ready",
+      full_ready_at: new Date().toISOString(),
       title: report.title,
       content: { ...(rep.content ?? {}), report, cutoff },
       cost_usd: Number(rep.cost_usd ?? 0) + costOf(MODELS.full, res.usage),

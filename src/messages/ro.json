@@ -1,1 +1,644 @@
-{}
+{
+  "meta": {
+    "siteName": "Nana Reads",
+    "title": "Nana Reads — conversația ta, citită de cea mai băgăcioasă bunică din lume",
+    "description": "Încarcă o conversație din WhatsApp, Telegram, LINE sau iMessage. Nana citește fiecare mesaj și îți spune ce se întâmplă de fapt, cine ține mai mult și ce crede fiecare despre fiecare."
+  },
+  "nav": {
+    "cta": "Trimite-i Nanei o conversație",
+    "account": "Conversațiile mele",
+    "language": "Limbă"
+  },
+  "home": {
+    "eyebrow": "81 de ani. A citit toate conversațiile scrise vreodată.",
+    "h1": "Trimite-i Nanei conversația. Îți spune ea ce se întâmplă de fapt.",
+    "sub": "Nana citește fiecare mesaj, numără exact ce ai prefera să nu numere și scrie un raport sincer și foarte amuzant despre toată lumea de acolo.",
+    "cta": "Trimite-i Nanei o conversație",
+    "ctaNote": "Previzualizare gratuită · fără card · se șterge automat",
+    "demoTitle": "Alege o conversație și vezi ce vede Nana",
+    "demoHint": "Conversațiile astea sunt inventate. A ta o să fie mai rea.",
+    "howTitle": "Cum funcționează",
+    "how": [
+      {
+        "t": "Exportă conversația",
+        "d": "Două atingeri în WhatsApp, Telegram, LINE sau KakaoTalk. Îți arătăm exact cum."
+      },
+      {
+        "t": "Nana citește tot",
+        "d": "Fiecare mesaj, fiecare scuză pe mesaj vocal, fiecare „vin acum” trimis din pat."
+      },
+      {
+        "t": "Primești raportul",
+        "d": "Previzualizare gratuită într-un minut. Raportul complet îți vine pe mail — trimite-l în grup, dacă ai curaj."
+      }
+    ],
+    "findsTitle": "Ce descoperă Nana",
+    "finds": [
+      {
+        "e": "🫖",
+        "t": "Cine ține cu adevărat",
+        "d": "Cine începe conversațiile, cine răspunde în 4 minute și cine în 4 ore."
+      },
+      {
+        "e": "📉",
+        "t": "Momentul în care s-a schimbat totul",
+        "d": "Săptămâna exactă în care a scăzut flacăra, cu mesajele care o dovedesc."
+      },
+      {
+        "e": "🗝️",
+        "t": "Limba voastră secretă",
+        "d": "Glumele interne și cuvintele pe care le înțelegeți doar voi doi (sau voi doisprezece)."
+      },
+      {
+        "e": "🏆",
+        "t": "Rolul fiecăruia",
+        "d": "În grupuri: organizatorul, fantoma, cel care zice „bag și eu” și nu apare niciodată."
+      }
+    ],
+    "privacyTitle": "Confidențial din construcție",
+    "privacy": [
+      "Conversația e citită și numărată în browserul tău înainte să se încarce ceva.",
+      "Fișierele încărcate sunt criptate și se șterg automat: după 48 de ore dacă nu comanzi un raport, după 7 zile de la ultimul raport.",
+      "Nu le vindem, nu le dăm nimănui, nu le folosim ca să antrenăm AI."
+    ],
+    "worksWith": "Merge cu",
+    "heatTitle": "Alege cât de tare să te ia Nana",
+    "heat": {
+      "gentle": {
+        "t": "Blândă",
+        "d": "Bunica de pe felicitarea de ziua ta. Tachinează, dar nu înțeapă."
+      },
+      "spicy": {
+        "t": "Picantă",
+        "d": "O luare la mișto ca lumea. Majoritatea aleg asta."
+      },
+      "savage": {
+        "t": "Fără milă",
+        "d": "Zero menajamente. Pentru grupurile care se ard între ei zilnic."
+      }
+    },
+    "finalH": "Urmează conversația ta.",
+    "finalSub": "Nana a pus deja de-un ceai."
+  },
+  "landing": {
+    "relationship": {
+      "metaTitle": "Chiar te place? Analiză AI a conversației voastre — Nana Reads",
+      "metaDesc": "Încarcă conversația cu crush-ul, partenerul, „ce-o fi asta” sau fostul. Nana citește fiecare mesaj și îți spune cine ține mai mult și ce s-a schimbat.",
+      "h1": "Chiar te place? Îți spune Nana.",
+      "sub": "Trimite conversația cu crush-ul, partenerul, „ce-o fi asta” sau fostul. Nana numără cine scrie primul, cine se lasă așteptat și când s-a schimbat totul."
+    },
+    "friends": {
+      "metaTitle": "Analiză de grup cu prietenii și roast — Nana Reads",
+      "metaDesc": "Încarcă grupul cu prietenii. Nana îi ia la mișto pe toți, împarte premii și spune ce nimeni nu zice cu voce tare.",
+      "h1": "Ce crede Nana despre tine și prietenii tăi?",
+      "sub": "Grupul băieților, grupul fetelor, excursia care n-a mai avut loc. Nana citește tot și dă fiecăruia titlul pe care îl merită."
+    },
+    "family": {
+      "metaTitle": "Analiză pentru grupul de WhatsApp al familiei — Nana Reads",
+      "metaDesc": "Încarcă grupul familiei. Nana află cine ține de fapt familia unită, cine nu răspunde niciodată și cine trimite flori de „bună dimineața”.",
+      "h1": "Grupul familiei, citit de o bunică ce le-a văzut pe toate.",
+      "sub": "Cine ține familia unită, cine răspunde doar la poze cu mâncare și cine e încă supărat de Paștele de anul trecut. Nana știe."
+    },
+    "imessage": {
+      "metaTitle": "Analiză pentru conversații iMessage — Nana Reads",
+      "metaDesc": "Exportă o conversație iMessage de pe Mac și las-o pe Nana s-o citească. Cine ține mai mult, ce s-a schimbat și ce faci mai departe.",
+      "h1": "Încarcă o conversație iMessage. Nana face restul.",
+      "sub": "Exportă o conversație de pe Mac în câteva minute, iar Nana citește fiecare bulă albastră."
+    },
+    "whatsapp": {
+      "metaTitle": "Analiză pentru conversații WhatsApp — Nana Reads",
+      "metaDesc": "Exportă orice conversație WhatsApp din două atingeri. Nana citește fiecare mesaj și scrie un raport sincer și amuzant despre toată lumea de acolo.",
+      "h1": "Analiza conversațiilor WhatsApp, făcută de cea mai băgăcioasă bunică.",
+      "sub": "Două atingeri ca să exporți, un minut până la previzualizarea gratuită. Merge cu conversații private și grupuri de orice mărime."
+    }
+  },
+  "demos": [
+    {
+      "id": "trip",
+      "label": "Băieții 🍻",
+      "kind": "Grup de prieteni",
+      "count": "24.310 mesaje",
+      "messages": [
+        {
+          "a": "Andrei",
+          "x": "Băieți. Lisabona. Am pus sondaj, votați până mâine"
+        },
+        {
+          "a": "Vlad",
+          "x": "BAG!!"
+        },
+        {
+          "a": "Mihai",
+          "x": "bag dar nu în iunie"
+        },
+        {
+          "a": "Andrei",
+          "x": "E în iunie. asta e toată ideea"
+        },
+        {
+          "a": "Vlad",
+          "x": "stai în iunie am nunta vărului meu"
+        },
+        {
+          "a": "Mihai",
+          "x": "ce sondaj"
+        },
+        {
+          "a": "Andrei",
+          "x": "același sondaj ca anul trecut"
+        }
+      ],
+      "stats": [
+        {
+          "k": "Sondaje create",
+          "v": "4"
+        },
+        {
+          "k": "Voturi",
+          "v": "1"
+        },
+        {
+          "k": "Bilete de avion",
+          "v": "0"
+        },
+        {
+          "k": "„Bag” trimise",
+          "v": "37"
+        }
+      ],
+      "headline": "Lisabona: patru sondaje, un votant, zero bilete",
+      "verdict": "Andrei a pus același sondaj de patru ori și singurul vot e al lui. În grupul ăsta nimeni nu zice niciodată nu la o excursie. Doar că nici da nu zice nimeni.",
+      "locked": [
+        "Cine organizează de fapt și cine doar scrie „BAG”",
+        "Vărul lui Vlad, care a avut 3 nunți anul ăsta",
+        "Toate scuzele, în ordinea credibilității",
+        "De ce câștigă de fiecare dată cabana de la munte"
+      ]
+    },
+    {
+      "id": "situationship",
+      "label": "Ioana 🙃",
+      "kind": "„Ce-o fi asta”",
+      "count": "5.102 mesaje",
+      "messages": [
+        {
+          "a": "Ioana",
+          "x": "heeei ce faci 🙂"
+        },
+        {
+          "a": "Eu",
+          "x": "hei?? ai dispărut nouă zile"
+        },
+        {
+          "a": "Ioana",
+          "x": "am fost super prinsă la muncă sincer"
+        },
+        {
+          "a": "Eu",
+          "x": "ți-am văzut story-ul de la mare"
+        },
+        {
+          "a": "Ioana",
+          "x": "a fost tipo o jumătate de oră 😅"
+        },
+        {
+          "a": "Eu",
+          "x": "deci ne vedem în weekend?"
+        },
+        {
+          "a": "Ioana",
+          "x": "poate! vedem cum merge săptămâna"
+        }
+      ],
+      "stats": [
+        {
+          "k": "Răspunsul tău median",
+          "v": "4 min"
+        },
+        {
+          "k": "Răspunsul median al Ioanei",
+          "v": "3 h"
+        },
+        {
+          "k": "Cine începe",
+          "v": "Tu · 81%"
+        },
+        {
+          "k": "Cea mai lungă tăcere",
+          "v": "9 zile"
+        }
+      ],
+      "headline": "Nouă zile pe „văzut”, apoi „heeei ce faci 🙂”",
+      "verdict": "Ioana răspunde în trei ore, tu răspunzi în patru minute. Amândoi știți ce înseamnă asta, puiule, și niciunul nu zice nimic.",
+      "locked": [
+        "Cine scrie primul și cine așteaptă să i se scrie",
+        "Nouă zile de tăcere: ce s-a întâmplat de fapt",
+        "Ce se ascunde în spatele lui „😅” al Ioanei",
+        "Ce ar face Nana în locul tău"
+      ]
+    },
+    {
+      "id": "family",
+      "label": "Familia 🏡",
+      "kind": "Grupul familiei",
+      "count": "61.877 de mesaje",
+      "messages": [
+        {
+          "a": "Mama",
+          "x": "Bună dimineața familia mea 🌸🌸🌸"
+        },
+        {
+          "a": "Bunicul",
+          "x": "Bună dimineața"
+        },
+        {
+          "a": "Mama",
+          "x": "Cine vine duminică la masă? Am nevoie de un număr"
+        },
+        {
+          "a": "Radu",
+          "x": "👍"
+        },
+        {
+          "a": "Mama",
+          "x": "👍 nu e un număr Radu"
+        },
+        {
+          "a": "Ana",
+          "x": "pot să aduc pe cineva"
+        },
+        {
+          "a": "Mama",
+          "x": "PE CINE"
+        }
+      ],
+      "stats": [
+        {
+          "k": "Flori de bună dimineața",
+          "v": "1.204"
+        },
+        {
+          "k": "Cuvinte per mesaj (Radu)",
+          "v": "1,2"
+        },
+        {
+          "k": "Numărători de duminică",
+          "v": "212"
+        },
+        {
+          "k": "Răspunsuri",
+          "v": "19"
+        }
+      ],
+      "headline": "212 numărători de duminică, 19 răspunsuri, un 👍",
+      "verdict": "Mama a întrebat de 212 ori cine vine duminică la masă. Radu a răspuns cu un deget mare de 140 de ori. Și vine toată lumea oricum, în fiecare săptămână.",
+      "locked": [
+        "Mama, directoarea neplătită a familiei",
+        "Radu și economia degetului mare",
+        "Pe cine aduce Ana duminică",
+        "Mesajele Bunicului de la 6 dimineața, descifrate"
+      ]
+    }
+  ],
+  "examples": {
+    "title": "Replici din rapoartele Nanei",
+    "note": "Din conversațiile de exemplu de mai sus, deci nicio intimitate n-a avut de suferit.",
+    "items": [
+      "Andrei a pus același sondaj de patru ori. Nu e organizator de excursii, e negociator de ostatici.",
+      "Tu răspunzi în patru minute. Ioana răspunde în trei ore. Pe vremea mea asta se chema „un semn”.",
+      "Radu a scris 4.000 de cuvinte în grupul ăsta în șase ani. 3.100 dintre ele au fost „ok”.",
+      "Mama nu are nevoie de o numărătoare. Mama are nevoie de o îmbrățișare și de un răspuns clar."
+    ]
+  },
+  "flow": {
+    "close": "Închide",
+    "stepOf": "{n} din {total}",
+    "back": "Înapoi",
+    "next": "Continuă",
+    "context": {
+      "q": "Ce fel de conversație să citească Nana?",
+      "options": {
+        "partner": {
+          "t": "Dragoste",
+          "d": "partener, crush, „ce-o fi asta”, fost…"
+        },
+        "friends": {
+          "t": "Grup de prieteni",
+          "d": "băieții, fetele, grupul excursiei…"
+        },
+        "friend": {
+          "t": "Un prieten",
+          "d": "cel mai bun prieten, prieten din copilărie, colegul preferat…"
+        },
+        "family": {
+          "t": "Familie",
+          "d": "grupul familiei, mama sau tata, frații…"
+        },
+        "work": {
+          "t": "Muncă / echipă",
+          "d": "grupul echipei, colegii, șeful…"
+        },
+        "other": {
+          "t": "Altceva",
+          "d": "colegii de apartament, vecinii, asociația de proprietari…"
+        }
+      }
+    },
+    "source": {
+      "q": "Din ce aplicație e conversația?",
+      "soon": "Importul din înregistrări de ecran vine curând. Deocamdată folosește o aplicație care exportă text."
+    },
+    "upload": {
+      "q": "Încarcă conversația din {app}",
+      "drop": "Atinge ca să alegi fișierul exportat",
+      "dropHint": ".txt, .zip, .json sau .csv — până la 200 MB",
+      "reading": "Nana citește… {count} mesaje până acum",
+      "readingLocal": "Asta se întâmplă pe dispozitivul tău. Încă nu s-a încărcat nimic.",
+      "uploading": "Se încarcă în siguranță…",
+      "privacy": "Conversația ta rămâne privată",
+      "howTo": "Cum o export?",
+      "errors": {
+        "format": "Nana n-a putut citi fișierul. Verifică să fie exportul original (.txt sau .zip), nu o captură de ecran.",
+        "few": "Conversația e cam scurtă. Nana are nevoie de cel puțin 10 mesaje ca să-și facă o părere.",
+        "big": "Fișierul are peste 200 MB. Exportă fără media și încearcă din nou.",
+        "upload": "Încărcarea a eșuat. Verifică conexiunea și încearcă din nou."
+      },
+      "found": "Am găsit {count} mesaje între {first} și {last}."
+    },
+    "guides": {
+      "whatsapp": [
+        "Deschide conversația în WhatsApp",
+        "Atinge numele de sus (iPhone) sau ⋮ → Mai multe (Android)",
+        "Atinge „Exportă chatul” și alege „Fără media”",
+        "Salvează-l în Fișiere și alege-l aici — sau trimite-ți-l pe mail"
+      ],
+      "telegram": [
+        "Deschide Telegram Desktop pe un calculator",
+        "Deschide conversația → ⋮ → Exportă istoricul chatului",
+        "Debifează pozele și videoclipurile, alege formatul „Machine-readable JSON”",
+        "Încarcă aici fișierul result.json"
+      ],
+      "line": [
+        "Deschide conversația în LINE",
+        "Atinge ≡ (dreapta sus) → Setări",
+        "Atinge „Exportă istoricul chatului”",
+        "Salvează fișierul .txt și alege-l aici"
+      ],
+      "kakaotalk": [
+        "Deschide conversația în KakaoTalk",
+        "Atinge ≡ → ⚙ Setările camerei de chat",
+        "Atinge „Exportă mesajele” → „Salvează doar textul”",
+        "Alege aici fișierul .txt"
+      ],
+      "imessage": [
+        "Pe un Mac, instalează aplicația gratuită „iMessage Exporter” (sau orice unealtă care salvează CSV/TXT)",
+        "Exportă conversația ca text sau CSV",
+        "Încarcă fișierul aici"
+      ],
+      "instagram": [
+        "Instagram → Setări → Activitatea ta → Descarcă informațiile tale",
+        "Alege Mesaje, format JSON",
+        "Când vine mailul, încarcă fișierul message_1.json al conversației"
+      ],
+      "messenger": [
+        "Facebook → Setări → Descarcă informațiile tale",
+        "Alege Mesaje, format JSON",
+        "Încarcă aici fișierul message_1.json al conversației"
+      ],
+      "other": [
+        "Exportă conversația ca fișier text, CSV sau JSON",
+        "Încarcă-l aici — Nana citește majoritatea formatelor"
+      ]
+    },
+    "me": {
+      "q": "Care dintre ei ești tu?",
+      "sub": "Ca Nana să vorbească cu tine, nu despre tine.",
+      "none": "Nu sunt în conversația asta"
+    },
+    "details": {
+      "q": "Ceva ce ar trebui să știe Nana?",
+      "notes": "Context opțional (ex.: „ne-am despărțit în martie”, „Tudor e fratele meu”)",
+      "lang": "Scrie raportul în",
+      "heat": "Cât de tare să te ia Nana?"
+    },
+    "email": {
+      "q": "Unde să-ți trimită Nana raportul?",
+      "sub": "Îți trimitem pe mail un cod din 6 cifre. Fără parolă, fără spam.",
+      "placeholder": "tu@exemplu.ro",
+      "send": "Trimite codul",
+      "code": "Introdu codul trimis la {email}",
+      "verify": "Verifică",
+      "resend": "Trimite un cod nou",
+      "orLink": "Sau apasă pe linkul din mail — merge și așa.",
+      "terms": "Continuând, accepți {terms} și {privacy} și confirmi că ai cel puțin 18 ani.",
+      "errors": {
+        "email": "Adresa de mail nu arată bine.",
+        "code": "Codul n-a mers. Încearcă din nou sau cere unul nou.",
+        "rate": "Prea multe încercări. Așteaptă un minut și încearcă din nou."
+      }
+    },
+    "writing": {
+      "t": "Nana îți citește conversația",
+      "lines": [
+        "Își pune ochelarii…",
+        "Numără cine scrie primul…",
+        "Caută săptămâna în care s-a schimbat totul…",
+        "Subliniază părțile bune…",
+        "Își face un ceai…"
+      ],
+      "note": "Durează cam un minut. Îți dăm și un mail când e gata."
+    }
+  },
+  "report": {
+    "by": "Nana",
+    "tagline": "81 de ani. A citit toate conversațiile scrise vreodată. Tot îți aduce ciorbă.",
+    "share": "Trimite raportul",
+    "copied": "Link copiat",
+    "privacy": "Privat și sub controlul tău",
+    "cutoff": "Conversația era prea lungă ca s-o citească dintr-o suflare, așa că Nana a citit tot de pe {date} încoace.",
+    "statsTitle": "Cifrele",
+    "stat": {
+      "messages": "Mesaje",
+      "perDay": "Pe zi",
+      "whoTalks": "Cine vorbește cel mai mult",
+      "whoStarts": "Cine începe",
+      "afterMidnight": "După miezul nopții",
+      "reply": "Răspuns median",
+      "busiestHour": "Ora de vârf",
+      "voice": "Mesaje vocale",
+      "emojis": "Emoji preferate",
+      "silence": "Cea mai lungă tăcere",
+      "days": "{n} zile",
+      "min": "{n} min",
+      "h": "{n} h"
+    },
+    "lockedTitle": "Mai sunt în raport",
+    "peopleTitle": "Și despre fiecare dintre voi",
+    "unlock": "Citește raportul complet",
+    "unlockNote": "Folosește 1 credit · ai {n}",
+    "noCredits": "Nu mai ai credite. Plățile se deschid curând — Nana îți trimite un mail.",
+    "writingFull": "Nana scrie raportul complet. Cam 2 minute — îți trimitem și pe mail.",
+    "failed": "Ceva n-a mers cât scria Nana. Ți-am dat creditul înapoi. Te rugăm să încerci din nou.",
+    "retry": "Încearcă din nou",
+    "peopleSection": "Cine e cine",
+    "glossary": "Dicționarul conversației",
+    "awards": "Premiile",
+    "reactions": "Cum o să reacționeze fiecare la asta",
+    "verdict": "Verdictul",
+    "advice": "Ce ar face Nana",
+    "askTitle": "Mai întreab-o pe Nana ceva despre conversația asta",
+    "askPlaceholder": "ex.: Își pierde interesul? Cine din grup e de fapt supărat pe mine?",
+    "askCta": "Întreab-o pe Nana · 1 credit",
+    "askExpired": "Conversația a fost ștearsă de pe serverele noastre, așa că Nana nu mai poate răspunde la întrebări noi despre ea.",
+    "nextTitle": "Ce conversație să citească Nana data viitoare?",
+    "nextCta": "Trimite altă conversație",
+    "notFound": "Raportul ăsta nu există sau a fost șters.",
+    "feedback": "A avut Nana dreptate?",
+    "feedbackYes": "Fix așa",
+    "feedbackNo": "Nu prea",
+    "thanks": "Mulțumim — Nana își notează.",
+    "aiNote": "Scris de AI, pentru distracție. Poate înțelege greșit contextul — nu lua decizii mari pe baza lui."
+  },
+  "account": {
+    "title": "Conversațiile mele",
+    "signIn": "Conectează-te ca să-ți vezi conversațiile și rapoartele",
+    "signOut": "Deconectează-te",
+    "credits": "Credite: {n}",
+    "empty": "Nicio conversație încă.",
+    "reports": "Rapoarte",
+    "chatExpires": "Conversația se șterge automat pe {date}",
+    "chatDeleted": "Conversație deja ștearsă · rapoartele rămân",
+    "deleteChat": "Șterge conversația",
+    "deleteReport": "Șterge raportul",
+    "deleteAccount": "Șterge-mi contul și tot ce e în el",
+    "confirm": "Sigur? Nu se mai poate anula.",
+    "open": "Deschide",
+    "followup": "Întrebare suplimentară"
+  },
+  "faq": {
+    "title": "Întrebări înainte să încarci",
+    "items": [
+      {
+        "q": "Ce este Nana Reads?",
+        "a": "Un personaj AI — Nana — care citește o conversație încărcată de tine și scrie un raport sincer și amuzant despre toată lumea de acolo: dinamica reală, cine ține mai mult, ce s-a schimbat și rolul fiecăruia."
+      },
+      {
+        "q": "E gratis?",
+        "a": "Prima privire e gratuită: introducerea Nanei, cifrele și titlurile a tot ce e în raportul complet. Raportul complet folosește un credit. Nu există abonament."
+      },
+      {
+        "q": "Ce aplicații merg?",
+        "a": "Exporturi din WhatsApp (iPhone și Android), Telegram, LINE și KakaoTalk, plus iMessage, Instagram și Messenger prin exportul de date. Importul din înregistrări de ecran vine curând."
+      },
+      {
+        "q": "Conversația mea rămâne privată?",
+        "a": "Nana îți numără mesajele întâi în browser. Fișierul încărcat e criptat, nu e arătat nimănui din conversație, nu e vândut și nu e folosit ca să antrenăm AI. Se șterge automat la 48 de ore după încărcare dacă nu comanzi un raport, sau la 7 zile după ultimul raport."
+      },
+      {
+        "q": "O să afle cei din conversație?",
+        "a": "Nu. Nu primește nimeni nicio notificare. Raportul îl văd doar cei cărora le trimiți tu linkul."
+      },
+      {
+        "q": "Ce limbi?",
+        "a": "Conversația poate fi în orice limbă sau într-un amestec. Rapoartele se scriu în 24 de limbi, iar Nana folosește chiar argoul conversației voastre."
+      },
+      {
+        "q": "Cât durează?",
+        "a": "Previzualizarea durează cam un minut. Raportul complet, cam două minute. Îți trimitem un mail când e gata, ca să nu stai cu ochii pe pagină."
+      },
+      {
+        "q": "Pot s-o mai întreb pe Nana ceva?",
+        "a": "Da. Sub fiecare raport poți pune o întrebare suplimentară despre aceeași conversație. Fiecare răspuns e un raport nou, mai la fund."
+      },
+      {
+        "q": "Cum îmi șterg datele?",
+        "a": "Din „Conversațiile mele” poți șterge oricând o conversație, un raport sau tot contul."
+      },
+      {
+        "q": "E precis?",
+        "a": "Cifrele sunt numărate exact din exportul tău. Părerile sunt ale Nanei — AI-ul poate înțelege greșit contextul, așa că ia-o ca pe o distracție, nu ca pe un sfat."
+      },
+      {
+        "q": "Pentru cine e?",
+        "a": "Pentru adulți (18+) care vor să râdă, să-și deschidă ochii sau să aibă dovada că au avut dreptate de la început."
+      }
+    ]
+  },
+  "about": {
+    "title": "Despre Nana Reads",
+    "body": [
+      "Nana Reads e un proiect mic al unui studio independent. Am creat personajul pe care ne-am fi dorit să-l avem: o bunică ce a citit toate conversațiile din lume, te iubește și îți spune adevărul oricum.",
+      "Nana citește conversații din WhatsApp, Telegram, LINE, KakaoTalk, iMessage, Instagram și Messenger și scrie în 24 de limbi.",
+      "Ținem la intimitate mai mult decât oricine în domeniul ăsta: conversația ta e numărată întâi în browser, se șterge automat și nu e folosită niciodată ca să antrenăm AI."
+    ],
+    "factsTitle": "Pe scurt",
+    "facts": [
+      [
+        "Nume",
+        "Nana Reads"
+      ],
+      [
+        "Ce este",
+        "Rapoarte AI despre conversații, pentru prieteni, cupluri și familii"
+      ],
+      [
+        "Limbi",
+        "24"
+      ],
+      [
+        "Preț",
+        "Previzualizare gratuită, apoi plătești per raport. Fără abonament."
+      ],
+      [
+        "Confidențialitate",
+        "Se șterge automat, nu e folosit niciodată ca să antrenăm AI"
+      ]
+    ]
+  },
+  "support": {
+    "title": "Scrie-ne",
+    "sub": "Majoritatea răspunsurilor sunt în întrebările de mai jos. Dacă nu, scrie-ne — fiecare mesaj e citit de un om adevărat.",
+    "email": "Mailul tău",
+    "message": "Cu ce te putem ajuta?",
+    "send": "Trimite",
+    "sent": "Am primit. Îți răspundem pe mail."
+  },
+  "feedback": {
+    "title": "Spune-i Nanei ce crezi",
+    "sub": "Idei, reclamații, complimente pentru Nana. Citim tot.",
+    "placeholder": "Părerea ta",
+    "send": "Trimite",
+    "sent": "Mulțumim!"
+  },
+  "footer": {
+    "chats": "Conversații",
+    "help": "Ajutor",
+    "company": "Nana Reads",
+    "links": {
+      "home": "Acasă",
+      "relationship": "Conversații de cuplu",
+      "friends": "Prieteni și grupuri",
+      "family": "Conversații de familie",
+      "whatsapp": "Conversații WhatsApp",
+      "imessage": "Conversații iMessage",
+      "account": "Conversațiile mele",
+      "faq": "Întrebări frecvente",
+      "support": "Asistență",
+      "feedback": "Părerea ta",
+      "privacy": "Confidențialitate",
+      "terms": "Termeni",
+      "about": "Despre noi"
+    },
+    "rights": "© {year} Nana Reads. Doar pentru distracție."
+  },
+  "legal": {
+    "englishOnly": "Pagina e afișată în engleză. Versiunea în engleză este cea obligatorie.",
+    "privacy": "Politica de confidențialitate",
+    "terms": "Termenii și condițiile"
+  },
+  "common": {
+    "loading": "Se încarcă…",
+    "error": "Ceva n-a mers.",
+    "or": "sau"
+  }
+}
