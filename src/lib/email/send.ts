@@ -35,7 +35,7 @@ export function layout(o: { lang: string; pre: string; h: string; body: string; 
 <span style="display:none;max-height:0;overflow:hidden">${esc(o.pre)}</span>
 <table width="100%" cellpadding="0" cellspacing="0"><tr><td align="center" style="padding:28px 14px">
 <table width="560" cellpadding="0" cellspacing="0" style="max-width:560px;background:#fffdf8;border:2px solid #221b16;border-radius:18px">
-<tr><td style="padding:28px 28px 8px;font-size:22px;font-weight:700">🫖 Nana Reads</td></tr>
+<tr><td style="padding:28px 28px 8px;font-size:22px;font-weight:700">🎧 What Patrik Thinks</td></tr>
 <tr><td style="padding:8px 28px;font-size:24px;font-weight:700;line-height:1.3">${esc(o.h)}</td></tr>
 <tr><td style="padding:8px 28px;font-size:16px;line-height:1.6">${o.body}</td></tr>
 ${o.cta ? `<tr><td style="padding:18px 28px"><a href="${o.cta.url}" style="display:inline-block;background:#e4572e;color:#fff;text-decoration:none;font-weight:700;padding:14px 26px;border-radius:999px;border:2px solid #221b16">${esc(o.cta.label)} →</a></td></tr>` : ""}
@@ -54,12 +54,12 @@ export async function sendEmail(to: string, subject: string, html: string, kind:
   const key = process.env.RESEND_API_KEY;
   if (!key) return false;
   const from = kind === "transactional"
-    ? process.env.EMAIL_FROM_TRANSACTIONAL ?? "Nana <reports@nanareads.app>"
-    : process.env.EMAIL_FROM_MARKETING ?? "Nana <nana@go.nanareads.app>";
+    ? process.env.EMAIL_FROM_TRANSACTIONAL ?? "Patrik <reports@whatpatrikthink.com>"
+    : process.env.EMAIL_FROM_MARKETING ?? "Patrik <patrik@go.whatpatrikthink.com>";
   const r = await fetch("https://api.resend.com/emails", {
     method: "POST",
     headers: { authorization: `Bearer ${key}`, "content-type": "application/json" },
-    body: JSON.stringify({ from, to, subject, html, headers: kind === "marketing" ? { "List-Unsubscribe": "<mailto:unsubscribe@nanareads.app>" } : undefined }),
+    body: JSON.stringify({ from, to, subject, html, headers: kind === "marketing" ? { "List-Unsubscribe": "<mailto:unsubscribe@whatpatrikthink.com>" } : undefined }),
   });
   return r.ok;
 }

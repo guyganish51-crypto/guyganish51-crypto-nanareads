@@ -6,7 +6,7 @@ import type { Locale } from "@/lib/i18n/config";
 import { fmt } from "@/lib/fmt";
 import type { ChatStats } from "@/lib/chat/types";
 import type { Preview, Report, Block } from "@/lib/ai/schema";
-import { NanaAvatar } from "./NanaAvatar";
+import { Avatar } from "./Avatar";
 import { WritingScreen } from "./StartFlow";
 import { Arrow } from "@/components/Arrow";
 
@@ -147,7 +147,7 @@ export function ReportView({ id, lang, t }: { id: string; lang: Locale; t: Dict 
     return () => clearInterval(h);
   }, [d, load]);
 
-  if (missing) return <main className="mx-auto max-w-2xl px-4 py-20 text-center"><NanaAvatar size={90} className="mx-auto" /><p className="mt-4 text-lg">{R.notFound}</p></main>;
+  if (missing) return <main className="mx-auto max-w-2xl px-4 py-20 text-center"><Avatar size={90} className="mx-auto" /><p className="mt-4 text-lg">{R.notFound}</p></main>;
   if (!d) return <main className="py-24 text-center text-ink-soft">{t.common.loading}</main>;
   if (d.status === "preview_pending") return (
     <main className="mx-auto max-w-xl px-4 pb-10">
@@ -171,7 +171,7 @@ export function ReportView({ id, lang, t }: { id: string; lang: Locale; t: Dict 
   const share = async () => {
     const url = `${location.origin}/${lang}/r/${d.id}`;
     try {
-      if (navigator.share) await navigator.share({ title: d.title ?? "Nana Reads", url });
+      if (navigator.share) await navigator.share({ title: d.title ?? "What Patrik Thinks", url });
       else { await navigator.clipboard.writeText(url); setMsg(R.copied); }
     } catch { /* cancelled */ }
   };
@@ -211,7 +211,7 @@ export function ReportView({ id, lang, t }: { id: string; lang: Locale; t: Dict 
       <h1 className="font-display text-3xl font-bold leading-tight sm:text-4xl" dir="auto">{rep?.title ?? p?.title ?? d.title}</h1>
       {d.question && <p className="mt-2 text-ink-soft">❓ {d.question}</p>}
       <div className="mt-4 flex items-center gap-3">
-        <NanaAvatar size={52} />
+        <Avatar size={52} />
         <div><div className="font-semibold">{R.by}</div><div className="text-sm text-ink-soft">{R.tagline}</div></div>
       </div>
       <div className="mt-4 flex flex-wrap items-center gap-2">
@@ -235,7 +235,7 @@ export function ReportView({ id, lang, t }: { id: string; lang: Locale; t: Dict 
             </section>
           )}
           <section className="card mt-8 p-5">
-            <p className="font-display text-xl font-semibold">🫖 {p.verdict_teaser}</p>
+            <p className="font-display text-xl font-semibold">🎧 {p.verdict_teaser}</p>
             <h2 className="mt-5 mb-2 text-sm font-bold uppercase tracking-wide text-ink-soft">{R.lockedTitle}</h2>
             <ul className="space-y-2">{p.sections.map((s, i) => <li key={i} className="flex gap-2"><span>{s.emoji}</span><span className="font-semibold">{s.heading}</span><span className="ms-auto">🔒</span></li>)}</ul>
             {p.people.length > 0 && <>
@@ -318,7 +318,7 @@ export function ReportView({ id, lang, t }: { id: string; lang: Locale; t: Dict 
             <p className="font-display mt-3 text-xl font-semibold">{rep.verdict.last_line}</p>
           </section>
           {rep.advice && (
-            <section className="mt-8"><h2 className="font-display mb-2 text-2xl font-bold">🫖 {R.advice}</h2><div className="prose-nana"><p>{rep.advice}</p></div></section>
+            <section className="mt-8"><h2 className="font-display mb-2 text-2xl font-bold">🎧 {R.advice}</h2><div className="prose-nana"><p>{rep.advice}</p></div></section>
           )}
           <div className="mt-8 flex flex-wrap items-center gap-3">
             <button className="btn btn-primary" onClick={share}>↗ {R.share}</button>

@@ -1,21 +1,21 @@
 {
   "meta": {
-    "siteName": "Nana Reads",
-    "title": "Nana Reads — your chat, read by the nosiest grandma alive",
-    "description": "Upload a WhatsApp, Telegram, LINE or iMessage chat. Nana reads every message and tells you what's really going on, who cares more, and what everyone thinks of everyone."
+    "siteName": "What Patrik Thinks",
+    "title": "What Patrik Thinks — your chat, read by a guy with zero filter",
+    "description": "Upload a WhatsApp, Telegram, LINE or iMessage chat. Patrik reads every message and tells you what's really going on, who cares more, and what he honestly thinks of everyone."
   },
   "nav": {
-    "cta": "Send Nana a chat",
+    "cta": "Send Patrik a chat",
     "account": "My chats",
     "language": "Language"
   },
   "home": {
-    "eyebrow": "81 years old. Read every chat ever written.",
-    "h1": "Send Nana your chat. She'll tell you what's really going on.",
-    "sub": "Nana reads every single message, counts what you'd rather she didn't, and writes an honest, very funny report about everyone in it.",
-    "cta": "Send Nana a chat",
+    "eyebrow": "12 years as a wedding DJ. Has seen everything. Says everything.",
+    "h1": "Send Patrik your chat. He'll tell you what's really going on.",
+    "sub": "Patrik reads every single message, counts what you'd rather he didn't, and writes an honest, very funny report about everyone in it.",
+    "cta": "Send Patrik a chat",
     "ctaNote": "Free preview · no card · deleted automatically",
-    "demoTitle": "Pick a chat, see what Nana sees",
+    "demoTitle": "Pick a chat, see what Patrik sees",
     "demoHint": "These are made-up chats. Yours will be worse.",
     "howTitle": "How it works",
     "how": [
@@ -24,7 +24,7 @@
         "d": "Two taps in WhatsApp, Telegram, LINE or KakaoTalk. We show you exactly how."
       },
       {
-        "t": "Nana reads all of it",
+        "t": "Patrik reads all of it",
         "d": "Every message, every voice note excuse, every 'on my way' sent from bed."
       },
       {
@@ -32,10 +32,10 @@
         "d": "Free preview in a minute. The full report lands in your inbox — share it with the chat if you dare."
       }
     ],
-    "findsTitle": "What Nana finds",
+    "findsTitle": "What Patrik finds",
     "finds": [
       {
-        "e": "🫖",
+        "e": "🎧",
         "t": "Who actually cares",
         "d": "Who starts the conversations, who replies in 4 minutes and who in 4 hours."
       },
@@ -62,11 +62,11 @@
       "Never sold, never shared, never used to train AI."
     ],
     "worksWith": "Works with",
-    "heatTitle": "Choose how hard Nana goes",
+    "heatTitle": "Choose how hard Patrik goes",
     "heat": {
       "gentle": {
         "t": "Gentle",
-        "d": "Birthday-card grandma. Teasing, nothing that stings."
+        "d": "Sweet wedding-toast energy. Teasing, nothing that stings."
       },
       "spicy": {
         "t": "Spicy",
@@ -78,37 +78,37 @@
       }
     },
     "finalH": "Your chat is next.",
-    "finalSub": "Nana is already putting the kettle on."
+    "finalSub": "Patrik is already picking the soundtrack."
   },
   "landing": {
     "relationship": {
-      "metaTitle": "Does he actually like you? AI text analysis of your chat — Nana Reads",
-      "metaDesc": "Upload your chat with a crush, partner, situationship or ex. Nana reads every message and tells you who cares more and what changed.",
-      "h1": "Does he actually like you? Nana will tell you.",
-      "sub": "Send the chat with your crush, partner, situationship or ex. Nana counts who texts first, who waits, and when things changed."
+      "metaTitle": "Does he actually like you? AI text analysis of your chat — What Patrik Thinks",
+      "metaDesc": "Upload your chat with a crush, partner, situationship or ex. Patrik reads every message and tells you who cares more and what changed.",
+      "h1": "Does he actually like you? Patrik will tell you.",
+      "sub": "Send the chat with your crush, partner, situationship or ex. Patrik counts who texts first, who waits, and when things changed."
     },
     "friends": {
-      "metaTitle": "Group chat analyzer & friend roast — Nana Reads",
-      "metaDesc": "Upload your friends' group chat. Nana roasts everyone in it, hands out awards and says what nobody says out loud.",
-      "h1": "What does Nana think of you and your friends?",
-      "sub": "The boys' chat, the girls' chat, the trip that never happened. Nana reads it all and gives everyone the title they deserve."
+      "metaTitle": "Group chat analyzer & friend roast — What Patrik Thinks",
+      "metaDesc": "Upload your friends' group chat. Patrik roasts everyone in it, hands out awards and says what nobody says out loud.",
+      "h1": "What does Patrik think of you and your friends?",
+      "sub": "The boys' chat, the girls' chat, the trip that never happened. Patrik reads it all and gives everyone the title they deserve."
     },
     "family": {
-      "metaTitle": "Family WhatsApp group analyzer — Nana Reads",
-      "metaDesc": "Upload your family group chat. Nana finds out who really holds the family together, who never replies, and who sends the good-morning flowers.",
-      "h1": "Your family chat, read by a grandma who's seen it all.",
-      "sub": "Who keeps the family together, who replies only to photos of food, and who is still angry about last Passover. Nana knows."
+      "metaTitle": "Family WhatsApp group analyzer — What Patrik Thinks",
+      "metaDesc": "Upload your family group chat. Patrik finds out who really holds the family together, who never replies, and who sends the good-morning flowers.",
+      "h1": "Your family chat, read by a guy who DJ'd 600 family weddings.",
+      "sub": "Who keeps the family together, who replies only to photos of food, and who is still angry about last Passover. Patrik knows."
     },
     "imessage": {
-      "metaTitle": "iMessage chat analyzer — Nana Reads",
-      "metaDesc": "Export an iMessage conversation from your Mac and let Nana read it. Who cares more, what changed, and what to do next.",
-      "h1": "Upload an iMessage chat. Nana does the rest.",
-      "sub": "Export a conversation from your Mac in a couple of minutes, and Nana will read every blue bubble."
+      "metaTitle": "iMessage chat analyzer — What Patrik Thinks",
+      "metaDesc": "Export an iMessage conversation from your Mac and let Patrik read it. Who cares more, what changed, and what to do next.",
+      "h1": "Upload an iMessage chat. Patrik does the rest.",
+      "sub": "Export a conversation from your Mac in a couple of minutes, and Patrik will read every blue bubble."
     },
     "whatsapp": {
-      "metaTitle": "WhatsApp chat analyzer — Nana Reads",
-      "metaDesc": "Export any WhatsApp chat in two taps. Nana reads every message and writes an honest, funny report about everyone in it.",
-      "h1": "WhatsApp chat analysis, by your nosiest grandma.",
+      "metaTitle": "WhatsApp chat analyzer — What Patrik Thinks",
+      "metaDesc": "Export any WhatsApp chat in two taps. Patrik reads every message and writes an honest, funny report about everyone in it.",
+      "h1": "WhatsApp chat analysis, by a guy with zero filter.",
       "sub": "Two taps to export, one minute to your free preview. Works with private chats and groups of any size."
     }
   },
@@ -229,12 +229,12 @@
         }
       ],
       "headline": "Nine days on read, then 'heyyy how are you 🙂'",
-      "verdict": "Noa answers in three hours, you answer in four minutes. You both know what that means, sweetheart, and neither of you is saying it.",
+      "verdict": "Noa answers in three hours, you answer in four minutes. You both know what that means, and neither of you is saying it.",
       "locked": [
         "Who texts first, and who waits to be texted",
         "Nine days of silence: what actually happened",
         "What's hiding behind Noa's '😅'",
-        "What Nana would do in your place"
+        "What Patrik would do in your place"
       ]
     },
     {
@@ -301,11 +301,11 @@
     }
   ],
   "examples": {
-    "title": "Lines from Nana's reports",
+    "title": "Lines from Patrik's reports",
     "note": "From the example chats above, so nobody's privacy was harmed.",
     "items": [
       "Dan has posted the same poll four times. He is not a trip planner, he is a hostage negotiator.",
-      "You answer in four minutes. Noa answers in three hours. In my day we called that 'a sign'.",
+      "You answer in four minutes. Noa answers in three hours. At weddings we call that 'the slow dance nobody asked for'.",
       "Ben has typed 4,000 words in this group in six years. 3,100 of them were 'ok'.",
       "Mum doesn't need a headcount. Mum needs a hug and a straight answer."
     ]
@@ -316,7 +316,7 @@
     "back": "Back",
     "next": "Continue",
     "context": {
-      "q": "What kind of chat should Nana read?",
+      "q": "What kind of chat should Patrik read?",
       "options": {
         "partner": {
           "t": "Romance",
@@ -352,14 +352,14 @@
       "q": "Upload the chat from {app}",
       "drop": "Tap to choose the exported file",
       "dropHint": ".txt, .zip, .json or .csv — up to 200 MB",
-      "reading": "Nana is reading… {count} messages so far",
+      "reading": "Patrik is reading… {count} messages so far",
       "readingLocal": "This happens on your device. Nothing has been uploaded yet.",
       "uploading": "Uploading securely…",
       "privacy": "Your chat stays private",
       "howTo": "How do I export it?",
       "errors": {
-        "format": "Nana couldn't read that file. Make sure it's the original export (.txt or .zip), not a screenshot.",
-        "few": "That chat is a bit short. Nana needs at least 10 messages to have an opinion.",
+        "format": "Patrik couldn't read that file. Make sure it's the original export (.txt or .zip), not a screenshot.",
+        "few": "That chat is a bit short. Patrik needs at least 10 messages to have an opinion.",
         "big": "That file is over 200 MB. Export without media and try again.",
         "upload": "The upload failed. Check your connection and try again."
       },
@@ -407,22 +407,22 @@
       ],
       "other": [
         "Export the chat as a text, CSV or JSON file",
-        "Upload it here — Nana reads most formats"
+        "Upload it here — Patrik reads most formats"
       ]
     },
     "me": {
       "q": "Which one is you?",
-      "sub": "So Nana can talk to you, not about you.",
+      "sub": "So Patrik can talk to you, not about you.",
       "none": "I'm not in this chat"
     },
     "details": {
-      "q": "Anything Nana should know?",
+      "q": "Anything Patrik should know?",
       "notes": "Optional context (e.g. 'we broke up in March', 'Tom is my brother')",
       "lang": "Write the report in",
-      "heat": "How hard should Nana go?"
+      "heat": "How hard should Patrik go?"
     },
     "email": {
-      "q": "Where should Nana send the report?",
+      "q": "Where should Patrik send the report?",
       "sub": "We'll email you a 6-digit code. No password, no spam.",
       "placeholder": "you@example.com",
       "send": "Send code",
@@ -438,32 +438,32 @@
       }
     },
     "writing": {
-      "t": "Nana is reading your chat",
+      "t": "Patrik is reading your chat",
       "lines": [
-        "Putting her glasses on…",
+        "Putting his headphones on…",
         "Counting who texts first…",
         "Finding the week it all changed…",
         "Underlining the good bits…",
-        "Making tea…"
+        "Picking your soundtrack…"
       ],
       "note": "This takes about a minute. We'll also email you when it's ready."
     },
     "recording": {
       "cta": "Or upload a screen recording",
-      "hint": "Record yourself slowly scrolling the chat from the oldest message to the newest, then upload the video. Nana reads the bubbles.",
+      "hint": "Record yourself slowly scrolling the chat from the oldest message to the newest, then upload the video. Patrik reads the bubbles.",
       "extracting": "Picking the clearest frames… {pct}%",
-      "reading": "Nana is reading the screenshots… this takes 1–2 minutes",
+      "reading": "Patrik is reading the screenshots… this takes 1–2 minutes",
       "errVideo": "That video couldn't be read. Try a normal screen recording (MP4 or MOV).",
-      "errFew": "Nana could only find a few messages. Scroll slower and record a longer stretch of the chat."
+      "errFew": "Patrik could only find a few messages. Scroll slower and record a longer stretch of the chat."
     }
   },
   "report": {
-    "by": "Nana",
-    "tagline": "81. Has read every chat ever written. Still brings soup.",
+    "by": "Patrik",
+    "tagline": "Ex wedding DJ. Zero filter. Strong opinions about your playlist.",
     "share": "Share the report",
     "copied": "Link copied",
     "privacy": "Private and under your control",
-    "cutoff": "The chat was too long to read in one go, so Nana read everything from {date} onwards.",
+    "cutoff": "The chat was too long to read in one go, so Patrik read everything from {date} onwards.",
     "statsTitle": "The numbers",
     "stat": {
       "messages": "Messages",
@@ -484,34 +484,34 @@
     "peopleTitle": "And about each of you",
     "unlock": "Read the full report",
     "unlockNote": "Uses 1 credit · you have {n}",
-    "noCredits": "You're out of credits. Payments open soon — Nana will email you.",
-    "writingFull": "Nana is writing the full report. About 2 minutes — we'll email you too.",
-    "failed": "Something went wrong while Nana was writing. Your credit was refunded. Please try again.",
+    "noCredits": "You're out of credits. Payments open soon — Patrik will email you.",
+    "writingFull": "Patrik is writing the full report. About 2 minutes — we'll email you too.",
+    "failed": "Something went wrong while Patrik was writing. Your credit was refunded. Please try again.",
     "retry": "Try again",
     "peopleSection": "Who's who",
     "glossary": "The dictionary of this chat",
     "awards": "The awards",
     "reactions": "How each of you will react to this",
     "verdict": "The verdict",
-    "advice": "What Nana would do",
-    "askTitle": "Ask Nana something else about this chat",
+    "advice": "What Patrik would do",
+    "askTitle": "Ask Patrik something else about this chat",
     "askPlaceholder": "e.g. Is he losing interest? Who in the group is actually annoyed with me?",
-    "askCta": "Ask Nana · 1 credit",
-    "askExpired": "This chat has been deleted from our servers, so Nana can't answer new questions about it.",
-    "nextTitle": "Which chat should Nana read next?",
+    "askCta": "Ask Patrik · 1 credit",
+    "askExpired": "This chat has been deleted from our servers, so Patrik can't answer new questions about it.",
+    "nextTitle": "Which chat should Patrik read next?",
     "nextCta": "Send another chat",
     "notFound": "This report doesn't exist or was deleted.",
-    "feedback": "Was Nana right?",
+    "feedback": "Was Patrik right?",
     "feedbackYes": "Spot on",
     "feedbackNo": "Not really",
-    "thanks": "Thanks — Nana is taking notes.",
+    "thanks": "Thanks — Patrik is taking notes.",
     "aiNote": "Written by AI for entertainment. It can misread context — don't make big decisions based on it.",
     "toc": "In this report",
     "minRead": "{n} min read",
     "activity": "Activity by month",
     "phrases": "Things you say way too much",
     "shareYou": "Share {name}'s card",
-    "personKicker": "What Nana thinks of {name}",
+    "personKicker": "What Patrik thinks of {name}",
     "readFull": "Read the full report",
     "sendYours": "Get your own chat read"
   },
@@ -535,12 +535,12 @@
     "title": "Questions before you upload",
     "items": [
       {
-        "q": "What is Nana Reads?",
-        "a": "An AI character — Nana — who reads a chat you upload and writes an honest, funny report about everyone in it: the real dynamic, who cares more, what changed, and everyone's role."
+        "q": "What is What Patrik Thinks?",
+        "a": "An AI character — Patrik — who reads a chat you upload and writes an honest, funny report about everyone in it: the real dynamic, who cares more, what changed, and everyone's role."
       },
       {
         "q": "Is it free?",
-        "a": "Your first look is free: Nana's opening, the numbers, and the titles of everything in the full report. The full report uses one credit. There's no subscription."
+        "a": "Your first look is free: Patrik's opening, the numbers, and the titles of everything in the full report. The full report uses one credit. There's no subscription."
       },
       {
         "q": "Which apps work?",
@@ -548,7 +548,7 @@
       },
       {
         "q": "Is my chat private?",
-        "a": "Nana counts your messages inside your browser first. The upload is encrypted, never shared with anyone in the chat, never sold, and never used to train AI. It's deleted automatically 48 hours after upload if you don't order a report, or 7 days after your latest report."
+        "a": "Patrik counts your messages inside your browser first. The upload is encrypted, never shared with anyone in the chat, never sold, and never used to train AI. It's deleted automatically 48 hours after upload if you don't order a report, or 7 days after your latest report."
       },
       {
         "q": "Will people in the chat know?",
@@ -556,14 +556,14 @@
       },
       {
         "q": "Which languages?",
-        "a": "Your chat can be in any language or a mix. Reports are written in 24 languages, and Nana uses the chat's own slang."
+        "a": "Your chat can be in any language or a mix. Reports are written in 36 languages, and Patrik uses the chat's own slang."
       },
       {
         "q": "How long does it take?",
         "a": "The preview takes about a minute. The full report about two minutes. We email you when it's ready, so you don't have to wait on the page."
       },
       {
-        "q": "Can I ask Nana more?",
+        "q": "Can I ask Patrik more?",
         "a": "Yes. Under every report you can ask a follow-up question about the same chat. Each answer is a new, deeper report."
       },
       {
@@ -572,7 +572,7 @@
       },
       {
         "q": "Is it accurate?",
-        "a": "The numbers are counted exactly from your export. The opinions are Nana's — AI can misread context, so treat it as entertainment, not advice."
+        "a": "The numbers are counted exactly from your export. The opinions are Patrik's — AI can misread context, so treat it as entertainment, not advice."
       },
       {
         "q": "Who is it for?",
@@ -581,17 +581,17 @@
     ]
   },
   "about": {
-    "title": "About Nana Reads",
+    "title": "About What Patrik Thinks",
     "body": [
-      "Nana Reads is a small independent studio project. We built a character we wished existed: a grandmother who has read every chat in the world, loves you, and tells you the truth anyway.",
-      "Nana reads WhatsApp, Telegram, LINE, KakaoTalk, iMessage, Instagram and Messenger chats and writes in 24 languages.",
+      "What Patrik Thinks is a small independent studio project. We built the character we wished existed: Patrik, a wedding DJ who spent twelve years watching couples, families and friend groups from behind the decks — and now reads your chats and tells you the truth.",
+      "Patrik reads WhatsApp, Telegram, LINE, KakaoTalk, iMessage, Instagram and Messenger chats and writes in 36 languages.",
       "We care about privacy more than anyone in this category: your chat is counted in your browser first, deleted automatically, and never used to train AI."
     ],
     "factsTitle": "Key facts",
     "facts": [
       [
         "Name",
-        "Nana Reads"
+        "What Patrik Thinks"
       ],
       [
         "What it is",
@@ -599,7 +599,7 @@
       ],
       [
         "Languages",
-        "24"
+        "36"
       ],
       [
         "Pricing",
@@ -620,8 +620,8 @@
     "sent": "Got it. We'll reply by email."
   },
   "feedback": {
-    "title": "Tell Nana what you think",
-    "sub": "Ideas, complaints, compliments for Nana. We read everything.",
+    "title": "Tell Patrik what you think",
+    "sub": "Ideas, complaints, compliments for Patrik. We read everything.",
     "placeholder": "Your feedback",
     "send": "Send",
     "sent": "Thank you!"
@@ -629,7 +629,7 @@
   "footer": {
     "chats": "Chats",
     "help": "Help",
-    "company": "Nana Reads",
+    "company": "What Patrik Thinks",
     "links": {
       "home": "Home",
       "relationship": "Relationship chats",
@@ -645,7 +645,7 @@
       "terms": "Terms",
       "about": "About"
     },
-    "rights": "© {year} Nana Reads. For entertainment only."
+    "rights": "© {year} What Patrik Thinks. For entertainment only."
   },
   "legal": {
     "englishOnly": "This page is shown in English. The English version is the binding one.",

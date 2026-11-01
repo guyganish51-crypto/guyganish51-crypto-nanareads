@@ -5,7 +5,7 @@ import { href } from "@/lib/site";
 import { Header } from "./Header";
 import { Footer } from "./Footer";
 import { DemoPicker } from "./DemoPicker";
-import { NanaAvatar } from "./NanaAvatar";
+import { Avatar } from "./Avatar";
 import { AppBadge, APP_KEYS, appLabel } from "./AppIcons";
 import { Arrow } from "@/components/Arrow";
 
@@ -18,7 +18,7 @@ export function Landing({ lang, t, h1, sub, from }: { lang: Locale; t: Dict; h1:
       <Header lang={lang} t={t} />
       <main className="mx-auto max-w-5xl px-4">
         <section className="flex flex-col items-center pt-10 text-center sm:pt-16">
-          <NanaAvatar size={112} className="rise" />
+          <Avatar size={112} className="rise" />
           <p className="mt-4 text-sm font-medium text-ink-soft">{H.eyebrow}</p>
           <h1 className="font-display mt-2 max-w-3xl text-4xl font-bold leading-[1.05] tracking-tight sm:text-6xl">{h1}</h1>
           <p className="mt-4 max-w-2xl text-lg text-ink-soft">{sub}</p>
@@ -70,7 +70,7 @@ export function Landing({ lang, t, h1, sub, from }: { lang: Locale; t: Dict; h1:
           <div className="grid gap-4 sm:grid-cols-3">
             {(["gentle", "spicy", "savage"] as const).map((k, i) => (
               <div key={k} className="card p-5 text-center">
-                <div className="text-3xl">{["🫖", "🌶️", "🔥"][i]}</div>
+                <div className="text-3xl">{["🥂", "🌶️", "🔥"][i]}</div>
                 <h3 className="mt-2 text-lg font-semibold">{H.heat[k].t}</h3>
                 <p className="mt-1 text-sm text-ink-soft">{H.heat[k].d}</p>
               </div>
@@ -84,7 +84,7 @@ export function Landing({ lang, t, h1, sub, from }: { lang: Locale; t: Dict; h1:
           <div className="grid gap-4 sm:grid-cols-2">
             {t.examples.items.map((x, i) => (
               <blockquote key={i} className="card flex gap-3 p-5">
-                <NanaAvatar size={32} className="shrink-0" />
+                <Avatar size={32} className="shrink-0" />
                 <p className="font-display text-lg leading-snug">“{x}”</p>
               </blockquote>
             ))}

@@ -11,7 +11,7 @@ import { computeStats } from "@/lib/chat/stats";
 import type { ParsedChat } from "@/lib/chat/types";
 import { extractFrames } from "@/lib/chat/frames";
 import { supabaseBrowser } from "@/lib/supabase/client";
-import { NanaAvatar } from "./NanaAvatar";
+import { Avatar } from "./Avatar";
 import { AppBadge, APP_KEYS, appLabel } from "./AppIcons";
 import { Arrow } from "@/components/Arrow";
 
@@ -275,7 +275,7 @@ export function StartFlow({ lang, t }: { lang: Locale; t: Dict }) {
             className="card flex w-full flex-col items-center gap-2 border-dashed p-10 text-center">
             {busy ? (
               <>
-                <NanaAvatar size={64} className="animate-bounce" />
+                <Avatar size={64} className="animate-bounce" />
                 <span className="text-lg font-semibold">{busy === "read" ? fmt(F.upload.reading, { count: "…" }) : busy === "frames" ? fmt(F.recording.extracting, { pct }) : busy === "vision" ? F.recording.reading : F.upload.uploading}</span>
                 <span className="text-sm text-ink-soft">{F.upload.readingLocal}</span>
               </>
@@ -339,7 +339,7 @@ export function StartFlow({ lang, t }: { lang: Locale; t: Dict }) {
             <div className="grid grid-cols-3 gap-2">
               {(["gentle", "spicy", "savage"] as const).map((h, i) => (
                 <button key={h} onClick={() => setHeat(h)} className={`card p-3 text-center ${heat === h ? "!bg-butter" : ""}`} aria-pressed={heat === h}>
-                  <div className="text-2xl">{["🫖", "🌶️", "🔥"][i]}</div>
+                  <div className="text-2xl">{["🥂", "🌶️", "🔥"][i]}</div>
                   <div className="font-semibold">{t.home.heat[h].t}</div>
                 </button>
               ))}
@@ -391,7 +391,7 @@ export function WritingScreen({ t }: { t: Dict }) {
   useEffect(() => { const id = setInterval(() => setI((x) => (x + 1) % lines.length), 2600); return () => clearInterval(id); }, [lines.length]);
   return (
     <section className="rise flex flex-col items-center py-16 text-center">
-      <NanaAvatar size={120} className="animate-pulse" />
+      <Avatar size={120} className="animate-pulse" />
       <h1 className="font-display mt-6 text-3xl font-bold">{t.flow.writing.t}</h1>
       <p key={i} className="rise mt-3 text-lg">{lines[i]}</p>
       <p className="mt-6 max-w-sm text-sm text-ink-soft">{t.flow.writing.note}</p>

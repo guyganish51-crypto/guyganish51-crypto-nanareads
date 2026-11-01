@@ -1,10 +1,10 @@
 {
-  "previewReady": { "subject": "Nana finished reading 🫖", "pre": "Inside: {names}", "h": "I've read your chat.", "body": "Here's what I wrote about each of you:", "more": "…and more", "cta": "Read my preview" },
-  "nudge": { "subject": "{title}", "pre": "Most of it is still locked.", "h": "Your report is waiting", "body": "You've read the opening. Here's what's still inside:", "cta": "Read the full report", "credit": "You still have a free credit — it's on Nana." },
-  "hook": { "pre": "Last reminder about your report.", "h": "One last thing before I put the kettle away", "body": "{title}", "cta": "Open the full report", "ps": "P.S. Read it, drop it in the chat, and watch who replies first 👀" },
+  "previewReady": { "subject": "Patrik finished reading 🎧", "pre": "Inside: {names}", "h": "I've read your chat.", "body": "Here's what I wrote about each of you:", "more": "…and more", "cta": "Read my preview" },
+  "nudge": { "subject": "{title}", "pre": "Most of it is still locked.", "h": "Your report is waiting", "body": "You've read the opening. Here's what's still inside:", "cta": "Read the full report", "credit": "You still have a free credit — this round's on me." },
+  "hook": { "pre": "Last reminder about your report.", "h": "Last song before I pack up the decks", "body": "{title}", "cta": "Open the full report", "ps": "P.S. Read it, drop it in the chat, and watch who replies first 👀" },
   "fullReady": { "subject": "Your full report is ready ✍️", "pre": "{title}", "h": "Done. Every word of it.", "cta": "Read it now", "ps": "P.S. Share it with the chat. I dare you." },
-  "next": { "subject": "That was just the warm-up 👀", "pre": "Now send me the chat you actually think about.", "h": "Which chat do you really want me to read?", "body": "The one you reread at 2 a.m. The ex. The situationship. Your mother.", "cta": "Send Nana another chat" },
-  "footer": "You're getting this because you asked Nana to read a chat.",
+  "next": { "subject": "That was just the warm-up set 👀", "pre": "Now send me the chat you actually think about.", "h": "Which chat do you really want me to read?", "body": "The one you reread at 2 a.m. The ex. The situationship. Your mother.", "cta": "Send Patrik another chat" },
+  "footer": "You're getting this because you asked Patrik to read a chat.",
   "unsubscribe": "Unsubscribe",
-  "sign": "— Nana"
+  "sign": "— Patrik"
 }

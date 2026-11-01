@@ -5,7 +5,7 @@ import { pageCtx } from "@/lib/server/page";
 import { supabaseAdmin } from "@/lib/supabase/server";
 import { Header } from "@/components/Header";
 import { Footer } from "@/components/Footer";
-import { NanaAvatar } from "@/components/NanaAvatar";
+import { Avatar } from "@/components/Avatar";
 import { Arrow } from "@/components/Arrow";
 import { fmt } from "@/lib/fmt";
 import type { Block } from "@/lib/ai/schema";
@@ -49,7 +49,7 @@ export default async function PersonPage({ params }: PageProps<"/[lang]/r/[id]/p
       <main className="mx-auto max-w-xl px-4 pt-10">
         <p className="text-sm font-semibold text-tomato-dark" dir="auto">{fmt(R.personKicker, { name: r.person.name })}</p>
         <div className="card mt-3 p-6">
-          <div className="flex items-center gap-3"><NanaAvatar size={56} /><div><h1 className="font-display text-3xl font-bold" dir="auto">{r.person.name}</h1><p className="font-medium" dir="auto">{r.person.title}</p></div></div>
+          <div className="flex items-center gap-3"><Avatar size={56} /><div><h1 className="font-display text-3xl font-bold" dir="auto">{r.person.name}</h1><p className="font-medium" dir="auto">{r.person.title}</p></div></div>
           {firstPara && <p className="mt-5 text-lg leading-relaxed" dir="auto">{firstPara}</p>}
           <p className="mt-5 text-sm text-ink-soft" dir="auto">📖 {r.title}</p>
         </div>

@@ -1,6 +1,6 @@
-# Nana Reads
+# What Patrik Thinks
 
-AI chat reports: upload a WhatsApp / Telegram / LINE / KakaoTalk / iMessage export, Nana (an 81-year-old grandma persona) writes an honest, funny report.
+AI chat reports: upload a WhatsApp / Telegram / LINE / KakaoTalk / iMessage export, Patrik (an ex wedding-DJ persona) writes an honest, funny report.
 
 ## Stack
 - Next.js 16 (App Router, `src/proxy.ts` for locale routing), Tailwind 4
@@ -14,7 +14,7 @@ AI chat reports: upload a WhatsApp / Telegram / LINE / KakaoTalk / iMessage expo
 | Name | Required | Notes |
 | --- | --- | --- |
 | `SUPABASE_SECRET_KEY` | yes | Supabase → Project settings → API keys → service_role / secret key |
-| `NEXT_PUBLIC_SITE_URL` | yes in prod | e.g. `https://nanareads.app` |
+| `NEXT_PUBLIC_SITE_URL` | yes in prod | e.g. `https://whatpatrikthink.com` |
 | `RESEND_API_KEY` | later | enables report/funnel emails |
 | `CRON_SECRET` | optional | Vercel sends it to cron routes automatically |
 | `PREVIEW_MODEL`, `REPORT_MODEL`, `TRANSCRIPT_CHAR_BUDGET` | optional | tuning |

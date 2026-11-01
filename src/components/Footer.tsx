@@ -4,7 +4,7 @@ import { fmt } from "@/lib/fmt";
 import type { Dict } from "@/lib/i18n/dictionaries";
 import type { Locale } from "@/lib/i18n/config";
 import { LanguageSwitcher } from "./LanguageSwitcher";
-import { NanaAvatar } from "./NanaAvatar";
+import { Avatar } from "./Avatar";
 
 export function Footer({ lang, t }: { lang: Locale; t: Dict }) {
   const L = t.footer.links;
@@ -22,7 +22,7 @@ export function Footer({ lang, t }: { lang: Locale; t: Dict }) {
     <footer className="mt-20 border-t-2 border-ink bg-paper">
       <div className="mx-auto grid max-w-5xl gap-8 px-4 py-10 sm:grid-cols-4">
         <div className="space-y-3">
-          <div className="flex items-center gap-2"><NanaAvatar size={34} /><span className="font-display text-lg font-bold">{t.meta.siteName}</span></div>
+          <div className="flex items-center gap-2"><Avatar size={34} /><span className="font-display text-lg font-bold">{t.meta.siteName}</span></div>
           <LanguageSwitcher lang={lang} label={t.nav.language} />
         </div>
         {col(t.footer.chats, [[L.home, ""], [L.relationship, "/relationship"], [L.friends, "/friends"], [L.family, "/family"], [L.whatsapp, "/whatsapp"], [L.imessage, "/imessage"]])}

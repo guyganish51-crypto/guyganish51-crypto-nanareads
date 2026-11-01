@@ -21,7 +21,7 @@ const fonts = (async () => {
 export async function GET(req: Request, ctx: RouteContext<"/api/og/[id]">) {
   const { id } = await ctx.params;
   const pIdx = new URL(req.url).searchParams.get("p");
-  let title = "Nana Reads", sub = "Send Nana your chat. She'll tell you what's really going on.", kicker = "";
+  let title = "What Patrik Thinks", sub = "Send Patrik your chat. He'll tell you what's really going on.", kicker = "";
   try {
     if (/^[0-9a-f-]{36}$/.test(id)) {
       const { data } = await supabaseAdmin().from("reports").select("title, preview, content, unlocked").eq("id", id).maybeSingle();
@@ -39,7 +39,7 @@ export async function GET(req: Request, ctx: RouteContext<"/api/og/[id]">) {
   }
   const all = `${title} ${sub} ${kicker}`;
   const shaped = needsShaping(all);
-  if (shaped) { title = "Nana Reads"; sub = "nanareads.app"; kicker = ""; }
+  if (shaped) { title = "What Patrik Thinks"; sub = "whatpatrikthink.com"; kicker = ""; }
   const rtl = isHebrew(all);
   const titleLines = wrap(title, kicker ? 22 : 30).slice(0, 3).map((l) => visualLine(l, rtl));
   const subLines = wrap(sub, 48).slice(0, 3).map((l) => visualLine(l, rtl));
@@ -48,7 +48,7 @@ export async function GET(req: Request, ctx: RouteContext<"/api/og/[id]">) {
   return new ImageResponse(
     (
       <div style={{ width: "100%", height: "100%", display: "flex", flexDirection: rtl ? "row-reverse" : "row", background: "#fbf4e9", padding: 64, gap: 48, fontFamily: "Rubik", alignItems: "center" }}>
-        <div style={{ display: "flex", flexDirection: "column", width: 230, height: 230, borderRadius: 999, background: "#f6d776", border: "7px solid #221b16", alignItems: "center", justifyContent: "center", flexShrink: 0 }}>
+        <div style={{ display: "flex", flexDirection: "column", width: 230, height: 230, borderRadius: 999, background: "#a8dadc", border: "7px solid #221b16", alignItems: "center", justifyContent: "center", flexShrink: 0 }}>
           <div style={{ display: "flex", gap: 10 }}>
             <div style={{ width: 50, height: 50, borderRadius: 99, background: "#fff", border: "6px solid #221b16" }} />
             <div style={{ width: 50, height: 50, borderRadius: 99, background: "#fff", border: "6px solid #221b16" }} />
@@ -61,7 +61,7 @@ export async function GET(req: Request, ctx: RouteContext<"/api/og/[id]">) {
           <div style={{ display: "flex", flexDirection: "column", marginTop: 22, alignItems: align }}>
             {subLines.map((l, i) => <div key={i} style={{ fontSize: 34, fontWeight: 400, color: "#5b5149", lineHeight: 1.3 }}>{l}</div>)}
           </div>
-          <div style={{ display: "flex", marginTop: 30, background: "#e4572e", color: "#fff", fontSize: 28, fontWeight: 700, padding: "12px 28px", borderRadius: 999, border: "5px solid #221b16" }}>Nana Reads · nanareads.app</div>
+          <div style={{ display: "flex", marginTop: 30, background: "#e4572e", color: "#fff", fontSize: 28, fontWeight: 700, padding: "12px 28px", borderRadius: 999, border: "5px solid #221b16" }}>whatpatrikthink.com</div>
         </div>
       </div>
     ),

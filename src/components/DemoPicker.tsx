@@ -1,7 +1,7 @@
 "use client";
 import { useState } from "react";
 import type { Dict } from "@/lib/i18n/dictionaries";
-import { NanaAvatar } from "./NanaAvatar";
+import { Avatar } from "./Avatar";
 
 type Demo = Dict["demos"][number];
 
@@ -42,7 +42,7 @@ export function DemoPicker({ demos, lockedLabel, byLabel, hint }: { demos: Demo[
           </div>
           <h3 className="font-display text-2xl font-bold leading-tight">{d.headline}</h3>
           <div className="flex gap-3">
-            <NanaAvatar size={36} className="shrink-0" />
+            <Avatar size={36} className="shrink-0" />
             <p className="leading-relaxed"><span className="text-xs font-semibold text-ink-soft">{byLabel} · </span>{d.verdict}</p>
           </div>
           <div>

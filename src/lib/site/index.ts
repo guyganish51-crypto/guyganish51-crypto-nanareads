@@ -1,6 +1,6 @@
 import { locales } from "@/lib/i18n/config";
 
-export const SITE_URL = process.env.NEXT_PUBLIC_SITE_URL ?? "https://nanareads.app";
+export const SITE_URL = process.env.NEXT_PUBLIC_SITE_URL ?? "https://whatpatrikthink.com";
 export const href = (lang: string, path = "") => `/${lang}${path ? (path.startsWith("/") ? path : `/${path}`) : ""}`;
 
 export function alternates(path = "") {

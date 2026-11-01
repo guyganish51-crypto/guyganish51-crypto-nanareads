@@ -8,8 +8,8 @@ export type Block = z.infer<typeof Block>;
 
 export const PreviewSchema = z.object({
   title: z.string().describe("One-line headline for the report: names the chat and three absurd-but-true specifics from it, ends with 1-2 emoji"),
-  opening: z.string().describe("Nana's opening, 90-140 words, first person, sets up the chat with concrete details. This part is free to read."),
-  verdict_teaser: z.string().describe("One sentence teasing Nana's final verdict without giving it away"),
+  opening: z.string().describe("Patrik's opening, 90-140 words, first person, sets up the chat with concrete details. This part is free to read."),
+  verdict_teaser: z.string().describe("One sentence teasing Patrik's final verdict without giving it away"),
   sections: z.array(z.object({ emoji: z.string(), heading: z.string() })).min(4).max(7)
     .describe("Headings of the full report's sections, each naming a specific person/event from the chat"),
   people: z.array(z.object({ name: z.string(), title: z.string().describe("funny 3-7 word epithet + 1 emoji") })).max(12),
@@ -40,6 +40,6 @@ export const ReportSchema = z.object({
     heart: z.string().describe("One paragraph on what genuinely holds them together, specific and warm"),
     last_line: z.string().describe("A final one-liner aimed at one specific person"),
   }),
-  advice: z.string().nullable().describe("For two-person chats: what Nana would actually do in the user's place. Null for groups."),
+  advice: z.string().nullable().describe("For two-person chats: what Patrik would actually do in the user's place. Null for groups."),
 });
 export type Report = z.infer<typeof ReportSchema>;
