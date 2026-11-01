@@ -1,6 +1,6 @@
 {
   "previewReady": {
-    "subject": "Nana har läst klart 🫖",
+    "subject": "Patrik har läst klart 🎧",
     "pre": "Med: {names}",
     "h": "Jag har läst er chatt.",
     "body": "Så här skrev jag om var och en av er:",
@@ -13,11 +13,11 @@
     "h": "Din rapport väntar",
     "body": "Du har läst början. Det här finns kvar:",
     "cta": "Läs hela rapporten",
-    "credit": "Du har en gratis kredit kvar — Nana bjuder."
+    "credit": "Du har en gratis kredit kvar — den här rundan bjuder jag på."
   },
   "hook": {
     "pre": "Sista påminnelsen om din rapport.",
-    "h": "En sista sak innan jag ställer undan vattenkokaren",
+    "h": "Sista låten innan jag packar ihop skivspelarna",
     "body": "{title}",
     "cta": "Öppna hela rapporten",
     "ps": "PS. Läs den, släng in den i chatten och se vem som svarar först 👀"
@@ -30,13 +30,13 @@
     "ps": "PS. Dela den i chatten. Jag utmanar dig."
   },
   "next": {
-    "subject": "Det där var bara uppvärmningen 👀",
+    "subject": "Det där var bara uppvärmningssetet 👀",
     "pre": "Skicka nu chatten du faktiskt tänker på.",
     "h": "Vilken chatt vill du egentligen att jag läser?",
     "body": "Den du läser om klockan två på natten. Ditt ex. Det där odefinierade. Din mamma.",
-    "cta": "Skicka en till chatt till Nana"
+    "cta": "Skicka en till chatt till Patrik"
   },
-  "footer": "Du får det här mejlet för att du bad Nana läsa en chatt.",
+  "footer": "Du får det här mejlet för att du bad Patrik läsa en chatt.",
   "unsubscribe": "Avsluta prenumeration",
-  "sign": "— Nana"
+  "sign": "— Patrik"
 }

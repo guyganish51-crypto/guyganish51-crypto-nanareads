@@ -1,9 +1,9 @@
 {
   "previewReady": {
-    "subject": "Nana je pročitala ☕",
+    "subject": "Patrik je pročitao 🎧",
     "pre": "Unutra: {names}",
-    "h": "Pročitala sam tvoj chat.",
-    "body": "Evo što sam napisala o svakome od vas:",
+    "h": "Pročitao sam tvoj chat.",
+    "body": "Evo što sam napisao o svakome od vas:",
     "more": "…i još puno toga",
     "cta": "Pročitaj moj pregled"
   },
@@ -13,11 +13,11 @@
     "h": "Tvoj izvještaj čeka",
     "body": "Uvod je pročitan. Evo što je još unutra:",
     "cta": "Pročitaj cijeli izvještaj",
-    "credit": "Još imaš besplatni kredit — Nana časti."
+    "credit": "Još imaš besplatni kredit — ovu rundu častim ja."
   },
   "hook": {
     "pre": "Zadnji podsjetnik za tvoj izvještaj.",
-    "h": "Još jedna stvar prije nego što maknem džezvu",
+    "h": "Zadnja pjesma prije nego što spakiram pult",
     "body": "{title}",
     "cta": "Otvori cijeli izvještaj",
     "ps": "P.S. Pročitaj ga, ubaci ga u chat i gledaj tko će prvi odgovoriti 👀"
@@ -30,13 +30,13 @@
     "ps": "P.S. Podijeli ga u chatu. Ako se usudiš."
   },
   "next": {
-    "subject": "To je bilo samo zagrijavanje 👀",
+    "subject": "To je bio samo set za zagrijavanje 👀",
     "pre": "Sad mi pošalji chat o kojem stvarno razmišljaš.",
     "h": "Koji chat stvarno želiš da pročitam?",
     "body": "Onaj koji iznova čitaš u 2 ujutro. S bivšim. Sa situationshipom. S mamom.",
-    "cta": "Pošalji Nani još jedan chat"
+    "cta": "Pošalji Patriku još jedan chat"
   },
-  "footer": "Ovo primaš jer je Nana na tvoj zahtjev pročitala chat.",
+  "footer": "Ovo primaš jer je Patrik na tvoj zahtjev pročitao chat.",
   "unsubscribe": "Odjavi se",
-  "sign": "— Nana"
+  "sign": "— Patrik"
 }

@@ -1,21 +1,21 @@
 {
   "meta": {
-    "siteName": "Nana Reads",
-    "title": "Nana Reads — chattisi maailman uteliaimman mummon luettavana",
-    "description": "Lataa WhatsApp-, Telegram-, LINE- tai iMessage-keskustelu. Nana lukee jokaisen viestin ja kertoo, mitä oikeasti on meneillään, kumpi välittää enemmän ja mitä kaikki ajattelevat toisistaan."
+    "siteName": "What Patrik Thinks",
+    "title": "What Patrik Thinks — chattisi luettavana tyypille, jolla ei ole mitään filtteriä",
+    "description": "Lataa WhatsApp-, Telegram-, LINE- tai iMessage-keskustelu. Patrik lukee jokaisen viestin ja kertoo, mitä oikeasti on meneillään, kumpi välittää enemmän ja mitä hän rehellisesti ajattelee jokaisesta."
   },
   "nav": {
-    "cta": "Lähetä Nanalle chatti",
+    "cta": "Lähetä Patrikille chatti",
     "account": "Omat chatit",
     "language": "Kieli"
   },
   "home": {
-    "eyebrow": "81-vuotias. Lukenut jokaisen koskaan kirjoitetun chatin.",
-    "h1": "Lähetä Nanalle chattisi. Hän kertoo, mitä oikeasti on meneillään.",
-    "sub": "Nana lukee ihan jokaisen viestin, laskee senkin, mitä et toivoisi hänen laskevan, ja kirjoittaa rehellisen ja tosi hauskan raportin kaikista mukana olevista.",
-    "cta": "Lähetä Nanalle chatti",
+    "eyebrow": "12 vuotta hää-DJ:nä. Nähnyt kaiken. Sanoo kaiken.",
+    "h1": "Lähetä Patrikille chattisi. Hän kertoo, mitä oikeasti on meneillään.",
+    "sub": "Patrik lukee ihan jokaisen viestin, laskee senkin, mitä et toivoisi hänen laskevan, ja kirjoittaa rehellisen ja tosi hauskan raportin kaikista mukana olevista.",
+    "cta": "Lähetä Patrikille chatti",
     "ctaNote": "Ilmainen esikatselu · ei korttia · poistuu automaattisesti",
-    "demoTitle": "Valitse chatti ja katso, mitä Nana näkee",
+    "demoTitle": "Valitse chatti ja katso, mitä Patrik näkee",
     "demoHint": "Nämä ovat keksittyjä chatteja. Sinun on pahempi.",
     "howTitle": "Näin se toimii",
     "how": [
@@ -24,7 +24,7 @@
         "d": "Kaksi napautusta WhatsAppissa, Telegramissa, LINEssa tai KakaoTalkissa. Näytämme tarkalleen miten."
       },
       {
-        "t": "Nana lukee kaiken",
+        "t": "Patrik lukee kaiken",
         "d": "Jokaisen viestin, jokaisen ääniviestiselityksen, jokaisen sängystä lähetetyn ”oon tulossa”."
       },
       {
@@ -32,10 +32,10 @@
         "d": "Ilmainen esikatselu minuutissa. Koko raportti tulee sähköpostiisi — jaa se chattiin, jos uskallat."
       }
     ],
-    "findsTitle": "Mitä Nana löytää",
+    "findsTitle": "Mitä Patrik löytää",
     "finds": [
       {
-        "e": "🫖",
+        "e": "🎧",
         "t": "Kuka oikeasti välittää",
         "d": "Kuka aloittaa keskustelut, kuka vastaa 4 minuutissa ja kuka 4 tunnissa."
       },
@@ -62,11 +62,11 @@
       "Ei koskaan myydä, ei koskaan jaeta, ei koskaan käytetä tekoälyn kouluttamiseen."
     ],
     "worksWith": "Toimii näiden kanssa",
-    "heatTitle": "Valitse, kuinka kovaa Nana menee",
+    "heatTitle": "Valitse, kuinka kovaa Patrik menee",
     "heat": {
       "gentle": {
         "t": "Lempeä",
-        "d": "Syntymäpäiväkortti-mummo. Kiusoittelua, ei mitään, mikä kirpaisee."
+        "d": "Suloista hääpuhe-energiaa. Kiusoittelua, ei mitään, mikä kirpaisee."
       },
       "spicy": {
         "t": "Tulinen",
@@ -78,37 +78,37 @@
       }
     },
     "finalH": "Sinun chattisi on seuraava.",
-    "finalSub": "Nana keittää jo kahvit."
+    "finalSub": "Patrik valitsee jo soundtrackia."
   },
   "landing": {
     "relationship": {
-      "metaTitle": "Tykkääkö hän sinusta oikeasti? Tekoäly analysoi chattisi — Nana Reads",
-      "metaDesc": "Lataa chatti ihastuksesi, kumppanisi, säätösi tai exäsi kanssa. Nana lukee jokaisen viestin ja kertoo, kumpi välittää enemmän ja mikä muuttui.",
-      "h1": "Tykkääkö hän sinusta oikeasti? Nana kertoo.",
-      "sub": "Lähetä chatti ihastuksesi, kumppanisi, säätösi tai exäsi kanssa. Nana laskee, kuka viestii ensin, kuka odottaa ja milloin jokin muuttui."
+      "metaTitle": "Tykkääkö hän sinusta oikeasti? Tekoäly analysoi chattisi — What Patrik Thinks",
+      "metaDesc": "Lataa chatti ihastuksesi, kumppanisi, säätösi tai exäsi kanssa. Patrik lukee jokaisen viestin ja kertoo, kumpi välittää enemmän ja mikä muuttui.",
+      "h1": "Tykkääkö hän sinusta oikeasti? Patrik kertoo.",
+      "sub": "Lähetä chatti ihastuksesi, kumppanisi, säätösi tai exäsi kanssa. Patrik laskee, kuka viestii ensin, kuka odottaa ja milloin jokin muuttui."
     },
     "friends": {
-      "metaTitle": "Ryhmächatin analyysi ja kaveriporukan roustaus — Nana Reads",
-      "metaDesc": "Lataa kaveriporukan ryhmächatti. Nana roustaa jokaisen, jakaa palkinnot ja sanoo ääneen sen, mitä kukaan ei sano.",
-      "h1": "Mitä Nana ajattelee sinusta ja kavereistasi?",
-      "sub": "Jätkien chatti, tyttöjen chatti, se reissu, joka ei koskaan toteutunut. Nana lukee kaiken ja antaa jokaiselle tittelin, jonka tämä ansaitsee."
+      "metaTitle": "Ryhmächatin analyysi ja kaveriporukan roustaus — What Patrik Thinks",
+      "metaDesc": "Lataa kaveriporukan ryhmächatti. Patrik roustaa jokaisen, jakaa palkinnot ja sanoo ääneen sen, mitä kukaan ei sano.",
+      "h1": "Mitä Patrik ajattelee sinusta ja kavereistasi?",
+      "sub": "Jätkien chatti, tyttöjen chatti, se reissu, joka ei koskaan toteutunut. Patrik lukee kaiken ja antaa jokaiselle tittelin, jonka tämä ansaitsee."
     },
     "family": {
-      "metaTitle": "Perheen WhatsApp-ryhmän analyysi — Nana Reads",
-      "metaDesc": "Lataa perheen ryhmächatti. Nana selvittää, kuka oikeasti pitää perheen koossa, kuka ei ikinä vastaa ja kuka lähettää ne huomenta-kukat.",
-      "h1": "Perheesi chatti mummon luettavana — ja tämä mummo on nähnyt kaiken.",
-      "sub": "Kuka pitää perheen koossa, kuka vastaa vain ruokakuviin ja kuka on yhä nyrpeänä viime joulusta. Nana tietää."
+      "metaTitle": "Perheen WhatsApp-ryhmän analyysi — What Patrik Thinks",
+      "metaDesc": "Lataa perheen ryhmächatti. Patrik selvittää, kuka oikeasti pitää perheen koossa, kuka ei ikinä vastaa ja kuka lähettää ne huomenta-kukat.",
+      "h1": "Perheesi chatti sellaisen tyypin luettavana, joka on ollut DJ:nä 600 perheen häissä.",
+      "sub": "Kuka pitää perheen koossa, kuka vastaa vain ruokakuviin ja kuka on yhä nyrpeänä viime joulusta. Patrik tietää."
     },
     "imessage": {
-      "metaTitle": "iMessage-chatin analyysi — Nana Reads",
-      "metaDesc": "Vie iMessage-keskustelu Macilta ja anna Nanan lukea se. Kumpi välittää enemmän, mikä muuttui ja mitä seuraavaksi.",
-      "h1": "Lataa iMessage-chatti. Nana hoitaa loput.",
-      "sub": "Vie keskustelu Macilta parissa minuutissa, niin Nana lukee jokaisen sinisen kuplan."
+      "metaTitle": "iMessage-chatin analyysi — What Patrik Thinks",
+      "metaDesc": "Vie iMessage-keskustelu Macilta ja anna Patrikin lukea se. Kumpi välittää enemmän, mikä muuttui ja mitä seuraavaksi.",
+      "h1": "Lataa iMessage-chatti. Patrik hoitaa loput.",
+      "sub": "Vie keskustelu Macilta parissa minuutissa, niin Patrik lukee jokaisen sinisen kuplan."
     },
     "whatsapp": {
-      "metaTitle": "WhatsApp-chatin analyysi — Nana Reads",
-      "metaDesc": "Vie mikä tahansa WhatsApp-chatti kahdella napautuksella. Nana lukee jokaisen viestin ja kirjoittaa rehellisen, hauskan raportin kaikista mukana olevista.",
-      "h1": "WhatsApp-chatin analyysi uteliaimman mummosi tekemänä.",
+      "metaTitle": "WhatsApp-chatin analyysi — What Patrik Thinks",
+      "metaDesc": "Vie mikä tahansa WhatsApp-chatti kahdella napautuksella. Patrik lukee jokaisen viestin ja kirjoittaa rehellisen, hauskan raportin kaikista mukana olevista.",
+      "h1": "WhatsApp-chatin analyysi tyypiltä, jolla ei ole mitään filtteriä.",
       "sub": "Kaksi napautusta vientiin, minuutti ilmaiseen esikatseluun. Toimii yksityischateissa ja kaikenkokoisissa ryhmissä."
     }
   },
@@ -229,12 +229,12 @@
         }
       ],
       "headline": "Yhdeksän päivää luettuna, sitten ”moiii mitä kuuluu 🙂”",
-      "verdict": "Emma vastaa kolmessa tunnissa, sinä neljässä minuutissa. Te molemmat tiedätte, mitä se tarkoittaa, kultaseni, eikä kumpikaan teistä sano sitä ääneen.",
+      "verdict": "Emma vastaa kolmessa tunnissa, sinä neljässä minuutissa. Te molemmat tiedätte, mitä se tarkoittaa, eikä kumpikaan teistä sano sitä ääneen.",
       "locked": [
         "Kuka viestii ensin ja kuka odottaa viestiä",
         "Yhdeksän päivää hiljaisuutta: mitä oikeasti tapahtui",
         "Mitä Emman ”😅” kätkee",
-        "Mitä Nana tekisi sinun sijassasi"
+        "Mitä Patrik tekisi sinun sijassasi"
       ]
     },
     {
@@ -301,11 +301,11 @@
     }
   ],
   "examples": {
-    "title": "Poimintoja Nanan raporteista",
+    "title": "Poimintoja Patrikin raporteista",
     "note": "Yllä olevista esimerkkichateista, joten kenenkään yksityisyys ei kärsinyt.",
     "items": [
       "Mikko on julkaissut saman kyselyn neljä kertaa. Hän ei ole matkanjärjestäjä, hän on panttivankineuvottelija.",
-      "Sinä vastaat neljässä minuutissa. Emma vastaa kolmessa tunnissa. Minun nuoruudessani sitä sanottiin ”merkiksi”.",
+      "Sinä vastaat neljässä minuutissa. Emma vastaa kolmessa tunnissa. Häissä sitä sanotaan ”hitaaksi, jota kukaan ei pyytänyt”.",
       "Ville on kirjoittanut tähän ryhmään 4 000 sanaa kuudessa vuodessa. Niistä 3 100 oli ”ok”.",
       "Äiti ei tarvitse osallistujamäärää. Äiti tarvitsee halauksen ja suoran vastauksen."
     ]
@@ -316,7 +316,7 @@
     "back": "Takaisin",
     "next": "Jatka",
     "context": {
-      "q": "Millaisen chatin Nana lukee?",
+      "q": "Millaisen chatin Patrik lukee?",
       "options": {
         "partner": {
           "t": "Romantiikka",
@@ -352,14 +352,14 @@
       "q": "Lataa chatti sovelluksesta {app}",
       "drop": "Napauta ja valitse viety tiedosto",
       "dropHint": ".txt, .zip, .json tai .csv — enintään 200 Mt",
-      "reading": "Nana lukee… {count} viestiä tähän mennessä",
+      "reading": "Patrik lukee… {count} viestiä tähän mennessä",
       "readingLocal": "Tämä tapahtuu laitteellasi. Mitään ei ole vielä ladattu.",
       "uploading": "Ladataan turvallisesti…",
       "privacy": "Chattisi pysyy yksityisenä",
       "howTo": "Miten vien sen?",
       "errors": {
-        "format": "Nana ei saanut tiedostosta selvää. Varmista, että se on alkuperäinen vienti (.txt tai .zip), ei kuvakaappaus.",
-        "few": "Chatti on vähän lyhyt. Nana tarvitsee vähintään 10 viestiä, jotta hänellä olisi mielipide.",
+        "format": "Patrik ei saanut tiedostosta selvää. Varmista, että se on alkuperäinen vienti (.txt tai .zip), ei kuvakaappaus.",
+        "few": "Chatti on vähän lyhyt. Patrik tarvitsee vähintään 10 viestiä, jotta hänellä olisi mielipide.",
         "big": "Tiedosto on yli 200 Mt. Vie chatti ilman mediaa ja yritä uudelleen.",
         "upload": "Lataus epäonnistui. Tarkista yhteys ja yritä uudelleen."
       },
@@ -407,22 +407,22 @@
       ],
       "other": [
         "Vie chatti teksti-, CSV- tai JSON-tiedostona",
-        "Lataa se tänne — Nana lukee useimpia muotoja"
+        "Lataa se tänne — Patrik lukee useimpia muotoja"
       ]
     },
     "me": {
       "q": "Kuka näistä olet sinä?",
-      "sub": "Jotta Nana voi puhua sinulle eikä sinusta.",
+      "sub": "Jotta Patrik voi puhua sinulle eikä sinusta.",
       "none": "En ole tässä chatissa"
     },
     "details": {
-      "q": "Pitäisikö Nanan tietää jotain?",
+      "q": "Pitäisikö Patrikin tietää jotain?",
       "notes": "Vapaaehtoinen taustatieto (esim. ”erottiin maaliskuussa”, ”Jussi on veljeni”)",
       "lang": "Raportin kieli",
-      "heat": "Kuinka kovaa Nana menee?"
+      "heat": "Kuinka kovaa Patrik menee?"
     },
     "email": {
-      "q": "Mihin Nana lähettää raportin?",
+      "q": "Mihin Patrik lähettää raportin?",
       "sub": "Lähetämme sinulle sähköpostilla 6-numeroisen koodin. Ei salasanaa, ei roskapostia.",
       "placeholder": "sina@esimerkki.fi",
       "send": "Lähetä koodi",
@@ -438,32 +438,32 @@
       }
     },
     "writing": {
-      "t": "Nana lukee chattiasi",
+      "t": "Patrik lukee chattiasi",
       "lines": [
-        "Laittaa lasit päähän…",
+        "Laittaa kuulokkeet päähän…",
         "Laskee, kuka viestii ensin…",
         "Etsii viikkoa, jolloin kaikki muuttui…",
         "Alleviivaa mehukkaimmat kohdat…",
-        "Keittää kahvia…"
+        "Valitsee soundtrackiasi…"
       ],
       "note": "Tämä kestää noin minuutin. Lähetämme sinulle myös sähköpostia, kun se on valmis."
     },
     "recording": {
       "cta": "Tai lataa näyttötallenne",
-      "hint": "Tallenna näyttö, kun selaat chattia hitaasti vanhimmasta viestistä uusimpaan, ja lataa video. Nana lukee kuplat.",
+      "hint": "Tallenna näyttö, kun selaat chattia hitaasti vanhimmasta viestistä uusimpaan, ja lataa video. Patrik lukee kuplat.",
       "extracting": "Poimitaan tarkimpia ruutuja… {pct} %",
-      "reading": "Nana lukee kuvakaappauksia… tämä kestää 1–2 minuuttia",
+      "reading": "Patrik lukee kuvakaappauksia… tämä kestää 1–2 minuuttia",
       "errVideo": "Videota ei voitu lukea. Kokeile tavallista näyttötallennetta (MP4 tai MOV).",
-      "errFew": "Nana löysi vain muutaman viestin. Selaa hitaammin ja tallenna pidempi pätkä chattia."
+      "errFew": "Patrik löysi vain muutaman viestin. Selaa hitaammin ja tallenna pidempi pätkä chattia."
     }
   },
   "report": {
-    "by": "Nana",
-    "tagline": "81. On lukenut jokaisen koskaan kirjoitetun chatin. Tuo yhä keittoa.",
+    "by": "Patrik",
+    "tagline": "Entinen hää-DJ. Nolla filtteriä. Vahvoja mielipiteitä soittolistastasi.",
     "share": "Jaa raportti",
     "copied": "Linkki kopioitu",
     "privacy": "Yksityinen ja sinun hallinnassasi",
-    "cutoff": "Chatti oli liian pitkä luettavaksi kerralla, joten Nana luki kaiken {date} alkaen.",
+    "cutoff": "Chatti oli liian pitkä luettavaksi kerralla, joten Patrik luki kaiken {date} alkaen.",
     "statsTitle": "Numerot",
     "stat": {
       "messages": "Viestit",
@@ -484,36 +484,36 @@
     "peopleTitle": "Ja jokaisesta teistä",
     "unlock": "Lue koko raportti",
     "unlockNote": "Käyttää 1 krediitin · sinulla on {n}",
-    "noCredits": "Krediittisi ovat lopussa. Maksaminen avautuu pian — Nana ilmoittaa sähköpostilla.",
-    "writingFull": "Nana kirjoittaa koko raporttia. Noin 2 minuuttia — lähetämme myös sähköpostia.",
-    "failed": "Jokin meni pieleen, kun Nana kirjoitti. Krediittisi palautettiin. Yritä uudelleen.",
+    "noCredits": "Krediittisi ovat lopussa. Maksaminen avautuu pian — Patrik ilmoittaa sähköpostilla.",
+    "writingFull": "Patrik kirjoittaa koko raporttia. Noin 2 minuuttia — lähetämme myös sähköpostia.",
+    "failed": "Jokin meni pieleen, kun Patrik kirjoitti. Krediittisi palautettiin. Yritä uudelleen.",
     "retry": "Yritä uudelleen",
     "peopleSection": "Kuka on kuka",
     "glossary": "Tämän chatin sanakirja",
     "awards": "Palkintogaala",
     "reactions": "Näin kukin teistä reagoi tähän",
     "verdict": "Tuomio",
-    "advice": "Mitä Nana tekisi",
-    "askTitle": "Kysy Nanalta jotain muuta tästä chatista",
+    "advice": "Mitä Patrik tekisi",
+    "askTitle": "Kysy Patrikilta jotain muuta tästä chatista",
     "askPlaceholder": "esim. Onko hän menettämässä kiinnostuksensa? Kuka porukasta on oikeasti ärsyyntynyt minuun?",
-    "askCta": "Kysy Nanalta · 1 krediitti",
-    "askExpired": "Tämä chatti on poistettu palvelimiltamme, joten Nana ei voi vastata siitä uusiin kysymyksiin.",
-    "nextTitle": "Minkä chatin Nana lukee seuraavaksi?",
+    "askCta": "Kysy Patrikilta · 1 krediitti",
+    "askExpired": "Tämä chatti on poistettu palvelimiltamme, joten Patrik ei voi vastata siitä uusiin kysymyksiin.",
+    "nextTitle": "Minkä chatin Patrik lukee seuraavaksi?",
     "nextCta": "Lähetä toinen chatti",
     "notFound": "Tätä raporttia ei ole olemassa tai se on poistettu.",
-    "feedback": "Osuiko Nana oikeaan?",
+    "feedback": "Osuiko Patrik oikeaan?",
     "feedbackYes": "Naulan kantaan",
     "feedbackNo": "Ei oikein",
-    "thanks": "Kiitos — Nana tekee muistiinpanoja.",
+    "thanks": "Kiitos — Patrik tekee muistiinpanoja.",
     "aiNote": "Tekoälyn kirjoittama viihdetarkoitukseen. Se voi ymmärtää asiayhteyden väärin — älä tee isoja päätöksiä sen perusteella.",
     "toc": "Tässä raportissa",
     "minRead": "{n} min lukuaika",
     "activity": "Aktiivisuus kuukausittain",
     "phrases": "Asiat, joita sanot aivan liian usein",
     "shareYou": "Jaa kortti: {name}",
-    "personKicker": "Mitä Nana ajattelee: {name}",
+    "personKicker": "Mitä Patrik ajattelee: {name}",
     "readFull": "Lue koko raportti",
-    "sendYours": "Anna Nanan lukea oma chattisi"
+    "sendYours": "Anna Patrikin lukea oma chattisi"
   },
   "account": {
     "title": "Omat chatit",
@@ -535,12 +535,12 @@
     "title": "Kysymyksiä ennen lataamista",
     "items": [
       {
-        "q": "Mikä Nana Reads on?",
-        "a": "Tekoälyhahmo — Nana — joka lukee lataamasi chatin ja kirjoittaa rehellisen, hauskan raportin kaikista mukana olevista: todellisen dynamiikan, kuka välittää enemmän, mikä muuttui ja jokaisen roolin."
+        "q": "Mikä What Patrik Thinks on?",
+        "a": "Tekoälyhahmo — Patrik — joka lukee lataamasi chatin ja kirjoittaa rehellisen, hauskan raportin kaikista mukana olevista: todellisen dynamiikan, kuka välittää enemmän, mikä muuttui ja jokaisen roolin."
       },
       {
         "q": "Onko se ilmainen?",
-        "a": "Ensisilmäys on ilmainen: Nanan avaus, numerot ja koko raportin kaikkien osioiden otsikot. Koko raportti maksaa yhden krediitin. Tilausta ei ole."
+        "a": "Ensisilmäys on ilmainen: Patrikin avaus, numerot ja koko raportin kaikkien osioiden otsikot. Koko raportti maksaa yhden krediitin. Tilausta ei ole."
       },
       {
         "q": "Mitkä sovellukset toimivat?",
@@ -548,7 +548,7 @@
       },
       {
         "q": "Onko chattini yksityinen?",
-        "a": "Nana laskee viestisi ensin selaimessasi. Lataus on salattu, sitä ei koskaan jaeta kenellekään chatissa olevalle, ei myydä eikä käytetä tekoälyn kouluttamiseen. Se poistetaan automaattisesti 48 tuntia latauksen jälkeen, jos et tilaa raporttia, tai 7 päivää viimeisimmän raporttisi jälkeen."
+        "a": "Patrik laskee viestisi ensin selaimessasi. Lataus on salattu, sitä ei koskaan jaeta kenellekään chatissa olevalle, ei myydä eikä käytetä tekoälyn kouluttamiseen. Se poistetaan automaattisesti 48 tuntia latauksen jälkeen, jos et tilaa raporttia, tai 7 päivää viimeisimmän raporttisi jälkeen."
       },
       {
         "q": "Saavatko chatissa olevat tietää?",
@@ -556,14 +556,14 @@
       },
       {
         "q": "Millä kielillä?",
-        "a": "Chattisi voi olla millä kielellä tahansa tai sekoitus useampaa. Raportteja kirjoitetaan 24 kielellä, ja Nana käyttää chatin omaa slangia."
+        "a": "Chattisi voi olla millä kielellä tahansa tai sekoitus useampaa. Raportteja kirjoitetaan 36 kielellä, ja Patrik käyttää chatin omaa slangia."
       },
       {
         "q": "Kauanko se kestää?",
         "a": "Esikatselu kestää noin minuutin, koko raportti noin kaksi minuuttia. Lähetämme sähköpostia, kun se on valmis, joten sivulla ei tarvitse odotella."
       },
       {
-        "q": "Voinko kysyä Nanalta lisää?",
+        "q": "Voinko kysyä Patrikilta lisää?",
         "a": "Voit. Jokaisen raportin alla voit esittää jatkokysymyksen samasta chatista. Jokainen vastaus on uusi, syvempi raportti."
       },
       {
@@ -572,7 +572,7 @@
       },
       {
         "q": "Onko se tarkka?",
-        "a": "Numerot lasketaan tarkasti viennistäsi. Mielipiteet ovat Nanan — tekoäly voi ymmärtää asiayhteyden väärin, joten pidä tätä viihteenä, älä neuvona."
+        "a": "Numerot lasketaan tarkasti viennistäsi. Mielipiteet ovat Patrikin — tekoäly voi ymmärtää asiayhteyden väärin, joten pidä tätä viihteenä, älä neuvona."
       },
       {
         "q": "Kenelle se on?",
@@ -581,17 +581,17 @@
     ]
   },
   "about": {
-    "title": "Tietoa Nana Readsista",
+    "title": "Tietoa palvelusta What Patrik Thinks",
     "body": [
-      "Nana Reads on pieni itsenäinen studioprojekti. Teimme hahmon, jonka toivoimme olevan olemassa: mummon, joka on lukenut kaikki maailman chatit, rakastaa sinua ja kertoo silti totuuden.",
-      "Nana lukee WhatsApp-, Telegram-, LINE-, KakaoTalk-, iMessage-, Instagram- ja Messenger-chatteja ja kirjoittaa 24 kielellä.",
+      "What Patrik Thinks on pieni itsenäinen studioprojekti. Teimme hahmon, jonka toivoimme olevan olemassa: Patrikin, hää-DJ:n, joka seurasi kaksitoista vuotta pariskuntia, perheitä ja kaveriporukoita DJ-pöydän takaa — ja lukee nyt chattisi ja kertoo totuuden.",
+      "Patrik lukee WhatsApp-, Telegram-, LINE-, KakaoTalk-, iMessage-, Instagram- ja Messenger-chatteja ja kirjoittaa 36 kielellä.",
       "Välitämme yksityisyydestä enemmän kuin kukaan muu tässä kategoriassa: chattisi lasketaan ensin selaimessasi, se poistetaan automaattisesti eikä sitä koskaan käytetä tekoälyn kouluttamiseen."
     ],
     "factsTitle": "Perustiedot",
     "facts": [
       [
         "Nimi",
-        "Nana Reads"
+        "What Patrik Thinks"
       ],
       [
         "Mikä se on",
@@ -599,7 +599,7 @@
       ],
       [
         "Kielet",
-        "24"
+        "36"
       ],
       [
         "Hinnoittelu",
@@ -620,8 +620,8 @@
     "sent": "Saatiin. Vastaamme sähköpostilla."
   },
   "feedback": {
-    "title": "Kerro Nanalle mielipiteesi",
-    "sub": "Ideoita, valituksia, kehuja Nanalle. Luemme kaiken.",
+    "title": "Kerro Patrikille mielipiteesi",
+    "sub": "Ideoita, valituksia, kehuja Patrikille. Luemme kaiken.",
     "placeholder": "Palautteesi",
     "send": "Lähetä",
     "sent": "Kiitos!"
@@ -629,7 +629,7 @@
   "footer": {
     "chats": "Chatit",
     "help": "Apua",
-    "company": "Nana Reads",
+    "company": "What Patrik Thinks",
     "links": {
       "home": "Etusivu",
       "relationship": "Parisuhdechatit",
@@ -645,7 +645,7 @@
       "terms": "Ehdot",
       "about": "Tietoa meistä"
     },
-    "rights": "© {year} Nana Reads. Vain viihdekäyttöön."
+    "rights": "© {year} What Patrik Thinks. Vain viihdekäyttöön."
   },
   "legal": {
     "englishOnly": "Tämä sivu näytetään englanniksi. Englanninkielinen versio on sitova.",

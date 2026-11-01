@@ -1,6 +1,6 @@
 {
   "previewReady": {
-    "subject": "Nana is klaar met lezen 🫖",
+    "subject": "Patrik is klaar met lezen 🎧",
     "pre": "Erin: {names}",
     "h": "Ik heb jullie chat gelezen.",
     "body": "Dit heb ik over ieder van jullie geschreven:",
@@ -13,11 +13,11 @@
     "h": "Je rapport ligt op je te wachten",
     "body": "Je hebt het begin gelezen. Dit zit er nog in:",
     "cta": "Lees het volledige rapport",
-    "credit": "Je hebt nog een gratis credit — Nana trakteert."
+    "credit": "Je hebt nog een gratis credit — dit rondje is van mij."
   },
   "hook": {
     "pre": "Laatste herinnering over je rapport.",
-    "h": "Nog één ding voordat ik de waterkoker opberg",
+    "h": "Laatste nummer voordat ik de draaitafels inpak",
     "body": "{title}",
     "cta": "Open het volledige rapport",
     "ps": "PS Lees het, gooi het in de groep en kijk wie als eerste reageert 👀"
@@ -30,13 +30,13 @@
     "ps": "PS Deel het in de groep. Ik daag je uit."
   },
   "next": {
-    "subject": "Dat was nog maar de opwarmer 👀",
+    "subject": "Dat was nog maar de warming-up-set 👀",
     "pre": "Stuur me nu de chat waar je écht mee bezig bent.",
     "h": "Welke chat wil je echt dat ik lees?",
     "body": "Die je om 2 uur 's nachts teruglees. Je ex. Dat vage gedoe. Je moeder.",
-    "cta": "Stuur Nana nog een chat"
+    "cta": "Stuur Patrik nog een chat"
   },
-  "footer": "Je krijgt deze mail omdat je Nana hebt gevraagd een chat te lezen.",
+  "footer": "Je krijgt deze mail omdat je Patrik hebt gevraagd een chat te lezen.",
   "unsubscribe": "Uitschrijven",
-  "sign": "— Nana"
+  "sign": "— Patrik"
 }

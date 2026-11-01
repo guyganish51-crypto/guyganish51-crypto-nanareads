@@ -1,6 +1,6 @@
 {
   "previewReady": {
-    "subject": "Nana a fini de lire 🫖",
+    "subject": "Patrik a fini de lire 🎧",
     "pre": "Au programme : {names}",
     "h": "J'ai lu votre conversation.",
     "body": "Voilà ce que j'ai écrit sur chacun de vous :",
@@ -13,11 +13,11 @@
     "h": "Ton rapport t'attend",
     "body": "Tu as lu le début. Voilà ce qui t'attend encore :",
     "cta": "Lire le rapport complet",
-    "credit": "Il te reste un crédit gratuit — c'est Nana qui régale."
+    "credit": "Il te reste un crédit gratuit — cette tournée, c'est pour moi."
   },
   "hook": {
     "pre": "Dernier rappel pour ton rapport.",
-    "h": "Une dernière chose avant que je range la bouilloire",
+    "h": "Dernière chanson avant que je remballe les platines",
     "body": "{title}",
     "cta": "Ouvrir le rapport complet",
     "ps": "P.-S. Lis-le, balance-le dans le groupe, et regarde qui répond en premier 👀"
@@ -30,13 +30,13 @@
     "ps": "P.-S. Partage-le dans le groupe. Chiche."
   },
   "next": {
-    "subject": "Ça, c'était juste l'échauffement 👀",
+    "subject": "Ça, c'était juste le set d'échauffement 👀",
     "pre": "Maintenant, envoie-moi la conversation qui t'obsède vraiment.",
     "h": "Quelle conversation veux-tu vraiment que je lise ?",
     "body": "Celle que tu relis à 2 h du matin. L'ex. Le plan pas clair. Ta mère.",
-    "cta": "Envoyer une autre conversation à Nana"
+    "cta": "Envoyer une autre conversation à Patrik"
   },
-  "footer": "Tu reçois cet e-mail parce que tu as demandé à Nana de lire une conversation.",
+  "footer": "Tu reçois cet e-mail parce que tu as demandé à Patrik de lire une conversation.",
   "unsubscribe": "Se désabonner",
-  "sign": "— Nana"
+  "sign": "— Patrik"
 }

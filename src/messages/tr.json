@@ -1,21 +1,21 @@
 {
   "meta": {
-    "siteName": "Nana Reads",
-    "title": "Nana Reads — sohbetini dünyanın en meraklı babaannesi okuyor",
-    "description": "WhatsApp, Telegram, LINE ya da iMessage sohbetini yükle. Nana her mesajı okur ve sana aslında neler döndüğünü, kimin daha çok önemsediğini ve kimin kim hakkında ne düşündüğünü söyler."
+    "siteName": "What Patrik Thinks",
+    "title": "What Patrik Thinks — sohbetini hiç filtresi olmayan biri okuyor",
+    "description": "WhatsApp, Telegram, LINE ya da iMessage sohbetini yükle. Patrik her mesajı okur ve sana aslında neler döndüğünü, kimin daha çok önemsediğini ve herkes hakkında dürüstçe ne düşündüğünü söyler."
   },
   "nav": {
-    "cta": "Nana'ya sohbet gönder",
+    "cta": "Patrik'e sohbet gönder",
     "account": "Sohbetlerim",
     "language": "Dil"
   },
   "home": {
-    "eyebrow": "81 yaşında. Yazılmış bütün sohbetleri okudu.",
-    "h1": "Sohbetini Nana'ya gönder. Aslında neler döndüğünü o söylesin.",
-    "sub": "Nana her bir mesajı okur, saymamasını tercih edeceğin şeyleri tek tek sayar ve içindeki herkes hakkında dürüst, çok komik bir rapor yazar.",
-    "cta": "Nana'ya sohbet gönder",
+    "eyebrow": "12 yıl düğün DJ'liği. Her şeyi gördü. Her şeyi söyler.",
+    "h1": "Sohbetini Patrik'e gönder. Aslında neler döndüğünü o söylesin.",
+    "sub": "Patrik her bir mesajı okur, saymamasını tercih edeceğin şeyleri tek tek sayar ve içindeki herkes hakkında dürüst, çok komik bir rapor yazar.",
+    "cta": "Patrik'e sohbet gönder",
     "ctaNote": "Ücretsiz önizleme · kart yok · otomatik silinir",
-    "demoTitle": "Bir sohbet seç, Nana ne görüyor gör",
+    "demoTitle": "Bir sohbet seç, Patrik ne görüyor gör",
     "demoHint": "Bunlar uydurma sohbetler. Seninki daha beter olacak.",
     "howTitle": "Nasıl çalışır",
     "how": [
@@ -24,7 +24,7 @@
         "d": "WhatsApp, Telegram, LINE ya da KakaoTalk'ta iki dokunuş. Nasıl yapılacağını adım adım gösteriyoruz."
       },
       {
-        "t": "Nana hepsini okur",
+        "t": "Patrik hepsini okur",
         "d": "Her mesajı, sesli mesajdaki her bahaneyi, yataktan atılan her “yoldayım”ı."
       },
       {
@@ -32,10 +32,10 @@
         "d": "Bir dakikada ücretsiz önizleme. Tam rapor gelen kutuna düşer — cesaretin varsa gruba at."
       }
     ],
-    "findsTitle": "Nana neler buluyor",
+    "findsTitle": "Patrik neler buluyor",
     "finds": [
       {
-        "e": "🫖",
+        "e": "🎧",
         "t": "Kim gerçekten önemsiyor",
         "d": "Sohbeti kim başlatıyor, kim 4 dakikada cevap veriyor, kim 4 saatte."
       },
@@ -62,11 +62,11 @@
       "Asla satılmaz, asla paylaşılmaz, asla yapay zekâ eğitmek için kullanılmaz."
     ],
     "worksWith": "Şunlarla çalışır",
-    "heatTitle": "Nana ne kadar sert gitsin, sen seç",
+    "heatTitle": "Patrik ne kadar sert gitsin, sen seç",
     "heat": {
       "gentle": {
         "t": "Tatlı",
-        "d": "Doğum günü kartı babaannesi. Takılır ama acıtmaz."
+        "d": "Tatlı bir düğün konuşması havası. Takılır ama acıtmaz."
       },
       "spicy": {
         "t": "Acılı",
@@ -78,37 +78,37 @@
       }
     },
     "finalH": "Sıradaki sohbet senin.",
-    "finalSub": "Nana çayı demledi bile."
+    "finalSub": "Patrik fon müziğini şimdiden seçiyor."
   },
   "landing": {
     "relationship": {
-      "metaTitle": "Senden gerçekten hoşlanıyor mu? Sohbetinin yapay zekâ analizi — Nana Reads",
-      "metaDesc": "Crush'ınla, sevgilinle, situationship'inle ya da eski sevgilinle olan sohbeti yükle. Nana her mesajı okur ve kimin daha çok önemsediğini, neyin değiştiğini söyler.",
-      "h1": "Senden gerçekten hoşlanıyor mu? Nana söylesin.",
-      "sub": "Crush'ınla, sevgilinle, situationship'inle ya da eski sevgilinle olan sohbeti gönder. Nana ilk kimin yazdığını, kimin beklettiğini ve işlerin ne zaman değiştiğini sayar."
+      "metaTitle": "Senden gerçekten hoşlanıyor mu? Sohbetinin yapay zekâ analizi — What Patrik Thinks",
+      "metaDesc": "Crush'ınla, sevgilinle, situationship'inle ya da eski sevgilinle olan sohbeti yükle. Patrik her mesajı okur ve kimin daha çok önemsediğini, neyin değiştiğini söyler.",
+      "h1": "Senden gerçekten hoşlanıyor mu? Patrik söylesin.",
+      "sub": "Crush'ınla, sevgilinle, situationship'inle ya da eski sevgilinle olan sohbeti gönder. Patrik ilk kimin yazdığını, kimin beklettiğini ve işlerin ne zaman değiştiğini sayar."
     },
     "friends": {
-      "metaTitle": "Grup sohbeti analizi ve arkadaş roast'u — Nana Reads",
-      "metaDesc": "Arkadaş grubunun sohbetini yükle. Nana herkesi tiye alır, ödüller dağıtır ve kimsenin yüksek sesle söyleyemediğini söyler.",
-      "h1": "Nana sen ve arkadaşların hakkında ne düşünüyor?",
-      "sub": "Erkekler grubu, kızlar grubu, bir türlü yapılamayan tatil. Nana hepsini okur ve herkese hak ettiği unvanı verir."
+      "metaTitle": "Grup sohbeti analizi ve arkadaş roast'u — What Patrik Thinks",
+      "metaDesc": "Arkadaş grubunun sohbetini yükle. Patrik herkesi tiye alır, ödüller dağıtır ve kimsenin yüksek sesle söyleyemediğini söyler.",
+      "h1": "Patrik sen ve arkadaşların hakkında ne düşünüyor?",
+      "sub": "Erkekler grubu, kızlar grubu, bir türlü yapılamayan tatil. Patrik hepsini okur ve herkese hak ettiği unvanı verir."
     },
     "family": {
-      "metaTitle": "Aile WhatsApp grubu analizi — Nana Reads",
-      "metaDesc": "Aile grubunu yükle. Nana aileyi gerçekte kimin bir arada tuttuğunu, kimin hiç cevap vermediğini ve günaydın çiçeklerini kimin attığını bulur.",
-      "h1": "Aile grubunuz, her şeyi görmüş geçirmiş bir babaannenin gözünden.",
-      "sub": "Aileyi kim bir arada tutuyor, kim sadece yemek fotoğraflarına cevap veriyor, kim hâlâ geçen bayrama küs. Nana biliyor."
+      "metaTitle": "Aile WhatsApp grubu analizi — What Patrik Thinks",
+      "metaDesc": "Aile grubunu yükle. Patrik aileyi gerçekte kimin bir arada tuttuğunu, kimin hiç cevap vermediğini ve günaydın çiçeklerini kimin attığını bulur.",
+      "h1": "Aile grubunuz, 600 aile düğününde DJ'lik yapmış birinin gözünden.",
+      "sub": "Aileyi kim bir arada tutuyor, kim sadece yemek fotoğraflarına cevap veriyor, kim hâlâ geçen bayrama küs. Patrik biliyor."
     },
     "imessage": {
-      "metaTitle": "iMessage sohbet analizi — Nana Reads",
-      "metaDesc": "Mac'inden bir iMessage konuşmasını dışa aktar ve Nana'ya okut. Kim daha çok önemsiyor, ne değişti ve şimdi ne yapmalı.",
-      "h1": "Bir iMessage sohbeti yükle. Gerisini Nana halleder.",
-      "sub": "Mac'inden birkaç dakikada bir konuşmayı dışa aktar, Nana her mavi baloncuğu okusun."
+      "metaTitle": "iMessage sohbet analizi — What Patrik Thinks",
+      "metaDesc": "Mac'inden bir iMessage konuşmasını dışa aktar ve Patrik'e okut. Kim daha çok önemsiyor, ne değişti ve şimdi ne yapmalı.",
+      "h1": "Bir iMessage sohbeti yükle. Gerisini Patrik halleder.",
+      "sub": "Mac'inden birkaç dakikada bir konuşmayı dışa aktar, Patrik her mavi baloncuğu okusun."
     },
     "whatsapp": {
-      "metaTitle": "WhatsApp sohbet analizi — Nana Reads",
-      "metaDesc": "Herhangi bir WhatsApp sohbetini iki dokunuşta dışa aktar. Nana her mesajı okur ve içindeki herkes hakkında dürüst, komik bir rapor yazar.",
-      "h1": "WhatsApp sohbet analizi, en meraklı babaanneden.",
+      "metaTitle": "WhatsApp sohbet analizi — What Patrik Thinks",
+      "metaDesc": "Herhangi bir WhatsApp sohbetini iki dokunuşta dışa aktar. Patrik her mesajı okur ve içindeki herkes hakkında dürüst, komik bir rapor yazar.",
+      "h1": "WhatsApp sohbet analizi, hiç filtresi olmayan birinden.",
       "sub": "Dışa aktarmak için iki dokunuş, ücretsiz önizleme için bir dakika. Özel sohbetlerde ve her boyuttaki grupta çalışır."
     }
   },
@@ -229,12 +229,12 @@
         }
       ],
       "headline": "Dokuz gün görüldü, sonra “selaaam nasılsın 🙂”",
-      "verdict": "Elif üç saatte cevap veriyor, sen dört dakikada. Bunun ne demek olduğunu ikiniz de çok iyi biliyorsunuz yavrum, ama ikiniz de söylemiyorsunuz.",
+      "verdict": "Elif üç saatte cevap veriyor, sen dört dakikada. Bunun ne demek olduğunu ikiniz de çok iyi biliyorsunuz, ama ikiniz de söylemiyorsunuz.",
       "locked": [
         "İlk kim yazıyor, kim yazılmasını bekliyor",
         "Dokuz günlük sessizlik: aslında ne oldu",
         "Elif'in “😅”sinin arkasında ne saklı",
-        "Nana senin yerinde olsa ne yapardı"
+        "Patrik senin yerinde olsa ne yapardı"
       ]
     },
     {
@@ -301,11 +301,11 @@
     }
   ],
   "examples": {
-    "title": "Nana'nın raporlarından satırlar",
+    "title": "Patrik'in raporlarından satırlar",
     "note": "Yukarıdaki örnek sohbetlerden, yani kimsenin mahremiyeti zarar görmedi.",
     "items": [
       "Emre aynı anketi dört kez attı. O bir tatil organizatörü değil, rehine müzakerecisi.",
-      "Sen dört dakikada cevap veriyorsun. Elif üç saatte. Bizim zamanımızda buna “işaret” derdik.",
+      "Sen dört dakikada cevap veriyorsun. Elif üç saatte. Düğünlerde buna “kimsenin istemediği slow dans” deriz.",
       "Mert altı yılda bu gruba 4.000 kelime yazmış. 3.100'ü “tamam”.",
       "Annenin sayıya ihtiyacı yok. Annenin bir sarılmaya ve net bir cevaba ihtiyacı var."
     ]
@@ -316,7 +316,7 @@
     "back": "Geri",
     "next": "Devam",
     "context": {
-      "q": "Nana nasıl bir sohbet okusun?",
+      "q": "Patrik nasıl bir sohbet okusun?",
       "options": {
         "partner": {
           "t": "Aşk",
@@ -352,14 +352,14 @@
       "q": "Sohbeti yükle: {app}",
       "drop": "Dışa aktarılan dosyayı seçmek için dokun",
       "dropHint": ".txt, .zip, .json ya da .csv — 200 MB'a kadar",
-      "reading": "Nana okuyor… şu ana kadar {count} mesaj",
+      "reading": "Patrik okuyor… şu ana kadar {count} mesaj",
       "readingLocal": "Bu işlem senin cihazında yapılıyor. Henüz hiçbir şey yüklenmedi.",
       "uploading": "Güvenle yükleniyor…",
       "privacy": "Sohbetin gizli kalır",
       "howTo": "Nasıl dışa aktarırım?",
       "errors": {
-        "format": "Nana bu dosyayı okuyamadı. Ekran görüntüsü değil, orijinal dışa aktarma dosyası (.txt ya da .zip) olduğundan emin ol.",
-        "few": "Bu sohbet biraz kısa. Nana'nın fikir sahibi olması için en az 10 mesaj lazım.",
+        "format": "Patrik bu dosyayı okuyamadı. Ekran görüntüsü değil, orijinal dışa aktarma dosyası (.txt ya da .zip) olduğundan emin ol.",
+        "few": "Bu sohbet biraz kısa. Patrik'in fikir sahibi olması için en az 10 mesaj lazım.",
         "big": "Bu dosya 200 MB'tan büyük. Medya olmadan dışa aktar ve tekrar dene.",
         "upload": "Yükleme başarısız oldu. Bağlantını kontrol edip tekrar dene."
       },
@@ -407,22 +407,22 @@
       ],
       "other": [
         "Sohbeti metin, CSV ya da JSON dosyası olarak dışa aktar",
-        "Buraya yükle — Nana çoğu formatı okur"
+        "Buraya yükle — Patrik çoğu formatı okur"
       ]
     },
     "me": {
       "q": "Hangisi sensin?",
-      "sub": "Nana senin hakkında değil, seninle konuşsun diye.",
+      "sub": "Patrik senin hakkında değil, seninle konuşsun diye.",
       "none": "Bu sohbette değilim"
     },
     "details": {
-      "q": "Nana'nın bilmesi gereken bir şey var mı?",
+      "q": "Patrik'in bilmesi gereken bir şey var mı?",
       "notes": "İsteğe bağlı bilgi (örn. “martta ayrıldık”, “Tolga benim abim”)",
       "lang": "Rapor dili",
-      "heat": "Nana ne kadar sert gitsin?"
+      "heat": "Patrik ne kadar sert gitsin?"
     },
     "email": {
-      "q": "Nana raporu nereye göndersin?",
+      "q": "Patrik raporu nereye göndersin?",
       "sub": "Sana e-postayla 6 haneli bir kod göndereceğiz. Şifre yok, spam yok.",
       "placeholder": "sen@ornek.com",
       "send": "Kodu gönder",
@@ -438,32 +438,32 @@
       }
     },
     "writing": {
-      "t": "Nana sohbetini okuyor",
+      "t": "Patrik sohbetini okuyor",
       "lines": [
-        "Gözlüklerini takıyor…",
+        "Kulaklıklarını takıyor…",
         "İlk kimin yazdığını sayıyor…",
         "Her şeyin değiştiği haftayı arıyor…",
         "En sulu kısımların altını çiziyor…",
-        "Çay demliyor…"
+        "Sohbetinin fon müziğini seçiyor…"
       ],
       "note": "Bu yaklaşık bir dakika sürer. Hazır olunca sana e-posta da atacağız."
     },
     "recording": {
       "cta": "Ya da ekran kaydı yükle",
-      "hint": "Sohbeti en eski mesajdan en yeniye yavaşça kaydırırken ekranını kaydet ve videoyu yükle. Nana baloncukları okur.",
+      "hint": "Sohbeti en eski mesajdan en yeniye yavaşça kaydırırken ekranını kaydet ve videoyu yükle. Patrik baloncukları okur.",
       "extracting": "En net kareler seçiliyor… %{pct}",
-      "reading": "Nana ekran görüntülerini okuyor… 1–2 dakika sürer",
+      "reading": "Patrik ekran görüntülerini okuyor… 1–2 dakika sürer",
       "errVideo": "Bu video okunamadı. Normal bir ekran kaydı dene (MP4 veya MOV).",
-      "errFew": "Nana sadece birkaç mesaj bulabildi. Daha yavaş kaydır ve daha uzun bir kısmı kaydet."
+      "errFew": "Patrik sadece birkaç mesaj bulabildi. Daha yavaş kaydır ve daha uzun bir kısmı kaydet."
     }
   },
   "report": {
-    "by": "Nana",
-    "tagline": "81 yaşında. Yazılmış bütün sohbetleri okudu. Hâlâ çorba getiriyor.",
+    "by": "Patrik",
+    "tagline": "Eski düğün DJ'i. Sıfır filtre. Çalma listen hakkında net fikirleri var.",
     "share": "Raporu paylaş",
     "copied": "Bağlantı kopyalandı",
     "privacy": "Gizli ve senin kontrolünde",
-    "cutoff": "Sohbet tek seferde okunamayacak kadar uzundu, o yüzden Nana {date} tarihinden itibaren her şeyi okudu.",
+    "cutoff": "Sohbet tek seferde okunamayacak kadar uzundu, o yüzden Patrik {date} tarihinden itibaren her şeyi okudu.",
     "statsTitle": "Rakamlar",
     "stat": {
       "messages": "Mesaj",
@@ -484,34 +484,34 @@
     "peopleTitle": "Ve her biriniz hakkında",
     "unlock": "Tam raporu oku",
     "unlockNote": "1 kredi kullanır · {n} kredin var",
-    "noCredits": "Kredin bitti. Ödemeler yakında açılıyor — Nana sana e-posta atacak.",
-    "writingFull": "Nana tam raporu yazıyor. Yaklaşık 2 dakika — sana e-posta da atacağız.",
-    "failed": "Nana yazarken bir şeyler ters gitti. Kredin iade edildi. Lütfen tekrar dene.",
+    "noCredits": "Kredin bitti. Ödemeler yakında açılıyor — Patrik sana e-posta atacak.",
+    "writingFull": "Patrik tam raporu yazıyor. Yaklaşık 2 dakika — sana e-posta da atacağız.",
+    "failed": "Patrik yazarken bir şeyler ters gitti. Kredin iade edildi. Lütfen tekrar dene.",
     "retry": "Tekrar dene",
     "peopleSection": "Kim kimdir",
     "glossary": "Bu sohbetin sözlüğü",
     "awards": "Ödüller",
     "reactions": "Her biriniz buna nasıl tepki verecek",
     "verdict": "Karar",
-    "advice": "Nana olsa ne yapardı",
-    "askTitle": "Bu sohbet hakkında Nana'ya başka bir şey sor",
+    "advice": "Patrik olsa ne yapardı",
+    "askTitle": "Bu sohbet hakkında Patrik'e başka bir şey sor",
     "askPlaceholder": "örn. İlgisini mi kaybediyor? Gruptaki kim aslında bana gıcık?",
-    "askCta": "Nana'ya sor · 1 kredi",
-    "askExpired": "Bu sohbet sunucularımızdan silindi, o yüzden Nana onunla ilgili yeni sorulara cevap veremiyor.",
-    "nextTitle": "Nana sırada hangi sohbeti okusun?",
+    "askCta": "Patrik'e sor · 1 kredi",
+    "askExpired": "Bu sohbet sunucularımızdan silindi, o yüzden Patrik onunla ilgili yeni sorulara cevap veremiyor.",
+    "nextTitle": "Patrik sırada hangi sohbeti okusun?",
     "nextCta": "Başka bir sohbet gönder",
     "notFound": "Bu rapor yok ya da silinmiş.",
-    "feedback": "Nana haklı mıydı?",
+    "feedback": "Patrik haklı mıydı?",
     "feedbackYes": "Tam isabet",
     "feedbackNo": "Pek değil",
-    "thanks": "Teşekkürler — Nana not alıyor.",
+    "thanks": "Teşekkürler — Patrik not alıyor.",
     "aiNote": "Eğlence amaçlı yapay zekâ tarafından yazıldı. Bağlamı yanlış anlayabilir — buna dayanarak büyük kararlar verme.",
     "toc": "Bu raporda",
     "minRead": "{n} dk okuma",
     "activity": "Aylara göre aktivite",
     "phrases": "Fazlasıyla tekrarladığınız şeyler",
     "shareYou": "{name} kartını paylaş",
-    "personKicker": "Nana, {name} hakkında ne düşünüyor",
+    "personKicker": "Patrik, {name} hakkında ne düşünüyor",
     "readFull": "Raporun tamamını oku",
     "sendYours": "Kendi sohbetini okut"
   },
@@ -535,12 +535,12 @@
     "title": "Yüklemeden önce sorular",
     "items": [
       {
-        "q": "Nana Reads nedir?",
-        "a": "Bir yapay zekâ karakteri — Nana — yüklediğin sohbeti okur ve içindeki herkes hakkında dürüst, komik bir rapor yazar: gerçek dinamik, kimin daha çok önemsediği, neyin değiştiği ve herkesin rolü."
+        "q": "What Patrik Thinks nedir?",
+        "a": "Bir yapay zekâ karakteri — Patrik — yüklediğin sohbeti okur ve içindeki herkes hakkında dürüst, komik bir rapor yazar: gerçek dinamik, kimin daha çok önemsediği, neyin değiştiği ve herkesin rolü."
       },
       {
         "q": "Ücretsiz mi?",
-        "a": "İlk bakış ücretsiz: Nana'nın girişi, rakamlar ve tam rapordaki her şeyin başlıkları. Tam rapor bir kredi kullanır. Abonelik yok."
+        "a": "İlk bakış ücretsiz: Patrik'in girişi, rakamlar ve tam rapordaki her şeyin başlıkları. Tam rapor bir kredi kullanır. Abonelik yok."
       },
       {
         "q": "Hangi uygulamalar çalışıyor?",
@@ -548,7 +548,7 @@
       },
       {
         "q": "Sohbetim gizli mi?",
-        "a": "Nana önce mesajlarını kendi tarayıcında sayar. Yükleme şifrelenir, sohbetteki kimseyle asla paylaşılmaz, asla satılmaz ve asla yapay zekâ eğitmek için kullanılmaz. Rapor almazsan yüklemeden 48 saat sonra, aldıysan son raporundan 7 gün sonra otomatik silinir."
+        "a": "Patrik önce mesajlarını kendi tarayıcında sayar. Yükleme şifrelenir, sohbetteki kimseyle asla paylaşılmaz, asla satılmaz ve asla yapay zekâ eğitmek için kullanılmaz. Rapor almazsan yüklemeden 48 saat sonra, aldıysan son raporundan 7 gün sonra otomatik silinir."
       },
       {
         "q": "Sohbetteki kişiler öğrenecek mi?",
@@ -556,14 +556,14 @@
       },
       {
         "q": "Hangi diller?",
-        "a": "Sohbetin herhangi bir dilde ya da karışık olabilir. Raporlar 24 dilde yazılır ve Nana sohbetin kendi argosunu kullanır."
+        "a": "Sohbetin herhangi bir dilde ya da karışık olabilir. Raporlar 36 dilde yazılır ve Patrik sohbetin kendi argosunu kullanır."
       },
       {
         "q": "Ne kadar sürer?",
         "a": "Önizleme yaklaşık bir dakika sürer. Tam rapor yaklaşık iki dakika. Hazır olunca sana e-posta atıyoruz, sayfada beklemene gerek yok."
       },
       {
-        "q": "Nana'ya daha fazla soru sorabilir miyim?",
+        "q": "Patrik'e daha fazla soru sorabilir miyim?",
         "a": "Evet. Her raporun altında aynı sohbet hakkında ek bir soru sorabilirsin. Her cevap yeni ve daha derin bir rapordur."
       },
       {
@@ -572,7 +572,7 @@
       },
       {
         "q": "Doğru mu?",
-        "a": "Rakamlar dışa aktardığın dosyadan birebir sayılır. Yorumlar Nana'ya ait — yapay zekâ bağlamı yanlış anlayabilir, o yüzden bunu tavsiye değil eğlence olarak gör."
+        "a": "Rakamlar dışa aktardığın dosyadan birebir sayılır. Yorumlar Patrik'e ait — yapay zekâ bağlamı yanlış anlayabilir, o yüzden bunu tavsiye değil eğlence olarak gör."
       },
       {
         "q": "Kimin için?",
@@ -581,17 +581,17 @@
     ]
   },
   "about": {
-    "title": "Nana Reads hakkında",
+    "title": "What Patrik Thinks hakkında",
     "body": [
-      "Nana Reads küçük, bağımsız bir stüdyo projesi. Var olmasını dilediğimiz karakteri yarattık: dünyadaki bütün sohbetleri okumuş, seni seven ve yine de sana doğruyu söyleyen bir babaanne.",
-      "Nana WhatsApp, Telegram, LINE, KakaoTalk, iMessage, Instagram ve Messenger sohbetlerini okur ve 24 dilde yazar.",
+      "What Patrik Thinks küçük, bağımsız bir stüdyo projesi. Var olmasını dilediğimiz karakteri yarattık: on iki yıl boyunca DJ kabininden çiftleri, aileleri ve arkadaş gruplarını izlemiş bir düğün DJ'i olan Patrik — artık senin sohbetlerini okuyor ve sana doğruyu söylüyor.",
+      "Patrik WhatsApp, Telegram, LINE, KakaoTalk, iMessage, Instagram ve Messenger sohbetlerini okur ve 36 dilde yazar.",
       "Gizliliği bu alandaki herkesten daha çok önemsiyoruz: sohbetin önce tarayıcında sayılır, otomatik silinir ve asla yapay zekâ eğitmek için kullanılmaz."
     ],
     "factsTitle": "Temel bilgiler",
     "facts": [
       [
         "Ad",
-        "Nana Reads"
+        "What Patrik Thinks"
       ],
       [
         "Ne",
@@ -599,7 +599,7 @@
       ],
       [
         "Diller",
-        "24"
+        "36"
       ],
       [
         "Fiyat",
@@ -620,8 +620,8 @@
     "sent": "Aldık. E-postayla cevap vereceğiz."
   },
   "feedback": {
-    "title": "Nana'ya ne düşündüğünü söyle",
-    "sub": "Fikirler, şikâyetler, Nana'ya iltifatlar. Hepsini okuyoruz.",
+    "title": "Patrik'e ne düşündüğünü söyle",
+    "sub": "Fikirler, şikâyetler, Patrik'e iltifatlar. Hepsini okuyoruz.",
     "placeholder": "Geri bildirimin",
     "send": "Gönder",
     "sent": "Teşekkürler!"
@@ -629,7 +629,7 @@
   "footer": {
     "chats": "Sohbetler",
     "help": "Yardım",
-    "company": "Nana Reads",
+    "company": "What Patrik Thinks",
     "links": {
       "home": "Ana sayfa",
       "relationship": "İlişki sohbetleri",
@@ -645,7 +645,7 @@
       "terms": "Koşullar",
       "about": "Hakkımızda"
     },
-    "rights": "© {year} Nana Reads. Yalnızca eğlence amaçlıdır."
+    "rights": "© {year} What Patrik Thinks. Yalnızca eğlence amaçlıdır."
   },
   "legal": {
     "englishOnly": "Bu sayfa İngilizce gösterilmektedir. Bağlayıcı olan İngilizce sürümdür.",

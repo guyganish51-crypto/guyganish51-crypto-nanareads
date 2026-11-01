@@ -1,21 +1,21 @@
 {
   "meta": {
-    "siteName": "Nana Reads",
-    "title": "Nana Reads — a chatedet a világ legkíváncsibb nagyija olvassa el",
-    "description": "Töltsd fel a WhatsApp-, Telegram-, LINE- vagy iMessage-beszélgetésedet. Nana elolvas minden üzenetet, és elmondja, mi folyik ott valójában, kinek fontosabb a dolog, és ki mit gondol a másikról."
+    "siteName": "What Patrik Thinks",
+    "title": "What Patrik Thinks — a chatedet egy srác olvassa el, akinek nulla a szűrője",
+    "description": "Töltsd fel a WhatsApp-, Telegram-, LINE- vagy iMessage-beszélgetésedet. Patrik elolvas minden üzenetet, és elmondja, mi folyik ott valójában, kinek fontosabb a dolog, és őszintén mit gondol mindenkiről."
   },
   "nav": {
-    "cta": "Küldj Nanának egy chatet",
+    "cta": "Küldj Patriknak egy chatet",
     "account": "Chatjeim",
     "language": "Nyelv"
   },
   "home": {
-    "eyebrow": "81 éves. Elolvasott minden chatet, amit valaha írtak.",
-    "h1": "Küldd el Nanának a chatedet. Megmondja, mi folyik ott valójában.",
-    "sub": "Nana elolvas minden egyes üzenetet, megszámolja azt is, amit inkább nem kéne, és őszinte, nagyon vicces jelentést ír mindenkiről, aki benne van.",
-    "cta": "Küldj Nanának egy chatet",
+    "eyebrow": "12 évig volt esküvői DJ. Mindent látott. Mindent kimond.",
+    "h1": "Küldd el Patriknak a chatedet. Megmondja, mi folyik ott valójában.",
+    "sub": "Patrik elolvas minden egyes üzenetet, megszámolja azt is, amit inkább nem kéne, és őszinte, nagyon vicces jelentést ír mindenkiről, aki benne van.",
+    "cta": "Küldj Patriknak egy chatet",
     "ctaNote": "Ingyenes előnézet · nem kell kártya · automatikusan törlődik",
-    "demoTitle": "Válassz egy chatet, és nézd meg, mit lát Nana",
+    "demoTitle": "Válassz egy chatet, és nézd meg, mit lát Patrik",
     "demoHint": "Ezek kitalált chatek. A tiéd rosszabb lesz.",
     "howTitle": "Hogyan működik?",
     "how": [
@@ -24,7 +24,7 @@
         "d": "Két koppintás a WhatsAppban, a Telegramon, a LINE-on vagy a KakaoTalkon. Pontosan megmutatjuk, hogyan."
       },
       {
-        "t": "Nana mindent elolvas",
+        "t": "Patrik mindent elolvas",
         "d": "Minden üzenetet, minden hangüzenetes kifogást, minden ágyból küldött „már úton vagyok”-ot."
       },
       {
@@ -32,10 +32,10 @@
         "d": "Ingyenes előnézet egy perc alatt. A teljes jelentés a postafiókodba érkezik — oszd meg a csoportban, ha mered."
       }
     ],
-    "findsTitle": "Amit Nana kiderít",
+    "findsTitle": "Amit Patrik kiderít",
     "finds": [
       {
-        "e": "🫖",
+        "e": "🎧",
         "t": "Kinek számít igazán",
         "d": "Ki kezdi a beszélgetéseket, ki válaszol 4 perc alatt, és ki 4 óra alatt."
       },
@@ -62,11 +62,11 @@
       "Soha nem adjuk el, soha nem osztjuk meg, és soha nem tanítunk vele AI-t."
     ],
     "worksWith": "Működik ezekkel",
-    "heatTitle": "Válaszd ki, mennyire legyen kemény Nana",
+    "heatTitle": "Válaszd ki, mennyire legyen kemény Patrik",
     "heat": {
       "gentle": {
         "t": "Szelíd",
-        "d": "Születésnapi képeslap-nagyi. Ugratás, de semmi, ami fáj."
+        "d": "Kedves esküvői pohárköszöntő-hangulat. Ugratás, de semmi, ami fáj."
       },
       "spicy": {
         "t": "Csípős",
@@ -78,37 +78,37 @@
       }
     },
     "finalH": "A te chated következik.",
-    "finalSub": "Nana már fel is tette a teavizet."
+    "finalSub": "Patrik már a soundtracket válogatja."
   },
   "landing": {
     "relationship": {
-      "metaTitle": "Tényleg tetszel neki? AI-elemzés a chatetekről — Nana Reads",
-      "metaDesc": "Töltsd fel a chatet a crushoddal, a pároddal, a situationshipeddel vagy az exeddel. Nana elolvas minden üzenetet, és megmondja, kinek fontosabb, és mi változott.",
-      "h1": "Tényleg tetszel neki? Nana megmondja.",
-      "sub": "Küldd el a chatet a crushoddal, a pároddal, a situationshipeddel vagy az exeddel. Nana megszámolja, ki ír először, ki vár, és mikor fordult meg minden."
+      "metaTitle": "Tényleg tetszel neki? AI-elemzés a chatetekről — What Patrik Thinks",
+      "metaDesc": "Töltsd fel a chatet a crushoddal, a pároddal, a situationshipeddel vagy az exeddel. Patrik elolvas minden üzenetet, és megmondja, kinek fontosabb, és mi változott.",
+      "h1": "Tényleg tetszel neki? Patrik megmondja.",
+      "sub": "Küldd el a chatet a crushoddal, a pároddal, a situationshipeddel vagy az exeddel. Patrik megszámolja, ki ír először, ki vár, és mikor fordult meg minden."
     },
     "friends": {
-      "metaTitle": "Csoportos chat elemzése és baráti roast — Nana Reads",
-      "metaDesc": "Töltsd fel a baráti csoportotok chatjét. Nana mindenkit kifiguráz, díjakat oszt ki, és kimondja, amit senki sem mer.",
-      "h1": "Mit gondol Nana rólad és a barátaidról?",
-      "sub": "A srácok chatje, a csajok chatje, az út, amiből sosem lett semmi. Nana mindent elolvas, és mindenki megkapja a címet, amit megérdemel."
+      "metaTitle": "Csoportos chat elemzése és baráti roast — What Patrik Thinks",
+      "metaDesc": "Töltsd fel a baráti csoportotok chatjét. Patrik mindenkit kifiguráz, díjakat oszt ki, és kimondja, amit senki sem mer.",
+      "h1": "Mit gondol Patrik rólad és a barátaidról?",
+      "sub": "A srácok chatje, a csajok chatje, az út, amiből sosem lett semmi. Patrik mindent elolvas, és mindenki megkapja a címet, amit megérdemel."
     },
     "family": {
-      "metaTitle": "Családi WhatsApp-csoport elemzése — Nana Reads",
-      "metaDesc": "Töltsd fel a családi csoportot. Nana kideríti, ki tartja össze igazából a családot, ki nem válaszol soha, és ki küldi a jó reggelt virágokat.",
-      "h1": "A családi chatet egy nagyi olvassa, aki már mindent látott.",
-      "sub": "Ki tartja össze a családot, ki válaszol csak a kajás képekre, és ki haragszik még mindig a tavalyi karácsony miatt. Nana tudja."
+      "metaTitle": "Családi WhatsApp-csoport elemzése — What Patrik Thinks",
+      "metaDesc": "Töltsd fel a családi csoportot. Patrik kideríti, ki tartja össze igazából a családot, ki nem válaszol soha, és ki küldi a jó reggelt virágokat.",
+      "h1": "A családi chatet egy srác olvassa, aki 600 családi esküvőn volt DJ.",
+      "sub": "Ki tartja össze a családot, ki válaszol csak a kajás képekre, és ki haragszik még mindig a tavalyi karácsony miatt. Patrik tudja."
     },
     "imessage": {
-      "metaTitle": "iMessage-chat elemzése — Nana Reads",
-      "metaDesc": "Exportálj egy iMessage-beszélgetést a Macedről, és hagyd, hogy Nana elolvassa. Kinek fontosabb, mi változott, és mi legyen a következő lépés.",
-      "h1": "Töltsd fel az iMessage-chatet. A többit Nana intézi.",
-      "sub": "Pár perc alatt exportálsz egy beszélgetést a Macedről, Nana pedig elolvas minden kék buborékot."
+      "metaTitle": "iMessage-chat elemzése — What Patrik Thinks",
+      "metaDesc": "Exportálj egy iMessage-beszélgetést a Macedről, és hagyd, hogy Patrik elolvassa. Kinek fontosabb, mi változott, és mi legyen a következő lépés.",
+      "h1": "Töltsd fel az iMessage-chatet. A többit Patrik intézi.",
+      "sub": "Pár perc alatt exportálsz egy beszélgetést a Macedről, Patrik pedig elolvas minden kék buborékot."
     },
     "whatsapp": {
-      "metaTitle": "WhatsApp-chat elemzése — Nana Reads",
-      "metaDesc": "Bármelyik WhatsApp-chatet két koppintással exportálhatod. Nana elolvas minden üzenetet, és őszinte, vicces jelentést ír mindenkiről.",
-      "h1": "WhatsApp-chat elemzés a legkíváncsibb nagyidtól.",
+      "metaTitle": "WhatsApp-chat elemzése — What Patrik Thinks",
+      "metaDesc": "Bármelyik WhatsApp-chatet két koppintással exportálhatod. Patrik elolvas minden üzenetet, és őszinte, vicces jelentést ír mindenkiről.",
+      "h1": "WhatsApp-chat elemzés egy sráctól, akinek nulla a szűrője.",
       "sub": "Két koppintás az export, egy perc az ingyenes előnézet. Működik privát chatekkel és bármekkora csoporttal."
     }
   },
@@ -229,12 +229,12 @@
         }
       ],
       "headline": "Kilenc nap olvasatlanul hagyva, aztán „sziaaa hogy vagy 🙂”",
-      "verdict": "Réka három óra alatt válaszol, te négy perc alatt. Mindketten tudjátok, mit jelent ez, drágám, és egyikőtök sem mondja ki.",
+      "verdict": "Réka három óra alatt válaszol, te négy perc alatt. Mindketten tudjátok, mit jelent ez, és egyikőtök sem mondja ki.",
       "locked": [
         "Ki ír először, és ki várja, hogy neki írjanak",
         "Kilenc nap csend: mi történt valójában",
         "Mi rejlik Réka „😅”-ja mögött",
-        "Mit tenne Nana a helyedben"
+        "Mit tenne Patrik a helyedben"
       ]
     },
     {
@@ -301,11 +301,11 @@
     }
   ],
   "examples": {
-    "title": "Mondatok Nana jelentéseiből",
+    "title": "Mondatok Patrik jelentéseiből",
     "note": "A fenti példa-chatekből, úgyhogy senki magánélete nem sérült.",
     "items": [
       "Bence négyszer tette ki ugyanazt a szavazást. Ő nem útszervező, hanem túszközvetítő.",
-      "Te négy perc alatt válaszolsz. Réka három óra alatt. Az én időmben ezt úgy hívtuk: „jel”.",
+      "Te négy perc alatt válaszolsz. Réka három óra alatt. Az esküvőkön ezt úgy hívjuk: „a lassú tánc, amit senki sem kért”.",
       "Bálint hat év alatt 4 000 szót írt ebbe a csoportba. Ebből 3 100 az volt, hogy „ok”.",
       "Anyának nem létszám kell. Anyának egy ölelés kell és egy egyenes válasz."
     ]
@@ -316,7 +316,7 @@
     "back": "Vissza",
     "next": "Tovább",
     "context": {
-      "q": "Milyen chatet olvasson el Nana?",
+      "q": "Milyen chatet olvasson el Patrik?",
       "options": {
         "partner": {
           "t": "Romantika",
@@ -352,14 +352,14 @@
       "q": "Töltsd fel a chatet innen: {app}",
       "drop": "Koppints, és válaszd ki az exportált fájlt",
       "dropHint": ".txt, .zip, .json vagy .csv — legfeljebb 200 MB",
-      "reading": "Nana olvas… eddig {count} üzenet",
+      "reading": "Patrik olvas… eddig {count} üzenet",
       "readingLocal": "Ez a te eszközödön történik. Még semmi nem töltődött fel.",
       "uploading": "Biztonságos feltöltés…",
       "privacy": "A chated privát marad",
       "howTo": "Hogyan exportáljam?",
       "errors": {
-        "format": "Nana nem tudta elolvasni ezt a fájlt. Ellenőrizd, hogy az eredeti export-e (.txt vagy .zip), és nem képernyőkép.",
-        "few": "Ez a chat kicsit rövid. Nanának legalább 10 üzenet kell ahhoz, hogy véleménye legyen.",
+        "format": "Patrik nem tudta elolvasni ezt a fájlt. Ellenőrizd, hogy az eredeti export-e (.txt vagy .zip), és nem képernyőkép.",
+        "few": "Ez a chat kicsit rövid. Patriknak legalább 10 üzenet kell ahhoz, hogy véleménye legyen.",
         "big": "A fájl nagyobb 200 MB-nál. Exportáld média nélkül, és próbáld újra.",
         "upload": "A feltöltés nem sikerült. Ellenőrizd a kapcsolatot, és próbáld újra."
       },
@@ -407,22 +407,22 @@
       ],
       "other": [
         "Exportáld a chatet szöveges, CSV- vagy JSON-fájlként",
-        "Töltsd fel ide — Nana a legtöbb formátumot el tudja olvasni"
+        "Töltsd fel ide — Patrik a legtöbb formátumot el tudja olvasni"
       ]
     },
     "me": {
       "q": "Melyikük vagy te?",
-      "sub": "Hogy Nana hozzád beszéljen, ne rólad.",
+      "sub": "Hogy Patrik hozzád beszéljen, ne rólad.",
       "none": "Nem vagyok benne ebben a chatben"
     },
     "details": {
-      "q": "Van valami, amit Nanának tudnia kéne?",
+      "q": "Van valami, amit Patriknak tudnia kéne?",
       "notes": "Opcionális háttér (pl. „márciusban szakítottunk”, „Tamás a bátyám”)",
       "lang": "A jelentés nyelve",
-      "heat": "Mennyire legyen kemény Nana?"
+      "heat": "Mennyire legyen kemény Patrik?"
     },
     "email": {
-      "q": "Hova küldje Nana a jelentést?",
+      "q": "Hova küldje Patrik a jelentést?",
       "sub": "Küldünk e-mailben egy 6 jegyű kódot. Nincs jelszó, nincs spam.",
       "placeholder": "te@pelda.hu",
       "send": "Kód küldése",
@@ -438,32 +438,32 @@
       }
     },
     "writing": {
-      "t": "Nana olvassa a chatedet",
+      "t": "Patrik olvassa a chatedet",
       "lines": [
-        "Felteszi a szemüvegét…",
+        "Felteszi a fejhallgatóját…",
         "Számolja, ki ír először…",
         "Keresi a hetet, amikor minden megváltozott…",
         "Aláhúzza a legjobb részeket…",
-        "Teát főz…"
+        "Kiválasztja a soundtrackedet…"
       ],
       "note": "Ez nagyjából egy perc. E-mailt is küldünk, amikor kész."
     },
     "recording": {
       "cta": "Vagy tölts fel egy képernyőfelvételt",
-      "hint": "Vedd fel, ahogy lassan végiggörgeted a chatet a legrégebbi üzenettől a legújabbig, aztán töltsd fel a videót. Nana elolvassa a buborékokat.",
+      "hint": "Vedd fel, ahogy lassan végiggörgeted a chatet a legrégebbi üzenettől a legújabbig, aztán töltsd fel a videót. Patrik elolvassa a buborékokat.",
       "extracting": "A legélesebb képkockák kiválogatása… {pct}%",
-      "reading": "Nana olvassa a képernyőképeket… ez 1–2 perc",
+      "reading": "Patrik olvassa a képernyőképeket… ez 1–2 perc",
       "errVideo": "Ezt a videót nem sikerült beolvasni. Próbálj egy sima képernyőfelvételt (MP4 vagy MOV).",
-      "errFew": "Nana csak néhány üzenetet talált. Görgess lassabban, és vegyél fel hosszabb részt a chatből."
+      "errFew": "Patrik csak néhány üzenetet talált. Görgess lassabban, és vegyél fel hosszabb részt a chatből."
     }
   },
   "report": {
-    "by": "Nana",
-    "tagline": "81 éves. Elolvasott minden chatet, amit valaha írtak. Még mindig hoz levest.",
+    "by": "Patrik",
+    "tagline": "Volt esküvői DJ. Nulla szűrő. Erős vélemény a playlistedről.",
     "share": "Jelentés megosztása",
     "copied": "Link kimásolva",
     "privacy": "Privát, és te irányítod",
-    "cutoff": "A chat túl hosszú volt ahhoz, hogy egyszerre elolvassa, ezért Nana {date} óta mindent elolvasott.",
+    "cutoff": "A chat túl hosszú volt ahhoz, hogy egyszerre elolvassa, ezért Patrik {date} óta mindent elolvasott.",
     "statsTitle": "A számok",
     "stat": {
       "messages": "Üzenetek",
@@ -484,34 +484,34 @@
     "peopleTitle": "És mindegyikőtökről",
     "unlock": "A teljes jelentés elolvasása",
     "unlockNote": "1 kreditbe kerül · neked {n} van",
-    "noCredits": "Elfogytak a kreditjeid. A fizetés hamarosan elindul — Nana majd ír e-mailt.",
-    "writingFull": "Nana írja a teljes jelentést. Kb. 2 perc — e-mailt is küldünk.",
-    "failed": "Valami elromlott, miközben Nana írt. A kreditedet visszaadtuk. Kérlek, próbáld újra.",
+    "noCredits": "Elfogytak a kreditjeid. A fizetés hamarosan elindul — Patrik majd ír e-mailt.",
+    "writingFull": "Patrik írja a teljes jelentést. Kb. 2 perc — e-mailt is küldünk.",
+    "failed": "Valami elromlott, miközben Patrik írt. A kreditedet visszaadtuk. Kérlek, próbáld újra.",
     "retry": "Újrapróbálás",
     "peopleSection": "Ki kicsoda",
     "glossary": "A chat szótára",
     "awards": "A díjak",
     "reactions": "Hogyan fog reagálni erre mindegyikőtök",
     "verdict": "Az ítélet",
-    "advice": "Mit tenne Nana",
-    "askTitle": "Kérdezz még valamit Nanától erről a chatről",
+    "advice": "Mit tenne Patrik",
+    "askTitle": "Kérdezz még valamit Patriktól erről a chatről",
     "askPlaceholder": "pl. Kezd elmúlni az érdeklődése? Ki haragszik rám valójában a csoportban?",
-    "askCta": "Kérdezd Nanát · 1 kredit",
-    "askExpired": "Ezt a chatet már töröltük a szervereinkről, így Nana nem tud róla új kérdésekre válaszolni.",
-    "nextTitle": "Melyik chatet olvassa el Nana legközelebb?",
+    "askCta": "Kérdezd Patrikot · 1 kredit",
+    "askExpired": "Ezt a chatet már töröltük a szervereinkről, így Patrik nem tud róla új kérdésekre válaszolni.",
+    "nextTitle": "Melyik chatet olvassa el Patrik legközelebb?",
     "nextCta": "Küldj még egy chatet",
     "notFound": "Ez a jelentés nem létezik, vagy törölték.",
-    "feedback": "Igaza volt Nanának?",
+    "feedback": "Igaza volt Patriknak?",
     "feedbackYes": "Telitalálat",
     "feedbackNo": "Nem igazán",
-    "thanks": "Köszi — Nana jegyzetel.",
+    "thanks": "Köszi — Patrik jegyzetel.",
     "aiNote": "AI írta szórakoztatási céllal. Félreértheti a kontextust — ne hozz ez alapján nagy döntéseket.",
     "toc": "Ebben a jelentésben",
     "minRead": "{n} perc olvasás",
     "activity": "Aktivitás havonta",
     "phrases": "Amit túl sokszor mondasz",
     "shareYou": "{name} kártyájának megosztása",
-    "personKicker": "Nana véleménye: {name}",
+    "personKicker": "Patrik véleménye: {name}",
     "readFull": "A teljes jelentés elolvasása",
     "sendYours": "Olvastasd el a saját chatedet"
   },
@@ -535,12 +535,12 @@
     "title": "Kérdések feltöltés előtt",
     "items": [
       {
-        "q": "Mi az a Nana Reads?",
-        "a": "Egy AI-karakter — Nana —, aki elolvassa a feltöltött chatet, és őszinte, vicces jelentést ír mindenkiről, aki benne van: a valódi dinamikáról, arról, kinek fontosabb, mi változott, és kinek mi a szerepe."
+        "q": "Mi az a What Patrik Thinks?",
+        "a": "Egy AI-karakter — Patrik —, aki elolvassa a feltöltött chatet, és őszinte, vicces jelentést ír mindenkiről, aki benne van: a valódi dinamikáról, arról, kinek fontosabb, mi változott, és kinek mi a szerepe."
       },
       {
         "q": "Ingyenes?",
-        "a": "Az első betekintés ingyenes: Nana bevezetője, a számok és a teljes jelentés összes fejezetcíme. A teljes jelentés egy kreditbe kerül. Nincs előfizetés."
+        "a": "Az első betekintés ingyenes: Patrik bevezetője, a számok és a teljes jelentés összes fejezetcíme. A teljes jelentés egy kreditbe kerül. Nincs előfizetés."
       },
       {
         "q": "Milyen appokkal működik?",
@@ -548,7 +548,7 @@
       },
       {
         "q": "Privát marad a chatem?",
-        "a": "Nana először a böngésződben számolja meg az üzeneteidet. A feltöltés titkosított, soha nem osztjuk meg senkivel a chatből, soha nem adjuk el, és soha nem tanítunk vele AI-t. Automatikusan törlődik 48 órával a feltöltés után, ha nem rendelsz jelentést, vagy 7 nappal a legutóbbi jelentésed után."
+        "a": "Patrik először a böngésződben számolja meg az üzeneteidet. A feltöltés titkosított, soha nem osztjuk meg senkivel a chatből, soha nem adjuk el, és soha nem tanítunk vele AI-t. Automatikusan törlődik 48 órával a feltöltés után, ha nem rendelsz jelentést, vagy 7 nappal a legutóbbi jelentésed után."
       },
       {
         "q": "Megtudják a chatben lévők?",
@@ -556,14 +556,14 @@
       },
       {
         "q": "Milyen nyelveken?",
-        "a": "A chated bármilyen nyelven lehet, akár vegyesen is. A jelentések 24 nyelven készülnek, és Nana a chat saját szlengjét használja."
+        "a": "A chated bármilyen nyelven lehet, akár vegyesen is. A jelentések 36 nyelven készülnek, és Patrik a chat saját szlengjét használja."
       },
       {
         "q": "Mennyi ideig tart?",
         "a": "Az előnézet nagyjából egy perc. A teljes jelentés körülbelül két perc. E-mailt küldünk, amikor kész, így nem kell az oldalon várnod."
       },
       {
-        "q": "Kérdezhetek még Nanától?",
+        "q": "Kérdezhetek még Patriktól?",
         "a": "Igen. Minden jelentés alatt feltehetsz egy további kérdést ugyanarról a chatről. Minden válasz egy új, mélyebb jelentés."
       },
       {
@@ -572,7 +572,7 @@
       },
       {
         "q": "Pontos?",
-        "a": "A számokat pontosan az exportodból számoljuk. A vélemények Nanáéi — az AI félreértheti a kontextust, ezért vedd szórakozásnak, ne tanácsnak."
+        "a": "A számokat pontosan az exportodból számoljuk. A vélemények Patrikéi — az AI félreértheti a kontextust, ezért vedd szórakozásnak, ne tanácsnak."
       },
       {
         "q": "Kinek szól?",
@@ -581,17 +581,17 @@
     ]
   },
   "about": {
-    "title": "A Nana Readsről",
+    "title": "A What Patrik Thinksről",
     "body": [
-      "A Nana Reads egy kis független stúdió projektje. Megalkottunk egy karaktert, akit mi is szerettünk volna, ha létezik: egy nagyit, aki elolvasta a világ összes chatjét, szeret téged, és ennek ellenére megmondja az igazat.",
-      "Nana olvas WhatsApp-, Telegram-, LINE-, KakaoTalk-, iMessage-, Instagram- és Messenger-chateket, és 24 nyelven ír.",
+      "A What Patrik Thinks egy kis független stúdió projektje. Megalkottuk a karaktert, akit mi is szerettünk volna, ha létezik: Patrikot, az esküvői DJ-t, aki tizenkét évig figyelte a párokat, családokat és baráti társaságokat a keverőpult mögül — most pedig a chateidet olvassa, és megmondja az igazat.",
+      "Patrik olvas WhatsApp-, Telegram-, LINE-, KakaoTalk-, iMessage-, Instagram- és Messenger-chateket, és 36 nyelven ír.",
       "Nekünk jobban számít az adatvédelem, mint bárki másnak ebben a kategóriában: a chatedet először a böngésződben számoljuk meg, automatikusan töröljük, és soha nem tanítunk vele AI-t."
     ],
     "factsTitle": "Röviden",
     "facts": [
       [
         "Név",
-        "Nana Reads"
+        "What Patrik Thinks"
       ],
       [
         "Mi ez",
@@ -599,7 +599,7 @@
       ],
       [
         "Nyelvek",
-        "24"
+        "36"
       ],
       [
         "Árazás",
@@ -620,8 +620,8 @@
     "sent": "Megkaptuk. E-mailben válaszolunk."
   },
   "feedback": {
-    "title": "Mondd el Nanának, mit gondolsz",
-    "sub": "Ötletek, panaszok, bókok Nanának. Mindent elolvasunk.",
+    "title": "Mondd el Patriknak, mit gondolsz",
+    "sub": "Ötletek, panaszok, bókok Patriknak. Mindent elolvasunk.",
     "placeholder": "A visszajelzésed",
     "send": "Küldés",
     "sent": "Köszönjük!"
@@ -629,7 +629,7 @@
   "footer": {
     "chats": "Chatek",
     "help": "Segítség",
-    "company": "Nana Reads",
+    "company": "What Patrik Thinks",
     "links": {
       "home": "Kezdőlap",
       "relationship": "Párkapcsolati chatek",
@@ -645,7 +645,7 @@
       "terms": "Feltételek",
       "about": "Rólunk"
     },
-    "rights": "© {year} Nana Reads. Kizárólag szórakoztatási célra."
+    "rights": "© {year} What Patrik Thinks. Kizárólag szórakoztatási célra."
   },
   "legal": {
     "englishOnly": "Ez az oldal angolul jelenik meg. Az angol változat a kötelező érvényű.",

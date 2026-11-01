@@ -1,21 +1,21 @@
 {
   "meta": {
-    "siteName": "Nana Reads",
-    "title": "Nana Reads — chat awak, dibaca nenek paling kepoh di dunia",
-    "description": "Muat naik chat WhatsApp, Telegram, LINE atau iMessage. Nana baca setiap mesej dan beritahu apa sebenarnya yang berlaku, siapa yang lebih sayang, dan apa yang semua orang fikir tentang satu sama lain."
+    "siteName": "What Patrik Thinks",
+    "title": "What Patrik Thinks — chat awak, dibaca lelaki yang langsung tak ada filter",
+    "description": "Muat naik chat WhatsApp, Telegram, LINE atau iMessage. Patrik baca setiap mesej dan beritahu apa sebenarnya yang berlaku, siapa yang lebih sayang, dan apa yang dia betul-betul fikir tentang semua orang."
   },
   "nav": {
-    "cta": "Hantar chat kat Nana",
+    "cta": "Hantar chat kat Patrik",
     "account": "Chat saya",
     "language": "Bahasa"
   },
   "home": {
-    "eyebrow": "Umur 81. Dah baca setiap chat yang pernah ditulis.",
-    "h1": "Hantar chat awak kat Nana. Dia akan beritahu apa yang sebenarnya berlaku.",
-    "sub": "Nana baca setiap satu mesej, kira benda yang awak harap dia tak kira, dan tulis laporan yang jujur dan sangat kelakar tentang semua orang dalam chat tu.",
-    "cta": "Hantar chat kat Nana",
+    "eyebrow": "12 tahun jadi DJ majlis kahwin. Dah tengok semuanya. Cakap semuanya.",
+    "h1": "Hantar chat awak kat Patrik. Dia akan beritahu apa yang sebenarnya berlaku.",
+    "sub": "Patrik baca setiap satu mesej, kira benda yang awak harap dia tak kira, dan tulis laporan yang jujur dan sangat kelakar tentang semua orang dalam chat tu.",
+    "cta": "Hantar chat kat Patrik",
     "ctaNote": "Pratonton percuma · tanpa kad · dipadam secara automatik",
-    "demoTitle": "Pilih satu chat, tengok apa Nana nampak",
+    "demoTitle": "Pilih satu chat, tengok apa Patrik nampak",
     "demoHint": "Ini semua chat rekaan. Yang awak punya mesti lagi teruk.",
     "howTitle": "Macam mana ia berfungsi",
     "how": [
@@ -24,7 +24,7 @@
         "d": "Dua kali tekan je dalam WhatsApp, Telegram, LINE atau KakaoTalk. Kami tunjuk caranya satu per satu."
       },
       {
-        "t": "Nana baca semuanya",
+        "t": "Patrik baca semuanya",
         "d": "Setiap mesej, setiap alasan dalam voice note, setiap 'otw' yang dihantar dari atas katil."
       },
       {
@@ -32,10 +32,10 @@
         "d": "Pratonton percuma dalam seminit. Laporan penuh masuk terus ke inbox awak — kongsi dalam group kalau berani."
       }
     ],
-    "findsTitle": "Apa yang Nana jumpa",
+    "findsTitle": "Apa yang Patrik jumpa",
     "finds": [
       {
-        "e": "🫖",
+        "e": "🎧",
         "t": "Siapa yang betul-betul ambil kisah",
         "d": "Siapa yang mulakan perbualan, siapa balas dalam 4 minit dan siapa dalam 4 jam."
       },
@@ -62,11 +62,11 @@
       "Tak pernah dijual, tak pernah dikongsi, tak pernah digunakan untuk melatih AI."
     ],
     "worksWith": "Boleh guna dengan",
-    "heatTitle": "Pilih tahap pedas Nana",
+    "heatTitle": "Pilih tahap pedas Patrik",
     "heat": {
       "gentle": {
         "t": "Lembut",
-        "d": "Nenek kad hari jadi. Usik-usik je, tak ada yang pedih."
+        "d": "Aura ucapan majlis kahwin yang manis. Usik-usik je, tak ada yang pedih."
       },
       "spicy": {
         "t": "Pedas",
@@ -78,37 +78,37 @@
       }
     },
     "finalH": "Lepas ni giliran chat awak.",
-    "finalSub": "Nana dah pun jerang air untuk teh tarik."
+    "finalSub": "Patrik dah pun mula pilih runut bunyi."
   },
   "landing": {
     "relationship": {
-      "metaTitle": "Dia betul-betul suka awak ke? Analisis chat dengan AI — Nana Reads",
-      "metaDesc": "Muat naik chat awak dengan crush, pasangan, situationship atau ex. Nana baca setiap mesej dan beritahu siapa yang lebih sayang dan apa yang dah berubah.",
-      "h1": "Dia betul-betul suka awak ke? Nana akan beritahu.",
-      "sub": "Hantar chat dengan crush, pasangan, situationship atau ex awak. Nana kira siapa mesej dulu, siapa yang menunggu, dan bila semuanya berubah."
+      "metaTitle": "Dia betul-betul suka awak ke? Analisis chat dengan AI — What Patrik Thinks",
+      "metaDesc": "Muat naik chat awak dengan crush, pasangan, situationship atau ex. Patrik baca setiap mesej dan beritahu siapa yang lebih sayang dan apa yang dah berubah.",
+      "h1": "Dia betul-betul suka awak ke? Patrik akan beritahu.",
+      "sub": "Hantar chat dengan crush, pasangan, situationship atau ex awak. Patrik kira siapa mesej dulu, siapa yang menunggu, dan bila semuanya berubah."
     },
     "friends": {
-      "metaTitle": "Penganalisis group chat & roast kawan-kawan — Nana Reads",
-      "metaDesc": "Muat naik group chat kawan-kawan awak. Nana roast semua orang, bagi anugerah dan cakap benda yang tak ada siapa berani cakap kuat-kuat.",
-      "h1": "Apa Nana fikir tentang awak dan geng awak?",
-      "sub": "Group budak lelaki, group budak perempuan, trip yang tak pernah jadi. Nana baca semuanya dan bagi setiap orang gelaran yang layak untuk mereka."
+      "metaTitle": "Penganalisis group chat & roast kawan-kawan — What Patrik Thinks",
+      "metaDesc": "Muat naik group chat kawan-kawan awak. Patrik roast semua orang, bagi anugerah dan cakap benda yang tak ada siapa berani cakap kuat-kuat.",
+      "h1": "Apa Patrik fikir tentang awak dan geng awak?",
+      "sub": "Group budak lelaki, group budak perempuan, trip yang tak pernah jadi. Patrik baca semuanya dan bagi setiap orang gelaran yang layak untuk mereka."
     },
     "family": {
-      "metaTitle": "Penganalisis group WhatsApp keluarga — Nana Reads",
-      "metaDesc": "Muat naik group chat keluarga awak. Nana cari siapa yang sebenarnya menyatukan keluarga, siapa yang tak pernah balas, dan siapa yang hantar bunga selamat pagi.",
-      "h1": "Group chat keluarga awak, dibaca nenek yang dah tengok semuanya.",
-      "sub": "Siapa yang menyatukan keluarga, siapa yang hanya balas gambar makanan, dan siapa yang masih merajuk pasal Hari Raya tahun lepas. Nana tahu."
+      "metaTitle": "Penganalisis group WhatsApp keluarga — What Patrik Thinks",
+      "metaDesc": "Muat naik group chat keluarga awak. Patrik cari siapa yang sebenarnya menyatukan keluarga, siapa yang tak pernah balas, dan siapa yang hantar bunga selamat pagi.",
+      "h1": "Group chat keluarga awak, dibaca lelaki yang dah jadi DJ di 600 majlis kahwin keluarga.",
+      "sub": "Siapa yang menyatukan keluarga, siapa yang hanya balas gambar makanan, dan siapa yang masih merajuk pasal Hari Raya tahun lepas. Patrik tahu."
     },
     "imessage": {
-      "metaTitle": "Penganalisis chat iMessage — Nana Reads",
-      "metaDesc": "Eksport perbualan iMessage dari Mac awak dan biar Nana baca. Siapa yang lebih sayang, apa yang berubah, dan apa langkah seterusnya.",
-      "h1": "Muat naik chat iMessage. Selebihnya biar Nana uruskan.",
-      "sub": "Eksport perbualan dari Mac awak dalam beberapa minit, dan Nana akan baca setiap gelembung biru."
+      "metaTitle": "Penganalisis chat iMessage — What Patrik Thinks",
+      "metaDesc": "Eksport perbualan iMessage dari Mac awak dan biar Patrik baca. Siapa yang lebih sayang, apa yang berubah, dan apa langkah seterusnya.",
+      "h1": "Muat naik chat iMessage. Selebihnya biar Patrik uruskan.",
+      "sub": "Eksport perbualan dari Mac awak dalam beberapa minit, dan Patrik akan baca setiap gelembung biru."
     },
     "whatsapp": {
-      "metaTitle": "Penganalisis chat WhatsApp — Nana Reads",
-      "metaDesc": "Eksport mana-mana chat WhatsApp dengan dua kali tekan. Nana baca setiap mesej dan tulis laporan jujur dan kelakar tentang semua orang dalam chat tu.",
-      "h1": "Analisis chat WhatsApp, oleh nenek awak yang paling kepoh.",
+      "metaTitle": "Penganalisis chat WhatsApp — What Patrik Thinks",
+      "metaDesc": "Eksport mana-mana chat WhatsApp dengan dua kali tekan. Patrik baca setiap mesej dan tulis laporan jujur dan kelakar tentang semua orang dalam chat tu.",
+      "h1": "Analisis chat WhatsApp, oleh lelaki yang langsung tak ada filter.",
       "sub": "Dua kali tekan untuk eksport, seminit untuk pratonton percuma. Boleh guna untuk chat peribadi dan group sebesar mana pun."
     }
   },
@@ -229,12 +229,12 @@
         }
       ],
       "headline": "Sembilan hari bluetick, lepas tu 'haiii apa khabar 🙂'",
-      "verdict": "Aina balas dalam tiga jam, awak balas dalam empat minit. Korang berdua tahu apa maksudnya, sayang, cuma tak ada siapa nak cakap.",
+      "verdict": "Aina balas dalam tiga jam, awak balas dalam empat minit. Korang berdua tahu apa maksudnya, cuma tak ada siapa nak cakap.",
       "locked": [
         "Siapa mesej dulu, dan siapa tunggu dimesej",
         "Sembilan hari senyap: apa yang sebenarnya berlaku",
         "Apa yang tersembunyi di sebalik '😅' Aina",
-        "Apa Nana akan buat kalau dia di tempat awak"
+        "Apa Patrik akan buat kalau dia di tempat awak"
       ]
     },
     {
@@ -301,11 +301,11 @@
     }
   ],
   "examples": {
-    "title": "Petikan dari laporan Nana",
+    "title": "Petikan dari laporan Patrik",
     "note": "Dari contoh chat di atas, jadi privasi tiada siapa terjejas.",
     "items": [
       "Amir dah post poll yang sama empat kali. Dia bukan perancang trip, dia perunding tebusan.",
-      "Awak balas dalam empat minit. Aina balas dalam tiga jam. Zaman Nana dulu, itu namanya 'petanda'.",
+      "Awak balas dalam empat minit. Aina balas dalam tiga jam. Kat majlis kahwin, kami panggil itu 'tarian perlahan yang tak ada siapa minta'.",
       "Faiz dah taip 4,000 perkataan dalam group ni dalam enam tahun. 3,100 daripadanya 'ok'.",
       "Mak tak perlukan kiraan kepala. Mak perlukan pelukan dan jawapan yang terus terang."
     ]
@@ -316,7 +316,7 @@
     "back": "Kembali",
     "next": "Teruskan",
     "context": {
-      "q": "Chat jenis apa Nana patut baca?",
+      "q": "Chat jenis apa Patrik patut baca?",
       "options": {
         "partner": {
           "t": "Cinta",
@@ -352,14 +352,14 @@
       "q": "Muat naik chat dari {app}",
       "drop": "Tekan untuk pilih fail yang dieksport",
       "dropHint": ".txt, .zip, .json atau .csv — sehingga 200 MB",
-      "reading": "Nana tengah baca… {count} mesej setakat ni",
+      "reading": "Patrik tengah baca… {count} mesej setakat ni",
       "readingLocal": "Ini berlaku dalam peranti awak. Belum ada apa-apa dimuat naik.",
       "uploading": "Memuat naik dengan selamat…",
       "privacy": "Chat awak kekal peribadi",
       "howTo": "Macam mana nak eksport?",
       "errors": {
-        "format": "Nana tak dapat baca fail tu. Pastikan ia fail eksport asal (.txt atau .zip), bukan screenshot.",
-        "few": "Chat ni pendek sikit. Nana perlukan sekurang-kurangnya 10 mesej untuk bagi pendapat.",
+        "format": "Patrik tak dapat baca fail tu. Pastikan ia fail eksport asal (.txt atau .zip), bukan screenshot.",
+        "few": "Chat ni pendek sikit. Patrik perlukan sekurang-kurangnya 10 mesej untuk bagi pendapat.",
         "big": "Fail tu lebih 200 MB. Eksport tanpa media dan cuba lagi.",
         "upload": "Muat naik gagal. Semak sambungan internet awak dan cuba lagi."
       },
@@ -407,22 +407,22 @@
       ],
       "other": [
         "Eksport chat sebagai fail teks, CSV atau JSON",
-        "Muat naik di sini — Nana boleh baca kebanyakan format"
+        "Muat naik di sini — Patrik boleh baca kebanyakan format"
       ]
     },
     "me": {
       "q": "Yang mana satu awak?",
-      "sub": "Supaya Nana bercakap dengan awak, bukan mengumpat pasal awak.",
+      "sub": "Supaya Patrik bercakap dengan awak, bukan mengumpat pasal awak.",
       "none": "Saya tak ada dalam chat ni"
     },
     "details": {
-      "q": "Ada apa-apa Nana patut tahu?",
+      "q": "Ada apa-apa Patrik patut tahu?",
       "notes": "Konteks pilihan (cth. 'kami putus bulan Mac', 'Faiz tu abang saya')",
       "lang": "Tulis laporan dalam",
-      "heat": "Nana nak pedas tahap mana?"
+      "heat": "Patrik nak pedas tahap mana?"
     },
     "email": {
-      "q": "Nana nak hantar laporan ke mana?",
+      "q": "Patrik nak hantar laporan ke mana?",
       "sub": "Kami akan e-mel kod 6 digit. Tiada kata laluan, tiada spam.",
       "placeholder": "you@example.com",
       "send": "Hantar kod",
@@ -438,32 +438,32 @@
       }
     },
     "writing": {
-      "t": "Nana tengah baca chat awak",
+      "t": "Patrik tengah baca chat awak",
       "lines": [
-        "Tengah pakai cermin mata…",
+        "Tengah pakai headphone…",
         "Tengah kira siapa mesej dulu…",
         "Tengah cari minggu semuanya berubah…",
         "Tengah garis bahagian yang best…",
-        "Tengah bancuh teh…"
+        "Tengah pilih runut bunyi awak…"
       ],
       "note": "Ini ambil masa lebih kurang seminit. Kami akan e-mel awak juga bila dah siap."
     },
     "recording": {
       "cta": "Atau muat naik rakaman skrin",
-      "hint": "Rakam skrin sambil skrol chat perlahan-lahan dari mesej paling lama ke paling baharu, kemudian muat naik video tu. Nana akan baca gelembung-gelembungnya.",
+      "hint": "Rakam skrin sambil skrol chat perlahan-lahan dari mesej paling lama ke paling baharu, kemudian muat naik video tu. Patrik akan baca gelembung-gelembungnya.",
       "extracting": "Memilih frame paling jelas… {pct}%",
-      "reading": "Nana tengah baca screenshot… ini ambil masa 1–2 minit",
+      "reading": "Patrik tengah baca screenshot… ini ambil masa 1–2 minit",
       "errVideo": "Video tu tak dapat dibaca. Cuba rakaman skrin biasa (MP4 atau MOV).",
-      "errFew": "Nana cuma jumpa beberapa mesej. Skrol lebih perlahan dan rakam bahagian chat yang lebih panjang."
+      "errFew": "Patrik cuma jumpa beberapa mesej. Skrol lebih perlahan dan rakam bahagian chat yang lebih panjang."
     }
   },
   "report": {
-    "by": "Nana",
-    "tagline": "81 tahun. Dah baca setiap chat yang pernah ditulis. Masih bawa bubur nasi.",
+    "by": "Patrik",
+    "tagline": "Bekas DJ majlis kahwin. Langsung tak ada filter. Banyak pendapat pasal playlist awak.",
     "share": "Kongsi laporan",
     "copied": "Pautan disalin",
     "privacy": "Peribadi dan di bawah kawalan awak",
-    "cutoff": "Chat ni terlalu panjang untuk dibaca sekali gus, jadi Nana baca semuanya dari {date} dan seterusnya.",
+    "cutoff": "Chat ni terlalu panjang untuk dibaca sekali gus, jadi Patrik baca semuanya dari {date} dan seterusnya.",
     "statsTitle": "Angka-angkanya",
     "stat": {
       "messages": "Mesej",
@@ -484,36 +484,36 @@
     "peopleTitle": "Dan tentang setiap seorang daripada korang",
     "unlock": "Baca laporan penuh",
     "unlockNote": "Guna 1 kredit · awak ada {n}",
-    "noCredits": "Kredit awak dah habis. Pembayaran akan dibuka tak lama lagi — Nana akan e-mel awak.",
-    "writingFull": "Nana tengah tulis laporan penuh. Lebih kurang 2 minit — kami akan e-mel awak juga.",
-    "failed": "Ada yang tak kena masa Nana menulis. Kredit awak dah dipulangkan. Sila cuba lagi.",
+    "noCredits": "Kredit awak dah habis. Pembayaran akan dibuka tak lama lagi — Patrik akan e-mel awak.",
+    "writingFull": "Patrik tengah tulis laporan penuh. Lebih kurang 2 minit — kami akan e-mel awak juga.",
+    "failed": "Ada yang tak kena masa Patrik menulis. Kredit awak dah dipulangkan. Sila cuba lagi.",
     "retry": "Cuba lagi",
     "peopleSection": "Siapa siapa",
     "glossary": "Kamus chat ni",
     "awards": "Anugerah",
     "reactions": "Macam mana setiap seorang akan bereaksi",
     "verdict": "Keputusan",
-    "advice": "Apa Nana akan buat",
-    "askTitle": "Tanya Nana benda lain tentang chat ni",
+    "advice": "Apa Patrik akan buat",
+    "askTitle": "Tanya Patrik benda lain tentang chat ni",
     "askPlaceholder": "cth. Dia dah hilang minat ke? Siapa dalam group ni yang sebenarnya geram dengan saya?",
-    "askCta": "Tanya Nana · 1 kredit",
-    "askExpired": "Chat ni dah dipadam dari server kami, jadi Nana tak boleh jawab soalan baharu tentangnya.",
-    "nextTitle": "Chat mana Nana patut baca lepas ni?",
+    "askCta": "Tanya Patrik · 1 kredit",
+    "askExpired": "Chat ni dah dipadam dari server kami, jadi Patrik tak boleh jawab soalan baharu tentangnya.",
+    "nextTitle": "Chat mana Patrik patut baca lepas ni?",
     "nextCta": "Hantar chat lain",
     "notFound": "Laporan ni tak wujud atau dah dipadam.",
-    "feedback": "Nana betul tak?",
+    "feedback": "Patrik betul tak?",
     "feedbackYes": "Tepat sekali",
     "feedbackNo": "Tak sangat",
-    "thanks": "Terima kasih — Nana tengah catat.",
+    "thanks": "Terima kasih — Patrik tengah catat.",
     "aiNote": "Ditulis oleh AI untuk hiburan. Ia boleh tersalah faham konteks — jangan buat keputusan besar berdasarkannya.",
     "toc": "Dalam laporan ni",
     "minRead": "{n} min bacaan",
     "activity": "Aktiviti mengikut bulan",
     "phrases": "Benda yang korang cakap terlampau kerap",
     "shareYou": "Kongsi kad {name}",
-    "personKicker": "Apa Nana fikir tentang {name}",
+    "personKicker": "Apa Patrik fikir tentang {name}",
     "readFull": "Baca laporan penuh",
-    "sendYours": "Biar Nana baca chat awak pula"
+    "sendYours": "Biar Patrik baca chat awak pula"
   },
   "account": {
     "title": "Chat saya",
@@ -535,12 +535,12 @@
     "title": "Soalan sebelum awak muat naik",
     "items": [
       {
-        "q": "Apa itu Nana Reads?",
-        "a": "Watak AI — Nana — yang baca chat yang awak muat naik dan tulis laporan jujur dan kelakar tentang semua orang dalamnya: dinamik sebenar, siapa yang lebih sayang, apa yang berubah, dan peranan setiap orang."
+        "q": "Apa itu What Patrik Thinks?",
+        "a": "Watak AI — Patrik — yang baca chat yang awak muat naik dan tulis laporan jujur dan kelakar tentang semua orang dalamnya: dinamik sebenar, siapa yang lebih sayang, apa yang berubah, dan peranan setiap orang."
       },
       {
         "q": "Percuma ke?",
-        "a": "Tinjauan pertama percuma: pembukaan Nana, angka-angkanya, dan tajuk setiap bahagian dalam laporan penuh. Laporan penuh guna satu kredit. Tiada langganan."
+        "a": "Tinjauan pertama percuma: pembukaan Patrik, angka-angkanya, dan tajuk setiap bahagian dalam laporan penuh. Laporan penuh guna satu kredit. Tiada langganan."
       },
       {
         "q": "App apa yang boleh guna?",
@@ -548,7 +548,7 @@
       },
       {
         "q": "Chat saya peribadi ke?",
-        "a": "Nana kira mesej awak dalam browser awak dulu. Fail yang dimuat naik disulitkan, tak pernah dikongsi dengan sesiapa dalam chat, tak pernah dijual, dan tak pernah digunakan untuk melatih AI. Ia dipadam secara automatik 48 jam selepas dimuat naik jika awak tak pesan laporan, atau 7 hari selepas laporan terbaru awak."
+        "a": "Patrik kira mesej awak dalam browser awak dulu. Fail yang dimuat naik disulitkan, tak pernah dikongsi dengan sesiapa dalam chat, tak pernah dijual, dan tak pernah digunakan untuk melatih AI. Ia dipadam secara automatik 48 jam selepas dimuat naik jika awak tak pesan laporan, atau 7 hari selepas laporan terbaru awak."
       },
       {
         "q": "Orang dalam chat akan tahu ke?",
@@ -556,14 +556,14 @@
       },
       {
         "q": "Bahasa apa?",
-        "a": "Chat awak boleh dalam apa-apa bahasa atau bercampur — bahasa rojak pun boleh. Laporan ditulis dalam 24 bahasa, dan Nana guna slanga chat tu sendiri."
+        "a": "Chat awak boleh dalam apa-apa bahasa atau bercampur — bahasa rojak pun boleh. Laporan ditulis dalam 36 bahasa, dan Patrik guna slanga chat tu sendiri."
       },
       {
         "q": "Berapa lama?",
         "a": "Pratonton ambil masa lebih kurang seminit. Laporan penuh lebih kurang dua minit. Kami e-mel bila dah siap, jadi tak perlu tunggu depan skrin."
       },
       {
-        "q": "Boleh tanya Nana lagi?",
+        "q": "Boleh tanya Patrik lagi?",
         "a": "Boleh. Di bawah setiap laporan, awak boleh tanya soalan susulan tentang chat yang sama. Setiap jawapan ialah laporan baharu yang lebih mendalam."
       },
       {
@@ -572,7 +572,7 @@
       },
       {
         "q": "Tepat ke?",
-        "a": "Angka-angkanya dikira dengan tepat dari fail eksport awak. Pendapat pula pendapat Nana — AI boleh tersalah faham konteks, jadi anggap ia hiburan, bukan nasihat."
+        "a": "Angka-angkanya dikira dengan tepat dari fail eksport awak. Pendapat pula pendapat Patrik — AI boleh tersalah faham konteks, jadi anggap ia hiburan, bukan nasihat."
       },
       {
         "q": "Untuk siapa?",
@@ -581,17 +581,17 @@
     ]
   },
   "about": {
-    "title": "Tentang Nana Reads",
+    "title": "Tentang What Patrik Thinks",
     "body": [
-      "Nana Reads ialah projek studio bebas yang kecil. Kami cipta watak yang kami harap memang wujud: seorang nenek yang dah baca setiap chat di dunia, sayangkan awak, dan tetap cakap benda yang betul.",
-      "Nana baca chat WhatsApp, Telegram, LINE, KakaoTalk, iMessage, Instagram dan Messenger dan menulis dalam 24 bahasa.",
+      "What Patrik Thinks ialah projek studio bebas yang kecil. Kami cipta watak yang kami harap memang wujud: Patrik, DJ majlis kahwin yang dua belas tahun memerhati pasangan, keluarga dan geng kawan-kawan dari belakang meja DJ — dan sekarang dia baca chat awak dan cakap benda yang betul.",
+      "Patrik baca chat WhatsApp, Telegram, LINE, KakaoTalk, iMessage, Instagram dan Messenger dan menulis dalam 36 bahasa.",
       "Kami ambil berat tentang privasi lebih daripada sesiapa dalam kategori ni: chat awak dikira dalam browser awak dulu, dipadam secara automatik, dan tak pernah digunakan untuk melatih AI."
     ],
     "factsTitle": "Fakta utama",
     "facts": [
       [
         "Nama",
-        "Nana Reads"
+        "What Patrik Thinks"
       ],
       [
         "Apa ia",
@@ -599,7 +599,7 @@
       ],
       [
         "Bahasa",
-        "24"
+        "36"
       ],
       [
         "Harga",
@@ -620,8 +620,8 @@
     "sent": "Dah terima. Kami akan balas melalui e-mel."
   },
   "feedback": {
-    "title": "Beritahu Nana apa awak fikir",
-    "sub": "Idea, aduan, pujian untuk Nana. Kami baca semuanya.",
+    "title": "Beritahu Patrik apa awak fikir",
+    "sub": "Idea, aduan, pujian untuk Patrik. Kami baca semuanya.",
     "placeholder": "Maklum balas awak",
     "send": "Hantar",
     "sent": "Terima kasih!"
@@ -629,7 +629,7 @@
   "footer": {
     "chats": "Chat",
     "help": "Bantuan",
-    "company": "Nana Reads",
+    "company": "What Patrik Thinks",
     "links": {
       "home": "Laman utama",
       "relationship": "Chat percintaan",
@@ -645,7 +645,7 @@
       "terms": "Terma",
       "about": "Tentang kami"
     },
-    "rights": "© {year} Nana Reads. Untuk hiburan sahaja."
+    "rights": "© {year} What Patrik Thinks. Untuk hiburan sahaja."
   },
   "legal": {
     "englishOnly": "Halaman ini dipaparkan dalam bahasa Inggeris. Versi bahasa Inggeris ialah versi yang mengikat.",

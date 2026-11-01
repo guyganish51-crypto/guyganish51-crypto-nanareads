@@ -1,9 +1,9 @@
 {
   "previewReady": {
-    "subject": "Nana skończyła czytać 🫖",
+    "subject": "Patrik skończył czytać 🎧",
     "pre": "W środku: {names}",
-    "h": "Przeczytałam wasz czat.",
-    "body": "Oto co napisałam o każdym z was:",
+    "h": "Przeczytałem wasz czat.",
+    "body": "Oto co napisałem o każdym z was:",
     "more": "…i więcej",
     "cta": "Czytaj podgląd"
   },
@@ -13,11 +13,11 @@
     "h": "Twój raport czeka",
     "body": "Przeczytałeś początek. Oto co jeszcze jest w środku:",
     "cta": "Czytaj cały raport",
-    "credit": "Masz jeszcze darmowy kredyt — Nana stawia."
+    "credit": "Masz jeszcze darmowy kredyt — tę kolejkę stawiam ja."
   },
   "hook": {
     "pre": "Ostatnie przypomnienie o twoim raporcie.",
-    "h": "Jeszcze jedno, zanim schowam czajnik",
+    "h": "Ostatni kawałek, zanim spakuję konsoletę",
     "body": "{title}",
     "cta": "Otwórz cały raport",
     "ps": "PS Przeczytaj, wrzuć na grupę i patrz, kto odpisze pierwszy 👀"
@@ -30,13 +30,13 @@
     "ps": "PS Wrzuć to na grupę. No dalej, odważ się."
   },
   "next": {
-    "subject": "To była tylko rozgrzewka 👀",
+    "subject": "To był tylko set na rozgrzewkę 👀",
     "pre": "A teraz wyślij mi czat, o którym naprawdę myślisz.",
-    "h": "Który czat naprawdę chcesz, żebym przeczytała?",
+    "h": "Który czat naprawdę chcesz, żebym przeczytał?",
     "body": "Ten, który czytasz od nowa o 2 w nocy. Ex. Ta relacja bez nazwy. Twoja mama.",
-    "cta": "Wyślij Nanie kolejny czat"
+    "cta": "Wyślij Patrikowi kolejny czat"
   },
-  "footer": "Dostajesz tę wiadomość, bo poprosiłeś Nanę o przeczytanie czatu.",
+  "footer": "Dostajesz tę wiadomość, bo poprosiłeś Patrika o przeczytanie czatu.",
   "unsubscribe": "Wypisz się",
-  "sign": "— Nana"
+  "sign": "— Patrik"
 }

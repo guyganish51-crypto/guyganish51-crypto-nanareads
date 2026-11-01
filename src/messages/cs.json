@@ -1,21 +1,21 @@
 {
   "meta": {
-    "siteName": "Nana Reads",
-    "title": "Nana Reads — tvůj chat přečte ta nejzvědavější babička na světě",
-    "description": "Nahraj chat z WhatsAppu, Telegramu, LINE nebo iMessage. Nana přečte každou zprávu a řekne ti, co se tam doopravdy děje, komu na tom záleží víc a co si kdo o kom myslí."
+    "siteName": "What Patrik Thinks",
+    "title": "What Patrik Thinks — tvůj chat přečte chlap, který nemá žádný filtr",
+    "description": "Nahraj chat z WhatsAppu, Telegramu, LINE nebo iMessage. Patrik přečte každou zprávu a řekne ti, co se tam doopravdy děje, komu na tom záleží víc a co si upřímně myslí o každém z vás."
   },
   "nav": {
-    "cta": "Ať to Nana přečte",
+    "cta": "Ať to Patrik přečte",
     "account": "Moje chaty",
     "language": "Jazyk"
   },
   "home": {
-    "eyebrow": "81 let. Přečetla každý chat, co kdy kdo napsal.",
-    "h1": "Pošli svůj chat a Nana ti řekne, co se tam doopravdy děje.",
-    "sub": "Nana přečte úplně každou zprávu, spočítá i to, co bys radši nechal pod pokličkou, a napíše o všech v chatu upřímný a hodně vtipný report.",
-    "cta": "Ať to Nana přečte",
+    "eyebrow": "12 let jako svatební DJ. Viděl všechno. Řekne všechno.",
+    "h1": "Pošli svůj chat a Patrik ti řekne, co se tam doopravdy děje.",
+    "sub": "Patrik přečte úplně každou zprávu, spočítá i to, co bys radši nechal pod pokličkou, a napíše o všech v chatu upřímný a hodně vtipný report.",
+    "cta": "Ať to Patrik přečte",
     "ctaNote": "Ukázka zdarma · bez karty · automaticky se maže",
-    "demoTitle": "Vyber chat a uvidíš, co vidí Nana",
+    "demoTitle": "Vyber chat a uvidíš, co vidí Patrik",
     "demoHint": "Tyhle chaty jsou vymyšlené. Ten tvůj bude horší.",
     "howTitle": "Jak to funguje",
     "how": [
@@ -24,7 +24,7 @@
         "d": "Dvě ťuknutí ve WhatsAppu, Telegramu, LINE nebo KakaoTalku. Přesně ti ukážeme jak."
       },
       {
-        "t": "Nana to přečte celé",
+        "t": "Patrik to přečte celé",
         "d": "Každou zprávu, každou výmluvu v hlasovce, každé „už jdu“ poslané z postele."
       },
       {
@@ -32,10 +32,10 @@
         "d": "Ukázka zdarma do minuty. Celý report ti přistane v e-mailu — a pokud máš odvahu, pošli ho do chatu."
       }
     ],
-    "findsTitle": "Co Nana najde",
+    "findsTitle": "Co Patrik najde",
     "finds": [
       {
-        "e": "🫖",
+        "e": "🎧",
         "t": "Komu na tom fakt záleží",
         "d": "Kdo začíná konverzace, kdo odpovídá do 4 minut a kdo za 4 hodiny."
       },
@@ -62,11 +62,11 @@
       "Nikdy se neprodávají, nikdy se nesdílejí a nikdy se na nich netrénuje AI."
     ],
     "worksWith": "Funguje s",
-    "heatTitle": "Vyber, jak moc Nana přitlačí",
+    "heatTitle": "Vyber, jak moc Patrik přitlačí",
     "heat": {
       "gentle": {
         "t": "Jemně",
-        "d": "Babička z narozeninového přání. Popíchne, ale nebolí to."
+        "d": "Sladká energie svatebního přípitku. Popíchne, ale nebolí to."
       },
       "spicy": {
         "t": "Ostře",
@@ -78,37 +78,37 @@
       }
     },
     "finalH": "Tvůj chat je na řadě.",
-    "finalSub": "Nana už staví vodu na čaj."
+    "finalSub": "Patrik už vybírá soundtrack."
   },
   "landing": {
     "relationship": {
-      "metaTitle": "Líbíš se mu vůbec? AI rozbor vašeho chatu — Nana Reads",
-      "metaDesc": "Nahraj chat se svým crushem, partnerem, situationshipem nebo ex. Nana přečte každou zprávu a řekne ti, komu záleží víc a co se změnilo.",
-      "h1": "Líbíš se mu vůbec? Nana ti to řekne na rovinu.",
-      "sub": "Pošli chat se svým crushem, partnerem, situationshipem nebo ex. Nana spočítá, kdo píše první, kdo čeká a kdy se to celé otočilo."
+      "metaTitle": "Líbíš se mu vůbec? AI rozbor vašeho chatu — What Patrik Thinks",
+      "metaDesc": "Nahraj chat se svým crushem, partnerem, situationshipem nebo ex. Patrik přečte každou zprávu a řekne ti, komu záleží víc a co se změnilo.",
+      "h1": "Líbíš se mu vůbec? Patrik ti to řekne na rovinu.",
+      "sub": "Pošli chat se svým crushem, partnerem, situationshipem nebo ex. Patrik spočítá, kdo píše první, kdo čeká a kdy se to celé otočilo."
     },
     "friends": {
-      "metaTitle": "Rozbor skupinového chatu a roast kamarádů — Nana Reads",
-      "metaDesc": "Nahraj skupinový chat s kamarády. Nana zgriluje každého, rozdá ceny a řekne nahlas to, co si nikdo netroufne.",
-      "h1": "Co si Nana myslí o tobě a tvých kamarádech?",
-      "sub": "Klučičí chat, holčičí chat, výlet, ze kterého nikdy nic nebylo. Nana přečte všechno a dá každému titul, který si zaslouží."
+      "metaTitle": "Rozbor skupinového chatu a roast kamarádů — What Patrik Thinks",
+      "metaDesc": "Nahraj skupinový chat s kamarády. Patrik zgriluje každého, rozdá ceny a řekne nahlas to, co si nikdo netroufne.",
+      "h1": "Co si Patrik myslí o tobě a tvých kamarádech?",
+      "sub": "Klučičí chat, holčičí chat, výlet, ze kterého nikdy nic nebylo. Patrik přečte všechno a dá každému titul, který si zaslouží."
     },
     "family": {
-      "metaTitle": "Rozbor rodinné skupiny na WhatsAppu — Nana Reads",
-      "metaDesc": "Nahraj rodinný skupinový chat. Nana zjistí, kdo rodinu doopravdy drží pohromadě, kdo nikdy neodpovídá a kdo posílá ty kytičky na dobré ráno.",
-      "h1": "Váš rodinný chat přečte babička, která už viděla všechno.",
-      "sub": "Kdo drží rodinu pohromadě, kdo odpovídá jen na fotky jídla a kdo se pořád zlobí kvůli loňským Vánocům. Nana to ví."
+      "metaTitle": "Rozbor rodinné skupiny na WhatsAppu — What Patrik Thinks",
+      "metaDesc": "Nahraj rodinný skupinový chat. Patrik zjistí, kdo rodinu doopravdy drží pohromadě, kdo nikdy neodpovídá a kdo posílá ty kytičky na dobré ráno.",
+      "h1": "Váš rodinný chat přečte chlap, který odehrál 600 rodinných svateb.",
+      "sub": "Kdo drží rodinu pohromadě, kdo odpovídá jen na fotky jídla a kdo se pořád zlobí kvůli loňským Vánocům. Patrik to ví."
     },
     "imessage": {
-      "metaTitle": "Rozbor chatu z iMessage — Nana Reads",
-      "metaDesc": "Exportuj konverzaci z iMessage na svém Macu a Nana si ji přečte. Komu záleží víc, co se změnilo a co dál.",
-      "h1": "Nahraj chat z iMessage. Zbytek zařídí Nana.",
-      "sub": "Exportuj konverzaci z Macu za pár minut a Nana přečte každou modrou bublinu."
+      "metaTitle": "Rozbor chatu z iMessage — What Patrik Thinks",
+      "metaDesc": "Exportuj konverzaci z iMessage na svém Macu a Patrik si ji přečte. Komu záleží víc, co se změnilo a co dál.",
+      "h1": "Nahraj chat z iMessage. Zbytek zařídí Patrik.",
+      "sub": "Exportuj konverzaci z Macu za pár minut a Patrik přečte každou modrou bublinu."
     },
     "whatsapp": {
-      "metaTitle": "Rozbor chatu z WhatsAppu — Nana Reads",
-      "metaDesc": "Exportuj jakýkoli chat z WhatsAppu dvěma ťuknutími. Nana přečte každou zprávu a napíše o všech upřímný a vtipný report.",
-      "h1": "Rozbor chatu z WhatsAppu od tvé nejzvědavější babičky.",
+      "metaTitle": "Rozbor chatu z WhatsAppu — What Patrik Thinks",
+      "metaDesc": "Exportuj jakýkoli chat z WhatsAppu dvěma ťuknutími. Patrik přečte každou zprávu a napíše o všech upřímný a vtipný report.",
+      "h1": "Rozbor chatu z WhatsAppu od chlapa, který nemá žádný filtr.",
       "sub": "Dvě ťuknutí na export, minuta do ukázky zdarma. Funguje se soukromými chaty i se skupinami jakékoli velikosti."
     }
   },
@@ -229,12 +229,12 @@
         }
       ],
       "headline": "Devět dní na přečteno a pak „ahojjj jak se máš 🙂“",
-      "verdict": "Tereza odpovídá za tři hodiny, ty za čtyři minuty. Oba moc dobře víte, co to znamená, zlatíčko, a ani jeden z vás to neřekne nahlas.",
+      "verdict": "Tereza odpovídá za tři hodiny, ty za čtyři minuty. Oba moc dobře víte, co to znamená, a ani jeden z vás to neřekne nahlas.",
       "locked": [
         "Kdo píše první a kdo čeká, až mu někdo napíše",
         "Devět dní ticha: co se doopravdy stalo",
         "Co se skrývá za Terezinou „😅“",
-        "Co by Nana udělala na tvém místě"
+        "Co by Patrik udělal na tvém místě"
       ]
     },
     {
@@ -301,11 +301,11 @@
     }
   ],
   "examples": {
-    "title": "Co Nana napsala v reportech",
+    "title": "Co Patrik napsal v reportech",
     "note": "Z ukázkových chatů nahoře, takže ničí soukromí neutrpělo.",
     "items": [
       "Honza dal do chatu stejnou anketu čtyřikrát. To není organizátor výletů, to je vyjednavač při braní rukojmí.",
-      "Ty odpovídáš za čtyři minuty. Tereza za tři hodiny. Za mých časů se tomu říkalo „znamení“.",
+      "Ty odpovídáš za čtyři minuty. Tereza za tři hodiny. Na svatbách tomu říkáme „ploužák, o který nikdo nestál“.",
       "Ondra za šest let napsal do téhle skupiny 4 000 slov. 3 100 z nich bylo „ok“.",
       "Máma nepotřebuje počty. Máma potřebuje obejmout a slyšet jasnou odpověď."
     ]
@@ -316,7 +316,7 @@
     "back": "Zpět",
     "next": "Pokračovat",
     "context": {
-      "q": "Jaký chat má Nana číst?",
+      "q": "Jaký chat má Patrik číst?",
       "options": {
         "partner": {
           "t": "Romantika",
@@ -352,14 +352,14 @@
       "q": "Nahraj chat z {app}",
       "drop": "Ťukni a vyber exportovaný soubor",
       "dropHint": ".txt, .zip, .json nebo .csv — až 200 MB",
-      "reading": "Nana čte… zatím {count} zpráv",
+      "reading": "Patrik čte… zatím {count} zpráv",
       "readingLocal": "Děje se to v tvém zařízení. Zatím se nic nenahrálo.",
       "uploading": "Bezpečně nahráváme…",
       "privacy": "Tvůj chat zůstane soukromý",
       "howTo": "Jak ho mám exportovat?",
       "errors": {
-        "format": "Tenhle soubor Nana neumí přečíst. Ujisti se, že je to původní export (.txt nebo .zip), ne snímek obrazovky.",
-        "few": "Tenhle chat je trochu krátký. Aby si Nana udělala názor, potřebuje aspoň 10 zpráv.",
+        "format": "Tenhle soubor Patrik neumí přečíst. Ujisti se, že je to původní export (.txt nebo .zip), ne snímek obrazovky.",
+        "few": "Tenhle chat je trochu krátký. Aby si Patrik udělal názor, potřebuje aspoň 10 zpráv.",
         "big": "Soubor má přes 200 MB. Exportuj ho bez médií a zkus to znovu.",
         "upload": "Nahrávání se nepovedlo. Zkontroluj připojení a zkus to znovu."
       },
@@ -407,22 +407,22 @@
       ],
       "other": [
         "Exportuj chat jako textový, CSV nebo JSON soubor",
-        "Nahraj ho sem — Nana přečte většinu formátů"
+        "Nahraj ho sem — Patrik přečte většinu formátů"
       ]
     },
     "me": {
       "q": "Který z nich jsi ty?",
-      "sub": "Ať Nana mluví s tebou, a ne o tobě.",
+      "sub": "Ať Patrik mluví s tebou, a ne o tobě.",
       "none": "V tomhle chatu nejsem"
     },
     "details": {
-      "q": "Má Nana něco vědět?",
+      "q": "Má Patrik něco vědět?",
       "notes": "Nepovinný kontext (např. „rozešli jsme se v březnu“, „Tomáš je můj brácha“)",
       "lang": "Jazyk reportu",
-      "heat": "Jak moc má Nana přitlačit?"
+      "heat": "Jak moc má Patrik přitlačit?"
     },
     "email": {
-      "q": "Kam má Nana poslat report?",
+      "q": "Kam má Patrik poslat report?",
       "sub": "Pošleme ti e-mailem šestimístný kód. Žádné heslo, žádný spam.",
       "placeholder": "ty@priklad.cz",
       "send": "Poslat kód",
@@ -438,32 +438,32 @@
       }
     },
     "writing": {
-      "t": "Nana čte tvůj chat",
+      "t": "Patrik čte tvůj chat",
       "lines": [
-        "Nasazuje si brýle…",
+        "Nasazuje si sluchátka…",
         "Počítá, kdo píše první…",
         "Hledá týden, kdy se všechno změnilo…",
         "Podtrhává ty nejlepší kousky…",
-        "Vaří čaj…"
+        "Vybírá ti soundtrack…"
       ],
       "note": "Trvá to asi minutu. Až to bude hotové, pošleme ti i e-mail."
     },
     "recording": {
       "cta": "Nebo nahraj záznam obrazovky",
-      "hint": "Nahraj, jak pomalu scrolluješ chatem od nejstarší zprávy po nejnovější, a video nahraj sem. Nana přečte bubliny.",
+      "hint": "Nahraj, jak pomalu scrolluješ chatem od nejstarší zprávy po nejnovější, a video nahraj sem. Patrik přečte bubliny.",
       "extracting": "Vybíráme nejostřejší snímky… {pct} %",
-      "reading": "Nana čte snímky obrazovky… trvá to 1–2 minuty",
+      "reading": "Patrik čte snímky obrazovky… trvá to 1–2 minuty",
       "errVideo": "Tohle video nejde přečíst. Zkus běžný záznam obrazovky (MP4 nebo MOV).",
-      "errFew": "Nana našla jen pár zpráv. Scrolluj pomaleji a nahraj delší kus chatu."
+      "errFew": "Patrik našel jen pár zpráv. Scrolluj pomaleji a nahraj delší kus chatu."
     }
   },
   "report": {
-    "by": "Nana",
-    "tagline": "81 let. Přečetla každý chat, co kdy kdo napsal. Pořád nosí polívku.",
+    "by": "Patrik",
+    "tagline": "Bývalý svatební DJ. Nulový filtr. Vyhraněné názory na tvůj playlist.",
     "share": "Sdílet report",
     "copied": "Odkaz zkopírován",
     "privacy": "Soukromé a pod tvou kontrolou",
-    "cutoff": "Chat byl moc dlouhý na jedno přečtení, takže Nana četla všechno od {date} dál.",
+    "cutoff": "Chat byl moc dlouhý na jedno přečtení, takže Patrik četl všechno od {date} dál.",
     "statsTitle": "Čísla",
     "stat": {
       "messages": "Zprávy",
@@ -484,8 +484,8 @@
     "peopleTitle": "A o každém z vás",
     "unlock": "Přečíst celý report",
     "unlockNote": "Stojí 1 kredit · máš {n}",
-    "noCredits": "Došly ti kredity. Platby brzy spustíme — Nana ti pošle e-mail.",
-    "writingFull": "Nana píše celý report. Zhruba 2 minuty — pošleme ti i e-mail.",
+    "noCredits": "Došly ti kredity. Platby brzy spustíme — Patrik ti pošle e-mail.",
+    "writingFull": "Patrik píše celý report. Zhruba 2 minuty — pošleme ti i e-mail.",
     "failed": "Při psaní se něco pokazilo. Kredit ti vracíme. Zkus to prosím znovu.",
     "retry": "Zkusit znovu",
     "peopleSection": "Kdo je kdo",
@@ -493,27 +493,27 @@
     "awards": "Ceny",
     "reactions": "Jak na tohle zareaguje každý z vás",
     "verdict": "Verdikt",
-    "advice": "Co by udělala Nana",
-    "askTitle": "Chceš vědět ještě něco? Nana ti k tomuhle chatu odpoví",
+    "advice": "Co by udělal Patrik",
+    "askTitle": "Chceš vědět ještě něco? Patrik ti k tomuhle chatu odpoví",
     "askPlaceholder": "např. Ztrácí o mě zájem? Kdo ze skupiny je na mě doopravdy naštvaný?",
     "askCta": "Zeptat se · 1 kredit",
-    "askExpired": "Tenhle chat už je smazaný z našich serverů, takže Nana na nové otázky k němu odpovědět nemůže.",
-    "nextTitle": "Jaký chat má Nana číst příště?",
+    "askExpired": "Tenhle chat už je smazaný z našich serverů, takže Patrik na nové otázky k němu odpovědět nemůže.",
+    "nextTitle": "Jaký chat má Patrik číst příště?",
     "nextCta": "Poslat další chat",
     "notFound": "Tenhle report neexistuje nebo byl smazán.",
-    "feedback": "Trefila se Nana?",
+    "feedback": "Trefil se Patrik?",
     "feedbackYes": "Přesně tak",
     "feedbackNo": "Moc ne",
-    "thanks": "Díky — Nana si to zapisuje.",
+    "thanks": "Díky — Patrik si to zapisuje.",
     "aiNote": "Napsala to AI pro zábavu. Může špatně pochopit kontext — nedělej podle toho velká rozhodnutí.",
     "toc": "V tomhle reportu",
     "minRead": "Čtení na {n} min",
     "activity": "Aktivita po měsících",
     "phrases": "Co říkáš až moc často",
     "shareYou": "Sdílet kartu: {name}",
-    "personKicker": "Co si Nana myslí — {name}",
+    "personKicker": "Co si Patrik myslí — {name}",
     "readFull": "Přečíst celý report",
-    "sendYours": "Ať Nana přečte i tvůj chat"
+    "sendYours": "Ať Patrik přečte i tvůj chat"
   },
   "account": {
     "title": "Moje chaty",
@@ -535,12 +535,12 @@
     "title": "Otázky, než něco nahraješ",
     "items": [
       {
-        "q": "Co je Nana Reads?",
-        "a": "AI postava — Nana — která přečte chat, který nahraješ, a napíše o všech v něm upřímný a vtipný report: skutečnou dynamiku, komu záleží víc, co se změnilo a jakou roli kdo hraje."
+        "q": "Co je What Patrik Thinks?",
+        "a": "AI postava — Patrik — která přečte chat, který nahraješ, a napíše o všech v něm upřímný a vtipný report: skutečnou dynamiku, komu záleží víc, co se změnilo a jakou roli kdo hraje."
       },
       {
         "q": "Je to zdarma?",
-        "a": "První pohled je zdarma: úvod, který Nana napíše, čísla a názvy všech kapitol celého reportu. Celý report stojí jeden kredit. Žádné předplatné."
+        "a": "První pohled je zdarma: úvod, který Patrik napíše, čísla a názvy všech kapitol celého reportu. Celý report stojí jeden kredit. Žádné předplatné."
       },
       {
         "q": "Které aplikace fungují?",
@@ -548,7 +548,7 @@
       },
       {
         "q": "Je můj chat v soukromí?",
-        "a": "Nana nejdřív spočítá tvoje zprávy přímo v prohlížeči. Nahrávání je šifrované, nikdy se nesdílí s nikým z chatu, nikdy se neprodává a nikdy se na něm netrénuje AI. Automaticky se smaže 48 hodin po nahrání, pokud si report neobjednáš, nebo 7 dní po tvém posledním reportu."
+        "a": "Patrik nejdřív spočítá tvoje zprávy přímo v prohlížeči. Nahrávání je šifrované, nikdy se nesdílí s nikým z chatu, nikdy se neprodává a nikdy se na něm netrénuje AI. Automaticky se smaže 48 hodin po nahrání, pokud si report neobjednáš, nebo 7 dní po tvém posledním reportu."
       },
       {
         "q": "Dozvědí se to lidi z chatu?",
@@ -556,14 +556,14 @@
       },
       {
         "q": "Jaké jazyky?",
-        "a": "Tvůj chat může být v jakémkoli jazyce nebo v mixu. Reporty píšeme ve 24 jazycích a Nana používá slang přímo z tvého chatu."
+        "a": "Tvůj chat může být v jakémkoli jazyce nebo v mixu. Reporty píšeme ve 36 jazycích a Patrik používá slang přímo z tvého chatu."
       },
       {
         "q": "Jak dlouho to trvá?",
         "a": "Ukázka trvá asi minutu. Celý report zhruba dvě minuty. Až bude hotový, pošleme ti e-mail, takže nemusíš čekat na stránce."
       },
       {
-        "q": "Může mi Nana odpovědět i na další otázky?",
+        "q": "Může mi Patrik odpovědět i na další otázky?",
         "a": "Ano. Pod každým reportem můžeš položit doplňující otázku ke stejnému chatu. Každá odpověď je nový, hlubší report."
       },
       {
@@ -572,7 +572,7 @@
       },
       {
         "q": "Je to přesné?",
-        "a": "Čísla se počítají přesně z tvého exportu. Názory si ale tvoří Nana sama — AI může špatně pochopit kontext, tak to ber jako zábavu, ne jako radu."
+        "a": "Čísla se počítají přesně z tvého exportu. Názory si ale tvoří Patrik sám — AI může špatně pochopit kontext, tak to ber jako zábavu, ne jako radu."
       },
       {
         "q": "Pro koho to je?",
@@ -581,17 +581,17 @@
     ]
   },
   "about": {
-    "title": "O Nana Reads",
+    "title": "O What Patrik Thinks",
     "body": [
-      "Nana Reads je malý nezávislý studiový projekt. Vytvořili jsme postavu, o které jsme snili: babičku, která přečetla každý chat na světě, má tě ráda a stejně ti řekne pravdu.",
-      "Nana čte chaty z WhatsAppu, Telegramu, LINE, KakaoTalku, iMessage, Instagramu a Messengeru a píše ve 24 jazycích.",
+      "What Patrik Thinks je malý nezávislý studiový projekt. Vytvořili jsme postavu, o které jsme snili: Patrika, svatebního DJ, který dvanáct let sledoval páry, rodiny a party kamarádů zpoza mixážního pultu — a teď čte tvoje chaty a říká ti pravdu.",
+      "Patrik čte chaty z WhatsAppu, Telegramu, LINE, KakaoTalku, iMessage, Instagramu a Messengeru a píše ve 36 jazycích.",
       "Na soukromí nám záleží víc než komukoli jinému v tomhle oboru: tvůj chat se nejdřív spočítá v prohlížeči, automaticky se smaže a nikdy se na něm netrénuje AI."
     ],
     "factsTitle": "V kostce",
     "facts": [
       [
         "Název",
-        "Nana Reads"
+        "What Patrik Thinks"
       ],
       [
         "Co to je",
@@ -599,7 +599,7 @@
       ],
       [
         "Jazyky",
-        "24"
+        "36"
       ],
       [
         "Cena",
@@ -620,8 +620,8 @@
     "sent": "Máme to. Odpovíme e-mailem."
   },
   "feedback": {
-    "title": "Napiš, co si myslíš — Nana poslouchá",
-    "sub": "Nápady, stížnosti i pochvaly. Nana i my čteme všechno.",
+    "title": "Napiš, co si myslíš — Patrik poslouchá",
+    "sub": "Nápady, stížnosti i pochvaly. Patrik i my čteme všechno.",
     "placeholder": "Tvoje zpětná vazba",
     "send": "Odeslat",
     "sent": "Děkujeme!"
@@ -629,7 +629,7 @@
   "footer": {
     "chats": "Chaty",
     "help": "Pomoc",
-    "company": "Nana Reads",
+    "company": "What Patrik Thinks",
     "links": {
       "home": "Domů",
       "relationship": "Chaty ze vztahů",
@@ -645,7 +645,7 @@
       "terms": "Podmínky",
       "about": "O nás"
     },
-    "rights": "© {year} Nana Reads. Jen pro zábavu."
+    "rights": "© {year} What Patrik Thinks. Jen pro zábavu."
   },
   "legal": {
     "englishOnly": "Tato stránka je zobrazena v angličtině. Závazná je anglická verze.",

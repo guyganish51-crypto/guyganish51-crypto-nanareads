@@ -1,6 +1,6 @@
 {
   "previewReady": {
-    "subject": "Nana har læst færdig 🫖",
+    "subject": "Patrik har læst færdig 🎧",
     "pre": "Indeni: {names}",
     "h": "Jeg har læst jeres chat.",
     "body": "Her er, hvad jeg skrev om hver af jer:",
@@ -13,11 +13,11 @@
     "h": "Din rapport venter",
     "body": "Du har læst indledningen. Her er, hvad der stadig gemmer sig:",
     "cta": "Læs hele rapporten",
-    "credit": "Du har stadig en gratis kredit — den giver Nana."
+    "credit": "Du har stadig en gratis kredit — den her omgang giver jeg."
   },
   "hook": {
     "pre": "Sidste påmindelse om din rapport.",
-    "h": "Lige én ting, før jeg sætter kedlen på plads",
+    "h": "Sidste sang, før jeg pakker DJ-pulten sammen",
     "body": "{title}",
     "cta": "Åbn hele rapporten",
     "ps": "PS. Læs den, smid den i chatten, og se, hvem der svarer først 👀"
@@ -30,13 +30,13 @@
     "ps": "PS. Del den i chatten. Jeg tør godt vædde på, at du ikke tør."
   },
   "next": {
-    "subject": "Det var bare opvarmningen 👀",
+    "subject": "Det var bare opvarmningssættet 👀",
     "pre": "Send mig nu den chat, du faktisk tænker på.",
     "h": "Hvilken chat vil du egentlig have, at jeg læser?",
     "body": "Den, du genlæser kl. 2 om natten. Eksen. Dit situationship. Din mor.",
-    "cta": "Send Nana endnu en chat"
+    "cta": "Send Patrik endnu en chat"
   },
-  "footer": "Du får denne mail, fordi du bad Nana om at læse en chat.",
+  "footer": "Du får denne mail, fordi du bad Patrik om at læse en chat.",
   "unsubscribe": "Afmeld",
-  "sign": "— Nana"
+  "sign": "— Patrik"
 }

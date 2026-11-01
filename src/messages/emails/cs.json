@@ -1,9 +1,9 @@
 {
   "previewReady": {
-    "subject": "Nana to dočetla 🫖",
+    "subject": "Patrik to dočetl 🎧",
     "pre": "Uvnitř: {names}",
-    "h": "Přečetla jsem váš chat.",
-    "body": "Tohle jsem napsala o každém z vás:",
+    "h": "Přečetl jsem váš chat.",
+    "body": "Tohle jsem napsal o každém z vás:",
     "more": "…a další",
     "cta": "Přečíst ukázku"
   },
@@ -13,11 +13,11 @@
     "h": "Tvůj report na tebe čeká",
     "body": "Úvod už máš přečtený. Tohle tam ještě čeká:",
     "cta": "Přečíst celý report",
-    "credit": "Pořád máš jeden kredit zdarma — Nana zve."
+    "credit": "Pořád máš jeden kredit zdarma — tohle kolo platím já."
   },
   "hook": {
     "pre": "Poslední připomínka tvého reportu.",
-    "h": "Ještě jedna věc, než uklidím konvici",
+    "h": "Poslední písnička, než sbalím mixpult",
     "body": "{title}",
     "cta": "Otevřít celý report",
     "ps": "P.S. Přečti si ho, hoď ho do chatu a sleduj, kdo odpoví první 👀"
@@ -30,13 +30,13 @@
     "ps": "P.S. Pošli ho do chatu. Schválně, jestli si troufneš."
   },
   "next": {
-    "subject": "To byla jen rozcvička 👀",
+    "subject": "To byl jen rozehřívací set 👀",
     "pre": "Teď mi pošli ten chat, na který doopravdy myslíš.",
-    "h": "Který chat chceš, abych si přečetla doopravdy?",
+    "h": "Který chat chceš, abych si přečetl doopravdy?",
     "body": "Ten, co si čteš znovu ve 2 ráno. Ex. Situationship. Tvoje máma.",
-    "cta": "Poslat další chat"
+    "cta": "Pošli Patrikovi další chat"
   },
-  "footer": "Tenhle e-mail ti přišel, protože jsi chtěl(a), aby Nana přečetla chat.",
+  "footer": "Tenhle e-mail ti přišel, protože jsi chtěl(a), aby Patrik přečetl chat.",
   "unsubscribe": "Odhlásit odběr",
-  "sign": "— Nana"
+  "sign": "— Patrik"
 }

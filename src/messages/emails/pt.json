@@ -1,6 +1,6 @@
 {
   "previewReady": {
-    "subject": "A Nana terminou de ler 🫖",
+    "subject": "O Patrik terminou de ler 🎧",
     "pre": "Aqui dentro: {names}",
     "h": "Li a conversa de vocês.",
     "body": "Olha o que eu escrevi sobre cada um:",
@@ -13,11 +13,11 @@
     "h": "Seu relatório está te esperando",
     "body": "Você leu o começo. Olha o que ainda tem aqui dentro:",
     "cta": "Ler o relatório completo",
-    "credit": "Você ainda tem um crédito grátis — é por conta da Nana."
+    "credit": "Você ainda tem um crédito grátis — essa rodada é por minha conta."
   },
   "hook": {
     "pre": "Último lembrete sobre o seu relatório.",
-    "h": "Só mais uma coisa antes de eu guardar a chaleira",
+    "h": "Última música antes de eu desmontar as pick-ups",
     "body": "{title}",
     "cta": "Abrir o relatório completo",
     "ps": "P.S. Lê, joga no grupo e vê quem responde primeiro 👀"
@@ -30,13 +30,13 @@
     "ps": "P.S. Manda no grupo. Duvido."
   },
   "next": {
-    "subject": "Isso foi só o aquecimento 👀",
+    "subject": "Isso foi só o set de aquecimento 👀",
     "pre": "Agora me manda a conversa que não sai da sua cabeça.",
     "h": "Qual conversa você quer mesmo que eu leia?",
     "body": "Aquela que você relê às 2 da manhã. O ex. O rolo. Sua mãe.",
-    "cta": "Mandar outra conversa pra Nana"
+    "cta": "Mandar outra conversa pro Patrik"
   },
-  "footer": "Você está recebendo este e-mail porque pediu para a Nana ler uma conversa.",
+  "footer": "Você está recebendo este e-mail porque pediu para o Patrik ler uma conversa.",
   "unsubscribe": "Cancelar inscrição",
-  "sign": "— Nana"
+  "sign": "— Patrik"
 }

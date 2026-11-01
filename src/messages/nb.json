@@ -1,21 +1,21 @@
 {
   "meta": {
-    "siteName": "Nana Reads",
-    "title": "Nana Reads — chatten din, lest av verdens mest nysgjerrige bestemor",
-    "description": "Last opp en chat fra WhatsApp, Telegram, LINE eller iMessage. Nana leser hver eneste melding og forteller deg hva som egentlig foregår, hvem som bryr seg mest, og hva alle egentlig synes om hverandre."
+    "siteName": "What Patrik Thinks",
+    "title": "What Patrik Thinks — chatten din, lest av en fyr helt uten filter",
+    "description": "Last opp en chat fra WhatsApp, Telegram, LINE eller iMessage. Patrik leser hver eneste melding og forteller deg hva som egentlig foregår, hvem som bryr seg mest, og hva han ærlig talt synes om alle sammen."
   },
   "nav": {
-    "cta": "Send Nana en chat",
+    "cta": "Send Patrik en chat",
     "account": "Mine chatter",
     "language": "Språk"
   },
   "home": {
-    "eyebrow": "81 år gammel. Har lest alle chatter som noen gang er skrevet.",
-    "h1": "Send Nana chatten din. Hun forteller deg hva som egentlig foregår.",
-    "sub": "Nana leser hver eneste melding, teller det du helst skulle sett at hun lot være, og skriver en ærlig og veldig morsom rapport om alle i den.",
-    "cta": "Send Nana en chat",
+    "eyebrow": "12 år som bryllups-DJ. Har sett alt. Sier alt.",
+    "h1": "Send Patrik chatten din. Han forteller deg hva som egentlig foregår.",
+    "sub": "Patrik leser hver eneste melding, teller det du helst skulle sett at han lot være, og skriver en ærlig og veldig morsom rapport om alle i den.",
+    "cta": "Send Patrik en chat",
     "ctaNote": "Gratis forhåndsvisning · ikke noe kort · slettes automatisk",
-    "demoTitle": "Velg en chat, se hva Nana ser",
+    "demoTitle": "Velg en chat, se hva Patrik ser",
     "demoHint": "Dette er oppdiktede chatter. Din blir verre.",
     "howTitle": "Slik funker det",
     "how": [
@@ -24,7 +24,7 @@
         "d": "To trykk i WhatsApp, Telegram, LINE eller KakaoTalk. Vi viser deg nøyaktig hvordan."
       },
       {
-        "t": "Nana leser alt sammen",
+        "t": "Patrik leser alt sammen",
         "d": "Hver melding, hver unnskyldning på talemelding, hver «på vei nå» sendt fra senga."
       },
       {
@@ -32,10 +32,10 @@
         "d": "Gratis forhåndsvisning på et minutt. Hele rapporten havner i innboksen din — del den i chatten hvis du tør."
       }
     ],
-    "findsTitle": "Det Nana finner",
+    "findsTitle": "Det Patrik finner",
     "finds": [
       {
-        "e": "🫖",
+        "e": "🎧",
         "t": "Hvem som faktisk bryr seg",
         "d": "Hvem som starter samtalene, hvem som svarer på 4 minutter og hvem på 4 timer."
       },
@@ -62,11 +62,11 @@
       "Aldri solgt, aldri delt, aldri brukt til å trene KI."
     ],
     "worksWith": "Funker med",
-    "heatTitle": "Velg hvor hardt Nana skal gå på",
+    "heatTitle": "Velg hvor hardt Patrik skal gå på",
     "heat": {
       "gentle": {
         "t": "Snill",
-        "d": "Bursdagskort-bestemor. Erting, ingenting som svir."
+        "d": "Søt bryllupstale-energi. Erting, ingenting som svir."
       },
       "spicy": {
         "t": "Krydret",
@@ -78,37 +78,37 @@
       }
     },
     "finalH": "Chatten din er neste.",
-    "finalSub": "Nana har allerede satt på kaffen."
+    "finalSub": "Patrik velger allerede lydsporet."
   },
   "landing": {
     "relationship": {
-      "metaTitle": "Liker han deg egentlig? KI-analyse av chatten din — Nana Reads",
-      "metaDesc": "Last opp chatten med crushen, kjæresten, situationshipen eller eksen. Nana leser hver melding og forteller deg hvem som bryr seg mest og hva som endret seg.",
-      "h1": "Liker han deg egentlig? Nana sier det som det er.",
-      "sub": "Send chatten med crushen, kjæresten, situationshipen eller eksen. Nana teller hvem som skriver først, hvem som venter, og når ting snudde."
+      "metaTitle": "Liker han deg egentlig? KI-analyse av chatten din — What Patrik Thinks",
+      "metaDesc": "Last opp chatten med crushen, kjæresten, situationshipen eller eksen. Patrik leser hver melding og forteller deg hvem som bryr seg mest og hva som endret seg.",
+      "h1": "Liker han deg egentlig? Patrik sier det som det er.",
+      "sub": "Send chatten med crushen, kjæresten, situationshipen eller eksen. Patrik teller hvem som skriver først, hvem som venter, og når ting snudde."
     },
     "friends": {
-      "metaTitle": "Gruppechat-analyse og vennegjeng-roast — Nana Reads",
-      "metaDesc": "Last opp gruppechatten til vennegjengen. Nana roaster alle sammen, deler ut priser og sier det ingen tør å si høyt.",
-      "h1": "Hva synes Nana om deg og vennene dine?",
-      "sub": "Guttechatten, jentechatten, turen som aldri ble noe av. Nana leser alt og gir alle tittelen de fortjener."
+      "metaTitle": "Gruppechat-analyse og vennegjeng-roast — What Patrik Thinks",
+      "metaDesc": "Last opp gruppechatten til vennegjengen. Patrik roaster alle sammen, deler ut priser og sier det ingen tør å si høyt.",
+      "h1": "Hva synes Patrik om deg og vennene dine?",
+      "sub": "Guttechatten, jentechatten, turen som aldri ble noe av. Patrik leser alt og gir alle tittelen de fortjener."
     },
     "family": {
-      "metaTitle": "Analyse av familiegruppa på WhatsApp — Nana Reads",
-      "metaDesc": "Last opp familiechatten. Nana finner ut hvem som egentlig holder familien sammen, hvem som aldri svarer, og hvem som sender god morgen-blomstene.",
-      "h1": "Familiechatten deres, lest av en bestemor som har sett alt.",
-      "sub": "Hvem som holder familien sammen, hvem som bare svarer på matbilder, og hvem som fortsatt er sur etter julaften i fjor. Nana vet."
+      "metaTitle": "Analyse av familiegruppa på WhatsApp — What Patrik Thinks",
+      "metaDesc": "Last opp familiechatten. Patrik finner ut hvem som egentlig holder familien sammen, hvem som aldri svarer, og hvem som sender god morgen-blomstene.",
+      "h1": "Familiechatten deres, lest av en fyr som har vært DJ i 600 familiebryllup.",
+      "sub": "Hvem som holder familien sammen, hvem som bare svarer på matbilder, og hvem som fortsatt er sur etter julaften i fjor. Patrik vet."
     },
     "imessage": {
-      "metaTitle": "iMessage-analyse — Nana Reads",
-      "metaDesc": "Eksporter en iMessage-samtale fra Macen og la Nana lese den. Hvem bryr seg mest, hva endret seg, og hva gjør du nå.",
-      "h1": "Last opp en iMessage-chat. Nana tar resten.",
-      "sub": "Eksporter en samtale fra Macen på et par minutter, så leser Nana hver eneste blå boble."
+      "metaTitle": "iMessage-analyse — What Patrik Thinks",
+      "metaDesc": "Eksporter en iMessage-samtale fra Macen og la Patrik lese den. Hvem bryr seg mest, hva endret seg, og hva gjør du nå.",
+      "h1": "Last opp en iMessage-chat. Patrik tar resten.",
+      "sub": "Eksporter en samtale fra Macen på et par minutter, så leser Patrik hver eneste blå boble."
     },
     "whatsapp": {
-      "metaTitle": "WhatsApp-analyse — Nana Reads",
-      "metaDesc": "Eksporter en hvilken som helst WhatsApp-chat med to trykk. Nana leser hver melding og skriver en ærlig, morsom rapport om alle i den.",
-      "h1": "WhatsApp-analyse, levert av din mest nysgjerrige bestemor.",
+      "metaTitle": "WhatsApp-analyse — What Patrik Thinks",
+      "metaDesc": "Eksporter en hvilken som helst WhatsApp-chat med to trykk. Patrik leser hver melding og skriver en ærlig, morsom rapport om alle i den.",
+      "h1": "WhatsApp-analyse, levert av en fyr helt uten filter.",
       "sub": "To trykk for å eksportere, ett minutt til gratis forhåndsvisning. Funker med private chatter og grupper i alle størrelser."
     }
   },
@@ -229,12 +229,12 @@
         }
       ],
       "headline": "Ni dager på lest, så «heiii hvordan går det 🙂»",
-      "verdict": "Ida svarer på tre timer, du svarer på fire minutter. Dere vet begge hva det betyr, vennen min, og ingen av dere sier det høyt.",
+      "verdict": "Ida svarer på tre timer, du svarer på fire minutter. Dere vet begge hva det betyr, og ingen av dere sier det høyt.",
       "locked": [
         "Hvem som skriver først, og hvem som venter på å få en melding",
         "Ni dager med stillhet: hva som egentlig skjedde",
         "Hva som skjuler seg bak Idas «😅»",
-        "Hva Nana ville gjort i ditt sted"
+        "Hva Patrik ville gjort i ditt sted"
       ]
     },
     {
@@ -301,11 +301,11 @@
     }
   ],
   "examples": {
-    "title": "Linjer fra Nanas rapporter",
+    "title": "Linjer fra Patriks rapporter",
     "note": "Fra eksempelchattene over, så ingens personvern kom til skade.",
     "items": [
       "Magnus har lagt ut den samme avstemningen fire ganger. Han er ikke turplanlegger, han er gisselforhandler.",
-      "Du svarer på fire minutter. Ida svarer på tre timer. På min tid kalte vi det «et tegn».",
+      "Du svarer på fire minutter. Ida svarer på tre timer. I bryllup kaller vi det «den langsomme dansen ingen ba om».",
       "Henrik har skrevet 4 000 ord i denne gruppa på seks år. 3 100 av dem var «ok».",
       "Mamma trenger ikke et antall. Mamma trenger en klem og et ærlig svar."
     ]
@@ -316,7 +316,7 @@
     "back": "Tilbake",
     "next": "Fortsett",
     "context": {
-      "q": "Hva slags chat skal Nana lese?",
+      "q": "Hva slags chat skal Patrik lese?",
       "options": {
         "partner": {
           "t": "Romantikk",
@@ -352,14 +352,14 @@
       "q": "Last opp chatten fra {app}",
       "drop": "Trykk for å velge den eksporterte fila",
       "dropHint": ".txt, .zip, .json eller .csv — opptil 200 MB",
-      "reading": "Nana leser… {count} meldinger så langt",
+      "reading": "Patrik leser… {count} meldinger så langt",
       "readingLocal": "Dette skjer på enheten din. Ingenting er lastet opp ennå.",
       "uploading": "Laster opp trygt…",
       "privacy": "Chatten din forblir privat",
       "howTo": "Hvordan eksporterer jeg den?",
       "errors": {
-        "format": "Nana fikk ikke lest den fila. Sjekk at det er den originale eksporten (.txt eller .zip), ikke et skjermbilde.",
-        "few": "Den chatten er litt kort. Nana trenger minst 10 meldinger for å ha en mening.",
+        "format": "Patrik fikk ikke lest den fila. Sjekk at det er den originale eksporten (.txt eller .zip), ikke et skjermbilde.",
+        "few": "Den chatten er litt kort. Patrik trenger minst 10 meldinger for å ha en mening.",
         "big": "Fila er over 200 MB. Eksporter uten media og prøv igjen.",
         "upload": "Opplastingen feilet. Sjekk tilkoblingen og prøv igjen."
       },
@@ -407,22 +407,22 @@
       ],
       "other": [
         "Eksporter chatten som tekst-, CSV- eller JSON-fil",
-        "Last den opp her — Nana leser de fleste formater"
+        "Last den opp her — Patrik leser de fleste formater"
       ]
     },
     "me": {
       "q": "Hvem av dem er deg?",
-      "sub": "Så Nana kan snakke til deg, ikke om deg.",
+      "sub": "Så Patrik kan snakke til deg, ikke om deg.",
       "none": "Jeg er ikke med i denne chatten"
     },
     "details": {
-      "q": "Noe Nana bør vite?",
+      "q": "Noe Patrik bør vite?",
       "notes": "Valgfri kontekst (f.eks. «vi slo opp i mars», «Ola er broren min»)",
       "lang": "Skriv rapporten på",
-      "heat": "Hvor hardt skal Nana gå på?"
+      "heat": "Hvor hardt skal Patrik gå på?"
     },
     "email": {
-      "q": "Hvor skal Nana sende rapporten?",
+      "q": "Hvor skal Patrik sende rapporten?",
       "sub": "Vi sender deg en 6-sifret kode på e-post. Ikke noe passord, ikke noe spam.",
       "placeholder": "deg@eksempel.no",
       "send": "Send kode",
@@ -438,32 +438,32 @@
       }
     },
     "writing": {
-      "t": "Nana leser chatten din",
+      "t": "Patrik leser chatten din",
       "lines": [
-        "Tar på seg brillene…",
+        "Tar på seg hodetelefonene…",
         "Teller hvem som skriver først…",
         "Finner uka da alt snudde…",
         "Streker under de saftige bitene…",
-        "Setter på kaffen…"
+        "Velger lydsporet ditt…"
       ],
       "note": "Dette tar omtrent ett minutt. Vi sender deg også en e-post når den er klar."
     },
     "recording": {
       "cta": "Eller last opp et skjermopptak",
-      "hint": "Ta opp mens du sakte scroller gjennom chatten fra den eldste meldingen til den nyeste, og last opp videoen. Nana leser boblene.",
+      "hint": "Ta opp mens du sakte scroller gjennom chatten fra den eldste meldingen til den nyeste, og last opp videoen. Patrik leser boblene.",
       "extracting": "Plukker ut de skarpeste bildene… {pct} %",
-      "reading": "Nana leser skjermbildene… dette tar 1–2 minutter",
+      "reading": "Patrik leser skjermbildene… dette tar 1–2 minutter",
       "errVideo": "Den videoen kunne ikke leses. Prøv et vanlig skjermopptak (MP4 eller MOV).",
-      "errFew": "Nana fant bare noen få meldinger. Scroll saktere og ta opp en lengre bit av chatten."
+      "errFew": "Patrik fant bare noen få meldinger. Scroll saktere og ta opp en lengre bit av chatten."
     }
   },
   "report": {
-    "by": "Nana",
-    "tagline": "81. Har lest alle chatter som noen gang er skrevet. Kommer fortsatt med suppe.",
+    "by": "Patrik",
+    "tagline": "Tidligere bryllups-DJ. Null filter. Sterke meninger om spillelista di.",
     "share": "Del rapporten",
     "copied": "Lenke kopiert",
     "privacy": "Privat og under din kontroll",
-    "cutoff": "Chatten var for lang til å leses i én omgang, så Nana leste alt fra {date} og utover.",
+    "cutoff": "Chatten var for lang til å leses i én omgang, så Patrik leste alt fra {date} og utover.",
     "statsTitle": "Tallene",
     "stat": {
       "messages": "Meldinger",
@@ -484,34 +484,34 @@
     "peopleTitle": "Og om hver av dere",
     "unlock": "Les hele rapporten",
     "unlockNote": "Bruker 1 kreditt · du har {n}",
-    "noCredits": "Du er tom for kreditter. Betaling åpner snart — Nana sender deg en e-post.",
-    "writingFull": "Nana skriver hele rapporten. Ca. 2 minutter — vi sender deg en e-post også.",
-    "failed": "Noe gikk galt mens Nana skrev. Kreditten din er refundert. Prøv igjen.",
+    "noCredits": "Du er tom for kreditter. Betaling åpner snart — Patrik sender deg en e-post.",
+    "writingFull": "Patrik skriver hele rapporten. Ca. 2 minutter — vi sender deg en e-post også.",
+    "failed": "Noe gikk galt mens Patrik skrev. Kreditten din er refundert. Prøv igjen.",
     "retry": "Prøv igjen",
     "peopleSection": "Hvem er hvem",
     "glossary": "Ordboka for denne chatten",
     "awards": "Prisutdelingen",
     "reactions": "Slik kommer hver av dere til å reagere på dette",
     "verdict": "Dommen",
-    "advice": "Hva Nana ville gjort",
-    "askTitle": "Spør Nana om noe annet i denne chatten",
+    "advice": "Hva Patrik ville gjort",
+    "askTitle": "Spør Patrik om noe annet i denne chatten",
     "askPlaceholder": "f.eks. Er han i ferd med å miste interessen? Hvem i gruppa er egentlig irritert på meg?",
-    "askCta": "Spør Nana · 1 kreditt",
-    "askExpired": "Denne chatten er slettet fra serverne våre, så Nana kan ikke svare på nye spørsmål om den.",
-    "nextTitle": "Hvilken chat skal Nana lese neste gang?",
+    "askCta": "Spør Patrik · 1 kreditt",
+    "askExpired": "Denne chatten er slettet fra serverne våre, så Patrik kan ikke svare på nye spørsmål om den.",
+    "nextTitle": "Hvilken chat skal Patrik lese neste gang?",
     "nextCta": "Send en chat til",
     "notFound": "Denne rapporten finnes ikke eller er slettet.",
-    "feedback": "Traff Nana?",
+    "feedback": "Traff Patrik?",
     "feedbackYes": "Midt i blinken",
     "feedbackNo": "Ikke helt",
-    "thanks": "Takk — Nana noterer.",
+    "thanks": "Takk — Patrik noterer.",
     "aiNote": "Skrevet av KI for underholdning. Den kan misforstå sammenhengen — ikke ta store beslutninger basert på den.",
     "toc": "I denne rapporten",
     "minRead": "{n} min lesing",
     "activity": "Aktivitet per måned",
     "phrases": "Ting du sier altfor ofte",
     "shareYou": "Del kortet til {name}",
-    "personKicker": "Hva Nana synes om {name}",
+    "personKicker": "Hva Patrik synes om {name}",
     "readFull": "Les hele rapporten",
     "sendYours": "Få din egen chat lest"
   },
@@ -535,12 +535,12 @@
     "title": "Spørsmål før du laster opp",
     "items": [
       {
-        "q": "Hva er Nana Reads?",
-        "a": "En KI-karakter — Nana — som leser en chat du laster opp og skriver en ærlig, morsom rapport om alle i den: den egentlige dynamikken, hvem som bryr seg mest, hva som endret seg, og hvilken rolle alle har."
+        "q": "Hva er What Patrik Thinks?",
+        "a": "En KI-karakter — Patrik — som leser en chat du laster opp og skriver en ærlig, morsom rapport om alle i den: den egentlige dynamikken, hvem som bryr seg mest, hva som endret seg, og hvilken rolle alle har."
       },
       {
         "q": "Er det gratis?",
-        "a": "Første titt er gratis: Nanas innledning, tallene og titlene på alt i hele rapporten. Hele rapporten koster én kreditt. Det er ikke noe abonnement."
+        "a": "Første titt er gratis: Patriks innledning, tallene og titlene på alt i hele rapporten. Hele rapporten koster én kreditt. Det er ikke noe abonnement."
       },
       {
         "q": "Hvilke apper funker?",
@@ -548,7 +548,7 @@
       },
       {
         "q": "Er chatten min privat?",
-        "a": "Nana teller meldingene dine i nettleseren din først. Opplastingen er kryptert, deles aldri med noen i chatten, selges aldri og brukes aldri til å trene KI. Den slettes automatisk 48 timer etter opplasting hvis du ikke bestiller en rapport, eller 7 dager etter den siste rapporten din."
+        "a": "Patrik teller meldingene dine i nettleseren din først. Opplastingen er kryptert, deles aldri med noen i chatten, selges aldri og brukes aldri til å trene KI. Den slettes automatisk 48 timer etter opplasting hvis du ikke bestiller en rapport, eller 7 dager etter den siste rapporten din."
       },
       {
         "q": "Får de i chatten vite det?",
@@ -556,14 +556,14 @@
       },
       {
         "q": "Hvilke språk?",
-        "a": "Chatten kan være på hvilket som helst språk, eller en blanding. Rapportene skrives på 24 språk, og Nana bruker chattens egen slang."
+        "a": "Chatten kan være på hvilket som helst språk, eller en blanding. Rapportene skrives på 36 språk, og Patrik bruker chattens egen slang."
       },
       {
         "q": "Hvor lang tid tar det?",
         "a": "Forhåndsvisningen tar omtrent ett minutt. Hele rapporten rundt to minutter. Vi sender deg en e-post når den er klar, så du slipper å sitte og vente på siden."
       },
       {
-        "q": "Kan jeg spørre Nana om mer?",
+        "q": "Kan jeg spørre Patrik om mer?",
         "a": "Ja. Under hver rapport kan du stille et oppfølgingsspørsmål om den samme chatten. Hvert svar er en ny, dypere rapport."
       },
       {
@@ -572,7 +572,7 @@
       },
       {
         "q": "Stemmer det?",
-        "a": "Tallene telles nøyaktig fra eksporten din. Meningene er Nanas — KI kan misforstå sammenhengen, så se på det som underholdning, ikke råd."
+        "a": "Tallene telles nøyaktig fra eksporten din. Meningene er Patriks — KI kan misforstå sammenhengen, så se på det som underholdning, ikke råd."
       },
       {
         "q": "Hvem er det for?",
@@ -581,17 +581,17 @@
     ]
   },
   "about": {
-    "title": "Om Nana Reads",
+    "title": "Om What Patrik Thinks",
     "body": [
-      "Nana Reads er et lite, uavhengig studioprosjekt. Vi lagde en karakter vi skulle ønske fantes: en bestemor som har lest alle chatter i verden, er glad i deg, og sier sannheten likevel.",
-      "Nana leser chatter fra WhatsApp, Telegram, LINE, KakaoTalk, iMessage, Instagram og Messenger, og skriver på 24 språk.",
+      "What Patrik Thinks er et lite, uavhengig studioprosjekt. Vi lagde karakteren vi skulle ønske fantes: Patrik, en bryllups-DJ som i tolv år har sett par, familier og vennegjenger fra bak DJ-pulten — og som nå leser chattene dine og sier deg sannheten.",
+      "Patrik leser chatter fra WhatsApp, Telegram, LINE, KakaoTalk, iMessage, Instagram og Messenger, og skriver på 36 språk.",
       "Vi bryr oss mer om personvern enn noen andre i denne kategorien: chatten din telles først i nettleseren din, slettes automatisk og brukes aldri til å trene KI."
     ],
     "factsTitle": "Nøkkelfakta",
     "facts": [
       [
         "Navn",
-        "Nana Reads"
+        "What Patrik Thinks"
       ],
       [
         "Hva det er",
@@ -599,7 +599,7 @@
       ],
       [
         "Språk",
-        "24"
+        "36"
       ],
       [
         "Pris",
@@ -620,8 +620,8 @@
     "sent": "Mottatt. Vi svarer på e-post."
   },
   "feedback": {
-    "title": "Si til Nana hva du synes",
-    "sub": "Ideer, klager, komplimenter til Nana. Vi leser alt.",
+    "title": "Si til Patrik hva du synes",
+    "sub": "Ideer, klager, komplimenter til Patrik. Vi leser alt.",
     "placeholder": "Tilbakemeldingen din",
     "send": "Send",
     "sent": "Tusen takk!"
@@ -629,7 +629,7 @@
   "footer": {
     "chats": "Chatter",
     "help": "Hjelp",
-    "company": "Nana Reads",
+    "company": "What Patrik Thinks",
     "links": {
       "home": "Hjem",
       "relationship": "Kjærlighetschatter",
@@ -645,7 +645,7 @@
       "terms": "Vilkår",
       "about": "Om oss"
     },
-    "rights": "© {year} Nana Reads. Kun for underholdning."
+    "rights": "© {year} What Patrik Thinks. Kun for underholdning."
   },
   "legal": {
     "englishOnly": "Denne siden vises på engelsk. Den engelske versjonen er den juridisk bindende.",

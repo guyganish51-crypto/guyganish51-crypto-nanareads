@@ -1,42 +1,42 @@
 {
   "previewReady": {
-    "subject": "Nana đọc xong rồi 🫖",
+    "subject": "Patrik đọc xong rồi 🎧",
     "pre": "Bên trong: {names}",
-    "h": "Bà đọc xong chat của mấy đứa rồi.",
-    "body": "Đây là những gì bà viết về từng đứa:",
+    "h": "Mình đọc xong chat của các bạn rồi.",
+    "body": "Đây là những gì mình viết về từng người:",
     "more": "…và còn nữa",
-    "cta": "Đọc bản xem trước của bà"
+    "cta": "Đọc bản xem trước của mình"
   },
   "nudge": {
     "subject": "{title}",
     "pre": "Phần lớn vẫn còn khóa.",
-    "h": "Báo cáo của con đang chờ",
-    "body": "Con đọc phần mở đầu rồi. Bên trong còn những thứ này:",
+    "h": "Báo cáo của bạn đang chờ",
+    "body": "Bạn đọc phần mở đầu rồi. Bên trong còn những thứ này:",
     "cta": "Đọc toàn bộ báo cáo",
-    "credit": "Con vẫn còn một lượt miễn phí — Nana bao."
+    "credit": "Bạn vẫn còn một lượt miễn phí — vòng này mình bao."
   },
   "hook": {
-    "pre": "Lời nhắc cuối cùng về báo cáo của con.",
-    "h": "Một chuyện cuối trước khi bà cất ấm trà",
+    "pre": "Lời nhắc cuối cùng về báo cáo của bạn.",
+    "h": "Bài cuối trước khi mình dọn bàn DJ",
     "body": "{title}",
     "cta": "Mở toàn bộ báo cáo",
     "ps": "T.B. Đọc đi, quăng vào nhóm, rồi xem ai trả lời đầu tiên 👀"
   },
   "fullReady": {
-    "subject": "Báo cáo đầy đủ của con xong rồi ✍️",
+    "subject": "Báo cáo đầy đủ của bạn xong rồi ✍️",
     "pre": "{title}",
     "h": "Xong. Không sót chữ nào.",
     "cta": "Đọc ngay",
-    "ps": "T.B. Chia sẻ vào nhóm đi. Bà thách đó."
+    "ps": "T.B. Chia sẻ vào nhóm đi. Mình thách đó."
   },
   "next": {
-    "subject": "Đó mới chỉ là khởi động 👀",
-    "pre": "Giờ gửi bà đoạn chat mà con thật sự cứ nghĩ tới.",
-    "h": "Con thật sự muốn bà đọc đoạn chat nào?",
-    "body": "Cái con đọc đi đọc lại lúc 2 giờ sáng. Người yêu cũ. Mối quan hệ mập mờ. Mẹ con.",
-    "cta": "Gửi Nana một đoạn chat khác"
+    "subject": "Đó mới chỉ là set khởi động 👀",
+    "pre": "Giờ gửi mình đoạn chat mà bạn thật sự cứ nghĩ tới.",
+    "h": "Bạn thật sự muốn mình đọc đoạn chat nào?",
+    "body": "Cái bạn đọc đi đọc lại lúc 2 giờ sáng. Người yêu cũ. Mối quan hệ mập mờ. Mẹ bạn.",
+    "cta": "Gửi Patrik một đoạn chat khác"
   },
-  "footer": "Con nhận được email này vì đã nhờ Nana đọc một đoạn chat.",
+  "footer": "Bạn nhận được email này vì đã nhờ Patrik đọc một đoạn chat.",
   "unsubscribe": "Hủy đăng ký",
-  "sign": "— Nana"
+  "sign": "— Patrik"
 }

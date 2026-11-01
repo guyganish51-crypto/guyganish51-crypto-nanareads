@@ -1,6 +1,6 @@
 {
   "previewReady": {
-    "subject": "Nana végzett az olvasással 🫖",
+    "subject": "Patrik végzett az olvasással 🎧",
     "pre": "Benne: {names}",
     "h": "Elolvastam a chateteket.",
     "body": "Ezt írtam mindegyikőtökről:",
@@ -13,11 +13,11 @@
     "h": "Vár a jelentésed",
     "body": "A bevezetőt már olvastad. Ez van még benne:",
     "cta": "A teljes jelentés elolvasása",
-    "credit": "Még van egy ingyenes kredited — Nana állja."
+    "credit": "Még van egy ingyenes kredited — ezt a kört én állom."
   },
   "hook": {
     "pre": "Utolsó emlékeztető a jelentésedről.",
-    "h": "Még egy dolog, mielőtt elpakolom a teáskannát",
+    "h": "Még egy utolsó szám, mielőtt összepakolom a keverőpultot",
     "body": "{title}",
     "cta": "A teljes jelentés megnyitása",
     "ps": "U.i. Olvasd el, dobd be a csoportba, és figyeld, ki válaszol először 👀"
@@ -30,13 +30,13 @@
     "ps": "U.i. Oszd meg a csoportban. Fogadok, hogy nem mered."
   },
   "next": {
-    "subject": "Ez csak a bemelegítés volt 👀",
+    "subject": "Ez csak a bemelegítő szett volt 👀",
     "pre": "Most küldd el azt a chatet, amin tényleg agyalsz.",
     "h": "Melyik chatet akarod igazán, hogy elolvassam?",
     "body": "Amit hajnali 2-kor újraolvasol. Az exed. A situationshipod. Az anyukád.",
-    "cta": "Küldj Nanának még egy chatet"
+    "cta": "Küldj Patriknak még egy chatet"
   },
-  "footer": "Azért kapod ezt az e-mailt, mert megkérted Nanát, hogy olvasson el egy chatet.",
+  "footer": "Azért kapod ezt az e-mailt, mert megkérted Patrikot, hogy olvasson el egy chatet.",
   "unsubscribe": "Leiratkozás",
-  "sign": "— Nana"
+  "sign": "— Patrik"
 }

@@ -1,6 +1,6 @@
 {
   "previewReady": {
-    "subject": "Nana sudah selesai baca 🫖",
+    "subject": "Patrik sudah selesai baca 🎧",
     "pre": "Isinya: {names}",
     "h": "Aku sudah baca chat kalian.",
     "body": "Ini yang aku tulis tentang kalian masing-masing:",
@@ -13,11 +13,11 @@
     "h": "Laporanmu sudah menunggu",
     "body": "Kamu sudah baca pembukaannya. Ini yang masih ada di dalam:",
     "cta": "Baca laporan lengkap",
-    "credit": "Kamu masih punya satu kredit gratis — Nana yang traktir."
+    "credit": "Kamu masih punya satu kredit gratis — ronde ini aku yang traktir."
   },
   "hook": {
     "pre": "Pengingat terakhir soal laporanmu.",
-    "h": "Satu hal lagi sebelum aku simpan teko",
+    "h": "Lagu terakhir sebelum aku beresin deck",
     "body": "{title}",
     "cta": "Buka laporan lengkap",
     "ps": "P.S. Baca, lempar ke grup, lalu lihat siapa yang balas duluan 👀"
@@ -30,13 +30,13 @@
     "ps": "P.S. Bagikan ke grup. Berani nggak?"
   },
   "next": {
-    "subject": "Itu baru pemanasan 👀",
+    "subject": "Itu baru set pemanasan 👀",
     "pre": "Sekarang kirim chat yang sebenarnya bikin kamu kepikiran.",
     "h": "Chat mana yang sebenarnya mau kamu suruh aku baca?",
     "body": "Yang kamu baca ulang jam 2 pagi. Mantan. Hubungan tanpa status. Ibumu.",
-    "cta": "Kirim chat lain ke Nana"
+    "cta": "Kirim chat lain ke Patrik"
   },
-  "footer": "Kamu menerima email ini karena kamu minta Nana membaca sebuah chat.",
+  "footer": "Kamu menerima email ini karena kamu minta Patrik membaca sebuah chat.",
   "unsubscribe": "Berhenti berlangganan",
-  "sign": "— Nana"
+  "sign": "— Patrik"
 }

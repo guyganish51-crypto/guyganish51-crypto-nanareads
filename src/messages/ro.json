@@ -1,21 +1,21 @@
 {
   "meta": {
-    "siteName": "Nana Reads",
-    "title": "Nana Reads — conversația ta, citită de cea mai băgăcioasă bunică din lume",
-    "description": "Încarcă o conversație din WhatsApp, Telegram, LINE sau iMessage. Nana citește fiecare mesaj și îți spune ce se întâmplă de fapt, cine ține mai mult și ce crede fiecare despre fiecare."
+    "siteName": "What Patrik Thinks",
+    "title": "What Patrik Thinks — conversația ta, citită de un tip fără niciun filtru",
+    "description": "Încarcă o conversație din WhatsApp, Telegram, LINE sau iMessage. Patrik citește fiecare mesaj și îți spune ce se întâmplă de fapt, cine ține mai mult și ce crede el sincer despre fiecare."
   },
   "nav": {
-    "cta": "Trimite-i Nanei o conversație",
+    "cta": "Trimite-i lui Patrik o conversație",
     "account": "Conversațiile mele",
     "language": "Limbă"
   },
   "home": {
-    "eyebrow": "81 de ani. A citit toate conversațiile scrise vreodată.",
-    "h1": "Trimite-i Nanei conversația. Îți spune ea ce se întâmplă de fapt.",
-    "sub": "Nana citește fiecare mesaj, numără exact ce ai prefera să nu numere și scrie un raport sincer și foarte amuzant despre toată lumea de acolo.",
-    "cta": "Trimite-i Nanei o conversație",
+    "eyebrow": "12 ani DJ la nunți. A văzut de toate. Spune de toate.",
+    "h1": "Trimite-i lui Patrik conversația. Îți spune el ce se întâmplă de fapt.",
+    "sub": "Patrik citește fiecare mesaj, numără exact ce ai prefera să nu numere și scrie un raport sincer și foarte amuzant despre toată lumea de acolo.",
+    "cta": "Trimite-i lui Patrik o conversație",
     "ctaNote": "Previzualizare gratuită · fără card · se șterge automat",
-    "demoTitle": "Alege o conversație și vezi ce vede Nana",
+    "demoTitle": "Alege o conversație și vezi ce vede Patrik",
     "demoHint": "Conversațiile astea sunt inventate. A ta o să fie mai rea.",
     "howTitle": "Cum funcționează",
     "how": [
@@ -24,7 +24,7 @@
         "d": "Două atingeri în WhatsApp, Telegram, LINE sau KakaoTalk. Îți arătăm exact cum."
       },
       {
-        "t": "Nana citește tot",
+        "t": "Patrik citește tot",
         "d": "Fiecare mesaj, fiecare scuză pe mesaj vocal, fiecare „vin acum” trimis din pat."
       },
       {
@@ -32,10 +32,10 @@
         "d": "Previzualizare gratuită într-un minut. Raportul complet îți vine pe mail — trimite-l în grup, dacă ai curaj."
       }
     ],
-    "findsTitle": "Ce descoperă Nana",
+    "findsTitle": "Ce descoperă Patrik",
     "finds": [
       {
-        "e": "🫖",
+        "e": "🎧",
         "t": "Cine ține cu adevărat",
         "d": "Cine începe conversațiile, cine răspunde în 4 minute și cine în 4 ore."
       },
@@ -62,11 +62,11 @@
       "Nu le vindem, nu le dăm nimănui, nu le folosim ca să antrenăm AI."
     ],
     "worksWith": "Merge cu",
-    "heatTitle": "Alege cât de tare să te ia Nana",
+    "heatTitle": "Alege cât de tare să te ia Patrik",
     "heat": {
       "gentle": {
         "t": "Blândă",
-        "d": "Bunica de pe felicitarea de ziua ta. Tachinează, dar nu înțeapă."
+        "d": "Energie de toast dulce la nuntă. Tachinează, dar nu înțeapă."
       },
       "spicy": {
         "t": "Picantă",
@@ -78,37 +78,37 @@
       }
     },
     "finalH": "Urmează conversația ta.",
-    "finalSub": "Nana a pus deja de-un ceai."
+    "finalSub": "Patrik deja alege coloana sonoră."
   },
   "landing": {
     "relationship": {
-      "metaTitle": "Chiar te place? Analiză AI a conversației voastre — Nana Reads",
-      "metaDesc": "Încarcă conversația cu crush-ul, partenerul, „ce-o fi asta” sau fostul. Nana citește fiecare mesaj și îți spune cine ține mai mult și ce s-a schimbat.",
-      "h1": "Chiar te place? Îți spune Nana.",
-      "sub": "Trimite conversația cu crush-ul, partenerul, „ce-o fi asta” sau fostul. Nana numără cine scrie primul, cine se lasă așteptat și când s-a schimbat totul."
+      "metaTitle": "Chiar te place? Analiză AI a conversației voastre — What Patrik Thinks",
+      "metaDesc": "Încarcă conversația cu crush-ul, partenerul, „ce-o fi asta” sau fostul. Patrik citește fiecare mesaj și îți spune cine ține mai mult și ce s-a schimbat.",
+      "h1": "Chiar te place? Îți spune Patrik.",
+      "sub": "Trimite conversația cu crush-ul, partenerul, „ce-o fi asta” sau fostul. Patrik numără cine scrie primul, cine se lasă așteptat și când s-a schimbat totul."
     },
     "friends": {
-      "metaTitle": "Analiză de grup cu prietenii și roast — Nana Reads",
-      "metaDesc": "Încarcă grupul cu prietenii. Nana îi ia la mișto pe toți, împarte premii și spune ce nimeni nu zice cu voce tare.",
-      "h1": "Ce crede Nana despre tine și prietenii tăi?",
-      "sub": "Grupul băieților, grupul fetelor, excursia care n-a mai avut loc. Nana citește tot și dă fiecăruia titlul pe care îl merită."
+      "metaTitle": "Analiză de grup cu prietenii și roast — What Patrik Thinks",
+      "metaDesc": "Încarcă grupul cu prietenii. Patrik îi ia la mișto pe toți, împarte premii și spune ce nimeni nu zice cu voce tare.",
+      "h1": "Ce crede Patrik despre tine și prietenii tăi?",
+      "sub": "Grupul băieților, grupul fetelor, excursia care n-a mai avut loc. Patrik citește tot și dă fiecăruia titlul pe care îl merită."
     },
     "family": {
-      "metaTitle": "Analiză pentru grupul de WhatsApp al familiei — Nana Reads",
-      "metaDesc": "Încarcă grupul familiei. Nana află cine ține de fapt familia unită, cine nu răspunde niciodată și cine trimite flori de „bună dimineața”.",
-      "h1": "Grupul familiei, citit de o bunică ce le-a văzut pe toate.",
-      "sub": "Cine ține familia unită, cine răspunde doar la poze cu mâncare și cine e încă supărat de Paștele de anul trecut. Nana știe."
+      "metaTitle": "Analiză pentru grupul de WhatsApp al familiei — What Patrik Thinks",
+      "metaDesc": "Încarcă grupul familiei. Patrik află cine ține de fapt familia unită, cine nu răspunde niciodată și cine trimite flori de „bună dimineața”.",
+      "h1": "Grupul familiei, citit de un tip care a fost DJ la 600 de nunți în familie.",
+      "sub": "Cine ține familia unită, cine răspunde doar la poze cu mâncare și cine e încă supărat de Paștele de anul trecut. Patrik știe."
     },
     "imessage": {
-      "metaTitle": "Analiză pentru conversații iMessage — Nana Reads",
-      "metaDesc": "Exportă o conversație iMessage de pe Mac și las-o pe Nana s-o citească. Cine ține mai mult, ce s-a schimbat și ce faci mai departe.",
-      "h1": "Încarcă o conversație iMessage. Nana face restul.",
-      "sub": "Exportă o conversație de pe Mac în câteva minute, iar Nana citește fiecare bulă albastră."
+      "metaTitle": "Analiză pentru conversații iMessage — What Patrik Thinks",
+      "metaDesc": "Exportă o conversație iMessage de pe Mac și lasă-l pe Patrik s-o citească. Cine ține mai mult, ce s-a schimbat și ce faci mai departe.",
+      "h1": "Încarcă o conversație iMessage. Patrik face restul.",
+      "sub": "Exportă o conversație de pe Mac în câteva minute, iar Patrik citește fiecare bulă albastră."
     },
     "whatsapp": {
-      "metaTitle": "Analiză pentru conversații WhatsApp — Nana Reads",
-      "metaDesc": "Exportă orice conversație WhatsApp din două atingeri. Nana citește fiecare mesaj și scrie un raport sincer și amuzant despre toată lumea de acolo.",
-      "h1": "Analiza conversațiilor WhatsApp, făcută de cea mai băgăcioasă bunică.",
+      "metaTitle": "Analiză pentru conversații WhatsApp — What Patrik Thinks",
+      "metaDesc": "Exportă orice conversație WhatsApp din două atingeri. Patrik citește fiecare mesaj și scrie un raport sincer și amuzant despre toată lumea de acolo.",
+      "h1": "Analiza conversațiilor WhatsApp, făcută de un tip fără niciun filtru.",
       "sub": "Două atingeri ca să exporți, un minut până la previzualizarea gratuită. Merge cu conversații private și grupuri de orice mărime."
     }
   },
@@ -229,12 +229,12 @@
         }
       ],
       "headline": "Nouă zile pe „văzut”, apoi „heeei ce faci 🙂”",
-      "verdict": "Ioana răspunde în trei ore, tu răspunzi în patru minute. Amândoi știți ce înseamnă asta, puiule, și niciunul nu zice nimic.",
+      "verdict": "Ioana răspunde în trei ore, tu răspunzi în patru minute. Amândoi știți ce înseamnă asta și niciunul nu zice nimic.",
       "locked": [
         "Cine scrie primul și cine așteaptă să i se scrie",
         "Nouă zile de tăcere: ce s-a întâmplat de fapt",
         "Ce se ascunde în spatele lui „😅” al Ioanei",
-        "Ce ar face Nana în locul tău"
+        "Ce ar face Patrik în locul tău"
       ]
     },
     {
@@ -301,11 +301,11 @@
     }
   ],
   "examples": {
-    "title": "Replici din rapoartele Nanei",
+    "title": "Replici din rapoartele lui Patrik",
     "note": "Din conversațiile de exemplu de mai sus, deci nicio intimitate n-a avut de suferit.",
     "items": [
       "Andrei a pus același sondaj de patru ori. Nu e organizator de excursii, e negociator de ostatici.",
-      "Tu răspunzi în patru minute. Ioana răspunde în trei ore. Pe vremea mea asta se chema „un semn”.",
+      "Tu răspunzi în patru minute. Ioana răspunde în trei ore. La nunți, asta se cheamă „dansul lent pe care nu l-a cerut nimeni”.",
       "Radu a scris 4.000 de cuvinte în grupul ăsta în șase ani. 3.100 dintre ele au fost „ok”.",
       "Mama nu are nevoie de o numărătoare. Mama are nevoie de o îmbrățișare și de un răspuns clar."
     ]
@@ -316,7 +316,7 @@
     "back": "Înapoi",
     "next": "Continuă",
     "context": {
-      "q": "Ce fel de conversație să citească Nana?",
+      "q": "Ce fel de conversație să citească Patrik?",
       "options": {
         "partner": {
           "t": "Dragoste",
@@ -352,14 +352,14 @@
       "q": "Încarcă conversația din {app}",
       "drop": "Atinge ca să alegi fișierul exportat",
       "dropHint": ".txt, .zip, .json sau .csv — până la 200 MB",
-      "reading": "Nana citește… {count} mesaje până acum",
+      "reading": "Patrik citește… {count} mesaje până acum",
       "readingLocal": "Asta se întâmplă pe dispozitivul tău. Încă nu s-a încărcat nimic.",
       "uploading": "Se încarcă în siguranță…",
       "privacy": "Conversația ta rămâne privată",
       "howTo": "Cum o export?",
       "errors": {
-        "format": "Nana n-a putut citi fișierul. Verifică să fie exportul original (.txt sau .zip), nu o captură de ecran.",
-        "few": "Conversația e cam scurtă. Nana are nevoie de cel puțin 10 mesaje ca să-și facă o părere.",
+        "format": "Patrik n-a putut citi fișierul. Verifică să fie exportul original (.txt sau .zip), nu o captură de ecran.",
+        "few": "Conversația e cam scurtă. Patrik are nevoie de cel puțin 10 mesaje ca să-și facă o părere.",
         "big": "Fișierul are peste 200 MB. Exportă fără media și încearcă din nou.",
         "upload": "Încărcarea a eșuat. Verifică conexiunea și încearcă din nou."
       },
@@ -407,22 +407,22 @@
       ],
       "other": [
         "Exportă conversația ca fișier text, CSV sau JSON",
-        "Încarcă-l aici — Nana citește majoritatea formatelor"
+        "Încarcă-l aici — Patrik citește majoritatea formatelor"
       ]
     },
     "me": {
       "q": "Care dintre ei ești tu?",
-      "sub": "Ca Nana să vorbească cu tine, nu despre tine.",
+      "sub": "Ca Patrik să vorbească cu tine, nu despre tine.",
       "none": "Nu sunt în conversația asta"
     },
     "details": {
-      "q": "Ceva ce ar trebui să știe Nana?",
+      "q": "Ceva ce ar trebui să știe Patrik?",
       "notes": "Context opțional (ex.: „ne-am despărțit în martie”, „Tudor e fratele meu”)",
       "lang": "Scrie raportul în",
-      "heat": "Cât de tare să te ia Nana?"
+      "heat": "Cât de tare să te ia Patrik?"
     },
     "email": {
-      "q": "Unde să-ți trimită Nana raportul?",
+      "q": "Unde să-ți trimită Patrik raportul?",
       "sub": "Îți trimitem pe mail un cod din 6 cifre. Fără parolă, fără spam.",
       "placeholder": "tu@exemplu.ro",
       "send": "Trimite codul",
@@ -438,32 +438,32 @@
       }
     },
     "writing": {
-      "t": "Nana îți citește conversația",
+      "t": "Patrik îți citește conversația",
       "lines": [
-        "Își pune ochelarii…",
+        "Își pune căștile…",
         "Numără cine scrie primul…",
         "Caută săptămâna în care s-a schimbat totul…",
         "Subliniază părțile bune…",
-        "Își face un ceai…"
+        "Îți alege coloana sonoră…"
       ],
       "note": "Durează cam un minut. Îți dăm și un mail când e gata."
     },
     "recording": {
       "cta": "Sau încarcă o înregistrare de ecran",
-      "hint": "Înregistrează ecranul în timp ce derulezi încet conversația, de la cel mai vechi mesaj la cel mai nou, apoi încarcă video-ul. Nana citește bulele.",
+      "hint": "Înregistrează ecranul în timp ce derulezi încet conversația, de la cel mai vechi mesaj la cel mai nou, apoi încarcă video-ul. Patrik citește bulele.",
       "extracting": "Alegem cadrele cele mai clare… {pct}%",
-      "reading": "Nana citește capturile… durează 1–2 minute",
+      "reading": "Patrik citește capturile… durează 1–2 minute",
       "errVideo": "Nu am putut citi video-ul. Încearcă o înregistrare de ecran obișnuită (MP4 sau MOV).",
-      "errFew": "Nana a găsit doar câteva mesaje. Derulează mai încet și înregistrează o porțiune mai lungă."
+      "errFew": "Patrik a găsit doar câteva mesaje. Derulează mai încet și înregistrează o porțiune mai lungă."
     }
   },
   "report": {
-    "by": "Nana",
-    "tagline": "81 de ani. A citit toate conversațiile scrise vreodată. Tot îți aduce ciorbă.",
+    "by": "Patrik",
+    "tagline": "Fost DJ de nunți. Zero filtru. Păreri foarte ferme despre playlistul tău.",
     "share": "Trimite raportul",
     "copied": "Link copiat",
     "privacy": "Privat și sub controlul tău",
-    "cutoff": "Conversația era prea lungă ca s-o citească dintr-o suflare, așa că Nana a citit tot de pe {date} încoace.",
+    "cutoff": "Conversația era prea lungă ca s-o citească dintr-o suflare, așa că Patrik a citit tot de pe {date} încoace.",
     "statsTitle": "Cifrele",
     "stat": {
       "messages": "Mesaje",
@@ -484,36 +484,36 @@
     "peopleTitle": "Și despre fiecare dintre voi",
     "unlock": "Citește raportul complet",
     "unlockNote": "Folosește 1 credit · ai {n}",
-    "noCredits": "Nu mai ai credite. Plățile se deschid curând — Nana îți trimite un mail.",
-    "writingFull": "Nana scrie raportul complet. Cam 2 minute — îți trimitem și pe mail.",
-    "failed": "Ceva n-a mers cât scria Nana. Ți-am dat creditul înapoi. Te rugăm să încerci din nou.",
+    "noCredits": "Nu mai ai credite. Plățile se deschid curând — Patrik îți trimite un mail.",
+    "writingFull": "Patrik scrie raportul complet. Cam 2 minute — îți trimitem și pe mail.",
+    "failed": "Ceva n-a mers cât scria Patrik. Ți-am dat creditul înapoi. Te rugăm să încerci din nou.",
     "retry": "Încearcă din nou",
     "peopleSection": "Cine e cine",
     "glossary": "Dicționarul conversației",
     "awards": "Premiile",
     "reactions": "Cum o să reacționeze fiecare la asta",
     "verdict": "Verdictul",
-    "advice": "Ce ar face Nana",
-    "askTitle": "Mai întreab-o pe Nana ceva despre conversația asta",
+    "advice": "Ce ar face Patrik",
+    "askTitle": "Mai întreabă-l pe Patrik ceva despre conversația asta",
     "askPlaceholder": "ex.: Își pierde interesul? Cine din grup e de fapt supărat pe mine?",
-    "askCta": "Întreab-o pe Nana · 1 credit",
-    "askExpired": "Conversația a fost ștearsă de pe serverele noastre, așa că Nana nu mai poate răspunde la întrebări noi despre ea.",
-    "nextTitle": "Ce conversație să citească Nana data viitoare?",
+    "askCta": "Întreabă-l pe Patrik · 1 credit",
+    "askExpired": "Conversația a fost ștearsă de pe serverele noastre, așa că Patrik nu mai poate răspunde la întrebări noi despre ea.",
+    "nextTitle": "Ce conversație să citească Patrik data viitoare?",
     "nextCta": "Trimite altă conversație",
     "notFound": "Raportul ăsta nu există sau a fost șters.",
-    "feedback": "A avut Nana dreptate?",
+    "feedback": "A avut Patrik dreptate?",
     "feedbackYes": "Fix așa",
     "feedbackNo": "Nu prea",
-    "thanks": "Mulțumim — Nana își notează.",
+    "thanks": "Mulțumim — Patrik își notează.",
     "aiNote": "Scris de AI, pentru distracție. Poate înțelege greșit contextul — nu lua decizii mari pe baza lui.",
     "toc": "În acest raport",
     "minRead": "{n} min de citit",
     "activity": "Activitate pe luni",
     "phrases": "Lucruri pe care le spuneți mult prea des",
     "shareYou": "Distribuie cardul lui {name}",
-    "personKicker": "Ce crede Nana despre {name}",
+    "personKicker": "Ce crede Patrik despre {name}",
     "readFull": "Citește raportul complet",
-    "sendYours": "Dă-i Nanei chatul tău"
+    "sendYours": "Dă-i lui Patrik chatul tău"
   },
   "account": {
     "title": "Conversațiile mele",
@@ -535,12 +535,12 @@
     "title": "Întrebări înainte să încarci",
     "items": [
       {
-        "q": "Ce este Nana Reads?",
-        "a": "Un personaj AI — Nana — care citește o conversație încărcată de tine și scrie un raport sincer și amuzant despre toată lumea de acolo: dinamica reală, cine ține mai mult, ce s-a schimbat și rolul fiecăruia."
+        "q": "Ce este What Patrik Thinks?",
+        "a": "Un personaj AI — Patrik — care citește o conversație încărcată de tine și scrie un raport sincer și amuzant despre toată lumea de acolo: dinamica reală, cine ține mai mult, ce s-a schimbat și rolul fiecăruia."
       },
       {
         "q": "E gratis?",
-        "a": "Prima privire e gratuită: introducerea Nanei, cifrele și titlurile a tot ce e în raportul complet. Raportul complet folosește un credit. Nu există abonament."
+        "a": "Prima privire e gratuită: introducerea lui Patrik, cifrele și titlurile a tot ce e în raportul complet. Raportul complet folosește un credit. Nu există abonament."
       },
       {
         "q": "Ce aplicații merg?",
@@ -548,7 +548,7 @@
       },
       {
         "q": "Conversația mea rămâne privată?",
-        "a": "Nana îți numără mesajele întâi în browser. Fișierul încărcat e criptat, nu e arătat nimănui din conversație, nu e vândut și nu e folosit ca să antrenăm AI. Se șterge automat la 48 de ore după încărcare dacă nu comanzi un raport, sau la 7 zile după ultimul raport."
+        "a": "Patrik îți numără mesajele întâi în browser. Fișierul încărcat e criptat, nu e arătat nimănui din conversație, nu e vândut și nu e folosit ca să antrenăm AI. Se șterge automat la 48 de ore după încărcare dacă nu comanzi un raport, sau la 7 zile după ultimul raport."
       },
       {
         "q": "O să afle cei din conversație?",
@@ -556,14 +556,14 @@
       },
       {
         "q": "Ce limbi?",
-        "a": "Conversația poate fi în orice limbă sau într-un amestec. Rapoartele se scriu în 24 de limbi, iar Nana folosește chiar argoul conversației voastre."
+        "a": "Conversația poate fi în orice limbă sau într-un amestec. Rapoartele se scriu în 36 de limbi, iar Patrik folosește chiar argoul conversației voastre."
       },
       {
         "q": "Cât durează?",
         "a": "Previzualizarea durează cam un minut. Raportul complet, cam două minute. Îți trimitem un mail când e gata, ca să nu stai cu ochii pe pagină."
       },
       {
-        "q": "Pot s-o mai întreb pe Nana ceva?",
+        "q": "Pot să-l mai întreb pe Patrik ceva?",
         "a": "Da. Sub fiecare raport poți pune o întrebare suplimentară despre aceeași conversație. Fiecare răspuns e un raport nou, mai la fund."
       },
       {
@@ -572,7 +572,7 @@
       },
       {
         "q": "E precis?",
-        "a": "Cifrele sunt numărate exact din exportul tău. Părerile sunt ale Nanei — AI-ul poate înțelege greșit contextul, așa că ia-o ca pe o distracție, nu ca pe un sfat."
+        "a": "Cifrele sunt numărate exact din exportul tău. Părerile sunt ale lui Patrik — AI-ul poate înțelege greșit contextul, așa că ia-o ca pe o distracție, nu ca pe un sfat."
       },
       {
         "q": "Pentru cine e?",
@@ -581,17 +581,17 @@
     ]
   },
   "about": {
-    "title": "Despre Nana Reads",
+    "title": "Despre What Patrik Thinks",
     "body": [
-      "Nana Reads e un proiect mic al unui studio independent. Am creat personajul pe care ne-am fi dorit să-l avem: o bunică ce a citit toate conversațiile din lume, te iubește și îți spune adevărul oricum.",
-      "Nana citește conversații din WhatsApp, Telegram, LINE, KakaoTalk, iMessage, Instagram și Messenger și scrie în 24 de limbi.",
+      "What Patrik Thinks e un proiect mic al unui studio independent. Am creat personajul pe care ne-am fi dorit să-l avem: Patrik, un DJ de nunți care a petrecut doisprezece ani urmărind cupluri, familii și grupuri de prieteni din spatele pupitrului — iar acum îți citește conversațiile și îți spune adevărul.",
+      "Patrik citește conversații din WhatsApp, Telegram, LINE, KakaoTalk, iMessage, Instagram și Messenger și scrie în 36 de limbi.",
       "Ținem la intimitate mai mult decât oricine în domeniul ăsta: conversația ta e numărată întâi în browser, se șterge automat și nu e folosită niciodată ca să antrenăm AI."
     ],
     "factsTitle": "Pe scurt",
     "facts": [
       [
         "Nume",
-        "Nana Reads"
+        "What Patrik Thinks"
       ],
       [
         "Ce este",
@@ -599,7 +599,7 @@
       ],
       [
         "Limbi",
-        "24"
+        "36"
       ],
       [
         "Preț",
@@ -620,8 +620,8 @@
     "sent": "Am primit. Îți răspundem pe mail."
   },
   "feedback": {
-    "title": "Spune-i Nanei ce crezi",
-    "sub": "Idei, reclamații, complimente pentru Nana. Citim tot.",
+    "title": "Spune-i lui Patrik ce crezi",
+    "sub": "Idei, reclamații, complimente pentru Patrik. Citim tot.",
     "placeholder": "Părerea ta",
     "send": "Trimite",
     "sent": "Mulțumim!"
@@ -629,7 +629,7 @@
   "footer": {
     "chats": "Conversații",
     "help": "Ajutor",
-    "company": "Nana Reads",
+    "company": "What Patrik Thinks",
     "links": {
       "home": "Acasă",
       "relationship": "Conversații de cuplu",
@@ -645,7 +645,7 @@
       "terms": "Termeni",
       "about": "Despre noi"
     },
-    "rights": "© {year} Nana Reads. Doar pentru distracție."
+    "rights": "© {year} What Patrik Thinks. Doar pentru distracție."
   },
   "legal": {
     "englishOnly": "Pagina e afișată în engleză. Versiunea în engleză este cea obligatorie.",

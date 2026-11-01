@@ -1,11 +1,11 @@
 {
   "previewReady": {
-    "subject": "Nana dah habis baca 🫖",
+    "subject": "Patrik dah habis baca 🎧",
     "pre": "Di dalam: {names}",
-    "h": "Nana dah baca chat awak.",
-    "body": "Ini apa yang Nana tulis tentang setiap seorang daripada korang:",
+    "h": "Saya dah baca chat awak.",
+    "body": "Ini apa yang saya tulis tentang setiap seorang daripada korang:",
     "more": "…dan banyak lagi",
-    "cta": "Baca pratonton Nana"
+    "cta": "Baca pratonton saya"
   },
   "nudge": {
     "subject": "{title}",
@@ -13,11 +13,11 @@
     "h": "Laporan awak sedang menunggu",
     "body": "Awak dah baca pembukaannya. Ini yang masih ada di dalam:",
     "cta": "Baca laporan penuh",
-    "credit": "Awak masih ada satu kredit percuma — Nana belanja."
+    "credit": "Awak masih ada satu kredit percuma — pusingan ni saya belanja."
   },
   "hook": {
     "pre": "Peringatan terakhir tentang laporan awak.",
-    "h": "Satu benda terakhir sebelum Nana simpan cerek",
+    "h": "Lagu terakhir sebelum saya kemas set DJ",
     "body": "{title}",
     "cta": "Buka laporan penuh",
     "ps": "P.S. Baca, campak dalam group, dan tengok siapa balas dulu 👀"
@@ -30,13 +30,13 @@
     "ps": "P.S. Kongsi dalam group. Berani tak?"
   },
   "next": {
-    "subject": "Tu baru warm-up 👀",
+    "subject": "Tu baru set warm-up 👀",
     "pre": "Sekarang hantar chat yang awak betul-betul fikirkan.",
-    "h": "Chat mana yang awak betul-betul nak Nana baca?",
+    "h": "Chat mana yang awak betul-betul nak saya baca?",
     "body": "Yang awak baca balik pukul 2 pagi. Ex. Situationship. Mak awak.",
-    "cta": "Hantar chat lain kat Nana"
+    "cta": "Hantar chat lain kat Patrik"
   },
-  "footer": "Awak terima e-mel ni sebab awak minta Nana baca satu chat.",
+  "footer": "Awak terima e-mel ni sebab awak minta Patrik baca satu chat.",
   "unsubscribe": "Berhenti langgan",
-  "sign": "— Nana"
+  "sign": "— Patrik"
 }

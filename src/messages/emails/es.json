@@ -1,6 +1,6 @@
 {
   "previewReady": {
-    "subject": "Nana ya terminó de leer 🫖",
+    "subject": "Patrik ya terminó de leer 🎧",
     "pre": "Dentro: {names}",
     "h": "Ya leí su chat.",
     "body": "Esto es lo que escribí de cada uno:",
@@ -13,11 +13,11 @@
     "h": "Tu informe te está esperando",
     "body": "Ya leíste el principio. Esto es lo que queda dentro:",
     "cta": "Leer el informe completo",
-    "credit": "Todavía tienes un crédito gratis — invita Nana."
+    "credit": "Todavía tienes un crédito gratis — esta ronda la invito yo."
   },
   "hook": {
     "pre": "Último aviso sobre tu informe.",
-    "h": "Una última cosa antes de guardar la tetera",
+    "h": "Última canción antes de recoger la cabina",
     "body": "{title}",
     "cta": "Abrir el informe completo",
     "ps": "P. D. Léelo, suéltalo en el grupo y mira quién contesta primero 👀"
@@ -30,13 +30,13 @@
     "ps": "P. D. Compártelo en el grupo. A que no te atreves."
   },
   "next": {
-    "subject": "Eso fue solo el calentamiento 👀",
+    "subject": "Eso fue solo el set de calentamiento 👀",
     "pre": "Ahora mándame el chat en el que de verdad no dejas de pensar.",
     "h": "¿Qué chat quieres de verdad que lea?",
     "body": "El que relees a las 2 de la mañana. Tu ex. Ese algo que no es nada. Tu madre.",
-    "cta": "Mandarle otro chat a Nana"
+    "cta": "Mandarle otro chat a Patrik"
   },
-  "footer": "Recibes este correo porque le pediste a Nana que leyera un chat.",
+  "footer": "Recibes este correo porque le pediste a Patrik que leyera un chat.",
   "unsubscribe": "Darse de baja",
-  "sign": "— Nana"
+  "sign": "— Patrik"
 }

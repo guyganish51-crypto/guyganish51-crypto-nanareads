@@ -1,21 +1,21 @@
 {
   "meta": {
-    "siteName": "Nana Reads",
-    "title": "Nana Reads — din chat, læst af verdens mest nysgerrige mormor",
-    "description": "Upload en chat fra WhatsApp, Telegram, LINE eller iMessage. Nana læser hver eneste besked og fortæller dig, hvad der egentlig foregår, hvem der går mest op i det, og hvad alle tænker om hinanden."
+    "siteName": "What Patrik Thinks",
+    "title": "What Patrik Thinks — din chat, læst af en fyr helt uden filter",
+    "description": "Upload en chat fra WhatsApp, Telegram, LINE eller iMessage. Patrik læser hver eneste besked og fortæller dig, hvad der egentlig foregår, hvem der går mest op i det, og hvad han ærligt talt synes om alle."
   },
   "nav": {
-    "cta": "Send Nana en chat",
+    "cta": "Send Patrik en chat",
     "account": "Mine chats",
     "language": "Sprog"
   },
   "home": {
-    "eyebrow": "81 år gammel. Har læst hver eneste chat, der nogensinde er skrevet.",
-    "h1": "Send Nana din chat. Hun fortæller dig, hvad der egentlig foregår.",
-    "sub": "Nana læser hver eneste besked, tæller alt det, du helst ville have, hun lod være, og skriver en ærlig og pinlig sjov rapport om alle i chatten.",
-    "cta": "Send Nana en chat",
+    "eyebrow": "12 år som bryllups-DJ. Har set alt. Siger alt.",
+    "h1": "Send Patrik din chat. Han fortæller dig, hvad der egentlig foregår.",
+    "sub": "Patrik læser hver eneste besked, tæller alt det, du helst ville have, han lod være, og skriver en ærlig og pinlig sjov rapport om alle i chatten.",
+    "cta": "Send Patrik en chat",
     "ctaNote": "Gratis smagsprøve · intet kort · slettes automatisk",
-    "demoTitle": "Vælg en chat, og se det, Nana ser",
+    "demoTitle": "Vælg en chat, og se det, Patrik ser",
     "demoHint": "Det her er opdigtede chats. Din er værre.",
     "howTitle": "Sådan virker det",
     "how": [
@@ -24,7 +24,7 @@
         "d": "To tryk i WhatsApp, Telegram, LINE eller KakaoTalk. Vi viser dig præcis hvordan."
       },
       {
-        "t": "Nana læser det hele",
+        "t": "Patrik læser det hele",
         "d": "Hver besked, hver talebesked-undskyldning, hvert »er på vej« sendt fra sengen."
       },
       {
@@ -32,10 +32,10 @@
         "d": "Gratis smagsprøve på et minut. Hele rapporten lander i din indbakke — del den i chatten, hvis du tør."
       }
     ],
-    "findsTitle": "Det finder Nana",
+    "findsTitle": "Det finder Patrik",
     "finds": [
       {
-        "e": "🫖",
+        "e": "🎧",
         "t": "Hvem der faktisk går op i det",
         "d": "Hvem der starter samtalerne, hvem der svarer på 4 minutter, og hvem der svarer på 4 timer."
       },
@@ -62,11 +62,11 @@
       "Aldrig solgt, aldrig delt, aldrig brugt til at træne AI."
     ],
     "worksWith": "Virker med",
-    "heatTitle": "Vælg, hvor hårdt Nana går til den",
+    "heatTitle": "Vælg, hvor hårdt Patrik går til den",
     "heat": {
       "gentle": {
         "t": "Blid",
-        "d": "Fødselsdagskort-mormor. Drillende, men intet, der svier."
+        "d": "Sød bryllupstale-energi. Drillende, men intet, der svier."
       },
       "spicy": {
         "t": "Krydret",
@@ -78,37 +78,37 @@
       }
     },
     "finalH": "Din chat er den næste.",
-    "finalSub": "Nana har allerede sat kedlen over."
+    "finalSub": "Patrik er allerede ved at vælge soundtracket."
   },
   "landing": {
     "relationship": {
-      "metaTitle": "Kan han overhovedet lide dig? AI-analyse af jeres chat — Nana Reads",
-      "metaDesc": "Upload din chat med dit crush, din kæreste, dit situationship eller din eks. Nana læser hver besked og fortæller dig, hvem der går mest op i det, og hvad der ændrede sig.",
-      "h1": "Kan han overhovedet lide dig? Nana siger det, som det er.",
-      "sub": "Send chatten med dit crush, din kæreste, dit situationship eller din eks. Nana tæller, hvem der skriver først, hvem der venter, og hvornår det hele vendte."
+      "metaTitle": "Kan han overhovedet lide dig? AI-analyse af jeres chat — What Patrik Thinks",
+      "metaDesc": "Upload din chat med dit crush, din kæreste, dit situationship eller din eks. Patrik læser hver besked og fortæller dig, hvem der går mest op i det, og hvad der ændrede sig.",
+      "h1": "Kan han overhovedet lide dig? Patrik siger det, som det er.",
+      "sub": "Send chatten med dit crush, din kæreste, dit situationship eller din eks. Patrik tæller, hvem der skriver først, hvem der venter, og hvornår det hele vendte."
     },
     "friends": {
-      "metaTitle": "Gruppechat-analyse og venne-roast — Nana Reads",
-      "metaDesc": "Upload jeres vennegruppe. Nana roaster alle i den, uddeler priser og siger det, ingen tør sige højt.",
-      "h1": "Hvad tænker Nana om dig og dine venner?",
-      "sub": "Drengechatten, pigechatten, turen, der aldrig blev til noget. Nana læser det hele og giver alle den titel, de fortjener."
+      "metaTitle": "Gruppechat-analyse og venne-roast — What Patrik Thinks",
+      "metaDesc": "Upload jeres vennegruppe. Patrik roaster alle i den, uddeler priser og siger det, ingen tør sige højt.",
+      "h1": "Hvad tænker Patrik om dig og dine venner?",
+      "sub": "Drengechatten, pigechatten, turen, der aldrig blev til noget. Patrik læser det hele og giver alle den titel, de fortjener."
     },
     "family": {
-      "metaTitle": "Analyse af familiens WhatsApp-gruppe — Nana Reads",
-      "metaDesc": "Upload familiens gruppechat. Nana finder ud af, hvem der i virkeligheden holder sammen på familien, hvem der aldrig svarer, og hvem der sender godmorgen-blomsterne.",
-      "h1": "Familiechatten, læst af en mormor, der har set det hele.",
-      "sub": "Hvem der holder sammen på familien, hvem der kun svarer på billeder af mad, og hvem der stadig er sur over sidste juleaften. Nana ved det."
+      "metaTitle": "Analyse af familiens WhatsApp-gruppe — What Patrik Thinks",
+      "metaDesc": "Upload familiens gruppechat. Patrik finder ud af, hvem der i virkeligheden holder sammen på familien, hvem der aldrig svarer, og hvem der sender godmorgen-blomsterne.",
+      "h1": "Familiechatten, læst af en fyr, der har været DJ til 600 familiebryllupper.",
+      "sub": "Hvem der holder sammen på familien, hvem der kun svarer på billeder af mad, og hvem der stadig er sur over sidste juleaften. Patrik ved det."
     },
     "imessage": {
-      "metaTitle": "iMessage-chatanalyse — Nana Reads",
-      "metaDesc": "Eksportér en iMessage-samtale fra din Mac, og lad Nana læse den. Hvem går mest op i det, hvad ændrede sig, og hvad gør du nu?",
-      "h1": "Upload en iMessage-chat. Nana klarer resten.",
-      "sub": "Eksportér en samtale fra din Mac på et par minutter, så læser Nana hver eneste blå boble."
+      "metaTitle": "iMessage-chatanalyse — What Patrik Thinks",
+      "metaDesc": "Eksportér en iMessage-samtale fra din Mac, og lad Patrik læse den. Hvem går mest op i det, hvad ændrede sig, og hvad gør du nu?",
+      "h1": "Upload en iMessage-chat. Patrik klarer resten.",
+      "sub": "Eksportér en samtale fra din Mac på et par minutter, så læser Patrik hver eneste blå boble."
     },
     "whatsapp": {
-      "metaTitle": "WhatsApp-chatanalyse — Nana Reads",
-      "metaDesc": "Eksportér enhver WhatsApp-chat med to tryk. Nana læser hver besked og skriver en ærlig, sjov rapport om alle i den.",
-      "h1": "WhatsApp-chatanalyse, udført af din mest nysgerrige mormor.",
+      "metaTitle": "WhatsApp-chatanalyse — What Patrik Thinks",
+      "metaDesc": "Eksportér enhver WhatsApp-chat med to tryk. Patrik læser hver besked og skriver en ærlig, sjov rapport om alle i den.",
+      "h1": "WhatsApp-chatanalyse, udført af en fyr helt uden filter.",
       "sub": "To tryk for at eksportere, ét minut til din gratis smagsprøve. Virker med private chats og grupper i alle størrelser."
     }
   },
@@ -229,12 +229,12 @@
         }
       ],
       "headline": "Ni dage på læst, og så »heyyy hvordan går det 🙂«",
-      "verdict": "Sofie svarer på tre timer, du svarer på fire minutter. I ved begge to godt, hvad det betyder, skat, og ingen af jer siger det.",
+      "verdict": "Sofie svarer på tre timer, du svarer på fire minutter. I ved begge to godt, hvad det betyder, og ingen af jer siger det.",
       "locked": [
         "Hvem der skriver først, og hvem der venter på at blive skrevet til",
         "Ni dages tavshed: hvad der egentlig skete",
         "Hvad der gemmer sig bag Sofies »😅«",
-        "Hvad Nana ville gøre i dit sted"
+        "Hvad Patrik ville gøre i dit sted"
       ]
     },
     {
@@ -301,11 +301,11 @@
     }
   ],
   "examples": {
-    "title": "Linjer fra Nanas rapporter",
+    "title": "Linjer fra Patriks rapporter",
     "note": "Fra eksempel-chatsene ovenfor, så ingens privatliv kom til skade.",
     "items": [
       "Mads har lagt den samme afstemning op fire gange. Han er ikke rejseplanlægger, han er gidselforhandler.",
-      "Du svarer på fire minutter. Sofie svarer på tre timer. I min tid kaldte vi det »et tegn«.",
+      "Du svarer på fire minutter. Sofie svarer på tre timer. Til bryllupper kalder vi det »den langsomme dans, ingen bad om«.",
       "Mikkel har skrevet 4.000 ord i den her gruppe på seks år. De 3.100 af dem var »ok«.",
       "Mor har ikke brug for et tal. Mor har brug for et kram og et klart svar."
     ]
@@ -316,7 +316,7 @@
     "back": "Tilbage",
     "next": "Fortsæt",
     "context": {
-      "q": "Hvilken slags chat skal Nana læse?",
+      "q": "Hvilken slags chat skal Patrik læse?",
       "options": {
         "partner": {
           "t": "Romantik",
@@ -352,14 +352,14 @@
       "q": "Upload chatten fra {app}",
       "drop": "Tryk for at vælge den eksporterede fil",
       "dropHint": ".txt, .zip, .json eller .csv — op til 200 MB",
-      "reading": "Nana læser… {count} beskeder indtil videre",
+      "reading": "Patrik læser… {count} beskeder indtil videre",
       "readingLocal": "Det sker på din enhed. Intet er blevet uploadet endnu.",
       "uploading": "Uploader sikkert…",
       "privacy": "Din chat forbliver privat",
       "howTo": "Hvordan eksporterer jeg den?",
       "errors": {
-        "format": "Nana kunne ikke læse den fil. Tjek, at det er den originale eksport (.txt eller .zip) og ikke et skærmbillede.",
-        "few": "Den chat er lidt kort. Nana skal bruge mindst 10 beskeder for at have en mening.",
+        "format": "Patrik kunne ikke læse den fil. Tjek, at det er den originale eksport (.txt eller .zip) og ikke et skærmbillede.",
+        "few": "Den chat er lidt kort. Patrik skal bruge mindst 10 beskeder for at have en mening.",
         "big": "Filen er over 200 MB. Eksportér uden medier, og prøv igen.",
         "upload": "Uploaden mislykkedes. Tjek din forbindelse, og prøv igen."
       },
@@ -407,22 +407,22 @@
       ],
       "other": [
         "Eksportér chatten som en tekst-, CSV- eller JSON-fil",
-        "Upload den her — Nana læser de fleste formater"
+        "Upload den her — Patrik læser de fleste formater"
       ]
     },
     "me": {
       "q": "Hvem af dem er dig?",
-      "sub": "Så Nana kan tale til dig og ikke om dig.",
+      "sub": "Så Patrik kan tale til dig og ikke om dig.",
       "none": "Jeg er ikke med i den her chat"
     },
     "details": {
-      "q": "Er der noget, Nana bør vide?",
+      "q": "Er der noget, Patrik bør vide?",
       "notes": "Valgfri baggrund (fx »vi slog op i marts«, »Thomas er min bror«)",
       "lang": "Skriv rapporten på",
-      "heat": "Hvor hårdt skal Nana gå til den?"
+      "heat": "Hvor hårdt skal Patrik gå til den?"
     },
     "email": {
-      "q": "Hvor skal Nana sende rapporten hen?",
+      "q": "Hvor skal Patrik sende rapporten hen?",
       "sub": "Vi mailer dig en 6-cifret kode. Ingen adgangskode, ingen spam.",
       "placeholder": "dig@eksempel.dk",
       "send": "Send kode",
@@ -438,32 +438,32 @@
       }
     },
     "writing": {
-      "t": "Nana læser din chat",
+      "t": "Patrik læser din chat",
       "lines": [
-        "Tager brillerne på…",
+        "Tager hovedtelefonerne på…",
         "Tæller, hvem der skriver først…",
         "Finder ugen, hvor det hele ændrede sig…",
         "Streger de gode bidder under…",
-        "Laver te…"
+        "Vælger dit soundtrack…"
       ],
       "note": "Det tager cirka et minut. Vi sender dig også en mail, når den er klar."
     },
     "recording": {
       "cta": "Eller upload en skærmoptagelse",
-      "hint": "Optag dig selv, mens du langsomt scroller chatten fra den ældste besked til den nyeste, og upload videoen. Nana læser boblerne.",
+      "hint": "Optag dig selv, mens du langsomt scroller chatten fra den ældste besked til den nyeste, og upload videoen. Patrik læser boblerne.",
       "extracting": "Udvælger de skarpeste billeder… {pct}%",
-      "reading": "Nana læser skærmbillederne… det tager 1–2 minutter",
+      "reading": "Patrik læser skærmbillederne… det tager 1–2 minutter",
       "errVideo": "Videoen kunne ikke læses. Prøv en almindelig skærmoptagelse (MP4 eller MOV).",
-      "errFew": "Nana kunne kun finde nogle få beskeder. Scroll langsommere, og optag et længere stykke af chatten."
+      "errFew": "Patrik kunne kun finde nogle få beskeder. Scroll langsommere, og optag et længere stykke af chatten."
     }
   },
   "report": {
-    "by": "Nana",
-    "tagline": "81. Har læst hver eneste chat, der nogensinde er skrevet. Kommer stadig med suppe.",
+    "by": "Patrik",
+    "tagline": "Tidligere bryllups-DJ. Nul filter. Stærke meninger om din playliste.",
     "share": "Del rapporten",
     "copied": "Link kopieret",
     "privacy": "Privat, og du bestemmer",
-    "cutoff": "Chatten var for lang til at blive læst på én gang, så Nana læste alt fra {date} og frem.",
+    "cutoff": "Chatten var for lang til at blive læst på én gang, så Patrik læste alt fra {date} og frem.",
     "statsTitle": "Tallene",
     "stat": {
       "messages": "Beskeder",
@@ -484,34 +484,34 @@
     "peopleTitle": "Og om hver af jer",
     "unlock": "Læs hele rapporten",
     "unlockNote": "Bruger 1 kredit · du har {n}",
-    "noCredits": "Du er løbet tør for kreditter. Betaling åbner snart — Nana sender dig en mail.",
-    "writingFull": "Nana skriver hele rapporten. Cirka 2 minutter — vi sender dig også en mail.",
-    "failed": "Noget gik galt, mens Nana skrev. Din kredit er blevet refunderet. Prøv igen.",
+    "noCredits": "Du er løbet tør for kreditter. Betaling åbner snart — Patrik sender dig en mail.",
+    "writingFull": "Patrik skriver hele rapporten. Cirka 2 minutter — vi sender dig også en mail.",
+    "failed": "Noget gik galt, mens Patrik skrev. Din kredit er blevet refunderet. Prøv igen.",
     "retry": "Prøv igen",
     "peopleSection": "Hvem er hvem",
     "glossary": "Den her chats ordbog",
     "awards": "Priserne",
     "reactions": "Sådan vil hver af jer reagere på det her",
     "verdict": "Dommen",
-    "advice": "Hvad Nana ville gøre",
-    "askTitle": "Spørg Nana om noget andet i den her chat",
+    "advice": "Hvad Patrik ville gøre",
+    "askTitle": "Spørg Patrik om noget andet i den her chat",
     "askPlaceholder": "fx Er han ved at miste interessen? Hvem i gruppen er egentlig irriteret på mig?",
-    "askCta": "Spørg Nana · 1 kredit",
-    "askExpired": "Den her chat er slettet fra vores servere, så Nana kan ikke svare på nye spørgsmål om den.",
-    "nextTitle": "Hvilken chat skal Nana læse næste gang?",
+    "askCta": "Spørg Patrik · 1 kredit",
+    "askExpired": "Den her chat er slettet fra vores servere, så Patrik kan ikke svare på nye spørgsmål om den.",
+    "nextTitle": "Hvilken chat skal Patrik læse næste gang?",
     "nextCta": "Send endnu en chat",
     "notFound": "Den her rapport findes ikke eller er blevet slettet.",
-    "feedback": "Ramte Nana plet?",
+    "feedback": "Ramte Patrik plet?",
     "feedbackYes": "Helt plet",
     "feedbackNo": "Ikke rigtig",
-    "thanks": "Tak — Nana tager noter.",
+    "thanks": "Tak — Patrik tager noter.",
     "aiNote": "Skrevet af AI for sjov. Den kan misforstå sammenhængen — tag ikke store beslutninger ud fra den.",
     "toc": "I denne rapport",
     "minRead": "{n} min. læsning",
     "activity": "Aktivitet pr. måned",
     "phrases": "Ting, du siger alt for tit",
     "shareYou": "Del {name}s kort",
-    "personKicker": "Det mener Nana om {name}",
+    "personKicker": "Det mener Patrik om {name}",
     "readFull": "Læs hele rapporten",
     "sendYours": "Få din egen chat læst"
   },
@@ -535,12 +535,12 @@
     "title": "Spørgsmål, før du uploader",
     "items": [
       {
-        "q": "Hvad er Nana Reads?",
-        "a": "En AI-figur — Nana — der læser en chat, du uploader, og skriver en ærlig, sjov rapport om alle i den: den reelle dynamik, hvem der går mest op i det, hvad der ændrede sig, og hvilken rolle alle spiller."
+        "q": "Hvad er What Patrik Thinks?",
+        "a": "En AI-figur — Patrik — der læser en chat, du uploader, og skriver en ærlig, sjov rapport om alle i den: den reelle dynamik, hvem der går mest op i det, hvad der ændrede sig, og hvilken rolle alle spiller."
       },
       {
         "q": "Er det gratis?",
-        "a": "Det første kig er gratis: Nanas indledning, tallene og overskrifterne på alt i den fulde rapport. Den fulde rapport koster én kredit. Der er intet abonnement."
+        "a": "Det første kig er gratis: Patriks indledning, tallene og overskrifterne på alt i den fulde rapport. Den fulde rapport koster én kredit. Der er intet abonnement."
       },
       {
         "q": "Hvilke apps virker?",
@@ -548,7 +548,7 @@
       },
       {
         "q": "Er min chat privat?",
-        "a": "Nana tæller først dine beskeder inde i din browser. Uploaden er krypteret, deles aldrig med nogen i chatten, sælges aldrig og bruges aldrig til at træne AI. Den slettes automatisk 48 timer efter upload, hvis du ikke bestiller en rapport, eller 7 dage efter din seneste rapport."
+        "a": "Patrik tæller først dine beskeder inde i din browser. Uploaden er krypteret, deles aldrig med nogen i chatten, sælges aldrig og bruges aldrig til at træne AI. Den slettes automatisk 48 timer efter upload, hvis du ikke bestiller en rapport, eller 7 dage efter din seneste rapport."
       },
       {
         "q": "Får folk i chatten det at vide?",
@@ -556,14 +556,14 @@
       },
       {
         "q": "Hvilke sprog?",
-        "a": "Din chat kan være på et hvilket som helst sprog eller en blanding. Rapporterne skrives på 24 sprog, og Nana bruger chattens eget slang."
+        "a": "Din chat kan være på et hvilket som helst sprog eller en blanding. Rapporterne skrives på 36 sprog, og Patrik bruger chattens eget slang."
       },
       {
         "q": "Hvor lang tid tager det?",
         "a": "Smagsprøven tager cirka et minut. Den fulde rapport cirka to minutter. Vi mailer dig, når den er klar, så du ikke behøver at vente på siden."
       },
       {
-        "q": "Kan jeg spørge Nana om mere?",
+        "q": "Kan jeg spørge Patrik om mere?",
         "a": "Ja. Under hver rapport kan du stille et opfølgende spørgsmål om den samme chat. Hvert svar er en ny og dybere rapport."
       },
       {
@@ -572,7 +572,7 @@
       },
       {
         "q": "Er det præcist?",
-        "a": "Tallene er talt præcist op fra din eksport. Meningerne er Nanas egne — AI kan misforstå sammenhængen, så tag det som underholdning, ikke rådgivning."
+        "a": "Tallene er talt præcist op fra din eksport. Meningerne er Patriks egne — AI kan misforstå sammenhængen, så tag det som underholdning, ikke rådgivning."
       },
       {
         "q": "Hvem er det til?",
@@ -581,17 +581,17 @@
     ]
   },
   "about": {
-    "title": "Om Nana Reads",
+    "title": "Om What Patrik Thinks",
     "body": [
-      "Nana Reads er et lille, uafhængigt studieprojekt. Vi byggede en figur, vi selv ønskede fandtes: en mormor, der har læst hver eneste chat i verden, elsker dig og fortæller dig sandheden alligevel.",
-      "Nana læser chats fra WhatsApp, Telegram, LINE, KakaoTalk, iMessage, Instagram og Messenger og skriver på 24 sprog.",
+      "What Patrik Thinks er et lille, uafhængigt studieprojekt. Vi byggede den figur, vi selv ønskede fandtes: Patrik, en bryllups-DJ, der i tolv år har set par, familier og vennegrupper fra bag DJ-pulten — og som nu læser dine chats og fortæller dig sandheden.",
+      "Patrik læser chats fra WhatsApp, Telegram, LINE, KakaoTalk, iMessage, Instagram og Messenger og skriver på 36 sprog.",
       "Vi går mere op i privatliv end nogen anden i den her kategori: din chat tælles først op i din browser, slettes automatisk og bruges aldrig til at træne AI."
     ],
     "factsTitle": "Fakta",
     "facts": [
       [
         "Navn",
-        "Nana Reads"
+        "What Patrik Thinks"
       ],
       [
         "Hvad det er",
@@ -599,7 +599,7 @@
       ],
       [
         "Sprog",
-        "24"
+        "36"
       ],
       [
         "Pris",
@@ -620,8 +620,8 @@
     "sent": "Modtaget. Vi svarer på mail."
   },
   "feedback": {
-    "title": "Fortæl Nana, hvad du synes",
-    "sub": "Idéer, klager og komplimenter til Nana. Vi læser det hele.",
+    "title": "Fortæl Patrik, hvad du synes",
+    "sub": "Idéer, klager og komplimenter til Patrik. Vi læser det hele.",
     "placeholder": "Din feedback",
     "send": "Send",
     "sent": "Tusind tak!"
@@ -629,7 +629,7 @@
   "footer": {
     "chats": "Chats",
     "help": "Hjælp",
-    "company": "Nana Reads",
+    "company": "What Patrik Thinks",
     "links": {
       "home": "Forside",
       "relationship": "Kærestechats",
@@ -645,7 +645,7 @@
       "terms": "Vilkår",
       "about": "Om os"
     },
-    "rights": "© {year} Nana Reads. Kun til underholdning."
+    "rights": "© {year} What Patrik Thinks. Kun til underholdning."
   },
   "legal": {
     "englishOnly": "Denne side vises på engelsk. Den engelske version er den bindende.",

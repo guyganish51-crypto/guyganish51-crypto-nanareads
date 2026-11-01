@@ -1,22 +1,22 @@
 {
   "meta": {
-    "siteName": "Nana Reads",
-    "title": "Nana Reads — đoạn chat của bạn, qua mắt bà nội nhiều chuyện nhất thế gian",
-    "description": "Tải lên đoạn chat WhatsApp, Telegram, LINE hay iMessage. Bà Nana đọc từng tin nhắn rồi nói thẳng chuyện gì đang thật sự xảy ra, ai quan tâm hơn, và ai nghĩ gì về ai."
+    "siteName": "What Patrik Thinks",
+    "title": "What Patrik Thinks — đoạn chat của bạn, qua mắt một gã không có chút filter nào",
+    "description": "Tải lên đoạn chat WhatsApp, Telegram, LINE hay iMessage. Patrik đọc từng tin nhắn rồi nói thẳng chuyện gì đang thật sự xảy ra, ai quan tâm hơn, và anh ấy thật lòng nghĩ gì về từng người."
   },
   "nav": {
-    "cta": "Gửi chat cho bà Nana",
+    "cta": "Gửi chat cho Patrik",
     "account": "Chat của tôi",
     "language": "Ngôn ngữ"
   },
   "home": {
-    "eyebrow": "81 tuổi. Đã đọc hết mọi đoạn chat trên đời.",
-    "h1": "Gửi chat cho bà Nana. Bà sẽ nói cho con biết chuyện gì đang xảy ra.",
-    "sub": "Bà Nana đọc từng tin nhắn một, đếm cả những thứ con mong bà đừng đếm, rồi viết một bản báo cáo thật lòng và cực kỳ buồn cười về tất cả mọi người trong đó.",
-    "cta": "Gửi chat cho bà Nana",
+    "eyebrow": "12 năm làm DJ đám cưới. Đã thấy hết mọi thứ. Dám nói hết mọi thứ.",
+    "h1": "Gửi chat cho Patrik. Anh ấy sẽ nói cho bạn biết chuyện gì đang xảy ra.",
+    "sub": "Patrik đọc từng tin nhắn một, đếm cả những thứ bạn mong anh ấy đừng đếm, rồi viết một bản báo cáo thật lòng và cực kỳ buồn cười về tất cả mọi người trong đó.",
+    "cta": "Gửi chat cho Patrik",
     "ctaNote": "Xem trước miễn phí · không cần thẻ · tự động xoá",
-    "demoTitle": "Chọn một đoạn chat, xem bà Nana thấy gì",
-    "demoHint": "Đây là chat bịa thôi. Chat của con chắc còn tệ hơn.",
+    "demoTitle": "Chọn một đoạn chat, xem Patrik thấy gì",
+    "demoHint": "Đây là chat bịa thôi. Chat của bạn chắc còn tệ hơn.",
     "howTitle": "Cách hoạt động",
     "how": [
       {
@@ -24,7 +24,7 @@
         "d": "Hai lần chạm trong WhatsApp, Telegram, LINE hoặc KakaoTalk. Bọn mình chỉ từng bước."
       },
       {
-        "t": "Bà Nana đọc hết",
+        "t": "Patrik đọc hết",
         "d": "Từng tin nhắn, từng lời bào chữa bằng tin nhắn thoại, từng câu “đang tới rồi” gửi từ trên giường."
       },
       {
@@ -32,10 +32,10 @@
         "d": "Bản xem trước miễn phí trong một phút. Bản đầy đủ gửi thẳng vào email — dám thì gửi luôn vào nhóm."
       }
     ],
-    "findsTitle": "Bà Nana tìm ra gì",
+    "findsTitle": "Patrik tìm ra gì",
     "finds": [
       {
-        "e": "🫖",
+        "e": "🎧",
         "t": "Ai thật sự quan tâm",
         "d": "Ai mở lời trước, ai trả lời sau 4 phút và ai sau 4 tiếng."
       },
@@ -46,7 +46,7 @@
       },
       {
         "e": "🗝️",
-        "t": "Ngôn ngữ riêng của các con",
+        "t": "Ngôn ngữ riêng của các bạn",
         "d": "Những câu đùa và từ ngữ chỉ hai đứa (hoặc cả mười hai đứa) mới hiểu."
       },
       {
@@ -62,11 +62,11 @@
       "Không bán, không chia sẻ, không dùng để huấn luyện AI."
     ],
     "worksWith": "Dùng được với",
-    "heatTitle": "Chọn độ “gắt” của bà Nana",
+    "heatTitle": "Chọn độ “gắt” của Patrik",
     "heat": {
       "gentle": {
         "t": "Nhẹ nhàng",
-        "d": "Bà nội viết thiệp sinh nhật. Trêu chút thôi, không đau."
+        "d": "Kiểu phát biểu chúc mừng đám cưới ngọt ngào. Trêu chút thôi, không đau."
       },
       "spicy": {
         "t": "Cay",
@@ -77,38 +77,38 @@
         "d": "Không khoan nhượng. Dành cho hội ngày nào cũng cà khịa nhau."
       }
     },
-    "finalH": "Tới lượt đoạn chat của con rồi.",
-    "finalSub": "Bà Nana đang pha ấm trà rồi đấy."
+    "finalH": "Tới lượt đoạn chat của bạn rồi.",
+    "finalSub": "Patrik đang chọn nhạc nền rồi đấy."
   },
   "landing": {
     "relationship": {
-      "metaTitle": "Anh ấy có thật sự thích bạn không? AI phân tích tin nhắn — Nana Reads",
-      "metaDesc": "Tải lên đoạn chat với crush, người yêu, mối quan hệ mập mờ hay người yêu cũ. Bà Nana đọc từng tin nhắn và nói ai quan tâm hơn, cái gì đã thay đổi.",
-      "h1": "Anh ấy có thật sự thích con không? Bà Nana sẽ nói.",
-      "sub": "Gửi đoạn chat với crush, người yêu, người mập mờ hay người cũ. Bà Nana đếm xem ai nhắn trước, ai bắt đợi, và mọi thứ đổi khác từ lúc nào."
+      "metaTitle": "Anh ấy có thật sự thích bạn không? AI phân tích tin nhắn — What Patrik Thinks",
+      "metaDesc": "Tải lên đoạn chat với crush, người yêu, mối quan hệ mập mờ hay người yêu cũ. Patrik đọc từng tin nhắn và nói ai quan tâm hơn, cái gì đã thay đổi.",
+      "h1": "Anh ấy có thật sự thích bạn không? Patrik sẽ nói.",
+      "sub": "Gửi đoạn chat với crush, người yêu, người mập mờ hay người cũ. Patrik đếm xem ai nhắn trước, ai bắt đợi, và mọi thứ đổi khác từ lúc nào."
     },
     "friends": {
-      "metaTitle": "Phân tích group chat & “bóc phốt” hội bạn — Nana Reads",
-      "metaDesc": "Tải lên group chat của hội bạn. Bà Nana cà khịa từng người, trao giải và nói ra điều không ai dám nói.",
-      "h1": "Bà Nana nghĩ gì về con và hội bạn của con?",
-      "sub": "Nhóm anh em, nhóm chị em, nhóm “đi Đà Lạt” chưa bao giờ đi. Bà Nana đọc hết và trao cho mỗi đứa đúng cái danh hiệu nó xứng đáng."
+      "metaTitle": "Phân tích group chat & “bóc phốt” hội bạn — What Patrik Thinks",
+      "metaDesc": "Tải lên group chat của hội bạn. Patrik cà khịa từng người, trao giải và nói ra điều không ai dám nói.",
+      "h1": "Patrik nghĩ gì về bạn và hội bạn của bạn?",
+      "sub": "Nhóm anh em, nhóm chị em, nhóm “đi Đà Lạt” chưa bao giờ đi. Patrik đọc hết và trao cho mỗi đứa đúng cái danh hiệu nó xứng đáng."
     },
     "family": {
-      "metaTitle": "Phân tích nhóm chat gia đình — Nana Reads",
-      "metaDesc": "Tải lên nhóm chat gia đình. Bà Nana tìm ra ai thật sự giữ cả nhà lại với nhau, ai không bao giờ trả lời, và ai gửi hình hoa chào buổi sáng.",
-      "h1": "Nhóm chat gia đình, qua mắt một bà nội đã thấy đủ mọi chuyện.",
-      "sub": "Ai giữ lửa cho cả nhà, ai chỉ trả lời khi có hình đồ ăn, và ai vẫn còn giận chuyện Tết năm ngoái. Bà Nana biết hết."
+      "metaTitle": "Phân tích nhóm chat gia đình — What Patrik Thinks",
+      "metaDesc": "Tải lên nhóm chat gia đình. Patrik tìm ra ai thật sự giữ cả nhà lại với nhau, ai không bao giờ trả lời, và ai gửi hình hoa chào buổi sáng.",
+      "h1": "Nhóm chat gia đình, qua mắt một gã đã làm DJ cho 600 đám cưới gia đình.",
+      "sub": "Ai giữ lửa cho cả nhà, ai chỉ trả lời khi có hình đồ ăn, và ai vẫn còn giận chuyện Tết năm ngoái. Patrik biết hết."
     },
     "imessage": {
-      "metaTitle": "Phân tích chat iMessage — Nana Reads",
-      "metaDesc": "Xuất cuộc trò chuyện iMessage từ Mac và để bà Nana đọc. Ai quan tâm hơn, cái gì đã thay đổi, và nên làm gì tiếp theo.",
-      "h1": "Tải lên chat iMessage. Phần còn lại để bà Nana lo.",
-      "sub": "Xuất cuộc trò chuyện từ Mac trong vài phút, và bà Nana sẽ đọc từng bong bóng xanh."
+      "metaTitle": "Phân tích chat iMessage — What Patrik Thinks",
+      "metaDesc": "Xuất cuộc trò chuyện iMessage từ Mac và để Patrik đọc. Ai quan tâm hơn, cái gì đã thay đổi, và nên làm gì tiếp theo.",
+      "h1": "Tải lên chat iMessage. Phần còn lại để Patrik lo.",
+      "sub": "Xuất cuộc trò chuyện từ Mac trong vài phút, và Patrik sẽ đọc từng bong bóng xanh."
     },
     "whatsapp": {
-      "metaTitle": "Phân tích chat WhatsApp — Nana Reads",
-      "metaDesc": "Xuất bất kỳ đoạn chat WhatsApp nào chỉ với hai lần chạm. Bà Nana đọc từng tin nhắn và viết một bản báo cáo thật lòng, buồn cười về mọi người trong đó.",
-      "h1": "Phân tích chat WhatsApp, bởi bà nội nhiều chuyện nhất của con.",
+      "metaTitle": "Phân tích chat WhatsApp — What Patrik Thinks",
+      "metaDesc": "Xuất bất kỳ đoạn chat WhatsApp nào chỉ với hai lần chạm. Patrik đọc từng tin nhắn và viết một bản báo cáo thật lòng, buồn cười về mọi người trong đó.",
+      "h1": "Phân tích chat WhatsApp, bởi một gã không có chút filter nào.",
       "sub": "Hai lần chạm để xuất, một phút để có bản xem trước miễn phí. Dùng được cho chat riêng và nhóm lớn cỡ nào cũng được."
     }
   },
@@ -229,12 +229,12 @@
         }
       ],
       "headline": "Seen chín ngày, rồi “heyyy dạo này sao rồi 🙂”",
-      "verdict": "Linh trả lời sau ba tiếng, con trả lời sau bốn phút. Cả hai đứa đều biết vậy nghĩa là gì, con ạ, chỉ là không ai chịu nói ra.",
+      "verdict": "Linh trả lời sau ba tiếng, bạn trả lời sau bốn phút. Cả hai đều biết vậy nghĩa là gì, chỉ là không ai chịu nói ra.",
       "locked": [
         "Ai nhắn trước, ai ngồi chờ được nhắn",
         "Chín ngày im lặng: chuyện gì đã thật sự xảy ra",
         "Đằng sau cái “😅” của Linh là gì",
-        "Nếu là bà Nana thì bà sẽ làm gì"
+        "Nếu là Patrik thì anh ấy sẽ làm gì"
       ]
     },
     {
@@ -301,11 +301,11 @@
     }
   ],
   "examples": {
-    "title": "Trích từ báo cáo của bà Nana",
+    "title": "Trích từ báo cáo của Patrik",
     "note": "Lấy từ các đoạn chat mẫu ở trên, nên không ai bị lộ gì cả.",
     "items": [
       "Tuấn đăng cùng một cái poll bốn lần. Nó không phải người lên kế hoạch du lịch, nó là chuyên gia đàm phán giải cứu con tin.",
-      "Con trả lời sau bốn phút. Linh trả lời sau ba tiếng. Thời của bà, cái đó gọi là “điềm”.",
+      "Bạn trả lời sau bốn phút. Linh trả lời sau ba tiếng. Ở đám cưới, bọn mình gọi đó là “điệu nhảy chậm chẳng ai yêu cầu”.",
       "Sáu năm nay Nam gõ 4.000 chữ trong nhóm này. 3.100 chữ trong đó là “ok”.",
       "Mẹ đâu cần đếm người. Mẹ cần một cái ôm và một câu trả lời đàng hoàng."
     ]
@@ -316,7 +316,7 @@
     "back": "Quay lại",
     "next": "Tiếp tục",
     "context": {
-      "q": "Bà Nana nên đọc loại chat nào?",
+      "q": "Patrik nên đọc loại chat nào?",
       "options": {
         "partner": {
           "t": "Tình cảm",
@@ -352,14 +352,14 @@
       "q": "Tải lên đoạn chat từ {app}",
       "drop": "Chạm để chọn file đã xuất",
       "dropHint": ".txt, .zip, .json hoặc .csv — tối đa 200 MB",
-      "reading": "Bà Nana đang đọc… đã được {count} tin nhắn",
+      "reading": "Patrik đang đọc… đã được {count} tin nhắn",
       "readingLocal": "Việc này diễn ra trên thiết bị của bạn. Chưa có gì được tải lên cả.",
       "uploading": "Đang tải lên an toàn…",
       "privacy": "Đoạn chat của bạn được giữ riêng tư",
       "howTo": "Xuất chat thế nào?",
       "errors": {
-        "format": "Bà Nana không đọc được file này. Hãy chắc đó là file xuất gốc (.txt hoặc .zip), không phải ảnh chụp màn hình.",
-        "few": "Đoạn chat hơi ngắn. Bà Nana cần ít nhất 10 tin nhắn mới có ý kiến được.",
+        "format": "Patrik không đọc được file này. Hãy chắc đó là file xuất gốc (.txt hoặc .zip), không phải ảnh chụp màn hình.",
+        "few": "Đoạn chat hơi ngắn. Patrik cần ít nhất 10 tin nhắn mới có ý kiến được.",
         "big": "File này lớn hơn 200 MB. Hãy xuất không kèm media rồi thử lại.",
         "upload": "Tải lên thất bại. Kiểm tra kết nối rồi thử lại nhé."
       },
@@ -407,22 +407,22 @@
       ],
       "other": [
         "Xuất đoạn chat thành file văn bản, CSV hoặc JSON",
-        "Tải lên đây — bà Nana đọc được hầu hết định dạng"
+        "Tải lên đây — Patrik đọc được hầu hết định dạng"
       ]
     },
     "me": {
-      "q": "Ai là con?",
-      "sub": "Để bà Nana nói chuyện với con, chứ không phải nói về con.",
+      "q": "Ai là bạn?",
+      "sub": "Để Patrik nói chuyện với bạn, chứ không phải nói về bạn.",
       "none": "Tôi không có trong đoạn chat này"
     },
     "details": {
-      "q": "Có gì bà Nana nên biết không?",
+      "q": "Có gì Patrik nên biết không?",
       "notes": "Bối cảnh (không bắt buộc), vd: “bọn mình chia tay hồi tháng 3”, “Tùng là anh trai mình”",
       "lang": "Viết báo cáo bằng",
-      "heat": "Bà Nana nên “gắt” cỡ nào?"
+      "heat": "Patrik nên “gắt” cỡ nào?"
     },
     "email": {
-      "q": "Bà Nana gửi báo cáo về đâu?",
+      "q": "Patrik gửi báo cáo về đâu?",
       "sub": "Bọn mình sẽ gửi mã 6 số qua email. Không mật khẩu, không spam.",
       "placeholder": "ban@example.com",
       "send": "Gửi mã",
@@ -438,32 +438,32 @@
       }
     },
     "writing": {
-      "t": "Bà Nana đang đọc đoạn chat của con",
+      "t": "Patrik đang đọc đoạn chat của bạn",
       "lines": [
-        "Đang đeo kính…",
+        "Đang đeo tai nghe…",
         "Đang đếm xem ai nhắn trước…",
         "Đang tìm cái tuần mọi thứ đổi khác…",
         "Đang gạch chân mấy đoạn hay…",
-        "Đang pha trà…"
+        "Đang chọn nhạc nền cho bạn…"
       ],
       "note": "Mất khoảng một phút. Xong bọn mình cũng sẽ email cho bạn."
     },
     "recording": {
       "cta": "Hoặc tải lên video quay màn hình",
-      "hint": "Quay màn hình khi bạn cuộn chậm đoạn chat từ tin cũ nhất đến mới nhất, rồi tải video lên. Nana sẽ đọc các bong bóng.",
+      "hint": "Quay màn hình khi bạn cuộn chậm đoạn chat từ tin cũ nhất đến mới nhất, rồi tải video lên. Patrik sẽ đọc các bong bóng.",
       "extracting": "Đang chọn khung hình rõ nhất… {pct}%",
-      "reading": "Nana đang đọc ảnh chụp màn hình… mất 1–2 phút",
+      "reading": "Patrik đang đọc ảnh chụp màn hình… mất 1–2 phút",
       "errVideo": "Không đọc được video này. Thử video quay màn hình thông thường (MP4 hoặc MOV).",
-      "errFew": "Nana chỉ tìm thấy vài tin nhắn. Cuộn chậm hơn và quay đoạn dài hơn."
+      "errFew": "Patrik chỉ tìm thấy vài tin nhắn. Cuộn chậm hơn và quay đoạn dài hơn."
     }
   },
   "report": {
-    "by": "Bà Nana",
-    "tagline": "81 tuổi. Đã đọc hết mọi đoạn chat trên đời. Vẫn mang cháo tới.",
+    "by": "Patrik",
+    "tagline": "Cựu DJ đám cưới. Không filter. Có ý kiến rất gắt về playlist của bạn.",
     "share": "Chia sẻ báo cáo",
     "copied": "Đã sao chép liên kết",
     "privacy": "Riêng tư và do bạn kiểm soát",
-    "cutoff": "Đoạn chat dài quá không đọc một lèo được, nên bà Nana đọc mọi thứ từ {date} trở đi.",
+    "cutoff": "Đoạn chat dài quá không đọc một lèo được, nên Patrik đọc mọi thứ từ {date} trở đi.",
     "statsTitle": "Những con số",
     "stat": {
       "messages": "Tin nhắn",
@@ -484,36 +484,36 @@
     "peopleTitle": "Và về từng đứa",
     "unlock": "Đọc báo cáo đầy đủ",
     "unlockNote": "Dùng 1 lượt · bạn còn {n}",
-    "noCredits": "Bạn đã hết lượt. Sắp mở thanh toán — bà Nana sẽ email cho bạn.",
-    "writingFull": "Bà Nana đang viết báo cáo đầy đủ. Khoảng 2 phút — bọn mình cũng sẽ email cho bạn.",
-    "failed": "Có lỗi xảy ra khi bà Nana đang viết. Lượt của bạn đã được hoàn lại. Vui lòng thử lại.",
+    "noCredits": "Bạn đã hết lượt. Sắp mở thanh toán — Patrik sẽ email cho bạn.",
+    "writingFull": "Patrik đang viết báo cáo đầy đủ. Khoảng 2 phút — bọn mình cũng sẽ email cho bạn.",
+    "failed": "Có lỗi xảy ra khi Patrik đang viết. Lượt của bạn đã được hoàn lại. Vui lòng thử lại.",
     "retry": "Thử lại",
     "peopleSection": "Ai là ai",
     "glossary": "Từ điển của đoạn chat này",
     "awards": "Lễ trao giải",
     "reactions": "Mỗi đứa sẽ phản ứng thế nào khi đọc cái này",
     "verdict": "Phán quyết",
-    "advice": "Nếu là bà Nana",
-    "askTitle": "Hỏi bà Nana thêm về đoạn chat này",
+    "advice": "Nếu là Patrik",
+    "askTitle": "Hỏi Patrik thêm về đoạn chat này",
     "askPlaceholder": "vd: Anh ấy có đang chán mình không? Trong nhóm ai đang ngấm ngầm bực mình?",
-    "askCta": "Hỏi bà Nana · 1 lượt",
-    "askExpired": "Đoạn chat này đã bị xoá khỏi máy chủ, nên bà Nana không trả lời câu hỏi mới về nó được nữa.",
-    "nextTitle": "Bà Nana nên đọc chat nào tiếp?",
+    "askCta": "Hỏi Patrik · 1 lượt",
+    "askExpired": "Đoạn chat này đã bị xoá khỏi máy chủ, nên Patrik không trả lời câu hỏi mới về nó được nữa.",
+    "nextTitle": "Patrik nên đọc chat nào tiếp?",
     "nextCta": "Gửi thêm một đoạn chat",
     "notFound": "Báo cáo này không tồn tại hoặc đã bị xoá.",
-    "feedback": "Bà Nana nói có đúng không?",
+    "feedback": "Patrik nói có đúng không?",
     "feedbackYes": "Chuẩn không cần chỉnh",
     "feedbackNo": "Không hẳn",
-    "thanks": "Cảm ơn — bà Nana đang ghi chép lại.",
+    "thanks": "Cảm ơn — Patrik đang ghi chép lại.",
     "aiNote": "Do AI viết để giải trí. AI có thể hiểu sai ngữ cảnh — đừng đưa ra quyết định lớn dựa vào nó.",
     "toc": "Trong báo cáo này",
     "minRead": "{n} phút đọc",
     "activity": "Hoạt động theo tháng",
     "phrases": "Những câu các bạn nói quá nhiều",
     "shareYou": "Chia sẻ thẻ của {name}",
-    "personKicker": "Nana nghĩ gì về {name}",
+    "personKicker": "Patrik nghĩ gì về {name}",
     "readFull": "Đọc báo cáo đầy đủ",
-    "sendYours": "Để Nana đọc chat của bạn"
+    "sendYours": "Để Patrik đọc chat của bạn"
   },
   "account": {
     "title": "Chat của tôi",
@@ -535,12 +535,12 @@
     "title": "Hỏi trước khi tải lên",
     "items": [
       {
-        "q": "Nana Reads là gì?",
-        "a": "Một nhân vật AI — bà Nana — đọc đoạn chat bạn tải lên và viết một bản báo cáo thật lòng, buồn cười về mọi người trong đó: mối quan hệ thật sự, ai quan tâm hơn, cái gì đã thay đổi, và vai của từng người."
+        "q": "What Patrik Thinks là gì?",
+        "a": "Một nhân vật AI — Patrik — đọc đoạn chat bạn tải lên và viết một bản báo cáo thật lòng, buồn cười về mọi người trong đó: mối quan hệ thật sự, ai quan tâm hơn, cái gì đã thay đổi, và vai của từng người."
       },
       {
         "q": "Có miễn phí không?",
-        "a": "Lần xem đầu tiên là miễn phí: lời mở đầu của bà Nana, các con số, và tiêu đề của mọi phần trong báo cáo đầy đủ. Báo cáo đầy đủ dùng một lượt. Không có gói đăng ký."
+        "a": "Lần xem đầu tiên là miễn phí: lời mở đầu của Patrik, các con số, và tiêu đề của mọi phần trong báo cáo đầy đủ. Báo cáo đầy đủ dùng một lượt. Không có gói đăng ký."
       },
       {
         "q": "Dùng được với ứng dụng nào?",
@@ -548,7 +548,7 @@
       },
       {
         "q": "Đoạn chat của tôi có riêng tư không?",
-        "a": "Bà Nana đếm tin nhắn ngay trong trình duyệt của bạn trước. Dữ liệu tải lên được mã hoá, không bao giờ chia sẻ với ai trong đoạn chat, không bán, không dùng để huấn luyện AI. Nó tự động bị xoá sau 48 giờ nếu bạn không đặt báo cáo, hoặc 7 ngày sau báo cáo gần nhất."
+        "a": "Patrik đếm tin nhắn ngay trong trình duyệt của bạn trước. Dữ liệu tải lên được mã hoá, không bao giờ chia sẻ với ai trong đoạn chat, không bán, không dùng để huấn luyện AI. Nó tự động bị xoá sau 48 giờ nếu bạn không đặt báo cáo, hoặc 7 ngày sau báo cáo gần nhất."
       },
       {
         "q": "Người trong đoạn chat có biết không?",
@@ -556,14 +556,14 @@
       },
       {
         "q": "Hỗ trợ những ngôn ngữ nào?",
-        "a": "Đoạn chat có thể bằng bất kỳ ngôn ngữ nào, hoặc trộn lẫn. Báo cáo được viết bằng 24 ngôn ngữ, và bà Nana dùng luôn tiếng lóng của chính đoạn chat."
+        "a": "Đoạn chat có thể bằng bất kỳ ngôn ngữ nào, hoặc trộn lẫn. Báo cáo được viết bằng 36 ngôn ngữ, và Patrik dùng luôn tiếng lóng của chính đoạn chat."
       },
       {
         "q": "Mất bao lâu?",
         "a": "Bản xem trước mất khoảng một phút. Báo cáo đầy đủ khoảng hai phút. Xong bọn mình sẽ email cho bạn, nên không cần ngồi chờ trên trang."
       },
       {
-        "q": "Có hỏi thêm bà Nana được không?",
+        "q": "Có hỏi thêm Patrik được không?",
         "a": "Được. Dưới mỗi báo cáo, bạn có thể đặt câu hỏi thêm về cùng đoạn chat. Mỗi câu trả lời là một báo cáo mới, sâu hơn."
       },
       {
@@ -572,7 +572,7 @@
       },
       {
         "q": "Có chính xác không?",
-        "a": "Các con số được đếm chính xác từ file xuất của bạn. Còn ý kiến là của bà Nana — AI có thể hiểu sai ngữ cảnh, nên hãy xem như giải trí, đừng xem như lời khuyên."
+        "a": "Các con số được đếm chính xác từ file xuất của bạn. Còn ý kiến là của Patrik — AI có thể hiểu sai ngữ cảnh, nên hãy xem như giải trí, đừng xem như lời khuyên."
       },
       {
         "q": "Dành cho ai?",
@@ -581,17 +581,17 @@
     ]
   },
   "about": {
-    "title": "Về Nana Reads",
+    "title": "Về What Patrik Thinks",
     "body": [
-      "Nana Reads là dự án của một studio độc lập nhỏ. Bọn mình tạo ra nhân vật mà bọn mình ước là có thật: một bà nội đã đọc hết mọi đoạn chat trên đời, thương con hết mực, và vẫn nói thật.",
-      "Bà Nana đọc chat WhatsApp, Telegram, LINE, KakaoTalk, iMessage, Instagram và Messenger, và viết bằng 24 ngôn ngữ.",
+      "What Patrik Thinks là dự án của một studio độc lập nhỏ. Bọn mình tạo ra nhân vật mà bọn mình ước là có thật: Patrik, một DJ đám cưới đã dành mười hai năm quan sát các cặp đôi, gia đình và hội bạn từ sau bàn DJ — và giờ đọc chat của bạn rồi nói thật.",
+      "Patrik đọc chat WhatsApp, Telegram, LINE, KakaoTalk, iMessage, Instagram và Messenger, và viết bằng 36 ngôn ngữ.",
       "Bọn mình coi trọng quyền riêng tư hơn bất kỳ ai trong mảng này: đoạn chat được đếm trong trình duyệt của bạn trước, tự động xoá, và không bao giờ dùng để huấn luyện AI."
     ],
     "factsTitle": "Thông tin chính",
     "facts": [
       [
         "Tên",
-        "Nana Reads"
+        "What Patrik Thinks"
       ],
       [
         "Là gì",
@@ -599,7 +599,7 @@
       ],
       [
         "Ngôn ngữ",
-        "24"
+        "36"
       ],
       [
         "Giá",
@@ -620,8 +620,8 @@
     "sent": "Đã nhận. Bọn mình sẽ trả lời qua email."
   },
   "feedback": {
-    "title": "Nói cho bà Nana biết bạn nghĩ gì",
-    "sub": "Ý tưởng, phàn nàn, lời khen cho bà Nana. Bọn mình đọc hết.",
+    "title": "Nói cho Patrik biết bạn nghĩ gì",
+    "sub": "Ý tưởng, phàn nàn, lời khen cho Patrik. Bọn mình đọc hết.",
     "placeholder": "Góp ý của bạn",
     "send": "Gửi",
     "sent": "Cảm ơn bạn!"
@@ -629,7 +629,7 @@
   "footer": {
     "chats": "Chat",
     "help": "Trợ giúp",
-    "company": "Nana Reads",
+    "company": "What Patrik Thinks",
     "links": {
       "home": "Trang chủ",
       "relationship": "Chat tình cảm",
@@ -645,7 +645,7 @@
       "terms": "Điều khoản",
       "about": "Giới thiệu"
     },
-    "rights": "© {year} Nana Reads. Chỉ mang tính giải trí."
+    "rights": "© {year} What Patrik Thinks. Chỉ mang tính giải trí."
   },
   "legal": {
     "englishOnly": "Trang này hiển thị bằng tiếng Anh. Bản tiếng Anh là bản có giá trị ràng buộc.",

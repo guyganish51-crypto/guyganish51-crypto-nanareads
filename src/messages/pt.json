@@ -1,21 +1,21 @@
 {
   "meta": {
-    "siteName": "Nana Reads",
-    "title": "Nana Reads — sua conversa, lida pela vó mais fofoqueira do mundo",
-    "description": "Envie uma conversa do WhatsApp, Telegram, LINE ou iMessage. A Nana lê cada mensagem e conta o que está rolando de verdade, quem se importa mais e o que cada um pensa de todo mundo."
+    "siteName": "What Patrik Thinks",
+    "title": "What Patrik Thinks — sua conversa, lida por um cara sem filtro nenhum",
+    "description": "Envie uma conversa do WhatsApp, Telegram, LINE ou iMessage. O Patrik lê cada mensagem e conta o que está rolando de verdade, quem se importa mais e o que ele acha, com toda a sinceridade, de cada um."
   },
   "nav": {
-    "cta": "Mande uma conversa pra Nana",
+    "cta": "Mande uma conversa pro Patrik",
     "account": "Minhas conversas",
     "language": "Idioma"
   },
   "home": {
-    "eyebrow": "81 anos. Já leu todas as conversas já escritas.",
-    "h1": "Mande sua conversa pra Nana. Ela vai te contar o que está rolando de verdade.",
-    "sub": "A Nana lê cada mensagem, conta exatamente o que você preferia que ela não contasse e escreve um relatório sincero e muito engraçado sobre todo mundo ali.",
-    "cta": "Mande uma conversa pra Nana",
+    "eyebrow": "12 anos como DJ de casamento. Já viu de tudo. Fala de tudo.",
+    "h1": "Mande sua conversa pro Patrik. Ele vai te contar o que está rolando de verdade.",
+    "sub": "O Patrik lê cada mensagem, conta exatamente o que você preferia que ele não contasse e escreve um relatório sincero e muito engraçado sobre todo mundo ali.",
+    "cta": "Mande uma conversa pro Patrik",
     "ctaNote": "Prévia grátis · sem cartão · apagado automaticamente",
-    "demoTitle": "Escolha uma conversa e veja o que a Nana vê",
+    "demoTitle": "Escolha uma conversa e veja o que o Patrik vê",
     "demoHint": "Essas conversas são inventadas. A sua vai ser pior.",
     "howTitle": "Como funciona",
     "how": [
@@ -24,7 +24,7 @@
         "d": "Dois toques no WhatsApp, Telegram, LINE ou KakaoTalk. A gente mostra exatamente como."
       },
       {
-        "t": "A Nana lê tudo",
+        "t": "O Patrik lê tudo",
         "d": "Cada mensagem, cada desculpa em áudio, cada «tô chegando» mandado da cama."
       },
       {
@@ -32,10 +32,10 @@
         "d": "Prévia grátis em um minuto. O relatório completo chega no seu e-mail — compartilhe no grupo, se tiver coragem."
       }
     ],
-    "findsTitle": "O que a Nana descobre",
+    "findsTitle": "O que o Patrik descobre",
     "finds": [
       {
-        "e": "🫖",
+        "e": "🎧",
         "t": "Quem se importa de verdade",
         "d": "Quem puxa assunto, quem responde em 4 minutos e quem responde em 4 horas."
       },
@@ -62,11 +62,11 @@
       "Nunca vendida, nunca compartilhada, nunca usada pra treinar IA."
     ],
     "worksWith": "Funciona com",
-    "heatTitle": "Escolha o quanto a Nana pega pesado",
+    "heatTitle": "Escolha o quanto o Patrik pega pesado",
     "heat": {
       "gentle": {
         "t": "De leve",
-        "d": "Vó de cartão de aniversário. Zoeira leve, nada que doa."
+        "d": "Clima de discurso fofo de casamento. Zoeira leve, nada que doa."
       },
       "spicy": {
         "t": "Apimentado",
@@ -78,37 +78,37 @@
       }
     },
     "finalH": "Sua conversa é a próxima.",
-    "finalSub": "A Nana já botou a chaleira no fogo."
+    "finalSub": "O Patrik já está escolhendo a trilha sonora."
   },
   "landing": {
     "relationship": {
-      "metaTitle": "Ele gosta mesmo de você? Análise da sua conversa com IA — Nana Reads",
-      "metaDesc": "Envie sua conversa com o crush, o namorado, o rolo ou o ex. A Nana lê cada mensagem e conta quem se importa mais e o que mudou.",
-      "h1": "Ele gosta mesmo de você? A Nana te conta.",
-      "sub": "Mande a conversa com o crush, o namorado, o rolo ou o ex. A Nana conta quem manda mensagem primeiro, quem deixa esperando e quando as coisas mudaram."
+      "metaTitle": "Ele gosta mesmo de você? Análise da sua conversa com IA — What Patrik Thinks",
+      "metaDesc": "Envie sua conversa com o crush, o namorado, o rolo ou o ex. O Patrik lê cada mensagem e conta quem se importa mais e o que mudou.",
+      "h1": "Ele gosta mesmo de você? O Patrik te conta.",
+      "sub": "Mande a conversa com o crush, o namorado, o rolo ou o ex. O Patrik conta quem manda mensagem primeiro, quem deixa esperando e quando as coisas mudaram."
     },
     "friends": {
-      "metaTitle": "Analisador de grupo de amigos e zoeira da galera — Nana Reads",
-      "metaDesc": "Envie o grupo dos seus amigos. A Nana zoa todo mundo, distribui prêmios e fala em voz alta o que ninguém tem coragem de falar.",
-      "h1": "O que a Nana acha de você e dos seus amigos?",
-      "sub": "O grupo dos caras, o grupo das meninas, a viagem que nunca saiu do papel. A Nana lê tudo e dá pra cada um o título que merece."
+      "metaTitle": "Analisador de grupo de amigos e zoeira da galera — What Patrik Thinks",
+      "metaDesc": "Envie o grupo dos seus amigos. O Patrik zoa todo mundo, distribui prêmios e fala em voz alta o que ninguém tem coragem de falar.",
+      "h1": "O que o Patrik acha de você e dos seus amigos?",
+      "sub": "O grupo dos caras, o grupo das meninas, a viagem que nunca saiu do papel. O Patrik lê tudo e dá pra cada um o título que merece."
     },
     "family": {
-      "metaTitle": "Analisador do grupo da família no WhatsApp — Nana Reads",
-      "metaDesc": "Envie o grupo da família. A Nana descobre quem segura a família de verdade, quem nunca responde e quem manda as flores de bom dia.",
-      "h1": "O grupo da sua família, lido por uma vó que já viu de tudo.",
-      "sub": "Quem mantém a família unida, quem só responde foto de comida e quem ainda está chateado com o último Natal. A Nana sabe."
+      "metaTitle": "Analisador do grupo da família no WhatsApp — What Patrik Thinks",
+      "metaDesc": "Envie o grupo da família. O Patrik descobre quem segura a família de verdade, quem nunca responde e quem manda as flores de bom dia.",
+      "h1": "O grupo da sua família, lido por um cara que já foi DJ de 600 casamentos de família.",
+      "sub": "Quem mantém a família unida, quem só responde foto de comida e quem ainda está chateado com o último Natal. O Patrik sabe."
     },
     "imessage": {
-      "metaTitle": "Analisador de conversas do iMessage — Nana Reads",
-      "metaDesc": "Exporte uma conversa do iMessage pelo seu Mac e deixe a Nana ler. Quem se importa mais, o que mudou e o que fazer agora.",
-      "h1": "Envie uma conversa do iMessage. A Nana faz o resto.",
-      "sub": "Exporte uma conversa pelo Mac em poucos minutos, e a Nana vai ler cada balão azul."
+      "metaTitle": "Analisador de conversas do iMessage — What Patrik Thinks",
+      "metaDesc": "Exporte uma conversa do iMessage pelo seu Mac e deixe o Patrik ler. Quem se importa mais, o que mudou e o que fazer agora.",
+      "h1": "Envie uma conversa do iMessage. O Patrik faz o resto.",
+      "sub": "Exporte uma conversa pelo Mac em poucos minutos, e o Patrik vai ler cada balão azul."
     },
     "whatsapp": {
-      "metaTitle": "Analisador de conversas do WhatsApp — Nana Reads",
-      "metaDesc": "Exporte qualquer conversa do WhatsApp em dois toques. A Nana lê cada mensagem e escreve um relatório sincero e engraçado sobre todo mundo.",
-      "h1": "Análise de conversas do WhatsApp, pela sua vó mais fofoqueira.",
+      "metaTitle": "Analisador de conversas do WhatsApp — What Patrik Thinks",
+      "metaDesc": "Exporte qualquer conversa do WhatsApp em dois toques. O Patrik lê cada mensagem e escreve um relatório sincero e engraçado sobre todo mundo.",
+      "h1": "Análise de conversas do WhatsApp, por um cara sem filtro nenhum.",
       "sub": "Dois toques pra exportar, um minuto pra sua prévia grátis. Funciona com conversas privadas e grupos de qualquer tamanho."
     }
   },
@@ -229,12 +229,12 @@
         }
       ],
       "headline": "Nove dias no vácuo, depois «oiii tudo bem? 🙂»",
-      "verdict": "A Bia responde em três horas, você responde em quatro minutos. Vocês dois sabem o que isso significa, meu bem, e nenhum dos dois fala.",
+      "verdict": "A Bia responde em três horas, você responde em quatro minutos. Vocês dois sabem o que isso significa, e nenhum dos dois fala.",
       "locked": [
         "Quem manda mensagem primeiro e quem espera receber",
         "Nove dias de silêncio: o que aconteceu de verdade",
         "O que se esconde atrás do «😅» da Bia",
-        "O que a Nana faria no seu lugar"
+        "O que o Patrik faria no seu lugar"
       ]
     },
     {
@@ -301,11 +301,11 @@
     }
   ],
   "examples": {
-    "title": "Frases dos relatórios da Nana",
+    "title": "Frases dos relatórios do Patrik",
     "note": "Das conversas de exemplo aí em cima, então a privacidade de ninguém saiu machucada.",
     "items": [
       "O Thiago postou a mesma enquete quatro vezes. Ele não é organizador de viagem, é negociador de sequestro.",
-      "Você responde em quatro minutos. A Bia responde em três horas. No meu tempo, isso se chamava «um sinal».",
+      "Você responde em quatro minutos. A Bia responde em três horas. Em casamento, a gente chama isso de «a música lenta que ninguém pediu».",
       "O Pedro escreveu 4.000 palavras nesse grupo em seis anos. 3.100 delas foram «ok».",
       "A Mãe não precisa saber quantos vêm. A Mãe precisa de um abraço e de uma resposta direta."
     ]
@@ -316,7 +316,7 @@
     "back": "Voltar",
     "next": "Continuar",
     "context": {
-      "q": "Que tipo de conversa a Nana vai ler?",
+      "q": "Que tipo de conversa o Patrik vai ler?",
       "options": {
         "partner": {
           "t": "Romance",
@@ -352,14 +352,14 @@
       "q": "Envie a conversa do {app}",
       "drop": "Toque pra escolher o arquivo exportado",
       "dropHint": ".txt, .zip, .json ou .csv — até 200 MB",
-      "reading": "A Nana está lendo… {count} mensagens até agora",
+      "reading": "O Patrik está lendo… {count} mensagens até agora",
       "readingLocal": "Isso acontece no seu aparelho. Nada foi enviado ainda.",
       "uploading": "Enviando com segurança…",
       "privacy": "Sua conversa continua privada",
       "howTo": "Como eu exporto?",
       "errors": {
-        "format": "A Nana não conseguiu ler esse arquivo. Confira se é a exportação original (.txt ou .zip), e não um print.",
-        "few": "Essa conversa é meio curta. A Nana precisa de pelo menos 10 mensagens pra ter uma opinião.",
+        "format": "O Patrik não conseguiu ler esse arquivo. Confira se é a exportação original (.txt ou .zip), e não um print.",
+        "few": "Essa conversa é meio curta. O Patrik precisa de pelo menos 10 mensagens pra ter uma opinião.",
         "big": "Esse arquivo passa de 200 MB. Exporte sem mídia e tente de novo.",
         "upload": "O envio falhou. Confira sua conexão e tente de novo."
       },
@@ -407,22 +407,22 @@
       ],
       "other": [
         "Exporte a conversa como arquivo de texto, CSV ou JSON",
-        "Envie aqui — a Nana lê quase todos os formatos"
+        "Envie aqui — o Patrik lê quase todos os formatos"
       ]
     },
     "me": {
       "q": "Qual desses é você?",
-      "sub": "Pra Nana falar com você, e não de você.",
+      "sub": "Pro Patrik falar com você, e não de você.",
       "none": "Não estou nessa conversa"
     },
     "details": {
-      "q": "Algo que a Nana precisa saber?",
+      "q": "Algo que o Patrik precisa saber?",
       "notes": "Contexto opcional (ex.: «terminamos em março», «o Tiago é meu irmão»)",
       "lang": "Escrever o relatório em",
-      "heat": "O quanto a Nana deve pegar pesado?"
+      "heat": "O quanto o Patrik deve pegar pesado?"
     },
     "email": {
-      "q": "Pra onde a Nana manda o relatório?",
+      "q": "Pra onde o Patrik manda o relatório?",
       "sub": "A gente manda um código de 6 dígitos por e-mail. Sem senha, sem spam.",
       "placeholder": "voce@exemplo.com",
       "send": "Enviar código",
@@ -438,32 +438,32 @@
       }
     },
     "writing": {
-      "t": "A Nana está lendo sua conversa",
+      "t": "O Patrik está lendo sua conversa",
       "lines": [
-        "Colocando os óculos…",
+        "Colocando os fones…",
         "Contando quem manda mensagem primeiro…",
         "Achando a semana em que tudo mudou…",
         "Grifando as melhores partes…",
-        "Passando um cafezinho…"
+        "Escolhendo a sua trilha sonora…"
       ],
       "note": "Isso leva mais ou menos um minuto. A gente também te avisa por e-mail quando ficar pronto."
     },
     "recording": {
       "cta": "Ou envie uma gravação de tela",
-      "hint": "Grave a tela rolando a conversa devagar, da mensagem mais antiga para a mais nova, e envie o vídeo. A Nana lê os balões.",
+      "hint": "Grave a tela rolando a conversa devagar, da mensagem mais antiga para a mais nova, e envie o vídeo. O Patrik lê os balões.",
       "extracting": "Escolhendo os quadros mais nítidos… {pct}%",
-      "reading": "A Nana está lendo as capturas… leva 1–2 minutos",
+      "reading": "O Patrik está lendo as capturas… leva 1–2 minutos",
       "errVideo": "Não deu para ler esse vídeo. Tente uma gravação de tela normal (MP4 ou MOV).",
-      "errFew": "A Nana achou poucas mensagens. Role mais devagar e grave um trecho maior."
+      "errFew": "O Patrik achou poucas mensagens. Role mais devagar e grave um trecho maior."
     }
   },
   "report": {
-    "by": "Nana",
-    "tagline": "81 anos. Já leu todas as conversas do mundo. Ainda leva canja.",
+    "by": "Patrik",
+    "tagline": "Ex-DJ de casamento. Zero filtro. Opiniões fortes sobre a sua playlist.",
     "share": "Compartilhar o relatório",
     "copied": "Link copiado",
     "privacy": "Privado e sob seu controle",
-    "cutoff": "A conversa era longa demais pra ler de uma vez, então a Nana leu tudo a partir de {date}.",
+    "cutoff": "A conversa era longa demais pra ler de uma vez, então o Patrik leu tudo a partir de {date}.",
     "statsTitle": "Os números",
     "stat": {
       "messages": "Mensagens",
@@ -484,36 +484,36 @@
     "peopleTitle": "E sobre cada um de vocês",
     "unlock": "Ler o relatório completo",
     "unlockNote": "Usa 1 crédito · você tem {n}",
-    "noCredits": "Seus créditos acabaram. Os pagamentos abrem em breve — a Nana te manda um e-mail.",
-    "writingFull": "A Nana está escrevendo o relatório completo. Uns 2 minutos — a gente também te avisa por e-mail.",
-    "failed": "Deu ruim enquanto a Nana escrevia. Seu crédito foi devolvido. Tente de novo.",
+    "noCredits": "Seus créditos acabaram. Os pagamentos abrem em breve — o Patrik te manda um e-mail.",
+    "writingFull": "O Patrik está escrevendo o relatório completo. Uns 2 minutos — a gente também te avisa por e-mail.",
+    "failed": "Deu ruim enquanto o Patrik escrevia. Seu crédito foi devolvido. Tente de novo.",
     "retry": "Tentar de novo",
     "peopleSection": "Quem é quem",
     "glossary": "O dicionário dessa conversa",
     "awards": "Os prêmios",
     "reactions": "Como cada um de vocês vai reagir a isso",
     "verdict": "O veredito",
-    "advice": "O que a Nana faria",
-    "askTitle": "Pergunte mais alguma coisa pra Nana sobre essa conversa",
+    "advice": "O que o Patrik faria",
+    "askTitle": "Pergunte mais alguma coisa pro Patrik sobre essa conversa",
     "askPlaceholder": "ex.: Ele está perdendo o interesse? Quem do grupo está chateado comigo de verdade?",
-    "askCta": "Perguntar pra Nana · 1 crédito",
-    "askExpired": "Essa conversa foi apagada dos nossos servidores, então a Nana não pode responder novas perguntas sobre ela.",
-    "nextTitle": "Qual conversa a Nana lê agora?",
+    "askCta": "Perguntar pro Patrik · 1 crédito",
+    "askExpired": "Essa conversa foi apagada dos nossos servidores, então o Patrik não pode responder novas perguntas sobre ela.",
+    "nextTitle": "Qual conversa o Patrik lê agora?",
     "nextCta": "Mandar outra conversa",
     "notFound": "Esse relatório não existe ou foi apagado.",
-    "feedback": "A Nana acertou?",
+    "feedback": "O Patrik acertou?",
     "feedbackYes": "Na mosca",
     "feedbackNo": "Nem tanto",
-    "thanks": "Valeu — a Nana está anotando.",
+    "thanks": "Valeu — o Patrik está anotando.",
     "aiNote": "Escrito por IA para entretenimento. Pode interpretar mal o contexto — não tome grandes decisões com base nisso.",
     "toc": "Neste relatório",
     "minRead": "{n} min de leitura",
     "activity": "Atividade por mês",
     "phrases": "Coisas que vocês falam demais",
     "shareYou": "Compartilhar o card de {name}",
-    "personKicker": "O que a Nana acha de {name}",
+    "personKicker": "O que o Patrik acha de {name}",
     "readFull": "Ler o relatório completo",
-    "sendYours": "Peça pra Nana ler o seu chat"
+    "sendYours": "Peça pro Patrik ler o seu chat"
   },
   "account": {
     "title": "Minhas conversas",
@@ -535,12 +535,12 @@
     "title": "Dúvidas antes de enviar",
     "items": [
       {
-        "q": "O que é o Nana Reads?",
-        "a": "Uma personagem de IA — a Nana — que lê a conversa que você envia e escreve um relatório sincero e engraçado sobre todo mundo nela: a dinâmica real, quem se importa mais, o que mudou e o papel de cada um."
+        "q": "O que é o What Patrik Thinks?",
+        "a": "Um personagem de IA — o Patrik — que lê a conversa que você envia e escreve um relatório sincero e engraçado sobre todo mundo nela: a dinâmica real, quem se importa mais, o que mudou e o papel de cada um."
       },
       {
         "q": "É grátis?",
-        "a": "A primeira olhada é grátis: a abertura da Nana, os números e os títulos de tudo que tem no relatório completo. O relatório completo usa um crédito. Não tem assinatura."
+        "a": "A primeira olhada é grátis: a abertura do Patrik, os números e os títulos de tudo que tem no relatório completo. O relatório completo usa um crédito. Não tem assinatura."
       },
       {
         "q": "Quais apps funcionam?",
@@ -548,7 +548,7 @@
       },
       {
         "q": "Minha conversa fica privada?",
-        "a": "A Nana conta suas mensagens primeiro dentro do seu navegador. O envio é criptografado, nunca é compartilhado com ninguém da conversa, nunca é vendido e nunca é usado pra treinar IA. Ele é apagado automaticamente 48 horas depois do envio se você não pedir um relatório, ou 7 dias depois do seu último relatório."
+        "a": "O Patrik conta suas mensagens primeiro dentro do seu navegador. O envio é criptografado, nunca é compartilhado com ninguém da conversa, nunca é vendido e nunca é usado pra treinar IA. Ele é apagado automaticamente 48 horas depois do envio se você não pedir um relatório, ou 7 dias depois do seu último relatório."
       },
       {
         "q": "O pessoal da conversa vai ficar sabendo?",
@@ -556,14 +556,14 @@
       },
       {
         "q": "Quais idiomas?",
-        "a": "Sua conversa pode estar em qualquer idioma ou numa mistura. Os relatórios são escritos em 24 idiomas, e a Nana usa as gírias da própria conversa."
+        "a": "Sua conversa pode estar em qualquer idioma ou numa mistura. Os relatórios são escritos em 36 idiomas, e o Patrik usa as gírias da própria conversa."
       },
       {
         "q": "Quanto tempo leva?",
         "a": "A prévia leva mais ou menos um minuto. O relatório completo, uns dois minutos. A gente te manda um e-mail quando fica pronto, então não precisa esperar na página."
       },
       {
-        "q": "Posso perguntar mais pra Nana?",
+        "q": "Posso perguntar mais pro Patrik?",
         "a": "Pode. Embaixo de cada relatório dá pra fazer uma pergunta extra sobre a mesma conversa. Cada resposta é um relatório novo e mais profundo."
       },
       {
@@ -572,7 +572,7 @@
       },
       {
         "q": "É preciso?",
-        "a": "Os números são contados exatamente a partir da sua exportação. As opiniões são da Nana — IA pode interpretar mal o contexto, então encare como entretenimento, não como conselho."
+        "a": "Os números são contados exatamente a partir da sua exportação. As opiniões são do Patrik — IA pode interpretar mal o contexto, então encare como entretenimento, não como conselho."
       },
       {
         "q": "É pra quem?",
@@ -581,17 +581,17 @@
     ]
   },
   "about": {
-    "title": "Sobre o Nana Reads",
+    "title": "Sobre o What Patrik Thinks",
     "body": [
-      "O Nana Reads é um pequeno projeto de um estúdio independente. Criamos a personagem que a gente queria que existisse: uma vó que já leu todas as conversas do mundo, te ama e mesmo assim fala a verdade.",
-      "A Nana lê conversas do WhatsApp, Telegram, LINE, KakaoTalk, iMessage, Instagram e Messenger, e escreve em 24 idiomas.",
+      "O What Patrik Thinks é um pequeno projeto de um estúdio independente. Criamos o personagem que a gente queria que existisse: o Patrik, um DJ de casamento que passou doze anos observando casais, famílias e grupos de amigos de trás das pick-ups — e agora lê as suas conversas e te fala a verdade.",
+      "O Patrik lê conversas do WhatsApp, Telegram, LINE, KakaoTalk, iMessage, Instagram e Messenger, e escreve em 36 idiomas.",
       "A gente liga pra privacidade mais do que qualquer um nessa categoria: sua conversa é contada primeiro no seu navegador, apagada automaticamente e nunca usada pra treinar IA."
     ],
     "factsTitle": "Fatos principais",
     "facts": [
       [
         "Nome",
-        "Nana Reads"
+        "What Patrik Thinks"
       ],
       [
         "O que é",
@@ -599,7 +599,7 @@
       ],
       [
         "Idiomas",
-        "24"
+        "36"
       ],
       [
         "Preço",
@@ -620,8 +620,8 @@
     "sent": "Recebido. A gente responde por e-mail."
   },
   "feedback": {
-    "title": "Conte pra Nana o que você acha",
-    "sub": "Ideias, reclamações, elogios pra Nana. A gente lê tudo.",
+    "title": "Conte pro Patrik o que você acha",
+    "sub": "Ideias, reclamações, elogios pro Patrik. A gente lê tudo.",
     "placeholder": "Sua opinião",
     "send": "Enviar",
     "sent": "Valeu!"
@@ -629,7 +629,7 @@
   "footer": {
     "chats": "Conversas",
     "help": "Ajuda",
-    "company": "Nana Reads",
+    "company": "What Patrik Thinks",
     "links": {
       "home": "Início",
       "relationship": "Conversas de casal",
@@ -645,7 +645,7 @@
       "terms": "Termos",
       "about": "Sobre"
     },
-    "rights": "© {year} Nana Reads. Só para entretenimento."
+    "rights": "© {year} What Patrik Thinks. Só para entretenimento."
   },
   "legal": {
     "englishOnly": "Esta página é exibida em inglês. A versão em inglês é a que vale.",

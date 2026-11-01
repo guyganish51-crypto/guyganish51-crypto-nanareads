@@ -1,21 +1,21 @@
 {
   "meta": {
-    "siteName": "Nana Reads",
-    "title": "Nana Reads — tvoj chat, pročitan od najznatiželjnije bake na svijetu",
-    "description": "Učitaj chat iz aplikacije WhatsApp, Telegram, LINE ili iMessage. Nana čita svaku poruku i kaže ti što se zapravo događa, kome je više stalo i što tko misli o kome."
+    "siteName": "What Patrik Thinks",
+    "title": "What Patrik Thinks — tvoj chat, pročitan od lika koji nema nikakav filter",
+    "description": "Učitaj chat iz aplikacije WhatsApp, Telegram, LINE ili iMessage. Patrik čita svaku poruku i kaže ti što se zapravo događa, kome je više stalo i što iskreno misli o svakome."
   },
   "nav": {
-    "cta": "Pošalji Nani chat",
+    "cta": "Pošalji Patriku chat",
     "account": "Moji chatovi",
     "language": "Jezik"
   },
   "home": {
-    "eyebrow": "81 godina. Pročitala je svaki chat ikad napisan.",
-    "h1": "Pošalji Nani svoj chat. Reći će ti što se zapravo događa.",
-    "sub": "Nana čita baš svaku poruku, broji ono što bi radije da ne broji i piše iskren, jako smiješan izvještaj o svima u njemu.",
-    "cta": "Pošalji Nani chat",
+    "eyebrow": "12 godina kao DJ na vjenčanjima. Vidio je sve. Kaže sve.",
+    "h1": "Pošalji Patriku svoj chat. Reći će ti što se zapravo događa.",
+    "sub": "Patrik čita baš svaku poruku, broji ono što bi radije da ne broji i piše iskren, jako smiješan izvještaj o svima u njemu.",
+    "cta": "Pošalji Patriku chat",
     "ctaNote": "Besplatni pregled · bez kartice · automatski se briše",
-    "demoTitle": "Odaberi chat i vidi što Nana vidi",
+    "demoTitle": "Odaberi chat i vidi što Patrik vidi",
     "demoHint": "Ovo su izmišljeni chatovi. Tvoj će biti gori.",
     "howTitle": "Kako to funkcionira",
     "how": [
@@ -24,7 +24,7 @@
         "d": "Dva dodira u aplikaciji WhatsApp, Telegram, LINE ili KakaoTalk. Pokazat ćemo ti točno kako."
       },
       {
-        "t": "Nana pročita sve",
+        "t": "Patrik pročita sve",
         "d": "Svaku poruku, svaku glasovnu ispriku, svaki „evo me, krećem“ poslan iz kreveta."
       },
       {
@@ -32,10 +32,10 @@
         "d": "Besplatni pregled za minutu. Cijeli izvještaj stiže ti u inbox — podijeli ga u chatu ako se usudiš."
       }
     ],
-    "findsTitle": "Što Nana pronađe",
+    "findsTitle": "Što Patrik pronađe",
     "finds": [
       {
-        "e": "🫖",
+        "e": "🎧",
         "t": "Kome je stvarno stalo",
         "d": "Tko započinje razgovore, tko odgovara za 4 minute, a tko za 4 sata."
       },
@@ -62,11 +62,11 @@
       "Nikad prodano, nikad dijeljeno, nikad korišteno za treniranje umjetne inteligencije."
     ],
     "worksWith": "Radi s",
-    "heatTitle": "Odaberi koliko će Nana biti oštra",
+    "heatTitle": "Odaberi koliko će Patrik biti oštar",
     "heat": {
       "gentle": {
         "t": "Nježno",
-        "d": "Baka s rođendanske čestitke. Zafrkancija, ništa što peče."
+        "d": "Slatka energija svadbene zdravice. Zafrkancija, ništa što peče."
       },
       "spicy": {
         "t": "Ljuto",
@@ -78,37 +78,37 @@
       }
     },
     "finalH": "Tvoj chat je sljedeći.",
-    "finalSub": "Nana već kuha kavu."
+    "finalSub": "Patrik već bira soundtrack."
   },
   "landing": {
     "relationship": {
-      "metaTitle": "Sviđaš li mu se stvarno? AI analiza vašeg chata — Nana Reads",
-      "metaDesc": "Učitaj chat sa simpatijom, partnerom, situationshipom ili bivšim. Nana čita svaku poruku i kaže ti kome je više stalo i što se promijenilo.",
-      "h1": "Sviđaš li mu se stvarno? Nana će ti reći.",
-      "sub": "Pošalji chat sa simpatijom, partnerom, situationshipom ili bivšim. Nana broji tko prvi piše, tko čeka i kad su se stvari promijenile."
+      "metaTitle": "Sviđaš li mu se stvarno? AI analiza vašeg chata — What Patrik Thinks",
+      "metaDesc": "Učitaj chat sa simpatijom, partnerom, situationshipom ili bivšim. Patrik čita svaku poruku i kaže ti kome je više stalo i što se promijenilo.",
+      "h1": "Sviđaš li mu se stvarno? Patrik će ti reći.",
+      "sub": "Pošalji chat sa simpatijom, partnerom, situationshipom ili bivšim. Patrik broji tko prvi piše, tko čeka i kad su se stvari promijenile."
     },
     "friends": {
-      "metaTitle": "Analiza grupnog chata i prozivanje ekipe — Nana Reads",
-      "metaDesc": "Učitaj grupni chat svoje ekipe. Nana proziva sve redom, dijeli nagrade i govori ono što nitko ne kaže naglas.",
-      "h1": "Što Nana misli o tebi i tvojoj ekipi?",
-      "sub": "Chat dečki, chat cura, putovanje koje se nikad nije dogodilo. Nana sve pročita i svakome dodijeli titulu koju zaslužuje."
+      "metaTitle": "Analiza grupnog chata i prozivanje ekipe — What Patrik Thinks",
+      "metaDesc": "Učitaj grupni chat svoje ekipe. Patrik proziva sve redom, dijeli nagrade i govori ono što nitko ne kaže naglas.",
+      "h1": "Što Patrik misli o tebi i tvojoj ekipi?",
+      "sub": "Chat dečki, chat cura, putovanje koje se nikad nije dogodilo. Patrik sve pročita i svakome dodijeli titulu koju zaslužuje."
     },
     "family": {
-      "metaTitle": "Analiza obiteljske WhatsApp grupe — Nana Reads",
-      "metaDesc": "Učitaj obiteljski grupni chat. Nana otkriva tko stvarno drži obitelj na okupu, tko nikad ne odgovara i tko šalje cvijeće za dobro jutro.",
-      "h1": "Vaš obiteljski chat, pročitan od bake koja je sve vidjela.",
-      "sub": "Tko drži obitelj na okupu, tko odgovara samo na slike hrane i tko se još ljuti zbog prošlog Božića. Nana zna."
+      "metaTitle": "Analiza obiteljske WhatsApp grupe — What Patrik Thinks",
+      "metaDesc": "Učitaj obiteljski grupni chat. Patrik otkriva tko stvarno drži obitelj na okupu, tko nikad ne odgovara i tko šalje cvijeće za dobro jutro.",
+      "h1": "Vaš obiteljski chat, pročitan od lika koji je bio DJ na 600 obiteljskih vjenčanja.",
+      "sub": "Tko drži obitelj na okupu, tko odgovara samo na slike hrane i tko se još ljuti zbog prošlog Božića. Patrik zna."
     },
     "imessage": {
-      "metaTitle": "Analiza iMessage chata — Nana Reads",
-      "metaDesc": "Izvezi iMessage razgovor s Mac računala i pusti Nanu da ga pročita. Kome je više stalo, što se promijenilo i što dalje.",
-      "h1": "Učitaj iMessage chat. Nana će odraditi ostalo.",
-      "sub": "Izvezi razgovor s Mac računala za par minuta i Nana će pročitati svaki plavi oblačić."
+      "metaTitle": "Analiza iMessage chata — What Patrik Thinks",
+      "metaDesc": "Izvezi iMessage razgovor s Mac računala i pusti Patrika da ga pročita. Kome je više stalo, što se promijenilo i što dalje.",
+      "h1": "Učitaj iMessage chat. Patrik će odraditi ostalo.",
+      "sub": "Izvezi razgovor s Mac računala za par minuta i Patrik će pročitati svaki plavi oblačić."
     },
     "whatsapp": {
-      "metaTitle": "Analiza WhatsApp chata — Nana Reads",
-      "metaDesc": "Izvezi bilo koji WhatsApp chat u dva dodira. Nana čita svaku poruku i piše iskren, smiješan izvještaj o svima u njemu.",
-      "h1": "Analiza WhatsApp chata, iz pera tvoje najznatiželjnije bake.",
+      "metaTitle": "Analiza WhatsApp chata — What Patrik Thinks",
+      "metaDesc": "Izvezi bilo koji WhatsApp chat u dva dodira. Patrik čita svaku poruku i piše iskren, smiješan izvještaj o svima u njemu.",
+      "h1": "Analiza WhatsApp chata, iz pera lika koji nema nikakav filter.",
       "sub": "Dva dodira za izvoz, jedna minuta do besplatnog pregleda. Radi s privatnim chatovima i grupama bilo koje veličine."
     }
   },
@@ -229,12 +229,12 @@
         }
       ],
       "headline": "Devet dana na „seen“, pa onda „heeej kako si 🙂“",
-      "verdict": "Petra odgovara za tri sata, ti za četiri minute. Oboje znate što to znači, dušo, i nitko od vas to ne govori naglas.",
+      "verdict": "Petra odgovara za tri sata, ti za četiri minute. Oboje znate što to znači i nitko od vas to ne govori naglas.",
       "locked": [
         "Tko prvi piše, a tko čeka da mu se netko javi",
         "Devet dana tišine: što se stvarno dogodilo",
         "Što se krije iza Petrinog „😅“",
-        "Što bi Nana napravila na tvom mjestu"
+        "Što bi Patrik napravio na tvom mjestu"
       ]
     },
     {
@@ -301,11 +301,11 @@
     }
   ],
   "examples": {
-    "title": "Rečenice iz Naninih izvještaja",
+    "title": "Rečenice iz Patrikovih izvještaja",
     "note": "Iz gornjih primjera chatova, pa ničija privatnost nije stradala.",
     "items": [
       "Luka je četiri puta objavio istu anketu. On nije organizator putovanja, on je pregovarač za taoce.",
-      "Ti odgovaraš za četiri minute. Petra odgovara za tri sata. U moje vrijeme to smo zvali „znak“.",
+      "Ti odgovaraš za četiri minute. Petra odgovara za tri sata. Na svadbama to zovemo „spori ples koji nitko nije tražio“.",
       "Filip je u ovoj grupi u šest godina napisao 4.000 riječi. Njih 3.100 bilo je „ok“.",
       "Mami ne treba broj. Mami treba zagrljaj i jasan odgovor."
     ]
@@ -316,7 +316,7 @@
     "back": "Natrag",
     "next": "Nastavi",
     "context": {
-      "q": "Kakav chat Nana treba pročitati?",
+      "q": "Kakav chat Patrik treba pročitati?",
       "options": {
         "partner": {
           "t": "Ljubav",
@@ -352,14 +352,14 @@
       "q": "Učitaj chat iz aplikacije {app}",
       "drop": "Dodirni za odabir izvezene datoteke",
       "dropHint": ".txt, .zip, .json ili .csv — do 200 MB",
-      "reading": "Nana čita… dosad {count} poruka",
+      "reading": "Patrik čita… dosad {count} poruka",
       "readingLocal": "Ovo se događa na tvom uređaju. Još ništa nije učitano.",
       "uploading": "Sigurno učitavanje…",
       "privacy": "Tvoj chat ostaje privatan",
       "howTo": "Kako ga izvesti?",
       "errors": {
-        "format": "Nana nije mogla pročitati tu datoteku. Provjeri je li to originalni izvoz (.txt ili .zip), a ne snimka zaslona.",
-        "few": "Taj chat je malo prekratak. Nani treba barem 10 poruka da bi imala mišljenje.",
+        "format": "Patrik nije mogao pročitati tu datoteku. Provjeri je li to originalni izvoz (.txt ili .zip), a ne snimka zaslona.",
+        "few": "Taj chat je malo prekratak. Patriku treba barem 10 poruka da bi imao mišljenje.",
         "big": "Datoteka je veća od 200 MB. Izvezi bez medija i pokušaj ponovno.",
         "upload": "Učitavanje nije uspjelo. Provjeri vezu i pokušaj ponovno."
       },
@@ -407,22 +407,22 @@
       ],
       "other": [
         "Izvezi chat kao tekstualnu, CSV ili JSON datoteku",
-        "Učitaj je ovdje — Nana čita većinu formata"
+        "Učitaj je ovdje — Patrik čita većinu formata"
       ]
     },
     "me": {
       "q": "Koji od njih si ti?",
-      "sub": "Da Nana može razgovarati s tobom, a ne o tebi.",
+      "sub": "Da Patrik može razgovarati s tobom, a ne o tebi.",
       "none": "Nisam u ovom chatu"
     },
     "details": {
-      "q": "Nešto što bi Nana trebala znati?",
+      "q": "Nešto što bi Patrik trebao znati?",
       "notes": "Kontekst po želji (npr. „prekinuli smo u ožujku“, „Tomislav mi je brat“)",
       "lang": "Jezik izvještaja",
-      "heat": "Koliko će Nana biti oštra?"
+      "heat": "Koliko će Patrik biti oštar?"
     },
     "email": {
-      "q": "Kamo da Nana pošalje izvještaj?",
+      "q": "Kamo da Patrik pošalje izvještaj?",
       "sub": "Poslat ćemo ti 6-znamenkasti kod e-mailom. Bez lozinke, bez spama.",
       "placeholder": "ti@primjer.hr",
       "send": "Pošalji kod",
@@ -438,32 +438,32 @@
       }
     },
     "writing": {
-      "t": "Nana čita tvoj chat",
+      "t": "Patrik čita tvoj chat",
       "lines": [
-        "Stavlja naočale…",
+        "Stavlja slušalice…",
         "Broji tko prvi piše…",
         "Traži tjedan kad se sve promijenilo…",
         "Podcrtava sočne dijelove…",
-        "Kuha kavu…"
+        "Bira tvoj soundtrack…"
       ],
       "note": "Ovo traje otprilike minutu. Javit ćemo ti i e-mailom kad bude gotovo."
     },
     "recording": {
       "cta": "Ili učitaj snimku zaslona",
-      "hint": "Snimi kako polako skrolaš chat od najstarije poruke do najnovije, pa učitaj video. Nana čita oblačiće.",
+      "hint": "Snimi kako polako skrolaš chat od najstarije poruke do najnovije, pa učitaj video. Patrik čita oblačiće.",
       "extracting": "Biram najjasnije kadrove… {pct} %",
-      "reading": "Nana čita snimke zaslona… ovo traje 1–2 minute",
+      "reading": "Patrik čita snimke zaslona… ovo traje 1–2 minute",
       "errVideo": "Taj video nije moguće pročitati. Pokušaj s običnom snimkom zaslona (MP4 ili MOV).",
-      "errFew": "Nana je pronašla samo nekoliko poruka. Skrolaj sporije i snimi dulji dio chata."
+      "errFew": "Patrik je pronašao samo nekoliko poruka. Skrolaj sporije i snimi dulji dio chata."
     }
   },
   "report": {
-    "by": "Nana",
-    "tagline": "81. Pročitala je svaki chat ikad napisan. I dalje donosi juhu.",
+    "by": "Patrik",
+    "tagline": "Bivši DJ na vjenčanjima. Nula filtera. Čvrsta mišljenja o tvojoj playlisti.",
     "share": "Podijeli izvještaj",
     "copied": "Poveznica kopirana",
     "privacy": "Privatno i pod tvojom kontrolom",
-    "cutoff": "Chat je bio predug da bi se pročitao odjednom, pa je Nana pročitala sve od {date} nadalje.",
+    "cutoff": "Chat je bio predug da bi se pročitao odjednom, pa je Patrik pročitao sve od {date} nadalje.",
     "statsTitle": "Brojke",
     "stat": {
       "messages": "Poruke",
@@ -484,36 +484,36 @@
     "peopleTitle": "I o svakome od vas",
     "unlock": "Pročitaj cijeli izvještaj",
     "unlockNote": "Troši 1 kredit · imaš ih {n}",
-    "noCredits": "Krediti su ti potrošeni. Plaćanje se otvara uskoro — Nana će ti se javiti e-mailom.",
-    "writingFull": "Nana piše cijeli izvještaj. Otprilike 2 minute — javit ćemo ti i e-mailom.",
-    "failed": "Nešto je pošlo po zlu dok je Nana pisala. Kredit ti je vraćen. Pokušaj ponovno.",
+    "noCredits": "Krediti su ti potrošeni. Plaćanje se otvara uskoro — Patrik će ti se javiti e-mailom.",
+    "writingFull": "Patrik piše cijeli izvještaj. Otprilike 2 minute — javit ćemo ti i e-mailom.",
+    "failed": "Nešto je pošlo po zlu dok je Patrik pisao. Kredit ti je vraćen. Pokušaj ponovno.",
     "retry": "Pokušaj ponovno",
     "peopleSection": "Tko je tko",
     "glossary": "Rječnik ovog chata",
     "awards": "Nagrade",
     "reactions": "Kako će svatko od vas reagirati na ovo",
     "verdict": "Presuda",
-    "advice": "Što bi Nana napravila",
-    "askTitle": "Pitaj Nanu još nešto o ovom chatu",
+    "advice": "Što bi Patrik napravio",
+    "askTitle": "Pitaj Patrika još nešto o ovom chatu",
     "askPlaceholder": "npr. Gubi li interes? Tko je u grupi zapravo ljut na mene?",
-    "askCta": "Pitaj Nanu · 1 kredit",
-    "askExpired": "Ovaj chat je obrisan s naših poslužitelja, pa Nana ne može odgovarati na nova pitanja o njemu.",
-    "nextTitle": "Koji chat Nana treba pročitati sljedeći?",
+    "askCta": "Pitaj Patrika · 1 kredit",
+    "askExpired": "Ovaj chat je obrisan s naših poslužitelja, pa Patrik ne može odgovarati na nova pitanja o njemu.",
+    "nextTitle": "Koji chat Patrik treba pročitati sljedeći?",
     "nextCta": "Pošalji još jedan chat",
     "notFound": "Ovaj izvještaj ne postoji ili je obrisan.",
-    "feedback": "Je li Nana bila u pravu?",
-    "feedbackYes": "Pogodila je",
+    "feedback": "Je li Patrik bio u pravu?",
+    "feedbackYes": "Pogodio je",
     "feedbackNo": "Baš i ne",
-    "thanks": "Hvala — Nana bilježi.",
+    "thanks": "Hvala — Patrik bilježi.",
     "aiNote": "Napisala umjetna inteligencija, za zabavu. Može krivo shvatiti kontekst — nemoj na temelju toga donositi velike odluke.",
     "toc": "U ovom izvještaju",
     "minRead": "{n} min čitanja",
     "activity": "Aktivnost po mjesecima",
     "phrases": "Stvari koje govoriš puno prečesto",
     "shareYou": "Podijeli karticu: {name}",
-    "personKicker": "Što Nana misli o osobi {name}",
+    "personKicker": "Što Patrik misli o osobi {name}",
     "readFull": "Pročitaj cijeli izvještaj",
-    "sendYours": "Daj Nani da pročita i tvoj chat"
+    "sendYours": "Daj Patriku da pročita i tvoj chat"
   },
   "account": {
     "title": "Moji chatovi",
@@ -535,12 +535,12 @@
     "title": "Pitanja prije učitavanja",
     "items": [
       {
-        "q": "Što je Nana Reads?",
-        "a": "AI lik — Nana — koji čita chat koji učitaš i piše iskren, smiješan izvještaj o svima u njemu: pravu dinamiku, kome je više stalo, što se promijenilo i tko ima koju ulogu."
+        "q": "Što je What Patrik Thinks?",
+        "a": "AI lik — Patrik — koji čita chat koji učitaš i piše iskren, smiješan izvještaj o svima u njemu: pravu dinamiku, kome je više stalo, što se promijenilo i tko ima koju ulogu."
       },
       {
         "q": "Je li besplatno?",
-        "a": "Prvi pogled je besplatan: Nanin uvod, brojke i naslovi svega što je u cijelom izvještaju. Cijeli izvještaj troši jedan kredit. Nema pretplate."
+        "a": "Prvi pogled je besplatan: Patrikov uvod, brojke i naslovi svega što je u cijelom izvještaju. Cijeli izvještaj troši jedan kredit. Nema pretplate."
       },
       {
         "q": "Koje aplikacije rade?",
@@ -548,7 +548,7 @@
       },
       {
         "q": "Je li moj chat privatan?",
-        "a": "Nana prvo broji tvoje poruke u tvom pregledniku. Učitani podaci su šifrirani, nikad se ne dijele ni s kim iz chata, nikad se ne prodaju i nikad se ne koriste za treniranje umjetne inteligencije. Automatski se brišu 48 sati nakon učitavanja ako ne naručiš izvještaj, ili 7 dana nakon tvog zadnjeg izvještaja."
+        "a": "Patrik prvo broji tvoje poruke u tvom pregledniku. Učitani podaci su šifrirani, nikad se ne dijele ni s kim iz chata, nikad se ne prodaju i nikad se ne koriste za treniranje umjetne inteligencije. Automatski se brišu 48 sati nakon učitavanja ako ne naručiš izvještaj, ili 7 dana nakon tvog zadnjeg izvještaja."
       },
       {
         "q": "Hoće li ljudi iz chata saznati?",
@@ -556,14 +556,14 @@
       },
       {
         "q": "Na kojim jezicima?",
-        "a": "Tvoj chat može biti na bilo kojem jeziku ili mješavini jezika. Izvještaji se pišu na 24 jezika, a Nana koristi sleng samog chata."
+        "a": "Tvoj chat može biti na bilo kojem jeziku ili mješavini jezika. Izvještaji se pišu na 36 jezika, a Patrik koristi sleng samog chata."
       },
       {
         "q": "Koliko traje?",
         "a": "Pregled traje otprilike minutu. Cijeli izvještaj oko dvije minute. Javimo ti se e-mailom kad je gotovo, pa ne moraš čekati na stranici."
       },
       {
-        "q": "Mogu li Nanu pitati još nešto?",
+        "q": "Mogu li Patrika pitati još nešto?",
         "a": "Možeš. Ispod svakog izvještaja možeš postaviti dodatno pitanje o istom chatu. Svaki odgovor je novi, dublji izvještaj."
       },
       {
@@ -572,7 +572,7 @@
       },
       {
         "q": "Je li točno?",
-        "a": "Brojke se broje točno iz tvog izvoza. Mišljenja su Nanina — umjetna inteligencija može krivo shvatiti kontekst, pa to shvati kao zabavu, a ne kao savjet."
+        "a": "Brojke se broje točno iz tvog izvoza. Mišljenja su Patrikova — umjetna inteligencija može krivo shvatiti kontekst, pa to shvati kao zabavu, a ne kao savjet."
       },
       {
         "q": "Za koga je?",
@@ -581,17 +581,17 @@
     ]
   },
   "about": {
-    "title": "O Nana Reads",
+    "title": "O What Patrik Thinks",
     "body": [
-      "Nana Reads je mali nezavisni studijski projekt. Stvorili smo lik za koji smo željeli da postoji: baku koja je pročitala svaki chat na svijetu, voli te i svejedno ti kaže istinu.",
-      "Nana čita chatove iz aplikacija WhatsApp, Telegram, LINE, KakaoTalk, iMessage, Instagram i Messenger i piše na 24 jezika.",
+      "What Patrik Thinks je mali nezavisni studijski projekt. Stvorili smo lik za koji smo željeli da postoji: Patrika, DJ-a s vjenčanja koji je dvanaest godina iza pulta promatrao parove, obitelji i ekipe prijatelja — a sada čita tvoje chatove i govori ti istinu.",
+      "Patrik čita chatove iz aplikacija WhatsApp, Telegram, LINE, KakaoTalk, iMessage, Instagram i Messenger i piše na 36 jezika.",
       "Do privatnosti nam je stalo više nego ikome u ovoj kategoriji: tvoj chat najprije se broji u tvom pregledniku, automatski se briše i nikad se ne koristi za treniranje umjetne inteligencije."
     ],
     "factsTitle": "Ključne činjenice",
     "facts": [
       [
         "Ime",
-        "Nana Reads"
+        "What Patrik Thinks"
       ],
       [
         "Što je to",
@@ -599,7 +599,7 @@
       ],
       [
         "Jezici",
-        "24"
+        "36"
       ],
       [
         "Cijena",
@@ -620,8 +620,8 @@
     "sent": "Primljeno. Odgovorit ćemo e-mailom."
   },
   "feedback": {
-    "title": "Reci Nani što misliš",
-    "sub": "Ideje, pritužbe, komplimenti za Nanu. Čitamo sve.",
+    "title": "Reci Patriku što misliš",
+    "sub": "Ideje, pritužbe, komplimenti za Patrika. Čitamo sve.",
     "placeholder": "Tvoje mišljenje",
     "send": "Pošalji",
     "sent": "Hvala ti!"
@@ -629,7 +629,7 @@
   "footer": {
     "chats": "Chatovi",
     "help": "Pomoć",
-    "company": "Nana Reads",
+    "company": "What Patrik Thinks",
     "links": {
       "home": "Početna",
       "relationship": "Ljubavni chatovi",
@@ -645,7 +645,7 @@
       "terms": "Uvjeti",
       "about": "O nama"
     },
-    "rights": "© {year} Nana Reads. Samo za zabavu."
+    "rights": "© {year} What Patrik Thinks. Samo za zabavu."
   },
   "legal": {
     "englishOnly": "Ova stranica prikazana je na engleskom. Obvezujuća je engleska verzija.",

@@ -1,6 +1,6 @@
 {
   "previewReady": {
-    "subject": "Tapos nang magbasa si Nana 🫖",
+    "subject": "Tapos nang magbasa si Patrik 🎧",
     "pre": "Nasa loob: {names}",
     "h": "Nabasa ko na ang chat n'yo.",
     "body": "Ito ang sinulat ko tungkol sa bawat isa sa inyo:",
@@ -13,11 +13,11 @@
     "h": "Naghihintay ang report mo",
     "body": "Nabasa mo na ang intro. Ito pa ang laman:",
     "cta": "Basahin ang buong report",
-    "credit": "May free credit ka pa — libre na ni Nana."
+    "credit": "May free credit ka pa — sagot ko na ang round na 'to."
   },
   "hook": {
     "pre": "Huling paalala tungkol sa report mo.",
-    "h": "Isa pa bago ko iligpit ang takure",
+    "h": "Huling kanta bago ko iligpit ang decks",
     "body": "{title}",
     "cta": "Buksan ang buong report",
     "ps": "P.S. Basahin mo, i-drop sa GC, at abangan kung sino ang unang sasagot 👀"
@@ -30,13 +30,13 @@
     "ps": "P.S. I-share mo sa GC. Kung kaya mo."
   },
   "next": {
-    "subject": "Warm-up pa lang 'yon 👀",
+    "subject": "Warm-up set pa lang 'yon 👀",
     "pre": "Ngayon, ipadala mo na 'yung chat na talagang iniisip mo.",
     "h": "Aling chat ba talaga ang gusto mong basahin ko?",
     "body": "'Yung binabasa mo ulit nang 2 a.m. Ang ex. Ang situationship. Ang nanay mo.",
-    "cta": "Magpadala pa ng chat kay Nana"
+    "cta": "Magpadala pa ng chat kay Patrik"
   },
-  "footer": "Natanggap mo ito dahil nagpabasa ka ng chat kay Nana.",
+  "footer": "Natanggap mo ito dahil nagpabasa ka ng chat kay Patrik.",
   "unsubscribe": "Mag-unsubscribe",
-  "sign": "— Nana"
+  "sign": "— Patrik"
 }

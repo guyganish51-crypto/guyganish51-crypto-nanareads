@@ -1,6 +1,6 @@
 {
   "previewReady": {
-    "subject": "Nana hat fertig gelesen 🫖",
+    "subject": "Patrik hat fertig gelesen 🎧",
     "pre": "Mit dabei: {names}",
     "h": "Ich habe euren Chat gelesen.",
     "body": "Das habe ich über jeden von euch geschrieben:",
@@ -13,11 +13,11 @@
     "h": "Dein Bericht wartet auf dich",
     "body": "Den Anfang kennst du schon. Das steckt noch drin:",
     "cta": "Ganzen Bericht lesen",
-    "credit": "Du hast noch ein Gratis-Guthaben — geht auf Nana."
+    "credit": "Du hast noch ein Gratis-Guthaben — die Runde geht auf mich."
   },
   "hook": {
     "pre": "Letzte Erinnerung an deinen Bericht.",
-    "h": "Eine letzte Sache, bevor ich den Wasserkocher wegräume",
+    "h": "Ein letzter Song, bevor ich das DJ-Pult abbaue",
     "body": "{title}",
     "cta": "Ganzen Bericht öffnen",
     "ps": "PS: Lies ihn, wirf ihn in den Chat und schau, wer zuerst antwortet 👀"
@@ -30,13 +30,13 @@
     "ps": "PS: Teil ihn im Chat. Trau dich."
   },
   "next": {
-    "subject": "Das war nur zum Aufwärmen 👀",
+    "subject": "Das war nur das Warm-up-Set 👀",
     "pre": "Jetzt schick mir den Chat, an den du wirklich ständig denkst.",
     "h": "Welchen Chat soll ich wirklich lesen?",
     "body": "Den, den du um 2 Uhr nachts nochmal liest. Der Ex. Das Situationship. Deine Mutter.",
-    "cta": "Nana noch einen Chat schicken"
+    "cta": "Patrik noch einen Chat schicken"
   },
-  "footer": "Du bekommst diese E-Mail, weil du Nana einen Chat zum Lesen gegeben hast.",
+  "footer": "Du bekommst diese E-Mail, weil du Patrik einen Chat zum Lesen gegeben hast.",
   "unsubscribe": "Abmelden",
-  "sign": "— Nana"
+  "sign": "— Patrik"
 }

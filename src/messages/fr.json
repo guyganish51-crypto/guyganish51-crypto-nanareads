@@ -1,21 +1,21 @@
 {
   "meta": {
-    "siteName": "Nana Reads",
-    "title": "Nana Reads — ta conversation, lue par la mamie la plus curieuse du monde",
-    "description": "Importe une conversation WhatsApp, Telegram, LINE ou iMessage. Nana lit chaque message et te dit ce qui se passe vraiment, qui tient le plus à l'autre, et ce que chacun pense de tout le monde."
+    "siteName": "What Patrik Thinks",
+    "title": "What Patrik Thinks — ta conversation, lue par un mec sans aucun filtre",
+    "description": "Importe une conversation WhatsApp, Telegram, LINE ou iMessage. Patrik lit chaque message et te dit ce qui se passe vraiment, qui tient le plus à l'autre, et ce qu'il pense franchement de chacun."
   },
   "nav": {
-    "cta": "Envoyer une conv à Nana",
+    "cta": "Envoyer une conv à Patrik",
     "account": "Mes convs",
     "language": "Langue"
   },
   "home": {
-    "eyebrow": "81 ans. A lu toutes les conversations jamais écrites.",
-    "h1": "Envoie ta conv à Nana. Elle te dira ce qui se passe vraiment.",
-    "sub": "Nana lit chaque message, compte tout ce que tu préférerais qu'elle ne compte pas, et écrit un rapport honnête et franchement drôle sur tout le monde.",
-    "cta": "Envoyer une conv à Nana",
+    "eyebrow": "12 ans DJ de mariages. Il a tout vu. Il dit tout.",
+    "h1": "Envoie ta conv à Patrik. Il te dira ce qui se passe vraiment.",
+    "sub": "Patrik lit chaque message, compte tout ce que tu préférerais qu'il ne compte pas, et écrit un rapport honnête et franchement drôle sur tout le monde.",
+    "cta": "Envoyer une conv à Patrik",
     "ctaNote": "Aperçu gratuit · sans carte · supprimé automatiquement",
-    "demoTitle": "Choisis une conv, vois ce que Nana voit",
+    "demoTitle": "Choisis une conv, vois ce que Patrik voit",
     "demoHint": "Ces convs sont inventées. La tienne sera pire.",
     "howTitle": "Comment ça marche",
     "how": [
@@ -24,7 +24,7 @@
         "d": "Deux clics dans WhatsApp, Telegram, LINE ou KakaoTalk. On te montre exactement comment."
       },
       {
-        "t": "Nana lit tout",
+        "t": "Patrik lit tout",
         "d": "Chaque message, chaque excuse en vocal, chaque « j'arrive » envoyé depuis le lit."
       },
       {
@@ -32,10 +32,10 @@
         "d": "Aperçu gratuit en une minute. Le rapport complet arrive dans ta boîte mail — partage-le dans le groupe, si t'oses."
       }
     ],
-    "findsTitle": "Ce que Nana trouve",
+    "findsTitle": "Ce que Patrik trouve",
     "finds": [
       {
-        "e": "🫖",
+        "e": "🎧",
         "t": "Qui s'investit vraiment",
         "d": "Qui lance les conversations, qui répond en 4 minutes et qui en 4 heures."
       },
@@ -62,11 +62,11 @@
       "Jamais vendue, jamais partagée, jamais utilisée pour entraîner une IA."
     ],
     "worksWith": "Compatible avec",
-    "heatTitle": "Choisis à quel point Nana se lâche",
+    "heatTitle": "Choisis à quel point Patrik se lâche",
     "heat": {
       "gentle": {
         "t": "Douce",
-        "d": "Mamie carte d'anniversaire. Ça taquine, ça ne pique pas."
+        "d": "Ambiance discours de mariage tout mignon. Ça taquine, ça ne pique pas."
       },
       "spicy": {
         "t": "Épicée",
@@ -78,37 +78,37 @@
       }
     },
     "finalH": "Ta conv est la prochaine.",
-    "finalSub": "Nana a déjà mis la bouilloire en route."
+    "finalSub": "Patrik est déjà en train de choisir la bande-son."
   },
   "landing": {
     "relationship": {
-      "metaTitle": "Est-ce qu'il t'aime vraiment ? Analyse IA de ta conversation — Nana Reads",
-      "metaDesc": "Importe ta conv avec ton crush, ton mec, ta meuf, ton plan flou ou ton ex. Nana lit chaque message et te dit qui tient le plus à l'autre et ce qui a changé.",
-      "h1": "Est-ce qu'il t'aime vraiment ? Nana va te le dire.",
-      "sub": "Envoie ta conv avec ton crush, ton couple, ton plan flou ou ton ex. Nana compte qui écrit en premier, qui fait attendre, et quand tout a basculé."
+      "metaTitle": "Est-ce qu'il t'aime vraiment ? Analyse IA de ta conversation — What Patrik Thinks",
+      "metaDesc": "Importe ta conv avec ton crush, ton mec, ta meuf, ton plan flou ou ton ex. Patrik lit chaque message et te dit qui tient le plus à l'autre et ce qui a changé.",
+      "h1": "Est-ce qu'il t'aime vraiment ? Patrik va te le dire.",
+      "sub": "Envoie ta conv avec ton crush, ton couple, ton plan flou ou ton ex. Patrik compte qui écrit en premier, qui fait attendre, et quand tout a basculé."
     },
     "friends": {
-      "metaTitle": "Analyse de groupe d'amis & clash entre potes — Nana Reads",
-      "metaDesc": "Importe le groupe de tes potes. Nana clashe tout le monde, distribue des trophées et dit tout haut ce que personne n'ose dire.",
-      "h1": "Qu'est-ce que Nana pense de toi et de tes potes ?",
-      "sub": "Le groupe des gars, le groupe des filles, le voyage qui n'a jamais eu lieu. Nana lit tout et donne à chacun le titre qu'il mérite."
+      "metaTitle": "Analyse de groupe d'amis & clash entre potes — What Patrik Thinks",
+      "metaDesc": "Importe le groupe de tes potes. Patrik clashe tout le monde, distribue des trophées et dit tout haut ce que personne n'ose dire.",
+      "h1": "Qu'est-ce que Patrik pense de toi et de tes potes ?",
+      "sub": "Le groupe des gars, le groupe des filles, le voyage qui n'a jamais eu lieu. Patrik lit tout et donne à chacun le titre qu'il mérite."
     },
     "family": {
-      "metaTitle": "Analyse du groupe WhatsApp de la famille — Nana Reads",
-      "metaDesc": "Importe le groupe de la famille. Nana découvre qui tient vraiment la famille, qui ne répond jamais, et qui envoie les fleurs du « bonjour à tous ».",
-      "h1": "Le groupe de ta famille, lu par une mamie qui en a vu d'autres.",
-      "sub": "Qui tient la famille, qui ne répond qu'aux photos de bouffe, et qui fait encore la tête depuis le dernier Noël. Nana sait."
+      "metaTitle": "Analyse du groupe WhatsApp de la famille — What Patrik Thinks",
+      "metaDesc": "Importe le groupe de la famille. Patrik découvre qui tient vraiment la famille, qui ne répond jamais, et qui envoie les fleurs du « bonjour à tous ».",
+      "h1": "Le groupe de ta famille, lu par un mec qui a animé 600 mariages de famille.",
+      "sub": "Qui tient la famille, qui ne répond qu'aux photos de bouffe, et qui fait encore la tête depuis le dernier Noël. Patrik sait."
     },
     "imessage": {
-      "metaTitle": "Analyse de conversations iMessage — Nana Reads",
-      "metaDesc": "Exporte une conversation iMessage depuis ton Mac et laisse Nana la lire. Qui tient le plus à l'autre, ce qui a changé, et quoi faire maintenant.",
-      "h1": "Importe une conv iMessage. Nana s'occupe du reste.",
-      "sub": "Exporte une conversation depuis ton Mac en deux minutes, et Nana lira chaque bulle bleue."
+      "metaTitle": "Analyse de conversations iMessage — What Patrik Thinks",
+      "metaDesc": "Exporte une conversation iMessage depuis ton Mac et laisse Patrik la lire. Qui tient le plus à l'autre, ce qui a changé, et quoi faire maintenant.",
+      "h1": "Importe une conv iMessage. Patrik s'occupe du reste.",
+      "sub": "Exporte une conversation depuis ton Mac en deux minutes, et Patrik lira chaque bulle bleue."
     },
     "whatsapp": {
-      "metaTitle": "Analyse de conversations WhatsApp — Nana Reads",
-      "metaDesc": "Exporte n'importe quelle conv WhatsApp en deux clics. Nana lit chaque message et écrit un rapport honnête et drôle sur tout le monde.",
-      "h1": "L'analyse de tes convs WhatsApp, par ta mamie la plus curieuse.",
+      "metaTitle": "Analyse de conversations WhatsApp — What Patrik Thinks",
+      "metaDesc": "Exporte n'importe quelle conv WhatsApp en deux clics. Patrik lit chaque message et écrit un rapport honnête et drôle sur tout le monde.",
+      "h1": "L'analyse de tes convs WhatsApp, par un mec sans aucun filtre.",
       "sub": "Deux clics pour exporter, une minute pour ton aperçu gratuit. Marche avec les convs privées et les groupes de toutes tailles."
     }
   },
@@ -229,12 +229,12 @@
         }
       ],
       "headline": "Neuf jours en « vu », puis « coucouuu ça va ? 🙂 »",
-      "verdict": "Léa répond en trois heures, toi en quatre minutes. Vous savez tous les deux ce que ça veut dire, mon chou, et aucun de vous ne le dit.",
+      "verdict": "Léa répond en trois heures, toi en quatre minutes. Vous savez tous les deux ce que ça veut dire, et aucun de vous ne le dit.",
       "locked": [
         "Qui écrit en premier, et qui attend qu'on lui écrive",
         "Neuf jours de silence : ce qui s'est vraiment passé",
         "Ce qui se cache derrière le « 😅 » de Léa",
-        "Ce que Nana ferait à ta place"
+        "Ce que Patrik ferait à ta place"
       ]
     },
     {
@@ -301,11 +301,11 @@
     }
   ],
   "examples": {
-    "title": "Extraits des rapports de Nana",
+    "title": "Extraits des rapports de Patrik",
     "note": "Tirés des convs d'exemple ci-dessus, donc la vie privée de personne n'a été maltraitée.",
     "items": [
       "Julien a posté le même sondage quatre fois. Ce n'est pas un organisateur de voyages, c'est un négociateur de prise d'otages.",
-      "Tu réponds en quatre minutes. Léa répond en trois heures. De mon temps, on appelait ça « un signe ».",
+      "Tu réponds en quatre minutes. Léa répond en trois heures. Dans les mariages, on appelle ça « le slow que personne n'a demandé ».",
       "Lucas a écrit 4 000 mots dans ce groupe en six ans. 3 100 d'entre eux étaient « ok ».",
       "Maman n'a pas besoin d'un nombre de couverts. Maman a besoin d'un câlin et d'une réponse claire."
     ]
@@ -316,7 +316,7 @@
     "back": "Retour",
     "next": "Continuer",
     "context": {
-      "q": "Quel genre de conv Nana doit-elle lire ?",
+      "q": "Quel genre de conv Patrik doit-il lire ?",
       "options": {
         "partner": {
           "t": "Amour",
@@ -352,14 +352,14 @@
       "q": "Importe la conv depuis {app}",
       "drop": "Touche pour choisir le fichier exporté",
       "dropHint": ".txt, .zip, .json ou .csv — jusqu'à 200 Mo",
-      "reading": "Nana lit… {count} messages pour l'instant",
+      "reading": "Patrik lit… {count} messages pour l'instant",
       "readingLocal": "Ça se passe sur ton appareil. Rien n'a encore été envoyé.",
       "uploading": "Envoi sécurisé…",
       "privacy": "Ta conv reste privée",
       "howTo": "Comment je l'exporte ?",
       "errors": {
-        "format": "Nana n'a pas réussi à lire ce fichier. Vérifie que c'est bien l'export d'origine (.txt ou .zip), pas une capture d'écran.",
-        "few": "Cette conv est un peu courte. Nana a besoin d'au moins 10 messages pour se faire un avis.",
+        "format": "Patrik n'a pas réussi à lire ce fichier. Vérifie que c'est bien l'export d'origine (.txt ou .zip), pas une capture d'écran.",
+        "few": "Cette conv est un peu courte. Patrik a besoin d'au moins 10 messages pour se faire un avis.",
         "big": "Ce fichier dépasse 200 Mo. Exporte sans les médias et réessaie.",
         "upload": "L'envoi a échoué. Vérifie ta connexion et réessaie."
       },
@@ -407,22 +407,22 @@
       ],
       "other": [
         "Exporte la conv en fichier texte, CSV ou JSON",
-        "Importe-le ici — Nana lit la plupart des formats"
+        "Importe-le ici — Patrik lit la plupart des formats"
       ]
     },
     "me": {
       "q": "Lequel, c'est toi ?",
-      "sub": "Pour que Nana te parle à toi, pas de toi.",
+      "sub": "Pour que Patrik te parle à toi, pas de toi.",
       "none": "Je ne suis pas dans cette conv"
     },
     "details": {
-      "q": "Quelque chose que Nana devrait savoir ?",
+      "q": "Quelque chose que Patrik devrait savoir ?",
       "notes": "Contexte facultatif (ex. « on a rompu en mars », « Hugo, c'est mon frère »)",
       "lang": "Écrire le rapport en",
-      "heat": "À quel point Nana doit se lâcher ?"
+      "heat": "À quel point Patrik doit se lâcher ?"
     },
     "email": {
-      "q": "Où Nana doit-elle envoyer le rapport ?",
+      "q": "Où Patrik doit-il envoyer le rapport ?",
       "sub": "On t'envoie un code à 6 chiffres par mail. Pas de mot de passe, pas de spam.",
       "placeholder": "toi@exemple.fr",
       "send": "Envoyer le code",
@@ -438,32 +438,32 @@
       }
     },
     "writing": {
-      "t": "Nana lit ta conv",
+      "t": "Patrik lit ta conv",
       "lines": [
-        "Elle met ses lunettes…",
-        "Elle compte qui écrit en premier…",
-        "Elle cherche la semaine où tout a changé…",
-        "Elle souligne les meilleurs passages…",
-        "Elle se fait un thé…"
+        "Il met son casque…",
+        "Il compte qui écrit en premier…",
+        "Il cherche la semaine où tout a changé…",
+        "Il souligne les meilleurs passages…",
+        "Il choisit ta bande-son…"
       ],
       "note": "Ça prend environ une minute. On t'envoie aussi un mail quand c'est prêt."
     },
     "recording": {
       "cta": "Ou envoie un enregistrement d'écran",
-      "hint": "Filme ton écran en faisant défiler lentement la conversation, du plus ancien au plus récent, puis envoie la vidéo. Nana lira les bulles.",
+      "hint": "Filme ton écran en faisant défiler lentement la conversation, du plus ancien au plus récent, puis envoie la vidéo. Patrik lira les bulles.",
       "extracting": "On garde les images les plus nettes… {pct}%",
-      "reading": "Nana lit les captures… 1 à 2 minutes",
+      "reading": "Patrik lit les captures… 1 à 2 minutes",
       "errVideo": "Impossible de lire cette vidéo. Essaie un enregistrement d'écran classique (MP4 ou MOV).",
-      "errFew": "Nana n'a trouvé que quelques messages. Fais défiler plus lentement et filme un passage plus long."
+      "errFew": "Patrik n'a trouvé que quelques messages. Fais défiler plus lentement et filme un passage plus long."
     }
   },
   "report": {
-    "by": "Nana",
-    "tagline": "81 ans. A lu toutes les convs du monde. Apporte toujours la soupe.",
+    "by": "Patrik",
+    "tagline": "Ex-DJ de mariages. Zéro filtre. Des avis très tranchés sur ta playlist.",
     "share": "Partager le rapport",
     "copied": "Lien copié",
     "privacy": "Privé et sous ton contrôle",
-    "cutoff": "La conv était trop longue pour être lue d'un coup, alors Nana a tout lu à partir du {date}.",
+    "cutoff": "La conv était trop longue pour être lue d'un coup, alors Patrik a tout lu à partir du {date}.",
     "statsTitle": "Les chiffres",
     "stat": {
       "messages": "Messages",
@@ -484,34 +484,34 @@
     "peopleTitle": "Et sur chacun de vous",
     "unlock": "Lire le rapport complet",
     "unlockNote": "Utilise 1 crédit · il t'en reste {n}",
-    "noCredits": "Tu n'as plus de crédits. Les paiements ouvrent bientôt — Nana t'enverra un mail.",
-    "writingFull": "Nana écrit le rapport complet. Environ 2 minutes — on t'envoie aussi un mail.",
-    "failed": "Un souci est survenu pendant que Nana écrivait. Ton crédit a été remboursé. Réessaie.",
+    "noCredits": "Tu n'as plus de crédits. Les paiements ouvrent bientôt — Patrik t'enverra un mail.",
+    "writingFull": "Patrik écrit le rapport complet. Environ 2 minutes — on t'envoie aussi un mail.",
+    "failed": "Un souci est survenu pendant que Patrik écrivait. Ton crédit a été remboursé. Réessaie.",
     "retry": "Réessayer",
     "peopleSection": "Qui est qui",
     "glossary": "Le dico de cette conv",
     "awards": "Les trophées",
     "reactions": "Comment chacun va réagir à ça",
     "verdict": "Le verdict",
-    "advice": "Ce que Nana ferait",
-    "askTitle": "Pose une autre question à Nana sur cette conv",
+    "advice": "Ce que Patrik ferait",
+    "askTitle": "Pose une autre question à Patrik sur cette conv",
     "askPlaceholder": "ex. Est-ce qu'il se lasse ? Qui dans le groupe m'en veut vraiment ?",
-    "askCta": "Demander à Nana · 1 crédit",
-    "askExpired": "Cette conv a été supprimée de nos serveurs, donc Nana ne peut plus répondre à de nouvelles questions dessus.",
-    "nextTitle": "Quelle conv Nana lit ensuite ?",
+    "askCta": "Demander à Patrik · 1 crédit",
+    "askExpired": "Cette conv a été supprimée de nos serveurs, donc Patrik ne peut plus répondre à de nouvelles questions dessus.",
+    "nextTitle": "Quelle conv Patrik lit ensuite ?",
     "nextCta": "Envoyer une autre conv",
     "notFound": "Ce rapport n'existe pas ou a été supprimé.",
-    "feedback": "Nana a vu juste ?",
+    "feedback": "Patrik a vu juste ?",
     "feedbackYes": "En plein dans le mille",
     "feedbackNo": "Pas vraiment",
-    "thanks": "Merci — Nana prend note.",
+    "thanks": "Merci — Patrik prend note.",
     "aiNote": "Écrit par une IA pour le divertissement. Elle peut mal comprendre le contexte — ne prends pas de grandes décisions là-dessus.",
     "toc": "Dans ce rapport",
     "minRead": "{n} min de lecture",
     "activity": "Activité par mois",
     "phrases": "Ce que vous répétez beaucoup trop",
     "shareYou": "Partager la carte de {name}",
-    "personKicker": "Ce que Nana pense de {name}",
+    "personKicker": "Ce que Patrik pense de {name}",
     "readFull": "Lire le rapport complet",
     "sendYours": "Fais lire ta conversation"
   },
@@ -535,12 +535,12 @@
     "title": "Les questions avant d'importer",
     "items": [
       {
-        "q": "C'est quoi, Nana Reads ?",
-        "a": "Un personnage IA — Nana — qui lit la conv que tu importes et écrit un rapport honnête et drôle sur tout le monde : la vraie dynamique, qui tient le plus à l'autre, ce qui a changé, et le rôle de chacun."
+        "q": "C'est quoi, What Patrik Thinks ?",
+        "a": "Un personnage IA — Patrik — qui lit la conv que tu importes et écrit un rapport honnête et drôle sur tout le monde : la vraie dynamique, qui tient le plus à l'autre, ce qui a changé, et le rôle de chacun."
       },
       {
         "q": "C'est gratuit ?",
-        "a": "Le premier aperçu est gratuit : l'intro de Nana, les chiffres, et les titres de tout ce qu'il y a dans le rapport complet. Le rapport complet utilise un crédit. Pas d'abonnement."
+        "a": "Le premier aperçu est gratuit : l'intro de Patrik, les chiffres, et les titres de tout ce qu'il y a dans le rapport complet. Le rapport complet utilise un crédit. Pas d'abonnement."
       },
       {
         "q": "Quelles applis sont compatibles ?",
@@ -548,7 +548,7 @@
       },
       {
         "q": "Ma conv reste privée ?",
-        "a": "Nana compte d'abord tes messages dans ton navigateur. L'envoi est chiffré, jamais partagé avec qui que ce soit de la conv, jamais vendu, et jamais utilisé pour entraîner une IA. Il est supprimé automatiquement 48 heures après l'envoi si tu ne commandes pas de rapport, ou 7 jours après ton dernier rapport."
+        "a": "Patrik compte d'abord tes messages dans ton navigateur. L'envoi est chiffré, jamais partagé avec qui que ce soit de la conv, jamais vendu, et jamais utilisé pour entraîner une IA. Il est supprimé automatiquement 48 heures après l'envoi si tu ne commandes pas de rapport, ou 7 jours après ton dernier rapport."
       },
       {
         "q": "Les gens de la conv vont le savoir ?",
@@ -556,14 +556,14 @@
       },
       {
         "q": "Quelles langues ?",
-        "a": "Ta conv peut être dans n'importe quelle langue, ou un mélange. Les rapports sont écrits en 24 langues, et Nana reprend l'argot de ta conv."
+        "a": "Ta conv peut être dans n'importe quelle langue, ou un mélange. Les rapports sont écrits en 36 langues, et Patrik reprend l'argot de ta conv."
       },
       {
         "q": "Ça prend combien de temps ?",
         "a": "L'aperçu prend environ une minute. Le rapport complet, environ deux. On t'envoie un mail quand c'est prêt, pas besoin de rester sur la page."
       },
       {
-        "q": "Je peux poser d'autres questions à Nana ?",
+        "q": "Je peux poser d'autres questions à Patrik ?",
         "a": "Oui. Sous chaque rapport, tu peux poser une question de suivi sur la même conv. Chaque réponse est un nouveau rapport, plus approfondi."
       },
       {
@@ -572,7 +572,7 @@
       },
       {
         "q": "C'est fiable ?",
-        "a": "Les chiffres sont comptés exactement à partir de ton export. Les avis sont ceux de Nana — une IA peut mal comprendre le contexte, alors prends ça comme un divertissement, pas comme un conseil."
+        "a": "Les chiffres sont comptés exactement à partir de ton export. Les avis sont ceux de Patrik — une IA peut mal comprendre le contexte, alors prends ça comme un divertissement, pas comme un conseil."
       },
       {
         "q": "C'est pour qui ?",
@@ -581,17 +581,17 @@
     ]
   },
   "about": {
-    "title": "À propos de Nana Reads",
+    "title": "À propos de What Patrik Thinks",
     "body": [
-      "Nana Reads est un petit projet de studio indépendant. On a créé le personnage qu'on rêvait de voir exister : une grand-mère qui a lu toutes les convs du monde, qui t'adore, et qui te dit la vérité quand même.",
-      "Nana lit les convs WhatsApp, Telegram, LINE, KakaoTalk, iMessage, Instagram et Messenger, et écrit en 24 langues.",
+      "What Patrik Thinks est un petit projet de studio indépendant. On a créé le personnage qu'on rêvait de voir exister : Patrik, un DJ de mariages qui a passé douze ans à observer couples, familles et bandes de potes depuis ses platines — et qui lit maintenant tes convs pour te dire la vérité.",
+      "Patrik lit les convs WhatsApp, Telegram, LINE, KakaoTalk, iMessage, Instagram et Messenger, et écrit en 36 langues.",
       "La vie privée compte plus pour nous que pour n'importe qui dans ce domaine : ta conv est d'abord comptée dans ton navigateur, supprimée automatiquement, et jamais utilisée pour entraîner une IA."
     ],
     "factsTitle": "L'essentiel",
     "facts": [
       [
         "Nom",
-        "Nana Reads"
+        "What Patrik Thinks"
       ],
       [
         "C'est quoi",
@@ -599,7 +599,7 @@
       ],
       [
         "Langues",
-        "24"
+        "36"
       ],
       [
         "Prix",
@@ -620,8 +620,8 @@
     "sent": "Bien reçu. On te répond par mail."
   },
   "feedback": {
-    "title": "Dis à Nana ce que t'en penses",
-    "sub": "Idées, coups de gueule, compliments pour Nana. On lit tout.",
+    "title": "Dis à Patrik ce que t'en penses",
+    "sub": "Idées, coups de gueule, compliments pour Patrik. On lit tout.",
     "placeholder": "Ton avis",
     "send": "Envoyer",
     "sent": "Merci !"
@@ -629,7 +629,7 @@
   "footer": {
     "chats": "Convs",
     "help": "Aide",
-    "company": "Nana Reads",
+    "company": "What Patrik Thinks",
     "links": {
       "home": "Accueil",
       "relationship": "Convs de couple",
@@ -645,7 +645,7 @@
       "terms": "Conditions",
       "about": "À propos"
     },
-    "rights": "© {year} Nana Reads. Pour le divertissement uniquement."
+    "rights": "© {year} What Patrik Thinks. Pour le divertissement uniquement."
   },
   "legal": {
     "englishOnly": "Cette page est affichée en anglais. La version anglaise fait foi.",

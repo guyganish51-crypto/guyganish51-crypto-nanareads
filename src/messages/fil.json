@@ -1,21 +1,21 @@
 {
   "meta": {
-    "siteName": "Nana Reads",
-    "title": "Nana Reads — ang chat mo, binasa ng pinaka-chismosang lola sa mundo",
-    "description": "I-upload ang chat mo sa WhatsApp, Telegram, LINE o iMessage. Babasahin ni Nana ang bawat message at sasabihin niya kung ano talaga ang nangyayari, sino ang mas may pake, at ano ang tingin ng lahat sa isa't isa."
+    "siteName": "What Patrik Thinks",
+    "title": "What Patrik Thinks — ang chat mo, binasa ng lalaking walang preno ang bibig",
+    "description": "I-upload ang chat mo sa WhatsApp, Telegram, LINE o iMessage. Babasahin ni Patrik ang bawat message at sasabihin niya kung ano talaga ang nangyayari, sino ang mas may pake, at ano ang totoong tingin niya sa lahat."
   },
   "nav": {
-    "cta": "Ipabasa kay Nana",
+    "cta": "Ipabasa kay Patrik",
     "account": "Mga chat ko",
     "language": "Wika"
   },
   "home": {
-    "eyebrow": "81 years old. Nabasa na ang lahat ng chat na naisulat.",
-    "h1": "Ipabasa kay Nana ang chat mo. Sasabihin niya kung ano talaga ang nangyayari.",
-    "sub": "Babasahin ni Nana ang bawat isang message, bibilangin pati 'yung mga ayaw mong mabilang, at susulat siya ng honest at sobrang nakakatawang report tungkol sa lahat ng nasa chat.",
-    "cta": "Ipabasa kay Nana",
+    "eyebrow": "12 taong wedding DJ. Nakita na ang lahat. Sinasabi ang lahat.",
+    "h1": "Ipabasa kay Patrik ang chat mo. Sasabihin niya kung ano talaga ang nangyayari.",
+    "sub": "Babasahin ni Patrik ang bawat isang message, bibilangin pati 'yung mga ayaw mong mabilang niya, at susulat siya ng honest at sobrang nakakatawang report tungkol sa lahat ng nasa chat.",
+    "cta": "Ipabasa kay Patrik",
     "ctaNote": "Libreng preview · walang card · kusang nabubura",
-    "demoTitle": "Pumili ng chat, tingnan ang nakikita ni Nana",
+    "demoTitle": "Pumili ng chat, tingnan ang nakikita ni Patrik",
     "demoHint": "Gawa-gawa lang ang mga chat na 'to. Mas malala 'yung sa 'yo.",
     "howTitle": "Paano ito gumagana",
     "how": [
@@ -24,7 +24,7 @@
         "d": "Dalawang tap lang sa WhatsApp, Telegram, LINE o KakaoTalk. Ituturo namin kung paano."
       },
       {
-        "t": "Babasahin ni Nana lahat",
+        "t": "Babasahin ni Patrik lahat",
         "d": "Bawat message, bawat palusot sa voice note, bawat 'otw na' na sinend habang nakahiga pa."
       },
       {
@@ -32,10 +32,10 @@
         "d": "Libreng preview sa loob ng isang minuto. Darating sa inbox mo ang buong report — i-share sa GC kung kaya mo."
       }
     ],
-    "findsTitle": "Ang mga nahahanap ni Nana",
+    "findsTitle": "Ang mga nahahanap ni Patrik",
     "finds": [
       {
-        "e": "🫖",
+        "e": "🎧",
         "t": "Sino talaga ang may pake",
         "d": "Sino ang laging nauunang mag-message, sino ang sumasagot in 4 minutes, at sino in 4 hours."
       },
@@ -62,11 +62,11 @@
       "Hindi ibinebenta, hindi ishe-share, at hindi kailanman gagamitin para mag-train ng AI."
     ],
     "worksWith": "Gumagana sa",
-    "heatTitle": "Piliin kung gaano katindi si Nana",
+    "heatTitle": "Piliin kung gaano katindi si Patrik",
     "heat": {
       "gentle": {
         "t": "Gentle",
-        "d": "Lolang pang-birthday card. Asaran lang, walang masasaktan."
+        "d": "Sweet na wedding-toast energy. Asaran lang, walang masasaktan."
       },
       "spicy": {
         "t": "Spicy",
@@ -78,37 +78,37 @@
       }
     },
     "finalH": "Ang chat mo na ang susunod.",
-    "finalSub": "Nagpapakulo na si Nana ng tubig para sa tsaa."
+    "finalSub": "Pumipili na si Patrik ng soundtrack."
   },
   "landing": {
     "relationship": {
-      "metaTitle": "Gusto ka ba talaga niya? AI analysis ng chat n'yo — Nana Reads",
-      "metaDesc": "I-upload ang chat n'yo ng crush, jowa, situationship o ex mo. Babasahin ni Nana ang bawat message at sasabihin kung sino ang mas may pake at ano ang nagbago.",
-      "h1": "Gusto ka ba talaga niya? Sasabihin sa 'yo ni Nana.",
-      "sub": "Ipadala ang chat n'yo ng crush, jowa, situationship o ex mo. Bibilangin ni Nana kung sino ang unang nagme-message, sino ang naghihintay, at kailan nag-iba ang lahat."
+      "metaTitle": "Gusto ka ba talaga niya? AI analysis ng chat n'yo — What Patrik Thinks",
+      "metaDesc": "I-upload ang chat n'yo ng crush, jowa, situationship o ex mo. Babasahin ni Patrik ang bawat message at sasabihin kung sino ang mas may pake at ano ang nagbago.",
+      "h1": "Gusto ka ba talaga niya? Sasabihin sa 'yo ni Patrik.",
+      "sub": "Ipadala ang chat n'yo ng crush, jowa, situationship o ex mo. Bibilangin ni Patrik kung sino ang unang nagme-message, sino ang naghihintay, at kailan nag-iba ang lahat."
     },
     "friends": {
-      "metaTitle": "Group chat analyzer at roast ng barkada — Nana Reads",
-      "metaDesc": "I-upload ang GC ng barkada mo. Iro-roast ni Nana ang lahat, mamimigay ng awards, at sasabihin ang hindi masabi ng iba nang malakas.",
-      "h1": "Ano kaya ang tingin ni Nana sa 'yo at sa barkada mo?",
-      "sub": "Ang GC ng boys, ang GC ng girls, ang outing na hindi natuloy kahit kailan. Babasahin ni Nana lahat at bibigyan ang bawat isa ng title na deserve nila."
+      "metaTitle": "Group chat analyzer at roast ng barkada — What Patrik Thinks",
+      "metaDesc": "I-upload ang GC ng barkada mo. Iro-roast ni Patrik ang lahat, mamimigay ng awards, at sasabihin ang hindi masabi ng iba nang malakas.",
+      "h1": "Ano kaya ang tingin ni Patrik sa 'yo at sa barkada mo?",
+      "sub": "Ang GC ng boys, ang GC ng girls, ang outing na hindi natuloy kahit kailan. Babasahin ni Patrik lahat at bibigyan ang bawat isa ng title na deserve nila."
     },
     "family": {
-      "metaTitle": "Family WhatsApp group analyzer — Nana Reads",
-      "metaDesc": "I-upload ang family GC n'yo. Aalamin ni Nana kung sino talaga ang nagbubuklod sa pamilya, sino ang never sumasagot, at sino ang nagse-send ng good morning flowers.",
-      "h1": "Ang family chat n'yo, binasa ng lolang nakita na ang lahat.",
-      "sub": "Sino ang nagbubuklod sa pamilya, sino ang sumasagot lang sa mga picture ng pagkain, at sino ang may tampo pa rin mula noong nakaraang Noche Buena. Alam ni Nana."
+      "metaTitle": "Family WhatsApp group analyzer — What Patrik Thinks",
+      "metaDesc": "I-upload ang family GC n'yo. Aalamin ni Patrik kung sino talaga ang nagbubuklod sa pamilya, sino ang never sumasagot, at sino ang nagse-send ng good morning flowers.",
+      "h1": "Ang family chat n'yo, binasa ng lalaking nag-DJ sa 600 kasal ng mga pamilya.",
+      "sub": "Sino ang nagbubuklod sa pamilya, sino ang sumasagot lang sa mga picture ng pagkain, at sino ang may tampo pa rin mula noong nakaraang Noche Buena. Alam ni Patrik."
     },
     "imessage": {
-      "metaTitle": "iMessage chat analyzer — Nana Reads",
-      "metaDesc": "I-export ang iMessage conversation mula sa Mac mo at ipabasa kay Nana. Sino ang mas may pake, ano ang nagbago, at ano ang dapat mong gawin.",
-      "h1": "I-upload ang iMessage chat. Si Nana na ang bahala.",
-      "sub": "I-export ang conversation mula sa Mac mo in a few minutes, at babasahin ni Nana ang bawat blue bubble."
+      "metaTitle": "iMessage chat analyzer — What Patrik Thinks",
+      "metaDesc": "I-export ang iMessage conversation mula sa Mac mo at ipabasa kay Patrik. Sino ang mas may pake, ano ang nagbago, at ano ang dapat mong gawin.",
+      "h1": "I-upload ang iMessage chat. Si Patrik na ang bahala.",
+      "sub": "I-export ang conversation mula sa Mac mo in a few minutes, at babasahin ni Patrik ang bawat blue bubble."
     },
     "whatsapp": {
-      "metaTitle": "WhatsApp chat analyzer — Nana Reads",
-      "metaDesc": "I-export ang kahit anong WhatsApp chat in two taps. Babasahin ni Nana ang bawat message at susulat ng honest at nakakatawang report tungkol sa lahat.",
-      "h1": "WhatsApp chat analysis, gawa ng pinaka-chismosa mong lola.",
+      "metaTitle": "WhatsApp chat analyzer — What Patrik Thinks",
+      "metaDesc": "I-export ang kahit anong WhatsApp chat in two taps. Babasahin ni Patrik ang bawat message at susulat ng honest at nakakatawang report tungkol sa lahat.",
+      "h1": "WhatsApp chat analysis, gawa ng lalaking walang preno ang bibig.",
       "sub": "Dalawang tap para mag-export, isang minuto para sa libreng preview. Gumagana sa private chats at sa mga GC kahit gaano kalaki."
     }
   },
@@ -229,12 +229,12 @@
         }
       ],
       "headline": "Siyam na araw na seen, tapos 'heyyy kumusta ka 🙂'",
-      "verdict": "Tatlong oras bago sumagot si Bea, ikaw apat na minuto lang. Alam n'yo pareho kung ano'ng ibig sabihin niyan, anak, pero walang gustong umamin.",
+      "verdict": "Tatlong oras bago sumagot si Bea, ikaw apat na minuto lang. Alam n'yo pareho kung ano'ng ibig sabihin niyan, pero walang gustong umamin.",
       "locked": [
         "Sino ang unang nagte-text, at sino ang naghihintay ma-text",
         "Siyam na araw ng katahimikan: ano talaga ang nangyari",
         "Ano ang tinatago sa likod ng '😅' ni Bea",
-        "Ano ang gagawin ni Nana kung siya ikaw"
+        "Ano ang gagawin ni Patrik kung siya ikaw"
       ]
     },
     {
@@ -301,11 +301,11 @@
     }
   ],
   "examples": {
-    "title": "Mga linya mula sa reports ni Nana",
+    "title": "Mga linya mula sa reports ni Patrik",
     "note": "Galing sa mga sample chat sa itaas, kaya walang privacy na nasaktan.",
     "items": [
       "Apat na beses nang pinost ni Migs ang parehong poll. Hindi siya trip planner, hostage negotiator siya.",
-      "Apat na minuto ka bago sumagot. Si Bea, tatlong oras. Noong panahon ko, tawag namin diyan ay 'sign'.",
+      "Apat na minuto ka bago sumagot. Si Bea, tatlong oras. Sa mga kasalan, tawag namin diyan ay 'ang slow dance na walang nag-request'.",
       "Sa anim na taon, 4,000 words ang na-type ni Carlo sa GC na 'to. 3,100 doon ay 'ok'.",
       "Hindi headcount ang kailangan ni Mama. Yakap at diretsong sagot ang kailangan ni Mama."
     ]
@@ -316,7 +316,7 @@
     "back": "Bumalik",
     "next": "Tuloy",
     "context": {
-      "q": "Anong klaseng chat ang babasahin ni Nana?",
+      "q": "Anong klaseng chat ang babasahin ni Patrik?",
       "options": {
         "partner": {
           "t": "Love life",
@@ -352,14 +352,14 @@
       "q": "I-upload ang chat mula sa {app}",
       "drop": "I-tap para piliin ang na-export na file",
       "dropHint": ".txt, .zip, .json o .csv — hanggang 200 MB",
-      "reading": "Nagbabasa si Nana… {count} messages so far",
+      "reading": "Nagbabasa si Patrik… {count} messages so far",
       "readingLocal": "Nangyayari ito sa device mo. Wala pang na-upload.",
       "uploading": "Ina-upload nang secure…",
       "privacy": "Private ang chat mo",
       "howTo": "Paano ko ito i-e-export?",
       "errors": {
-        "format": "Hindi mabasa ni Nana ang file na 'yan. Siguraduhing original export ito (.txt o .zip), hindi screenshot.",
-        "few": "Medyo maikli ang chat na 'yan. Kailangan ni Nana ng at least 10 messages para magka-opinyon.",
+        "format": "Hindi mabasa ni Patrik ang file na 'yan. Siguraduhing original export ito (.txt o .zip), hindi screenshot.",
+        "few": "Medyo maikli ang chat na 'yan. Kailangan ni Patrik ng at least 10 messages para magka-opinyon.",
         "big": "Lampas 200 MB ang file. I-export nang walang media at subukan ulit.",
         "upload": "Hindi natuloy ang upload. I-check ang connection mo at subukan ulit."
       },
@@ -407,22 +407,22 @@
       ],
       "other": [
         "I-export ang chat bilang text, CSV o JSON file",
-        "I-upload dito — kaya ni Nana basahin ang karamihan ng format"
+        "I-upload dito — kaya ni Patrik basahin ang karamihan ng format"
       ]
     },
     "me": {
       "q": "Alin dito ang ikaw?",
-      "sub": "Para ikaw ang kausap ni Nana, hindi ikaw ang pinag-uusapan.",
+      "sub": "Para ikaw ang kausap ni Patrik, hindi ikaw ang pinag-uusapan.",
       "none": "Wala ako sa chat na 'to"
     },
     "details": {
-      "q": "May dapat bang malaman si Nana?",
+      "q": "May dapat bang malaman si Patrik?",
       "notes": "Optional na context (hal. 'nag-break kami noong March', 'kuya ko si Jerome')",
       "lang": "Isulat ang report sa",
-      "heat": "Gaano katindi dapat si Nana?"
+      "heat": "Gaano katindi dapat si Patrik?"
     },
     "email": {
-      "q": "Saan ipapadala ni Nana ang report?",
+      "q": "Saan ipapadala ni Patrik ang report?",
       "sub": "Mag-e-email kami sa 'yo ng 6-digit code. Walang password, walang spam.",
       "placeholder": "ikaw@example.com",
       "send": "I-send ang code",
@@ -438,32 +438,32 @@
       }
     },
     "writing": {
-      "t": "Binabasa ni Nana ang chat mo",
+      "t": "Binabasa ni Patrik ang chat mo",
       "lines": [
-        "Sinusuot ang salamin…",
+        "Sinusuot ang headphones…",
         "Binibilang kung sino ang unang nagte-text…",
         "Hinahanap ang linggong nagbago ang lahat…",
         "Inu-underline ang mga juicy na parte…",
-        "Nagtitimpla ng tsaa…"
+        "Pumipili ng soundtrack mo…"
       ],
       "note": "Mga isang minuto lang ito. Mag-e-email din kami kapag ready na."
     },
     "recording": {
       "cta": "O mag-upload ng screen recording",
-      "hint": "I-record ang sarili mong dahan-dahang nag-i-scroll sa chat mula sa pinakaluma hanggang sa pinakabagong message, tapos i-upload ang video. Babasahin ni Nana ang mga bubble.",
+      "hint": "I-record ang sarili mong dahan-dahang nag-i-scroll sa chat mula sa pinakaluma hanggang sa pinakabagong message, tapos i-upload ang video. Babasahin ni Patrik ang mga bubble.",
       "extracting": "Pinipili ang pinakamalinaw na frames… {pct}%",
-      "reading": "Binabasa ni Nana ang mga screenshot… 1–2 minutes ito",
+      "reading": "Binabasa ni Patrik ang mga screenshot… 1–2 minutes ito",
       "errVideo": "Hindi mabasa ang video na 'yan. Subukan ang normal na screen recording (MP4 o MOV).",
-      "errFew": "Kaunting message lang ang nahanap ni Nana. Mag-scroll nang mas mabagal at mag-record ng mas mahabang parte ng chat."
+      "errFew": "Kaunting message lang ang nahanap ni Patrik. Mag-scroll nang mas mabagal at mag-record ng mas mahabang parte ng chat."
     }
   },
   "report": {
-    "by": "Nana",
-    "tagline": "81. Nabasa na ang lahat ng chat na naisulat. May dala pa ring sopas.",
+    "by": "Patrik",
+    "tagline": "Ex wedding DJ. Walang preno. Maraming opinyon sa playlist mo.",
     "share": "I-share ang report",
     "copied": "Na-copy ang link",
     "privacy": "Private at ikaw ang may kontrol",
-    "cutoff": "Sobrang haba ng chat para basahin nang isang upuan, kaya binasa ni Nana lahat mula {date} hanggang ngayon.",
+    "cutoff": "Sobrang haba ng chat para basahin nang isang upuan, kaya binasa ni Patrik lahat mula {date} hanggang ngayon.",
     "statsTitle": "Ang mga numero",
     "stat": {
       "messages": "Messages",
@@ -484,34 +484,34 @@
     "peopleTitle": "At tungkol sa bawat isa sa inyo",
     "unlock": "Basahin ang buong report",
     "unlockNote": "Gagamit ng 1 credit · may {n} ka",
-    "noCredits": "Ubos na ang credits mo. Bubuksan na ang payments soon — mag-e-email si Nana sa 'yo.",
-    "writingFull": "Sinusulat na ni Nana ang buong report. Mga 2 minutes — mag-e-email din kami.",
-    "failed": "Nagkaproblema habang nagsusulat si Nana. Na-refund na ang credit mo. Subukan ulit.",
+    "noCredits": "Ubos na ang credits mo. Bubuksan na ang payments soon — mag-e-email si Patrik sa 'yo.",
+    "writingFull": "Sinusulat na ni Patrik ang buong report. Mga 2 minutes — mag-e-email din kami.",
+    "failed": "Nagkaproblema habang nagsusulat si Patrik. Na-refund na ang credit mo. Subukan ulit.",
     "retry": "Subukan ulit",
     "peopleSection": "Sino si sino",
     "glossary": "Ang diksiyunaryo ng chat na 'to",
     "awards": "Ang awards",
     "reactions": "Ganito magre-react ang bawat isa sa inyo",
     "verdict": "Ang hatol",
-    "advice": "Ang gagawin ni Nana",
-    "askTitle": "May iba ka pang gustong itanong kay Nana tungkol sa chat na 'to",
+    "advice": "Ang gagawin ni Patrik",
+    "askTitle": "May iba ka pang gustong itanong kay Patrik tungkol sa chat na 'to",
     "askPlaceholder": "hal. Nawawalan na ba siya ng gana? Sino sa GC ang lowkey inis sa akin?",
-    "askCta": "Tanungin si Nana · 1 credit",
-    "askExpired": "Nabura na ang chat na 'to sa servers namin, kaya hindi na makakasagot si Nana ng bagong tanong tungkol dito.",
-    "nextTitle": "Aling chat ang susunod na babasahin ni Nana?",
+    "askCta": "Tanungin si Patrik · 1 credit",
+    "askExpired": "Nabura na ang chat na 'to sa servers namin, kaya hindi na makakasagot si Patrik ng bagong tanong tungkol dito.",
+    "nextTitle": "Aling chat ang susunod na babasahin ni Patrik?",
     "nextCta": "Magpadala ng isa pang chat",
     "notFound": "Wala ang report na 'to o nabura na.",
-    "feedback": "Tama ba si Nana?",
+    "feedback": "Tama ba si Patrik?",
     "feedbackYes": "Sapul na sapul",
     "feedbackNo": "Hindi masyado",
-    "thanks": "Salamat — nagno-notes na si Nana.",
+    "thanks": "Salamat — nagno-notes na si Patrik.",
     "aiNote": "Gawa ng AI para sa entertainment. Puwede itong magkamali sa context — huwag gawing basehan ng malalaking desisyon.",
     "toc": "Sa report na 'to",
     "minRead": "{n} min read",
     "activity": "Activity kada buwan",
     "phrases": "Mga sinasabi mo nang sobrang dalas",
     "shareYou": "I-share ang card ni {name}",
-    "personKicker": "Ang tingin ni Nana kay {name}",
+    "personKicker": "Ang tingin ni Patrik kay {name}",
     "readFull": "Basahin ang buong report",
     "sendYours": "Ipabasa rin ang chat mo"
   },
@@ -535,12 +535,12 @@
     "title": "Mga tanong bago ka mag-upload",
     "items": [
       {
-        "q": "Ano ang Nana Reads?",
-        "a": "Isang AI character — si Nana — na nagbabasa ng chat na ina-upload mo at sumusulat ng honest at nakakatawang report tungkol sa lahat ng nandoon: ang totoong dynamic, sino ang mas may pake, ano ang nagbago, at ano ang role ng bawat isa."
+        "q": "Ano ang What Patrik Thinks?",
+        "a": "Isang AI character — si Patrik — na nagbabasa ng chat na ina-upload mo at sumusulat ng honest at nakakatawang report tungkol sa lahat ng nandoon: ang totoong dynamic, sino ang mas may pake, ano ang nagbago, at ano ang role ng bawat isa."
       },
       {
         "q": "Libre ba ito?",
-        "a": "Libre ang unang silip: ang intro ni Nana, ang mga numero, at ang mga title ng lahat ng nasa buong report. Isang credit ang buong report. Walang subscription."
+        "a": "Libre ang unang silip: ang intro ni Patrik, ang mga numero, at ang mga title ng lahat ng nasa buong report. Isang credit ang buong report. Walang subscription."
       },
       {
         "q": "Anong apps ang gumagana?",
@@ -548,7 +548,7 @@
       },
       {
         "q": "Private ba ang chat ko?",
-        "a": "Binibilang muna ni Nana ang messages mo sa loob ng browser mo. Encrypted ang upload, hindi kailanman ishe-share sa kahit sino sa chat, hindi ibebenta, at hindi gagamitin para mag-train ng AI. Kusang nabubura ito 48 hours pagka-upload kung hindi ka mag-order ng report, o 7 days pagkatapos ng huli mong report."
+        "a": "Binibilang muna ni Patrik ang messages mo sa loob ng browser mo. Encrypted ang upload, hindi kailanman ishe-share sa kahit sino sa chat, hindi ibebenta, at hindi gagamitin para mag-train ng AI. Kusang nabubura ito 48 hours pagka-upload kung hindi ka mag-order ng report, o 7 days pagkatapos ng huli mong report."
       },
       {
         "q": "Malalaman ba ng mga nasa chat?",
@@ -556,14 +556,14 @@
       },
       {
         "q": "Anong mga wika?",
-        "a": "Puwedeng kahit anong wika ang chat mo, o halo-halo pa. Sinusulat ang reports sa 24 na wika, at ginagamit ni Nana ang mismong slang ng chat n'yo."
+        "a": "Puwedeng kahit anong wika ang chat mo, o halo-halo pa. Sinusulat ang reports sa 36 na wika, at ginagamit ni Patrik ang mismong slang ng chat n'yo."
       },
       {
         "q": "Gaano katagal?",
         "a": "Mga isang minuto ang preview. Mga dalawang minuto ang buong report. Mag-e-email kami kapag ready na, kaya hindi mo kailangang maghintay sa page."
       },
       {
-        "q": "Puwede pa ba akong magtanong kay Nana?",
+        "q": "Puwede pa ba akong magtanong kay Patrik?",
         "a": "Oo. Sa ilalim ng bawat report, puwede kang magtanong ng follow-up tungkol sa parehong chat. Bawat sagot ay bago at mas malalim na report."
       },
       {
@@ -572,7 +572,7 @@
       },
       {
         "q": "Accurate ba ito?",
-        "a": "Eksaktong binibilang ang mga numero mula sa export mo. Ang mga opinyon ay kay Nana — puwedeng magkamali ang AI sa context, kaya ituring itong entertainment, hindi advice."
+        "a": "Eksaktong binibilang ang mga numero mula sa export mo. Ang mga opinyon ay kay Patrik — puwedeng magkamali ang AI sa context, kaya ituring itong entertainment, hindi advice."
       },
       {
         "q": "Para kanino ito?",
@@ -581,17 +581,17 @@
     ]
   },
   "about": {
-    "title": "Tungkol sa Nana Reads",
+    "title": "Tungkol sa What Patrik Thinks",
     "body": [
-      "Ang Nana Reads ay isang maliit na independent studio project. Gumawa kami ng character na sana totoo: isang lola na nabasa na ang lahat ng chat sa mundo, mahal ka, at sasabihin pa rin sa 'yo ang totoo.",
-      "Nagbabasa si Nana ng chats mula sa WhatsApp, Telegram, LINE, KakaoTalk, iMessage, Instagram at Messenger, at sumusulat sa 24 na wika.",
+      "Ang What Patrik Thinks ay isang maliit na independent studio project. Gumawa kami ng character na sana totoo: si Patrik, isang wedding DJ na labindalawang taong nanood ng mga couple, pamilya at barkada mula sa likod ng DJ booth — at ngayon, binabasa niya ang chats mo at sinasabi sa 'yo ang totoo.",
+      "Nagbabasa si Patrik ng chats mula sa WhatsApp, Telegram, LINE, KakaoTalk, iMessage, Instagram at Messenger, at sumusulat sa 36 na wika.",
       "Mas mahalaga sa amin ang privacy kaysa sa kahit sino sa category na 'to: binibilang muna ang chat mo sa browser mo, kusang nabubura, at hindi kailanman ginagamit para mag-train ng AI."
     ],
     "factsTitle": "Key facts",
     "facts": [
       [
         "Pangalan",
-        "Nana Reads"
+        "What Patrik Thinks"
       ],
       [
         "Ano ito",
@@ -599,7 +599,7 @@
       ],
       [
         "Mga wika",
-        "24"
+        "36"
       ],
       [
         "Presyo",
@@ -620,8 +620,8 @@
     "sent": "Noted. Sasagot kami sa email."
   },
   "feedback": {
-    "title": "Sabihin kay Nana ang iniisip mo",
-    "sub": "Ideas, reklamo, papuri para kay Nana. Binabasa namin lahat.",
+    "title": "Sabihin kay Patrik ang iniisip mo",
+    "sub": "Ideas, reklamo, papuri para kay Patrik. Binabasa namin lahat.",
     "placeholder": "Ang feedback mo",
     "send": "I-send",
     "sent": "Salamat!"
@@ -629,7 +629,7 @@
   "footer": {
     "chats": "Chats",
     "help": "Tulong",
-    "company": "Nana Reads",
+    "company": "What Patrik Thinks",
     "links": {
       "home": "Home",
       "relationship": "Love life chats",
@@ -645,7 +645,7 @@
       "terms": "Terms",
       "about": "Tungkol sa amin"
     },
-    "rights": "© {year} Nana Reads. Para sa entertainment lang."
+    "rights": "© {year} What Patrik Thinks. Para sa entertainment lang."
   },
   "legal": {
     "englishOnly": "Naka-English ang page na ito. Ang English version ang may bisa.",
