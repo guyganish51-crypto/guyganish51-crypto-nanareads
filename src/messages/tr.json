@@ -532,7 +532,11 @@
       "credits": "Kredilerin süresi hiç dolmaz. Yeni sohbetler veya ek sorular için kullan.",
       "soon": "Ödemeler çok yakında açılıyor — açıldığı an Patrik sana e-posta atacak.",
       "processing": "Ödeme alındı. Patrik kulaklıklarını takıyor…",
-      "failed": "Ödeme gerçekleşmedi. Senden ücret alınmadı."
+      "failed": "Ödeme gerçekleşmedi. Senden ücret alınmadı.",
+      "slow": "Paddle ödemeni onayladı — hâlâ bize ulaşmasını bekliyoruz. Bu sayfa kendiliğinden güncellenir; birkaç dakikadan uzun sürerse desteğe yaz.",
+      "chatGone": "Bu sohbet sunucularımızdan zaten silindi, o yüzden tam rapor artık yazılamaz. Yeni bir önizleme için sohbeti tekrar gönder.",
+      "signIn": "Kilidi açmak için giriş yap",
+      "signInNote": "Bu raporun gönderildiği e-postayı kullan."
     },
     "gift": {
       "title": "Patrik'ten bir hediye 🎁",

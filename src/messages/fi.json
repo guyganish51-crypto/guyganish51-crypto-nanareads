@@ -532,7 +532,11 @@
       "credits": "Krediitit eivät vanhene koskaan. Käytä niitä uusiin chatteihin tai jatkokysymyksiin.",
       "soon": "Maksaminen avautuu ihan pian — Patrik ilmoittaa sähköpostilla heti, kun se avautuu.",
       "processing": "Maksu vastaanotettu. Patrik laittaa kuulokkeet päähän…",
-      "failed": "Maksu ei mennyt läpi. Sinulta ei veloitettu mitään."
+      "failed": "Maksu ei mennyt läpi. Sinulta ei veloitettu mitään.",
+      "slow": "Paddle vahvisti maksusi — odotamme vielä, että se tulee perille meille. Sivu päivittyy itsestään; jos tässä menee yli muutama minuutti, kirjoita tukeen.",
+      "chatGone": "Tämä keskustelu on jo poistettu palvelimiltamme, joten koko raporttia ei voi enää kirjoittaa. Lähetä keskustelu uudelleen, niin saat uuden esikatselun.",
+      "signIn": "Kirjaudu sisään avataksesi",
+      "signInNote": "Käytä sitä sähköpostia, johon tämä raportti lähetettiin."
     },
     "gift": {
       "title": "Lahja Patrikilta 🎁",

@@ -12,5 +12,6 @@ export async function POST(_req: Request, ctx: RouteContext<"/api/reports/[id]/u
   if (r === "not_found") return bad("not_found", 404);
   if (r === "not_ready") return bad("not_ready", 409);
   if (r === "no_credits") return bad("no_credits", 402);
+  if (r === "chat_gone") return bad("chat_gone", 410);
   return ok({ status: "full_pending" });
 }

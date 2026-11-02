@@ -15,7 +15,7 @@ interface Data {
   id: string; chatId: string | null; number: number; status: string; unlocked: boolean; lang: string;
   title: string | null; question: string | null; preview: (Preview & { cutoff?: number | null }) | null; report: Report | null;
   cutoff: number | null; chat: { stats: ChatStats | null; participants: string[]; context: string; messageCount: number; meName: string | null };
-  chatAlive?: boolean; isOwner: boolean; credits: number | null;
+  chatAlive?: boolean; isOwner: boolean; credits: number | null; signedIn?: boolean; fullFailed?: boolean;
 }
 
 function Blocks({ blocks, me }: { blocks: Block[]; me?: string | null }) {
@@ -134,12 +134,13 @@ export function ReportView({ id, lang, t }: { id: string; lang: Locale; t: Dict 
   const [msg, setMsg] = useState<string | null>(null);
   const [q, setQ] = useState("");
   const [fb, setFb] = useState<string | null>(null);
-  const [paying, setPaying] = useState(false);
   const [needCredits, setNeedCredits] = useState(false);
   const [gift, setGift] = useState(false);
   const [source, setSource] = useState("report");
+  const [qs, setQs] = useState("");
   useEffect(() => {
     const sp = new URLSearchParams(location.search);
+    setQs(location.search);
     const e = sp.get("email");
     if (e) setSource(`email_${e}`.slice(0, 40));
     if (e === "gift" || sp.get("gift") === "1") setGift(true);
@@ -152,13 +153,7 @@ export function ReportView({ id, lang, t }: { id: string; lang: Locale; t: Dict 
   }, [id]);
 
   useEffect(() => { load(); }, [load]);
-  useEffect(() => {
-    if (!paying || d?.unlocked) return;
-    const h = setInterval(load, 2000);
-    const stop = setTimeout(() => setPaying(false), 90_000);
-    return () => { clearInterval(h); clearTimeout(stop); };
-  }, [paying, d?.unlocked, load]);
-  const awaitPaid = useCallback(() => { setPaying(true); load(); }, [load]);
+  const awaitPaid = useCallback(() => { load(); }, [load]);
   useEffect(() => {
     if (!d || !["preview_pending", "full_pending"].includes(d.status)) return;
     const h = setInterval(load, 4000);
@@ -205,6 +200,7 @@ export function ReportView({ id, lang, t }: { id: string; lang: Locale; t: Dict 
     const r = await fetch(`/api/reports/${d.id}/unlock`, { method: "POST" });
     setBusy(false);
     if (r.status === 402) return setMsg(R.noCredits);
+    if (r.status === 410) return load();
     if (!r.ok) return setMsg(t.common.error);
     load();
   };
@@ -263,10 +259,18 @@ export function ReportView({ id, lang, t }: { id: string; lang: Locale; t: Dict 
                   <button aria-label={fmt(R.shareYou, { name: x.name })} className="shrink-0 text-sm underline" onClick={() => sharePerson(i, x.name)}>↗</button></li>
               ))}</ul>
             </>}
-            {d.isOwner && d.status === "preview_ready" && (gift
+            {d.isOwner && d.status === "preview_ready" && d.fullFailed && <p className="mt-6 rounded-xl border-2 border-dashed border-ink/40 p-3 text-sm">{R.failed}</p>}
+            {d.isOwner && d.status === "preview_ready" && (!d.chatAlive
+              ? <p className="mt-6 rounded-xl border-2 border-dashed border-ink/40 p-4 text-center text-ink-soft">{R.pay.chatGone}</p>
+              : gift
               ? <GiftForm t={t} reportId={d.id} onDone={load} />
               : <Paywall t={t} lang={lang} reportId={d.id} credits={d.credits ?? 0} busy={busy} onUseCredit={unlock} onPaid={awaitPaid} source={source} />)}
-            {paying && !d.unlocked && <p className="mt-4 text-center font-semibold">💳 {R.pay.processing}</p>}
+            {!d.isOwner && d.status === "preview_ready" && (
+              <div className="mt-6 text-center">
+                <Link className="btn btn-primary w-full" href={`/${lang}/account?next=${encodeURIComponent(`/${lang}/r/${d.id}${qs}`)}`}>{R.pay.signIn} <Arrow /></Link>
+                <p className="mt-2 text-xs text-ink-soft">{R.pay.signInNote}</p>
+              </div>
+            )}
             {d.status === "full_pending" && <p className="mt-6 text-center font-semibold">✍️ {R.writingFull}</p>}
           </section>
         </>
@@ -351,7 +355,7 @@ export function ReportView({ id, lang, t }: { id: string; lang: Locale; t: Dict 
                 <textarea value={q} onChange={(e) => setQ(e.target.value)} rows={3} maxLength={500} placeholder={R.askPlaceholder}
                   className="mt-3 w-full rounded-xl border-2 border-ink bg-paper px-3 py-2.5" />
                 <button className="btn btn-primary mt-3" disabled={busy || q.trim().length < 5} onClick={ask}>{R.askCta}</button>
-                {needCredits && <Paywall t={t} lang={lang} credits={0} onPaid={() => { setNeedCredits(false); load(); }} source="followup" />}
+                {needCredits && <Paywall t={t} lang={lang} credits={d.credits ?? 0} onPaid={() => { setNeedCredits(false); ask(); }} source="followup" />}
               </> : <p className="mt-2 text-ink-soft">{R.askExpired}</p>}
             </section>
           )}

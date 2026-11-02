@@ -59,11 +59,6 @@ export function priceOf(currency: string, pack: PackId, half = false): number {
   return half && pack === "single" ? row.half : row[pack];
 }
 
-/** Paddle wants a string amount in the lowest denomination. */
-export function paddleAmount(currency: string, minor: number): string {
-  return String(minor);
-}
-
 export function formatPrice(minor: number, currency: string, locale: string): string {
   const value = ZERO_DECIMAL.has(currency) ? minor : minor / 100;
   try {

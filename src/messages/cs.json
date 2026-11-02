@@ -532,7 +532,11 @@
       "credits": "Kredity nikdy nepropadají. Použij je na nové chaty nebo doplňující otázky.",
       "soon": "Platby spustíme už brzy — Patrik ti pošle e-mail, jakmile to bude.",
       "processing": "Platba přijata. Patrik si nasazuje sluchátka…",
-      "failed": "Platba neprošla. Nic ti nebylo strženo."
+      "failed": "Platba neprošla. Nic ti nebylo strženo.",
+      "slow": "Paddle tvou platbu potvrdil — ještě čekáme, až dorazí k nám. Stránka se aktualizuje sama; pokud to potrvá déle než pár minut, napiš podpoře.",
+      "chatGone": "Tenhle chat už byl z našich serverů smazán, takže celý report už napsat nejde. Pošli chat znovu a dostaneš nový náhled.",
+      "signIn": "Přihlas se a odemkni",
+      "signInNote": "Použij e-mail, na který ti tenhle report přišel."
     },
     "gift": {
       "title": "Dárek od Patrika 🎁",

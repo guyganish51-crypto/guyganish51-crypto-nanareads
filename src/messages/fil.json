@@ -532,7 +532,11 @@
       "credits": "Hindi nag-e-expire ang credits. Gamitin sa bagong chat o follow-up na tanong.",
       "soon": "Bubuksan na ang payments very soon — mag-e-email agad si Patrik sa 'yo pagbukas nito.",
       "processing": "Natanggap na ang bayad. Isinusuot na ni Patrik ang headphones niya…",
-      "failed": "Hindi natuloy ang bayad. Hindi ka na-charge."
+      "failed": "Hindi natuloy ang bayad. Hindi ka na-charge.",
+      "slow": "Kinumpirma na ng Paddle ang bayad mo — hinihintay pa naming makarating ito sa amin. Kusang nag-a-update ang page na 'to; kung lumagpas ng ilang minuto, mag-message sa support.",
+      "chatGone": "Nabura na ang chat na 'to sa servers namin, kaya hindi na maisusulat ang buong report. Ipadala ulit ang chat para sa bagong preview.",
+      "signIn": "Mag-sign in para i-unlock",
+      "signInNote": "Gamitin ang email kung saan ipinadala ang report na 'to."
     },
     "gift": {
       "title": "Regalo mula kay Patrik 🎁",

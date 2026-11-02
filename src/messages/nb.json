@@ -532,7 +532,11 @@
       "credits": "Kreditter utløper aldri. Bruk dem på nye chatter eller oppfølgingsspørsmål.",
       "soon": "Betaling åpner veldig snart — Patrik sender deg en e-post med en gang.",
       "processing": "Betaling mottatt. Patrik tar på seg hodetelefonene…",
-      "failed": "Betalingen gikk ikke gjennom. Du har ikke blitt belastet."
+      "failed": "Betalingen gikk ikke gjennom. Du har ikke blitt belastet.",
+      "slow": "Paddle har bekreftet betalingen din — vi venter fortsatt på at den skal nå frem til oss. Siden oppdaterer seg selv; tar det mer enn noen minutter, skriv til support.",
+      "chatGone": "Denne chatten er allerede slettet fra serverne våre, så hele rapporten kan ikke skrives lenger. Send chatten på nytt for en ny forhåndsvisning.",
+      "signIn": "Logg inn for å låse opp",
+      "signInNote": "Bruk e-posten rapporten ble sendt til."
     },
     "gift": {
       "title": "En gave fra Patrik 🎁",

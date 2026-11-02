@@ -23,6 +23,10 @@ export function AccountView({ lang, t }: { lang: Locale; t: Dict }) {
   const [err, setErr] = useState<string | null>(null);
 
   const [buy, setBuy] = useState(false);
+  const nextPath = () => {
+    const n = new URLSearchParams(location.search).get("next") ?? "";
+    return n.startsWith(`/${lang}/`) && !n.startsWith("//") ? n : `/${lang}/account`;
+  };
   const load = useCallback(async () => {
     const r = await fetch("/api/me", { cache: "no-store" });
     if (r.status === 401) return setState("out");
@@ -44,7 +48,7 @@ export function AccountView({ lang, t }: { lang: Locale; t: Dict }) {
       {!sent ? (
         <form className="space-y-3" onSubmit={async (e) => {
           e.preventDefault();
-          const { error } = await sb.auth.signInWithOtp({ email, options: { shouldCreateUser: false, emailRedirectTo: `${location.origin}/${lang}/auth/callback?next=/${lang}/account` } });
+          const { error } = await sb.auth.signInWithOtp({ email, options: { shouldCreateUser: false, emailRedirectTo: `${location.origin}/${lang}/auth/callback?next=${encodeURIComponent(nextPath())}` } });
           if (error) setErr(/rate|seconds/i.test(error.message) ? E.errors.rate : E.errors.email); else { setSent(true); setErr(null); }
         }}>
           <input type="email" required dir="ltr" value={email} onChange={(e) => setEmail(e.target.value)} placeholder={E.placeholder} className="w-full rounded-xl border-2 border-ink bg-paper px-3 py-2.5" />
@@ -54,7 +58,7 @@ export function AccountView({ lang, t }: { lang: Locale; t: Dict }) {
         <form className="space-y-3" onSubmit={async (e) => {
           e.preventDefault();
           const { error } = await sb.auth.verifyOtp({ email, token: code, type: "email" });
-          if (error) setErr(E.errors.code); else load();
+          if (error) setErr(E.errors.code); else if (nextPath() !== `/${lang}/account`) location.href = nextPath(); else load();
         }}>
           <p>{fmt(E.code, { email })}</p>
           <input inputMode="numeric" dir="ltr" value={code} onChange={(e) => setCode(e.target.value.replace(/\D/g, ""))} className="w-full rounded-xl border-2 border-ink bg-paper px-3 py-3 text-center font-mono text-2xl tracking-[0.4em]" />
@@ -74,7 +78,7 @@ export function AccountView({ lang, t }: { lang: Locale; t: Dict }) {
           <button className="chip text-sm" onClick={async () => { await sb.auth.signOut(); location.reload(); }}>{A.signOut}</button>
         </div>
       </div>
-      {buy && <div className="card p-5"><p className="text-sm text-ink-soft">{A.buyNote}</p><Paywall t={t} lang={lang} credits={0} source="account" onPaid={() => { setBuy(false); setTimeout(load, 3000); }} /></div>}
+      {buy && <div className="card p-5"><p className="text-sm text-ink-soft">{A.buyNote}</p><Paywall t={t} lang={lang} credits={me.credits} source="account" onPaid={() => { setBuy(false); load(); }} /></div>}
       {me.chats.length === 0 && me.reports.length === 0 && (
         <div className="card p-6 text-center"><p>{A.empty}</p><Link className="btn btn-primary mt-4" href={`/${lang}/start`}>{t.nav.cta} <Arrow /></Link></div>
       )}

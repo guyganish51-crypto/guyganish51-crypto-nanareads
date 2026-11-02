@@ -532,7 +532,11 @@
       "credits": "Credits verlopen nooit. Gebruik ze voor nieuwe chats of vervolgvragen.",
       "soon": "Betalen kan heel binnenkort — Patrik mailt je zodra het zover is.",
       "processing": "Betaling ontvangen. Patrik zet zijn koptelefoon op…",
-      "failed": "De betaling is niet gelukt. Er is niets afgeschreven."
+      "failed": "De betaling is niet gelukt. Er is niets afgeschreven.",
+      "slow": "Paddle heeft je betaling bevestigd — we wachten nog tot hij bij ons binnen is. Deze pagina werkt zichzelf bij; duurt het langer dan een paar minuten, mail dan de support.",
+      "chatGone": "Deze chat is al van onze servers verwijderd, dus het volledige rapport kan niet meer geschreven worden. Stuur de chat opnieuw voor een nieuwe preview.",
+      "signIn": "Log in om te ontgrendelen",
+      "signInNote": "Gebruik het e-mailadres waar dit rapport naartoe is gestuurd."
     },
     "gift": {
       "title": "Een cadeau van Patrik 🎁",

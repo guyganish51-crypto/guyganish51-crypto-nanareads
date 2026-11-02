@@ -532,7 +532,11 @@
       "credits": "Os créditos nunca expiram. Use em novas conversas ou em perguntas extras.",
       "soon": "Os pagamentos abrem muito em breve — o Patrik te manda um e-mail assim que abrirem.",
       "processing": "Pagamento recebido. O Patrik está colocando os fones…",
-      "failed": "O pagamento não foi concluído. Nada foi cobrado."
+      "failed": "O pagamento não foi concluído. Nada foi cobrado.",
+      "slow": "A Paddle confirmou seu pagamento — ainda estamos esperando ele chegar até nós. Esta página se atualiza sozinha; se demorar mais que alguns minutos, fala com o suporte.",
+      "chatGone": "Esse chat já foi apagado dos nossos servidores, então o relatório completo não pode mais ser escrito. Manda o chat de novo pra uma nova prévia.",
+      "signIn": "Entra pra desbloquear",
+      "signInNote": "Usa o e-mail pra onde esse relatório foi enviado."
     },
     "gift": {
       "title": "Um presente do Patrik 🎁",

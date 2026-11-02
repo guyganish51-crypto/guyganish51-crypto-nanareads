@@ -532,7 +532,11 @@
       "credits": "Krediter går aldrig ut. Använd dem på nya chattar eller följdfrågor.",
       "soon": "Betalningar öppnar väldigt snart — Patrik mejlar dig så fort de gör det.",
       "processing": "Betalningen har kommit in. Patrik tar på sig hörlurarna…",
-      "failed": "Betalningen gick inte igenom. Du har inte debiterats."
+      "failed": "Betalningen gick inte igenom. Du har inte debiterats.",
+      "slow": "Paddle har bekräftat din betalning — vi väntar fortfarande på att den ska nå oss. Sidan uppdateras av sig själv; om det tar mer än några minuter, skriv till supporten.",
+      "chatGone": "Den här chatten är redan raderad från våra servrar, så hela rapporten kan inte skrivas längre. Skicka chatten igen för en ny förhandsvisning.",
+      "signIn": "Logga in för att låsa upp",
+      "signInNote": "Använd mejladressen som rapporten skickades till."
     },
     "gift": {
       "title": "En present från Patrik 🎁",

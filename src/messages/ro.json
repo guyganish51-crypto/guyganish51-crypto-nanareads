@@ -532,7 +532,11 @@
       "credits": "Creditele nu expiră niciodată. Folosește-le pentru conversații noi sau întrebări suplimentare.",
       "soon": "Plățile se deschid foarte curând — Patrik îți trimite un mail imediat ce se întâmplă.",
       "processing": "Plata a fost primită. Patrik își pune căștile…",
-      "failed": "Plata nu a trecut. Nu ți s-a luat niciun ban."
+      "failed": "Plata nu a trecut. Nu ți s-a luat niciun ban.",
+      "slow": "Paddle ți-a confirmat plata — încă așteptăm să ajungă la noi. Pagina se actualizează singură; dacă durează mai mult de câteva minute, scrie-i suportului.",
+      "chatGone": "Chatul ăsta a fost deja șters de pe serverele noastre, așa că raportul complet nu mai poate fi scris. Trimite chatul din nou pentru o previzualizare nouă.",
+      "signIn": "Conectează-te ca să deblochezi",
+      "signInNote": "Folosește adresa de e-mail la care a fost trimis raportul ăsta."
     },
     "gift": {
       "title": "Un cadou de la Patrik 🎁",

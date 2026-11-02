@@ -1,5 +1,5 @@
 "use client";
-import { useEffect, useRef, useState } from "react";
+import { useCallback, useEffect, useRef, useState } from "react";
 import type { Dict } from "@/lib/i18n/dictionaries";
 import { fmt } from "@/lib/fmt";
 import { formatPrice } from "@/lib/billing/pricing";
@@ -22,7 +22,11 @@ declare global {
   }
 }
 
-const PADDLE_LOCALES = new Set(["ar", "zh-Hans", "zh-Hant", "da", "nl", "en", "fr", "de", "hu", "it", "ja", "ko", "pl", "pt", "ru", "es", "sv", "tr"]);
+/** Paddle checkout locales (developer.paddle.com). Unsupported → omit and let Paddle use the browser language. */
+const PADDLE_LOCALE: Record<string, string> = {
+  ar: "ar", "zh-Hans": "zh-Hans", "zh-Hant": "zh-TW", da: "da", nl: "nl", en: "en", fr: "fr", de: "de", it: "it",
+  ja: "ja", ko: "ko", nb: "no", pl: "pl", pt: "pt-BR", ru: "ru", es: "es", sv: "sv", tr: "tr",
+};
 let paddleReady: Promise<void> | null = null;
 let onEvent: ((name: string) => void) | null = null;
 
@@ -74,6 +78,24 @@ export function Paywall({ t, lang, reportId, credits, onUseCredit, onPaid, sourc
   const [done, setDone] = useState(false);
   const countdown = useCountdown(prices?.offer?.expiresAt ?? null);
 
+  /** Paddle confirms in the browser before our webhook lands — wait until the credit/unlock is really there. */
+  const waitForCredit = useCallback(async () => {
+    const started = Date.now();
+    for (let i = 0; Date.now() - started < 10 * 60_000; i++) {
+      await new Promise((r) => setTimeout(r, Math.min(2000 + i * 500, 8000)));
+      try {
+        if (reportId) {
+          const r = await fetch(`/api/reports/${reportId}`, { cache: "no-store" });
+          if (r.ok && (await r.json()).unlocked) return onPaid();
+        } else {
+          const r = await fetch("/api/me", { cache: "no-store" });
+          if (r.ok && (await r.json()).credits > credits) return onPaid();
+        }
+      } catch { /* keep waiting */ }
+      if (Date.now() - started > 90_000) setMsg(P.slow);
+    }
+  }, [reportId, credits, onPaid, P.slow]);
+
   useEffect(() => {
     fetch(`/api/billing/prices${reportId ? `?report=${reportId}` : ""}`).then((r) => r.json()).then(setPrices).catch(() => {});
   }, [reportId]);
@@ -84,13 +106,14 @@ export function Paywall({ t, lang, reportId, credits, onUseCredit, onPaid, sourc
         paid.current = true;
         setDone(true);
         setMsg(P.processing);
-        setTimeout(() => { window.Paddle?.Checkout.close(); onPaid(); }, 1800);
+        setTimeout(() => window.Paddle?.Checkout.close(), 1800);
+        waitForCredit();
         fetch("/api/events", { method: "POST", headers: { "content-type": "application/json" }, body: JSON.stringify({ name: "purchase", props: { pack: pick, source } }) }).catch(() => {});
       }
-      if (name === "checkout.error") setMsg(P.failed);
+      if (name === "checkout.error" || name === "checkout.payment.failed") setMsg(P.failed);
     };
     return () => { onEvent = null; };
-  }, [P, onPaid, pick, source]);
+  }, [P, pick, source, waitForCredit]);
 
   if (credits > 0 && onUseCredit) {
     return (
@@ -117,11 +140,11 @@ export function Paywall({ t, lang, reportId, credits, onUseCredit, onPaid, sourc
       })]);
       if (!r.ok) { setMsg(r.status === 503 ? P.soon : t.common.error); return; }
       const { transactionId, email } = await r.json();
-      const locale = PADDLE_LOCALES.has(lang) ? lang : PADDLE_LOCALES.has(lang.split("-")[0]) ? lang.split("-")[0] : lang === "nb" ? "no" : "en";
+      const locale = PADDLE_LOCALE[lang];
       window.Paddle!.Checkout.open({
         transactionId,
         customer: email ? { email } : undefined,
-        settings: { displayMode: "overlay", theme: "light", locale, allowLogout: false, showAddDiscounts: false },
+        settings: { displayMode: "overlay", theme: "light", allowLogout: false, showAddDiscounts: false, ...(locale ? { locale } : {}) },
       });
     } catch { setMsg(t.common.error); }
     finally { setBusy(false); }

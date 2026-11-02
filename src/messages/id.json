@@ -532,7 +532,11 @@
       "credits": "Kredit nggak pernah hangus. Pakai untuk chat baru atau pertanyaan lanjutan.",
       "soon": "Pembayaran segera dibuka — Patrik bakal kirim email begitu sudah buka.",
       "processing": "Pembayaran diterima. Patrik lagi pasang headphone-nya…",
-      "failed": "Pembayarannya gagal. Kamu nggak ditagih."
+      "failed": "Pembayarannya gagal. Kamu nggak ditagih.",
+      "slow": "Paddle sudah mengonfirmasi pembayaranmu — kami masih nunggu sampai masuk ke kami. Halaman ini update sendiri; kalau lebih dari beberapa menit, hubungi support.",
+      "chatGone": "Chat ini sudah dihapus dari server kami, jadi laporan lengkapnya nggak bisa ditulis lagi. Kirim ulang chat-nya untuk pratinjau baru.",
+      "signIn": "Masuk untuk membuka",
+      "signInNote": "Pakai email yang dikirimi laporan ini."
     },
     "gift": {
       "title": "Hadiah dari Patrik 🎁",

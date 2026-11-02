@@ -532,7 +532,11 @@
       "credits": "Credits verfallen nie. Nutz sie für neue Chats oder Nachfragen.",
       "soon": "Bezahlen geht sehr bald — Patrik schickt dir eine Mail, sobald es so weit ist.",
       "processing": "Zahlung erhalten. Patrik setzt seine Kopfhörer auf…",
-      "failed": "Die Zahlung hat nicht geklappt. Dir wurde nichts berechnet."
+      "failed": "Die Zahlung hat nicht geklappt. Dir wurde nichts berechnet.",
+      "slow": "Paddle hat deine Zahlung bestätigt — wir warten noch darauf, dass sie bei uns ankommt. Die Seite aktualisiert sich von selbst; wenn es länger als ein paar Minuten dauert, schreib dem Support.",
+      "chatGone": "Dieser Chat wurde schon von unseren Servern gelöscht, deshalb kann der vollständige Bericht nicht mehr geschrieben werden. Schick den Chat noch mal für eine neue Vorschau.",
+      "signIn": "Melde dich an zum Freischalten",
+      "signInNote": "Nimm die E-Mail-Adresse, an die dieser Bericht geschickt wurde."
     },
     "gift": {
       "title": "Ein Geschenk von Patrik 🎁",

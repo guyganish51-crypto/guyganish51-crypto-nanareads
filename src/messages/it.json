@@ -532,7 +532,11 @@
       "credits": "I crediti non scadono mai. Usali per nuove chat o domande extra.",
       "soon": "I pagamenti aprono a brevissimo — Patrik ti manda un'email appena si parte.",
       "processing": "Pagamento ricevuto. Patrik si sta mettendo le cuffie…",
-      "failed": "Il pagamento non è andato a buon fine. Non ti è stato addebitato nulla."
+      "failed": "Il pagamento non è andato a buon fine. Non ti è stato addebitato nulla.",
+      "slow": "Paddle ha confermato il tuo pagamento — stiamo ancora aspettando che arrivi a noi. Questa pagina si aggiorna da sola; se ci vogliono più di pochi minuti, scrivi al supporto.",
+      "chatGone": "Questa chat è già stata cancellata dai nostri server, quindi il report completo non si può più scrivere. Rimanda la chat per una nuova anteprima.",
+      "signIn": "Accedi per sbloccare",
+      "signInNote": "Usa l'email a cui è stato inviato questo report."
     },
     "gift": {
       "title": "Un regalo da Patrik 🎁",

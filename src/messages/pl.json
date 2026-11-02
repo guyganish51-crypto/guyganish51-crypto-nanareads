@@ -532,7 +532,11 @@
       "credits": "Kredyty nigdy nie wygasają. Wykorzystaj je na nowe czaty albo dodatkowe pytania.",
       "soon": "Płatności ruszą już niedługo — Patrik da ci znać mailem, jak tylko wystartują.",
       "processing": "Płatność otrzymana. Patrik zakłada słuchawki…",
-      "failed": "Płatność nie przeszła. Nic nie zostało pobrane."
+      "failed": "Płatność nie przeszła. Nic nie zostało pobrane.",
+      "slow": "Paddle potwierdził twoją płatność — wciąż czekamy, aż do nas dotrze. Ta strona odświeża się sama; jeśli potrwa to dłużej niż kilka minut, napisz do supportu.",
+      "chatGone": "Ten czat został już usunięty z naszych serwerów, więc pełnego raportu nie da się już napisać. Wyślij czat jeszcze raz, żeby dostać nowy podgląd.",
+      "signIn": "Zaloguj się, żeby odblokować",
+      "signInNote": "Użyj maila, na który przyszedł ten raport."
     },
     "gift": {
       "title": "Prezent od Patrika 🎁",

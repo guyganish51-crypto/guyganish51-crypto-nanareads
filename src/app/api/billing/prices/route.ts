@@ -1,4 +1,4 @@
-import { currentUser } from "@/lib/supabase/server";
+import { currentUser, supabaseAdmin } from "@/lib/supabase/server";
 import { ok } from "@/lib/server/http";
 import { PACKS, currencyFor, priceOf } from "@/lib/billing/pricing";
 import { activeOffer } from "@/lib/billing/offer";
@@ -9,8 +9,12 @@ export async function GET(req: Request) {
   const url = new URL(req.url);
   const reportId = url.searchParams.get("report");
   const country = req.headers.get("x-vercel-ip-country");
-  const currency = currencyFor(country);
   const user = await currentUser();
+  let currency = currencyFor(country);
+  if (user && reportId) {
+    const { data: rep } = await supabaseAdmin().from("reports").select("user_id, currency").eq("id", reportId).maybeSingle();
+    if (rep?.user_id === user.id && rep.currency) currency = rep.currency;
+  }
   const offer = user ? await activeOffer(user.id, reportId) : null;
   return ok({
     configured: paddleConfigured(),

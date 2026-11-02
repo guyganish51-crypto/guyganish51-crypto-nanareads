@@ -93,7 +93,10 @@ export async function runPreview(reportId: string) {
       updated_at: new Date().toISOString(),
     }).eq("id", reportId);
   } catch (e) {
-    await db.from("reports").update({ status: "failed", error: String(e).slice(0, 500) }).eq("id", reportId);
+    const retryable = rep.number === 1 && !rep.question;
+    await db.from("reports").update(retryable
+      ? { status: "preview_ready", unlocked: false, error: `full_failed: ${String(e).slice(0, 480)}` }
+      : { status: "failed", error: String(e).slice(0, 500) }).eq("id", reportId);
   }
 }
 
@@ -142,7 +145,10 @@ export async function runFull(reportId: string) {
     // refresh chat retention: 7 days after the latest report
     await db.from("chats").update({ expires_at: new Date(Date.now() + 7 * 86_400_000).toISOString() }).eq("id", rep.chat_id);
   } catch (e) {
-    await db.from("reports").update({ status: "failed", error: String(e).slice(0, 500) }).eq("id", reportId);
+    const retryable = rep.number === 1 && !rep.question;
+    await db.from("reports").update(retryable
+      ? { status: "preview_ready", unlocked: false, error: `full_failed: ${String(e).slice(0, 480)}` }
+      : { status: "failed", error: String(e).slice(0, 500) }).eq("id", reportId);
     // refund the credit
     await db.from("credit_ledger").insert({ user_id: rep.user_id, delta: 1, reason: "refund_failed", report_id: reportId });
   }

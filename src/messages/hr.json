@@ -532,7 +532,11 @@
       "credits": "Krediti nikad ne istječu. Iskoristi ih za nove chatove ili dodatna pitanja.",
       "soon": "Plaćanje se otvara vrlo uskoro — Patrik će ti se javiti e-mailom čim se otvori.",
       "processing": "Plaćanje primljeno. Patrik stavlja slušalice…",
-      "failed": "Plaćanje nije prošlo. Ništa ti nije naplaćeno."
+      "failed": "Plaćanje nije prošlo. Ništa ti nije naplaćeno.",
+      "slow": "Paddle je potvrdio tvoje plaćanje — još čekamo da stigne do nas. Stranica se sama osvježava; ako potraje dulje od nekoliko minuta, piši podršci.",
+      "chatGone": "Ovaj chat je već obrisan s naših servera, pa se puni izvještaj više ne može napisati. Pošalji chat ponovno za novi pregled.",
+      "signIn": "Prijavi se za otključavanje",
+      "signInNote": "Koristi e-mail na koji je poslan ovaj izvještaj."
     },
     "gift": {
       "title": "Poklon od Patrika 🎁",

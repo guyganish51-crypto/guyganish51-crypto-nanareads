@@ -532,7 +532,11 @@
       "credits": "Kredit tak pernah luput. Guna untuk chat baru atau soalan susulan.",
       "soon": "Pembayaran akan dibuka tak lama lagi — Patrik akan e-mel awak sebaik sahaja ia dibuka.",
       "processing": "Bayaran diterima. Patrik tengah pakai headphone…",
-      "failed": "Bayaran tak berjaya. Awak tak dicaj."
+      "failed": "Bayaran tak berjaya. Awak tak dicaj.",
+      "slow": "Paddle dah sahkan bayaran awak — kami masih tunggu ia sampai pada kami. Halaman ini dikemas kini sendiri; kalau ambil masa lebih dari beberapa minit, tulis kepada sokongan.",
+      "chatGone": "Chat ini dah dipadam dari pelayan kami, jadi laporan penuh tak boleh ditulis lagi. Hantar chat sekali lagi untuk pratonton baharu.",
+      "signIn": "Log masuk untuk buka",
+      "signInNote": "Guna e-mel yang menerima laporan ini."
     },
     "gift": {
       "title": "Hadiah daripada Patrik 🎁",

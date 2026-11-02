@@ -7,7 +7,7 @@ export async function GET(_req: Request, ctx: RouteContext<"/api/reports/[id]">)
   const { id } = await ctx.params;
   if (!/^[0-9a-f-]{36}$/.test(id)) return bad("not_found", 404);
   const db = supabaseAdmin();
-  const { data: rep } = await db.from("reports").select("id, chat_id, user_id, number, status, unlocked, lang, title, preview, content, question, created_at, snapshot").eq("id", id).single();
+  const { data: rep } = await db.from("reports").select("id, chat_id, user_id, number, status, unlocked, lang, title, preview, content, question, created_at, snapshot, error").eq("id", id).single();
   if (!rep) return bad("not_found", 404);
   const user = await currentUser();
   const isOwner = user?.id === rep.user_id;
@@ -23,7 +23,8 @@ export async function GET(_req: Request, ctx: RouteContext<"/api/reports/[id]">)
     report: rep.unlocked ? rep.content?.report ?? null : null,
     cutoff: rep.content?.cutoff ?? rep.preview?.cutoff ?? null,
     chat: { stats: snap.stats ?? null, participants: snap.participants ?? [], context: snap.context ?? "other", messageCount: snap.messageCount ?? 0, meName: isOwner ? snap.meName ?? null : null },
-    chatAlive,
+    chatAlive, signedIn: !!user,
+    fullFailed: rep.status === "preview_ready" && typeof rep.error === "string" && rep.error.startsWith("full_failed"),
     isOwner, credits: isOwner && user ? await balance(user.id) : null,
   });
 }

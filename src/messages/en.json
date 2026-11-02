@@ -532,7 +532,11 @@
       "credits": "Credits never expire. Use them on new chats or follow-up questions.",
       "soon": "Payments open very soon — Patrik will email you the moment they do.",
       "processing": "Payment received. Patrik is putting his headphones on…",
-      "failed": "The payment didn't go through. You weren't charged."
+      "failed": "The payment didn't go through. You weren't charged.",
+      "slow": "Paddle confirmed your payment — we're still waiting for it to reach us. This page updates by itself; if it takes more than a few minutes, write to support.",
+      "chatGone": "This chat was already deleted from our servers, so the full report can't be written any more. Send the chat again for a new preview.",
+      "signIn": "Sign in to unlock",
+      "signInNote": "Use the email this report was sent to."
     },
     "gift": {
       "title": "A gift from Patrik 🎁",

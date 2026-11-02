@@ -532,7 +532,11 @@
       "credits": "A kreditek soha nem járnak le. Használd őket új chatekhez vagy további kérdésekhez.",
       "soon": "A fizetés nagyon hamar elindul — Patrik ír neked e-mailt, amint lehet.",
       "processing": "Megjött a fizetés. Patrik felteszi a fejhallgatóját…",
-      "failed": "A fizetés nem ment át. Nem terheltünk meg semmit."
+      "failed": "A fizetés nem ment át. Nem terheltünk meg semmit.",
+      "slow": "A Paddle visszaigazolta a fizetésedet — még várjuk, hogy hozzánk is megérkezzen. Ez az oldal magától frissül; ha pár percnél tovább tart, írj az ügyfélszolgálatnak.",
+      "chatGone": "Ezt a chatet már töröltük a szervereinkről, így a teljes jelentést már nem lehet megírni. Küldd el újra a chatet egy új előnézetért.",
+      "signIn": "Jelentkezz be a feloldáshoz",
+      "signInNote": "Azt az e-mail-címet használd, amelyre ezt a jelentést küldtük."
     },
     "gift": {
       "title": "Ajándék Patriktól 🎁",

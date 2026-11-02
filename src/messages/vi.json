@@ -532,7 +532,11 @@
       "credits": "Lượt không bao giờ hết hạn. Dùng cho chat mới hoặc câu hỏi tiếp theo.",
       "soon": "Sắp mở thanh toán rồi — Patrik sẽ email cho bạn ngay khi mở.",
       "processing": "Đã nhận thanh toán. Patrik đang đeo tai nghe…",
-      "failed": "Thanh toán không thành công. Bạn chưa bị trừ tiền."
+      "failed": "Thanh toán không thành công. Bạn chưa bị trừ tiền.",
+      "slow": "Paddle đã xác nhận thanh toán của bạn — bọn mình vẫn đang chờ tiền về tới. Trang này tự cập nhật; nếu mất hơn vài phút, hãy nhắn cho bộ phận hỗ trợ.",
+      "chatGone": "Đoạn chat này đã bị xoá khỏi máy chủ của bọn mình, nên không thể viết báo cáo đầy đủ nữa. Gửi lại đoạn chat để xem bản xem trước mới.",
+      "signIn": "Đăng nhập để mở khoá",
+      "signInNote": "Dùng email đã nhận báo cáo này."
     },
     "gift": {
       "title": "Quà từ Patrik 🎁",

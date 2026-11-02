@@ -13,8 +13,9 @@ const H = 3_600_000;
  * Hourly. Funnel per first report (mirrors the competitor's 5-mail/4-day ladder, price steps down):
  *  0h   previewReady  — title + 3 friends with their titles
  *  +3h  discount      — 50% off for 24h (creates the offer, valid OFFER_HOURS), locked chapters incl. "about you"
- *  +27h lastChance    — AI-written hook subject from the chat, same 50% until tomorrow
- *  +51h gift          — offer over; answer 2 questions → full report free (link ?email=gift)
+ *  +27h lastChance    — AI-written hook subject from the chat, same 50% until tomorrow (only while ≥12h of offer left)
+ *  +51h gift          — offer over; answer 2 questions → full report free (once per person ever)
+ * The discount/lastChance/gift ladder runs only on a person's first report, so it can't be farmed.
  *  +76h next          — cross-sell: the chat you actually think about
  * full_ready → fullReady (and +76h next). Stops the moment the report is unlocked.
  * Each kind is sent at most once per report; marketing kinds respect opt-out.
@@ -34,6 +35,15 @@ export async function GET(req: Request) {
   const done = new Set((logs ?? []).map((l) => `${l.report_id}:${l.kind}`));
   const { data: outs } = await db.from("email_optout").select("user_id");
   const optedOut = new Set((outs ?? []).map((o) => o.user_id));
+  const userIds = [...new Set(reps.map((r) => r.user_id))];
+  // The price ladder runs once per person: only on their very first report, and the free gift only once ever.
+  const { data: firsts } = await db.from("reports").select("id, user_id, created_at").in("user_id", userIds).eq("number", 1).order("created_at", { ascending: true });
+  const firstReport = new Map<string, string>();
+  for (const f of firsts ?? []) if (!firstReport.has(f.user_id)) firstReport.set(f.user_id, f.id);
+  const { data: gifts } = await db.from("credit_ledger").select("user_id").in("user_id", userIds).like("reason", "gift:%");
+  const gifted = new Set((gifts ?? []).map((g) => g.user_id));
+  const { data: offs } = await db.from("offers").select("report_id, expires_at").in("report_id", ids);
+  const offerEnds = new Map((offs ?? []).map((o) => [o.report_id, new Date(o.expires_at).getTime()]));
   const emails = new Map<string, string>();
   let sent = 0;
 
@@ -43,10 +53,13 @@ export async function GET(req: Request) {
     let kind: string | null = null;
     const pay = paddleConfigured();
     if (r.status === "preview_ready" && !r.unlocked && r.number === 1) {
+      const ladder = firstReport.get(r.user_id) === r.id;
+      const offerEnd = offerEnds.get(r.id);
+      const offerLive = offerEnd !== undefined && offerEnd > now;
       if (!done.has(`${r.id}:previewReady`)) kind = "previewReady";
-      else if (pay && age > 3 * H && age < 20 * H && !done.has(`${r.id}:discount`)) kind = "discount";
-      else if (pay && age > 27 * H && age < 44 * H && done.has(`${r.id}:discount`) && !done.has(`${r.id}:lastChance`)) kind = "lastChance";
-      else if (age > 51 * H && age < 70 * H && !done.has(`${r.id}:gift`)) kind = "gift";
+      else if (ladder && pay && age > 3 * H && age < 20 * H && !done.has(`${r.id}:discount`)) kind = "discount";
+      else if (ladder && pay && age > 27 * H && offerLive && offerEnd - now > 12 * H && !done.has(`${r.id}:lastChance`)) kind = "lastChance";
+      else if (ladder && !gifted.has(r.user_id) && age > 51 * H && age < 70 * H && !offerLive && !done.has(`${r.id}:gift`)) kind = "gift";
       else if (age > 76 * H && !done.has(`${r.id}:next`)) kind = "next";
     } else if (r.status === "full_ready") {
       const fullAge = now - new Date(r.full_ready_at ?? r.updated_at).getTime();
@@ -76,7 +89,6 @@ export async function GET(req: Request) {
       subject = d.previewReady.subject;
       html = layout({ ...base, pre: fmt(d.previewReady.pre, { names: people.join(" · ") }), h: d.previewReady.h, body: `<b>${esc(title)}</b><br>${esc(d.previewReady.body)}${list([...people, d.previewReady.more])}`, cta: { label: d.previewReady.cta, url } });
     } else if (kind === "discount") {
-      await db.from("offers").upsert({ user_id: r.user_id, report_id: r.id, kind: "half", expires_at: new Date(now + OFFER_HOURS * H).toISOString() }, { onConflict: "report_id,kind", ignoreDuplicates: true });
       subject = fmt(d.nudge.subject, { title });
       const locked = [...(p?.sections ?? []).map((x) => `${x.emoji} ${x.heading}`), ...(p?.people ?? []).slice(0, 4).map((x) => `🪞 ${x.name} — ${x.title}`)];
       html = layout({ ...base, pre: d.nudge.pre, h: d.nudge.h,
@@ -97,6 +109,8 @@ export async function GET(req: Request) {
     }
     if (await sendEmail(to, subject, html, marketing ? "marketing" : "transactional")) {
       await db.from("email_log").insert({ user_id: r.user_id, report_id: r.id, kind });
+      // The offer clock starts when the discount email actually went out.
+      if (kind === "discount") await db.from("offers").upsert({ user_id: r.user_id, report_id: r.id, kind: "half", currency: cur, expires_at: new Date(Date.now() + OFFER_HOURS * H).toISOString() }, { onConflict: "report_id,kind", ignoreDuplicates: true });
       sent++;
     }
   }
