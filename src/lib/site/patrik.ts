@@ -1,0 +1,37 @@
+/** Patrik — original illustration (single source for UI, favicon and OG images).
+ *  Straw sombrero with embroidered band, black hair, neat moustache, raised eyebrow,
+ *  DJ headphones round the neck, tomato shirt. */
+export const PATRIK_SVG = `<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120">
+<defs><clipPath id="pc"><circle cx="60" cy="60" r="57"/></clipPath></defs>
+<circle cx="60" cy="60" r="58" fill="#a8dadc" stroke="#221b16" stroke-width="3"/>
+<g clip-path="url(#pc)">
+<path d="M16 122c3-19 21-28 44-28s41 9 44 28z" fill="#e4572e" stroke="#221b16" stroke-width="3"/>
+<path d="M44 96l8 10 8-10 8 10 8-10" fill="none" stroke="#f6d776" stroke-width="3" stroke-linejoin="round"/>
+<path d="M51 82v10q9 6 18 0v-10" fill="#c68a5e" stroke="#221b16" stroke-width="3"/>
+<path d="M32 96q28 15 56 0" fill="none" stroke="#221b16" stroke-width="5" stroke-linecap="round"/>
+<rect x="27" y="90" width="11" height="13" rx="4" fill="#221b16"/>
+<rect x="82" y="90" width="11" height="13" rx="4" fill="#221b16"/>
+</g>
+<ellipse cx="38.5" cy="69" rx="4" ry="6" fill="#c68a5e" stroke="#221b16" stroke-width="2.5"/>
+<ellipse cx="81.5" cy="69" rx="4" ry="6" fill="#c68a5e" stroke="#221b16" stroke-width="2.5"/>
+<ellipse cx="60" cy="68" rx="22" ry="24" fill="#c68a5e" stroke="#221b16" stroke-width="3"/>
+<path d="M39 56q1 10 2 15l3-1q-1-8 0-14zM81 56q-1 10-2 15l-3-1q1-8 0-14z" fill="#1d1410"/>
+<path d="M45 61q5-2 10 0" stroke="#1d1410" stroke-width="3.2" fill="none" stroke-linecap="round"/>
+<path d="M65 58q6-4 11-1" stroke="#1d1410" stroke-width="3.2" fill="none" stroke-linecap="round"/>
+<ellipse cx="50" cy="67" rx="2.6" ry="3" fill="#1d1410"/>
+<ellipse cx="70" cy="66.5" rx="2.6" ry="3" fill="#1d1410"/>
+<path d="M60 69q-3 5 1 6.5" stroke="#221b16" stroke-width="2.4" fill="none" stroke-linecap="round"/>
+<path d="M46 80q7-6 14-2q7-4 14 2q-7 3-14 0q-7 3-14 0z" fill="#1d1410" stroke="#1d1410" stroke-width="1.5" stroke-linejoin="round"/>
+<path d="M52 85.5q8 4 16-1" stroke="#221b16" stroke-width="2.6" fill="none" stroke-linecap="round"/>
+<g transform="translate(0 -6)">
+<path d="M8 52q52 16 104 0q-8 7-20 9q-32 6-64 0q-12-2-20-9z" fill="#d9a441" stroke="#221b16" stroke-width="3" stroke-linejoin="round"/>
+<ellipse cx="60" cy="51" rx="52" ry="10" fill="#e9b949" stroke="#221b16" stroke-width="3"/>
+<ellipse cx="60" cy="51" rx="45" ry="7" fill="none" stroke="#e4572e" stroke-width="2" stroke-dasharray="4 3"/>
+<path d="M42 50q0-30 18-32q18 2 18 32q-18 5-36 0z" fill="#e9b949" stroke="#221b16" stroke-width="3" stroke-linejoin="round"/>
+<path d="M42.6 41q17.4 4.5 34.8 0l.4 7q-17.8 5-35.6 0z" fill="#2a9d8f" stroke="#221b16" stroke-width="2"/>
+<path d="M45 46l4-4 4 4 4-4 4 4 4-4 4 4 4-4 4 4" fill="none" stroke="#f6d776" stroke-width="1.8" stroke-linejoin="round"/>
+<path d="M52 26q8-4 16 0" stroke="#c9952f" stroke-width="2" fill="none" stroke-linecap="round"/>
+</g>
+</svg>`;
+
+export const PATRIK_DATA_URI = `data:image/svg+xml;charset=utf-8,${encodeURIComponent(PATRIK_SVG)}`;

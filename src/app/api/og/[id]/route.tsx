@@ -1,6 +1,7 @@
 import { readFile } from "node:fs/promises";
 import { join } from "node:path";
 import { ImageResponse } from "next/og";
+import { PATRIK_DATA_URI } from "@/lib/site/patrik";
 import { supabaseAdmin } from "@/lib/supabase/server";
 import { wrap, visualLine, isHebrew, needsShaping } from "@/lib/site/bidi";
 
@@ -48,13 +49,8 @@ export async function GET(req: Request, ctx: RouteContext<"/api/og/[id]">) {
   return new ImageResponse(
     (
       <div style={{ width: "100%", height: "100%", display: "flex", flexDirection: rtl ? "row-reverse" : "row", background: "#fbf4e9", padding: 64, gap: 48, fontFamily: "Rubik", alignItems: "center" }}>
-        <div style={{ display: "flex", flexDirection: "column", width: 230, height: 230, borderRadius: 999, background: "#a8dadc", border: "7px solid #221b16", alignItems: "center", justifyContent: "center", flexShrink: 0 }}>
-          <div style={{ display: "flex", gap: 10 }}>
-            <div style={{ width: 50, height: 50, borderRadius: 99, background: "#fff", border: "6px solid #221b16" }} />
-            <div style={{ width: 50, height: 50, borderRadius: 99, background: "#fff", border: "6px solid #221b16" }} />
-          </div>
-          <div style={{ marginTop: 18, width: 60, height: 14, borderBottom: "6px solid #221b16", borderRadius: 40 }} />
-        </div>
+        {/* eslint-disable-next-line @next/next/no-img-element */}
+        <img src={PATRIK_DATA_URI} width={250} height={250} alt="" style={{ flexShrink: 0 }} />
         <div style={{ display: "flex", flexDirection: "column", flex: 1, alignItems: align }}>
           {kickerLine && <div style={{ fontSize: 26, color: "#c2441f", fontWeight: 700, marginBottom: 10 }}>{kickerLine}</div>}
           {titleLines.map((l, i) => <div key={i} style={{ fontSize: kicker ? 74 : 58, fontWeight: 700, color: "#221b16", lineHeight: 1.12 }}>{l}</div>)}
