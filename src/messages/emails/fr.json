@@ -8,19 +8,29 @@
     "cta": "Lire mon aperçu"
   },
   "nudge": {
-    "subject": "{title}",
-    "pre": "Presque tout est encore sous clé.",
-    "h": "Ton rapport t'attend",
-    "body": "Tu as lu le début. Voilà ce qui t'attend encore :",
-    "cta": "Lire le rapport complet",
-    "credit": "Il te reste un crédit gratuit — cette tournée, c'est pour moi."
+    "subject": "-50 % · {title}",
+    "pre": "Ton rapport à moitié prix pendant 24 heures.",
+    "h": "Moitié prix. Rien que pour toi.",
+    "body": "Tu as lu le début. Voilà ce qui est encore sous clé — y compris le passage sur toi :",
+    "deal": "Moitié prix pendant les prochaines 24 heures. La réduction s'applique automatiquement quand tu cliques.",
+    "cta": "Débloquer à -50 %",
+    "trust": "Paiement sécurisé · Apple Pay · Google Pay · PayPal · cartes"
   },
   "hook": {
-    "pre": "Dernier rappel pour ton rapport.",
+    "pre": "Dernière chance pour profiter du moitié prix.",
     "h": "Dernière chanson avant que je remballe les platines",
     "body": "{title}",
+    "deal": "toujours moitié prix, jusqu'à demain.",
     "cta": "Ouvrir le rapport complet",
     "ps": "P.-S. Lis-le, balance-le dans le groupe, et regarde qui répond en premier 👀"
+  },
+  "gift": {
+    "subject": "{title} — un cadeau de ma part 🎁",
+    "pre": "La promo est terminée. J'ai mieux.",
+    "h": "Bon, d'accord. Celui-là, je te l'offre.",
+    "body": "Réponds à deux petites questions et je te débloque le rapport complet. Pas de carte, pas d'arnaque.",
+    "cta": "Répondre et débloquer mon rapport",
+    "ps": "P.-S. Quand tu l'auras lu, dis-le au groupe. C'est tout ce que je demande."
   },
   "fullReady": {
     "subject": "Ton rapport complet est prêt ✍️",

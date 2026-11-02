@@ -8,19 +8,29 @@
     "cta": "Leggi l'anteprima"
   },
   "nudge": {
-    "subject": "{title}",
-    "pre": "Quasi tutto è ancora sotto chiave.",
-    "h": "Il tuo report ti aspetta",
-    "body": "Hai letto l'inizio. Ecco cosa c'è ancora dentro:",
-    "cta": "Leggi il report completo",
-    "credit": "Hai ancora un credito gratis — questo giro lo offro io."
+    "subject": "50% di sconto · {title}",
+    "pre": "Il tuo report a metà prezzo per le prossime 24 ore.",
+    "h": "Metà prezzo. Solo per te.",
+    "body": "Hai letto l'inizio. Ecco cosa è ancora sotto chiave — compresa la parte su di te:",
+    "deal": "Metà prezzo per le prossime 24 ore. Lo sconto è già applicato quando clicchi.",
+    "cta": "Sblocca con il 50% di sconto",
+    "trust": "Pagamento sicuro · Apple Pay · Google Pay · PayPal · carte"
   },
   "hook": {
-    "pre": "Ultimo promemoria sul tuo report.",
+    "pre": "Ultima occasione per la metà prezzo.",
     "h": "Ultima canzone prima di smontare la consolle",
     "body": "{title}",
+    "deal": "sempre a metà prezzo, fino a domani.",
     "cta": "Apri il report completo",
     "ps": "P.S. Leggilo, buttalo nel gruppo e guarda chi risponde per primo 👀"
+  },
+  "gift": {
+    "subject": "{title} — un regalo da parte mia 🎁",
+    "pre": "Lo sconto è finito. Questo è meglio.",
+    "h": "Va bene. Questo lo offro io.",
+    "body": "Rispondi a due domande veloci e ti sblocco il report completo. Niente carta, nessuna fregatura.",
+    "cta": "Rispondi e sblocca il mio report",
+    "ps": "P.S. Quando l'hai letto, dillo nel gruppo. Ti chiedo solo questo."
   },
   "fullReady": {
     "subject": "Il tuo report completo è pronto ✍️",

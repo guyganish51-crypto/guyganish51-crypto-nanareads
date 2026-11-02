@@ -8,19 +8,29 @@
     "cta": "Đọc bản xem trước của mình"
   },
   "nudge": {
-    "subject": "{title}",
-    "pre": "Phần lớn vẫn còn khóa.",
-    "h": "Báo cáo của bạn đang chờ",
-    "body": "Bạn đọc phần mở đầu rồi. Bên trong còn những thứ này:",
-    "cta": "Đọc toàn bộ báo cáo",
-    "credit": "Bạn vẫn còn một lượt miễn phí — vòng này mình bao."
+    "subject": "Giảm 50% · {title}",
+    "pre": "Báo cáo của bạn giảm nửa giá trong 24 giờ tới.",
+    "h": "Nửa giá. Dành riêng cho bạn.",
+    "body": "Bạn đọc phần mở đầu rồi. Đây là những gì vẫn còn khóa — kể cả phần nói về bạn:",
+    "deal": "Nửa giá trong 24 giờ tới. Bấm vào là giảm giá đã được áp dụng sẵn.",
+    "cta": "Mở khóa với giá giảm 50%",
+    "trust": "Thanh toán an toàn · Apple Pay · Google Pay · PayPal · thẻ"
   },
   "hook": {
-    "pre": "Lời nhắc cuối cùng về báo cáo của bạn.",
+    "pre": "Cơ hội cuối để mua nửa giá.",
     "h": "Bài cuối trước khi mình dọn bàn DJ",
     "body": "{title}",
+    "deal": "vẫn nửa giá như cũ, đến ngày mai.",
     "cta": "Mở toàn bộ báo cáo",
     "ps": "T.B. Đọc đi, quăng vào nhóm, rồi xem ai trả lời đầu tiên 👀"
+  },
+  "gift": {
+    "subject": "{title} — quà của mình 🎁",
+    "pre": "Hết giảm giá rồi. Cái này còn hay hơn.",
+    "h": "Thôi được. Lần này mình bao.",
+    "body": "Trả lời hai câu hỏi nhanh là mình mở khóa báo cáo đầy đủ cho bạn. Không cần thẻ, không có bẫy.",
+    "cta": "Trả lời & mở khóa báo cáo",
+    "ps": "T.B. Đọc xong thì kể cho cả nhóm nghe nhé. Mình chỉ xin vậy thôi."
   },
   "fullReady": {
     "subject": "Báo cáo đầy đủ của bạn xong rồi ✍️",

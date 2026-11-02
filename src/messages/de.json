@@ -435,7 +435,8 @@
         "email": "Diese E-Mail-Adresse sieht nicht richtig aus.",
         "code": "Der Code hat nicht funktioniert. Versuch's nochmal oder fordere einen neuen an.",
         "rate": "Zu viele Versuche. Warte eine Minute und versuch's nochmal."
-      }
+      },
+      "noOffers": "Schickt mir keine Erinnerungen oder Angebote zu meinem Bericht (den Bericht selbst bekomme ich trotzdem)."
     },
     "writing": {
       "t": "Patrik liest deinen Chat",
@@ -484,7 +485,7 @@
     "peopleTitle": "Und über jeden von euch",
     "unlock": "Ganzen Bericht lesen",
     "unlockNote": "Kostet 1 Credit · du hast {n}",
-    "noCredits": "Deine Credits sind alle. Bezahlen geht bald — Patrik schickt dir eine Mail.",
+    "noCredits": "Deine Credits sind alle.",
     "writingFull": "Patrik schreibt den kompletten Bericht. Etwa 2 Minuten — wir schicken dir auch eine Mail.",
     "failed": "Während Patrik geschrieben hat, ist etwas schiefgelaufen. Dein Credit wurde erstattet. Bitte versuch's nochmal.",
     "retry": "Nochmal versuchen",
@@ -513,7 +514,34 @@
     "shareYou": "Karte von {name} teilen",
     "personKicker": "Was Patrik über {name} denkt",
     "readFull": "Ganzen Bericht lesen",
-    "sendYours": "Lass deinen Chat lesen"
+    "sendYours": "Lass deinen Chat lesen",
+    "pay": {
+      "title": "Den ganzen Bericht freischalten",
+      "single": "1 Bericht",
+      "trio": "3 Berichte",
+      "ten": "10 Berichte",
+      "perReport": "{price} pro Bericht",
+      "popular": "Am beliebtesten",
+      "best": "Bester Preis",
+      "cta": "Für {price} freischalten",
+      "buy": "Credits kaufen · {price}",
+      "offer": "50 % Rabatt — nur für dich",
+      "trust": "Sichere Zahlung über Paddle · Apple Pay · Google Pay · PayPal · Karte",
+      "tax": "Preis inkl. MwSt. Einmalzahlung, kein Abo.",
+      "refund": "Bericht nicht lesbar? Du bekommst dein Geld komplett zurück.",
+      "credits": "Credits verfallen nie. Nutz sie für neue Chats oder Nachfragen.",
+      "soon": "Bezahlen geht sehr bald — Patrik schickt dir eine Mail, sobald es so weit ist.",
+      "processing": "Zahlung erhalten. Patrik setzt seine Kopfhörer auf…",
+      "failed": "Die Zahlung hat nicht geklappt. Dir wurde nichts berechnet."
+    },
+    "gift": {
+      "title": "Ein Geschenk von Patrik 🎁",
+      "body": "Beantworte zwei kurze Fragen und der ganze Bericht gehört dir. Gratis.",
+      "q1": "Was hast du gehofft, dass Patrik dir über diesen Chat erzählt?",
+      "q2": "Was hätte dich fast dazu gebracht, den ganzen Bericht zu holen — und was hat dich abgehalten?",
+      "cta": "Meinen Gratis-Bericht freischalten",
+      "expired": "Dieses Geschenk gibt es für diesen Bericht nicht."
+    }
   },
   "account": {
     "title": "Meine Chats",
@@ -529,7 +557,17 @@
     "deleteAccount": "Mein Konto und alles darin löschen",
     "confirm": "Bist du sicher? Das lässt sich nicht rückgängig machen.",
     "open": "Öffnen",
-    "followup": "Nachfrage"
+    "followup": "Nachfrage",
+    "buy": "Credits kaufen",
+    "buyNote": "1 Credit = 1 ganzer Bericht oder 1 Nachfrage."
+  },
+  "pricing": {
+    "title": "Preise",
+    "sub": "Fang gratis an. Du zahlst nur für die Berichte, die du wirklich lesen willst — kein Abo.",
+    "freeH": "Vorschau",
+    "freeD": "Patriks Einleitung, die Zahlen und die Überschriften aller Kapitel.",
+    "free": "Gratis",
+    "includes": "Jeder ganze Bericht: alle Kapitel, eine Karte für jede Person, die Awards, das Wörterbuch eures Chats und Patriks Urteil."
   },
   "faq": {
     "title": "Fragen vor dem Hochladen",
@@ -540,7 +578,7 @@
       },
       {
         "q": "Ist das kostenlos?",
-        "a": "Der erste Blick ist gratis: Patriks Einleitung, die Zahlen und die Überschriften von allem, was im kompletten Bericht steht. Der komplette Bericht kostet einen Credit. Es gibt kein Abo."
+        "a": "Der erste Blick ist gratis: Patriks Einleitung, die Zahlen und die Überschriften von allem, was im kompletten Bericht steht. Der komplette Bericht ist eine Einmalzahlung (oder ein Credit aus einem Paket) — kein Abo, und die MwSt. ist im Preis schon drin."
       },
       {
         "q": "Welche Apps funktionieren?",
@@ -643,7 +681,8 @@
       "feedback": "Feedback",
       "privacy": "Datenschutz",
       "terms": "AGB",
-      "about": "Über uns"
+      "about": "Über uns",
+      "pricing": "Preise"
     },
     "rights": "© {year} What Patrik Thinks. Nur zur Unterhaltung."
   },

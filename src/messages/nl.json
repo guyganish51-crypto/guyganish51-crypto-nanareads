@@ -435,7 +435,8 @@
         "email": "Dat e-mailadres klopt niet helemaal.",
         "code": "Die code werkt niet. Probeer het opnieuw of vraag een nieuwe aan.",
         "rate": "Te veel pogingen. Wacht even een minuutje en probeer het opnieuw."
-      }
+      },
+      "noOffers": "Mail me geen herinneringen of aanbiedingen over mijn rapport (het rapport zelf krijg ik gewoon)."
     },
     "writing": {
       "t": "Patrik leest je chat",
@@ -484,7 +485,7 @@
     "peopleTitle": "En over ieder van jullie",
     "unlock": "Lees het volledige rapport",
     "unlockNote": "Kost 1 credit · je hebt er {n}",
-    "noCredits": "Je credits zijn op. Betalen kan binnenkort — Patrik mailt je.",
+    "noCredits": "Je credits zijn op.",
     "writingFull": "Patrik schrijft het volledige rapport. Zo'n 2 minuten — we mailen je ook.",
     "failed": "Er ging iets mis terwijl Patrik aan het schrijven was. Je credit is teruggestort. Probeer het opnieuw.",
     "retry": "Opnieuw proberen",
@@ -513,7 +514,34 @@
     "shareYou": "Deel de kaart van {name}",
     "personKicker": "Wat Patrik van {name} vindt",
     "readFull": "Lees het volledige rapport",
-    "sendYours": "Laat je eigen chat lezen"
+    "sendYours": "Laat je eigen chat lezen",
+    "pay": {
+      "title": "Ontgrendel het volledige rapport",
+      "single": "1 rapport",
+      "trio": "3 rapporten",
+      "ten": "10 rapporten",
+      "perReport": "{price} per rapport",
+      "popular": "Populairst",
+      "best": "Beste deal",
+      "cta": "Ontgrendel voor {price}",
+      "buy": "Credits kopen · {price}",
+      "offer": "50% korting — alleen voor jou",
+      "trust": "Veilig afrekenen via Paddle · Apple Pay · Google Pay · PayPal · kaarten",
+      "tax": "Prijs inclusief btw. Eenmalige betaling, geen abonnement.",
+      "refund": "Rapport onleesbaar? Je krijgt je geld volledig terug.",
+      "credits": "Credits verlopen nooit. Gebruik ze voor nieuwe chats of vervolgvragen.",
+      "soon": "Betalen kan heel binnenkort — Patrik mailt je zodra het zover is.",
+      "processing": "Betaling ontvangen. Patrik zet zijn koptelefoon op…",
+      "failed": "De betaling is niet gelukt. Er is niets afgeschreven."
+    },
+    "gift": {
+      "title": "Een cadeau van Patrik 🎁",
+      "body": "Beantwoord twee korte vragen en het volledige rapport is van jou. Gratis.",
+      "q1": "Wat hoopte je dat Patrik je over deze chat zou vertellen?",
+      "q2": "Waardoor had je het volledige rapport bijna genomen — en wat hield je tegen?",
+      "cta": "Ontgrendel mijn gratis rapport",
+      "expired": "Dit cadeau is niet beschikbaar voor dit rapport."
+    }
   },
   "account": {
     "title": "Mijn chats",
@@ -529,7 +557,17 @@
     "deleteAccount": "Verwijder mijn account en alles wat erin zit",
     "confirm": "Weet je het zeker? Dit kan niet ongedaan worden gemaakt.",
     "open": "Openen",
-    "followup": "Vervolgvraag"
+    "followup": "Vervolgvraag",
+    "buy": "Credits kopen",
+    "buyNote": "1 credit = 1 volledig rapport of 1 vervolgvraag."
+  },
+  "pricing": {
+    "title": "Prijzen",
+    "sub": "Begin gratis. Betaal alleen voor de rapporten die je echt wilt lezen — geen abonnement.",
+    "freeH": "Preview",
+    "freeD": "Patriks opening, de cijfers en de titels van elk hoofdstuk.",
+    "free": "Gratis",
+    "includes": "Elk volledig rapport: elk hoofdstuk, een kaart voor iedere persoon, de awards, het woordenboek van jullie chat en Patriks oordeel."
   },
   "faq": {
     "title": "Vragen voordat je uploadt",
@@ -540,7 +578,7 @@
       },
       {
         "q": "Is het gratis?",
-        "a": "Je eerste blik is gratis: Patriks opening, de cijfers en de titels van alles in het volledige rapport. Het volledige rapport kost één credit. Er is geen abonnement."
+        "a": "Je eerste blik is gratis: Patriks opening, de cijfers en de titels van alles in het volledige rapport. Het volledige rapport is een eenmalige betaling (of één credit uit een bundel) — geen abonnement, en de btw zit al in de prijs."
       },
       {
         "q": "Welke apps werken?",
@@ -643,7 +681,8 @@
       "feedback": "Feedback",
       "privacy": "Privacy",
       "terms": "Voorwaarden",
-      "about": "Over ons"
+      "about": "Over ons",
+      "pricing": "Prijzen"
     },
     "rights": "© {year} What Patrik Thinks. Alleen voor de lol."
   },

@@ -8,7 +8,7 @@ export const PRIVACY: { h: string; p: string[] }[] = [
   { h: "What we collect", p: [
     "Your email address, used to sign you in and to send you your reports and service emails.",
     "The chats you upload, any notes you add, and the reports we generate for you.",
-    "Purchase records (when payments are enabled), handled by our payment provider; we never see your card details.",
+    "Purchase records (what you bought, when, the amount and country). Payments are processed by Paddle.com, our merchant of record; we never see your card details.",
     "Basic technical and usage data needed to run, secure and improve the service (for example, which step of the upload you reached).",
   ] },
   { h: "How a chat is processed", p: [
@@ -27,7 +27,7 @@ export const PRIVACY: { h: string; p: string[] }[] = [
     "Each report has a private, unguessable link. Anyone you give the link to can read it. You can delete a report at any time, which disables the link.",
   ] },
   { h: "Service providers", p: [
-    "Vercel Inc. (hosting and AI gateway), Anthropic PBC (AI model, accessed through Vercel), Supabase Inc. (database, sign-in and encrypted storage). When enabled: Paddle (payments, merchant of record) and an email delivery provider. Some providers process data outside your country under standard contractual safeguards.",
+    "Vercel Inc. (hosting and AI gateway), Anthropic PBC (AI model, accessed through Vercel), Supabase Inc. (database, sign-in and encrypted storage). Paddle.com Market Ltd (payments, merchant of record) and Resend Inc. (email delivery). Some providers process data outside your country under standard contractual safeguards.",
   ] },
   { h: "Your rights", p: [
     "You can access, export or delete your data at any time from 'My chats', or by emailing us. Depending on where you live (for example under the GDPR or the Israeli Privacy Protection Law) you may also object to or restrict processing, and complain to your data-protection authority.",
@@ -52,7 +52,8 @@ export const TERMS: { h: string; p: string[] }[] = [
     "Uploading chats you obtained without permission, using reports to harass, threaten, expose or harm anyone, uploading content involving minors in a sexual context, or trying to break, overload or bypass the service.",
   ] },
   { h: "Credits and payments", p: [
-    "Some features use credits. When paid credits are available, the price is shown before you pay and payments are processed by our merchant of record. Credits have no cash value and are non-transferable.",
+    "Full reports and follow-up questions use credits. You can buy a single report or a pack of credits; the price, including applicable tax, is shown before you pay. Our order process is conducted by our online reseller Paddle.com, who is the merchant of record for all our orders and handles billing enquiries and returns. Credits do not expire, have no cash value and are non-transferable. Purchases are one-off — there is no subscription.",
+    "Promotional prices (for example a time-limited discount sent by email) apply only within the stated period and only to the report they were offered for.",
     "If a report fails to generate, the credit is returned automatically. If a report is unreadable or unusable because of a major error, write to us within 14 days with the report link and we will review it for a refund. This does not limit your statutory consumer rights.",
   ] },
   { h: "Liability", p: [

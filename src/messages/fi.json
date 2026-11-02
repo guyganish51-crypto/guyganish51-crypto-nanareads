@@ -435,7 +435,8 @@
         "email": "Tuo sähköpostiosoite ei näytä oikealta.",
         "code": "Koodi ei toiminut. Yritä uudelleen tai pyydä uusi.",
         "rate": "Liian monta yritystä. Odota minuutti ja yritä uudelleen."
-      }
+      },
+      "noOffers": "Älä lähetä minulle sähköpostilla muistutuksia tai tarjouksia raportistani (saat silti itse raportin)."
     },
     "writing": {
       "t": "Patrik lukee chattiasi",
@@ -484,7 +485,7 @@
     "peopleTitle": "Ja jokaisesta teistä",
     "unlock": "Lue koko raportti",
     "unlockNote": "Käyttää 1 krediitin · sinulla on {n}",
-    "noCredits": "Krediittisi ovat lopussa. Maksaminen avautuu pian — Patrik ilmoittaa sähköpostilla.",
+    "noCredits": "Krediittisi ovat lopussa.",
     "writingFull": "Patrik kirjoittaa koko raporttia. Noin 2 minuuttia — lähetämme myös sähköpostia.",
     "failed": "Jokin meni pieleen, kun Patrik kirjoitti. Krediittisi palautettiin. Yritä uudelleen.",
     "retry": "Yritä uudelleen",
@@ -513,7 +514,34 @@
     "shareYou": "Jaa kortti: {name}",
     "personKicker": "Mitä Patrik ajattelee: {name}",
     "readFull": "Lue koko raportti",
-    "sendYours": "Anna Patrikin lukea oma chattisi"
+    "sendYours": "Anna Patrikin lukea oma chattisi",
+    "pay": {
+      "title": "Avaa koko raportti",
+      "single": "1 raportti",
+      "trio": "3 raporttia",
+      "ten": "10 raporttia",
+      "perReport": "{price} / raportti",
+      "popular": "Suosituin",
+      "best": "Edullisin",
+      "cta": "Avaa hintaan {price}",
+      "buy": "Osta krediittejä · {price}",
+      "offer": "-50 % — vain sinulle",
+      "trust": "Turvallinen maksu Paddlen kautta · Apple Pay · Google Pay · PayPal · kortit",
+      "tax": "Hinta sisältää verot. Kertamaksu, ei tilausta.",
+      "refund": "Eikö raporttia voi lukea? Saat kaikki rahat takaisin.",
+      "credits": "Krediitit eivät vanhene koskaan. Käytä niitä uusiin chatteihin tai jatkokysymyksiin.",
+      "soon": "Maksaminen avautuu ihan pian — Patrik ilmoittaa sähköpostilla heti, kun se avautuu.",
+      "processing": "Maksu vastaanotettu. Patrik laittaa kuulokkeet päähän…",
+      "failed": "Maksu ei mennyt läpi. Sinulta ei veloitettu mitään."
+    },
+    "gift": {
+      "title": "Lahja Patrikilta 🎁",
+      "body": "Vastaa kahteen nopeaan kysymykseen, niin koko raportti on sinun. Ilmaiseksi.",
+      "q1": "Mitä toivoit Patrikin kertovan sinulle tästä chatista?",
+      "q2": "Mikä melkein sai sinut ottamaan koko raportin — ja mikä esti?",
+      "cta": "Avaa ilmainen raporttini",
+      "expired": "Tämä lahja ei ole saatavilla tälle raportille."
+    }
   },
   "account": {
     "title": "Omat chatit",
@@ -529,7 +557,17 @@
     "deleteAccount": "Poista tilini ja kaikki sen sisältö",
     "confirm": "Oletko varma? Tätä ei voi perua.",
     "open": "Avaa",
-    "followup": "Jatkokysymys"
+    "followup": "Jatkokysymys",
+    "buy": "Osta krediittejä",
+    "buyNote": "1 krediitti = 1 koko raportti tai 1 jatkokysymys."
+  },
+  "pricing": {
+    "title": "Hinnat",
+    "sub": "Aloita ilmaiseksi. Maksa vain raporteista, jotka oikeasti haluat lukea — ei tilausta.",
+    "freeH": "Esikatselu",
+    "freeD": "Patrikin avaus, numerot ja jokaisen osion otsikko.",
+    "free": "Ilmainen",
+    "includes": "Jokainen koko raportti: kaikki osiot, kortti jokaisesta henkilöstä, palkintogaala, chattinne sanakirja ja Patrikin tuomio."
   },
   "faq": {
     "title": "Kysymyksiä ennen lataamista",
@@ -540,7 +578,7 @@
       },
       {
         "q": "Onko se ilmainen?",
-        "a": "Ensisilmäys on ilmainen: Patrikin avaus, numerot ja koko raportin kaikkien osioiden otsikot. Koko raportti maksaa yhden krediitin. Tilausta ei ole."
+        "a": "Ensisilmäys on ilmainen: Patrikin avaus, numerot ja koko raportin kaikkien osioiden otsikot. Koko raportti on kertamaksu (tai yksi krediitti paketista) — ei tilausta, ja hinta sisältää verot."
       },
       {
         "q": "Mitkä sovellukset toimivat?",
@@ -643,7 +681,8 @@
       "feedback": "Palaute",
       "privacy": "Tietosuoja",
       "terms": "Ehdot",
-      "about": "Tietoa meistä"
+      "about": "Tietoa meistä",
+      "pricing": "Hinnat"
     },
     "rights": "© {year} What Patrik Thinks. Vain viihdekäyttöön."
   },

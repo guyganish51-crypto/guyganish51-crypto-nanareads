@@ -8,19 +8,29 @@
     "cta": "Elolvasom az előnézetet"
   },
   "nudge": {
-    "subject": "{title}",
-    "pre": "A java még zárva van.",
-    "h": "Vár a jelentésed",
-    "body": "A bevezetőt már olvastad. Ez van még benne:",
-    "cta": "A teljes jelentés elolvasása",
-    "credit": "Még van egy ingyenes kredited — ezt a kört én állom."
+    "subject": "50% kedvezmény · {title}",
+    "pre": "Fél áron kapod a jelentésed a következő 24 órában.",
+    "h": "Fél áron. Csak neked.",
+    "body": "A bevezetőt már olvastad. Ez van még zárva — a rólad szóló rész is:",
+    "deal": "Fél ár a következő 24 órában. A kedvezmény kattintáskor már automatikusan érvényes.",
+    "cta": "Megnyitás 50% kedvezménnyel",
+    "trust": "Biztonságos fizetés · Apple Pay · Google Pay · PayPal · bankkártya"
   },
   "hook": {
-    "pre": "Utolsó emlékeztető a jelentésedről.",
+    "pre": "Utolsó esély a fél árra.",
     "h": "Még egy utolsó szám, mielőtt összepakolom a keverőpultot",
     "body": "{title}",
+    "deal": "ugyanúgy fél áron, holnapig.",
     "cta": "A teljes jelentés megnyitása",
     "ps": "U.i. Olvasd el, dobd be a csoportba, és figyeld, ki válaszol először 👀"
+  },
+  "gift": {
+    "subject": "{title} — ajándék tőlem 🎁",
+    "pre": "A kedvezménynek vége. Ez jobb.",
+    "h": "Jó, legyen. Ezt én állom.",
+    "body": "Válaszolj két gyors kérdésre, és megnyitom neked a teljes jelentést. Se bankkártya, se csapda.",
+    "cta": "Válaszolok és megnyitom",
+    "ps": "U.i. Ha elolvastad, szólj a csoportban. Csak ennyit kérek."
   },
   "fullReady": {
     "subject": "Kész a teljes jelentésed ✍️",

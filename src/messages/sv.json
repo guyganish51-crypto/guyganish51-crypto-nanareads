@@ -435,7 +435,8 @@
         "email": "Den mejladressen ser inte rätt ut.",
         "code": "Koden funkade inte. Försök igen eller be om en ny.",
         "rate": "För många försök. Vänta en minut och försök igen."
-      }
+      },
+      "noOffers": "Mejla mig inte påminnelser eller erbjudanden om min rapport (själva rapporten får du ändå)."
     },
     "writing": {
       "t": "Patrik läser din chatt",
@@ -484,7 +485,7 @@
     "peopleTitle": "Och om var och en av er",
     "unlock": "Läs hela rapporten",
     "unlockNote": "Kostar 1 kredit · du har {n}",
-    "noCredits": "Du har slut på krediter. Betalningar öppnar snart — Patrik mejlar dig.",
+    "noCredits": "Du har slut på krediter.",
     "writingFull": "Patrik skriver hela rapporten. Ungefär 2 minuter — vi mejlar dig också.",
     "failed": "Något gick fel medan Patrik skrev. Din kredit har återbetalats. Försök igen.",
     "retry": "Försök igen",
@@ -513,7 +514,34 @@
     "shareYou": "Dela {name}s kort",
     "personKicker": "Vad Patrik tycker om {name}",
     "readFull": "Läs hela rapporten",
-    "sendYours": "Låt Patrik läsa din chatt"
+    "sendYours": "Låt Patrik läsa din chatt",
+    "pay": {
+      "title": "Lås upp hela rapporten",
+      "single": "1 rapport",
+      "trio": "3 rapporter",
+      "ten": "10 rapporter",
+      "perReport": "{price} per rapport",
+      "popular": "Populärast",
+      "best": "Bäst värde",
+      "cta": "Lås upp för {price}",
+      "buy": "Köp krediter · {price}",
+      "offer": "50 % rabatt — bara för dig",
+      "trust": "Säker betalning via Paddle · Apple Pay · Google Pay · PayPal · kort",
+      "tax": "Priset inkluderar moms. Engångsbetalning, ingen prenumeration.",
+      "refund": "Går rapporten inte att läsa? Du får alla pengar tillbaka.",
+      "credits": "Krediter går aldrig ut. Använd dem på nya chattar eller följdfrågor.",
+      "soon": "Betalningar öppnar väldigt snart — Patrik mejlar dig så fort de gör det.",
+      "processing": "Betalningen har kommit in. Patrik tar på sig hörlurarna…",
+      "failed": "Betalningen gick inte igenom. Du har inte debiterats."
+    },
+    "gift": {
+      "title": "En present från Patrik 🎁",
+      "body": "Svara på två snabba frågor så är hela rapporten din. Gratis.",
+      "q1": "Vad hoppades du att Patrik skulle säga om den här chatten?",
+      "q2": "Vad fick dig nästan att köpa hela rapporten — och vad stoppade dig?",
+      "cta": "Lås upp min gratisrapport",
+      "expired": "Den här presenten är inte tillgänglig för den här rapporten."
+    }
   },
   "account": {
     "title": "Mina chattar",
@@ -529,7 +557,17 @@
     "deleteAccount": "Radera mitt konto och allt i det",
     "confirm": "Är du säker? Det går inte att ångra.",
     "open": "Öppna",
-    "followup": "Följdfråga"
+    "followup": "Följdfråga",
+    "buy": "Köp krediter",
+    "buyNote": "1 kredit = 1 hel rapport eller 1 följdfråga."
+  },
+  "pricing": {
+    "title": "Priser",
+    "sub": "Börja gratis. Betala bara för de rapporter du faktiskt vill läsa — ingen prenumeration.",
+    "freeH": "Förhandsvisning",
+    "freeD": "Patriks inledning, siffrorna och rubrikerna på varje kapitel.",
+    "free": "Gratis",
+    "includes": "Varje hel rapport: alla kapitel, ett kort för varje person, priserna, er chatts ordbok och Patriks dom."
   },
   "faq": {
     "title": "Frågor innan du laddar upp",
@@ -540,7 +578,7 @@
       },
       {
         "q": "Är det gratis?",
-        "a": "Första titten är gratis: Patriks inledning, siffrorna och rubrikerna på allt i hela rapporten. Hela rapporten kostar en kredit. Det finns ingen prenumeration."
+        "a": "Första titten är gratis: Patriks inledning, siffrorna och rubrikerna på allt i hela rapporten. Hela rapporten är en engångsbetalning (eller en kredit från ett paket) — ingen prenumeration, och priset inkluderar moms."
       },
       {
         "q": "Vilka appar funkar?",
@@ -643,7 +681,8 @@
       "feedback": "Feedback",
       "privacy": "Integritet",
       "terms": "Villkor",
-      "about": "Om oss"
+      "about": "Om oss",
+      "pricing": "Priser"
     },
     "rights": "© {year} What Patrik Thinks. Endast för underhållning."
   },

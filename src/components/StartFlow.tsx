@@ -77,6 +77,7 @@ export function StartFlow({ lang, t }: { lang: Locale; t: Dict }) {
   const [email, setEmail] = useState("");
   const [codeSent, setCodeSent] = useState(false);
   const [code, setCode] = useState("");
+  const [noOffers, setNoOffers] = useState(false);
   const [showGuide, setShowGuide] = useState(false);
   const fileRef = useRef<HTMLInputElement>(null);
   const videoRef = useRef<HTMLInputElement>(null);
@@ -86,7 +87,15 @@ export function StartFlow({ lang, t }: { lang: Locale; t: Dict }) {
   useEffect(() => {
     const s = load();
     setSaved(s);
-    sb.auth.getSession().then((r: { data: { session: unknown } }) => setSignedIn(!!r.data.session));
+    sb.auth.getSession().then((r: { data: { session: unknown } }) => {
+      setSignedIn(!!r.data.session);
+      try {
+        if (r.data.session && localStorage.getItem("patrik_nooffers") === "1") {
+          localStorage.removeItem("patrik_nooffers");
+          fetch("/api/email/optout", { method: "POST" }).catch(() => {});
+        }
+      } catch { /* storage unavailable */ }
+    });
     const resume = new URLSearchParams(window.location.search).get("resume");
     if (resume && s.chatId) setStep("email");
   }, [sb]);
@@ -193,6 +202,7 @@ export function StartFlow({ lang, t }: { lang: Locale; t: Dict }) {
     setBusy(null);
     if (error) return setErr(/rate|seconds/i.test(error.message) ? F.email.errors.rate : t.common.error);
     setCodeSent(true); setErr(null);
+    try { if (noOffers) localStorage.setItem("patrik_nooffers", "1"); else localStorage.removeItem("patrik_nooffers"); } catch { /* ignore */ }
     track("otp_sent", saved.attemptId);
   }
 
@@ -203,6 +213,7 @@ export function StartFlow({ lang, t }: { lang: Locale; t: Dict }) {
     if (error) return setErr(F.email.errors.code);
     setSignedIn(true);
     track("otp_verified", saved.attemptId);
+    if (noOffers) { fetch("/api/email/optout", { method: "POST" }).catch(() => {}); try { localStorage.removeItem("patrik_nooffers"); } catch { /* ignore */ } }
     await startPreview();
   }
 
@@ -370,6 +381,10 @@ export function StartFlow({ lang, t }: { lang: Locale; t: Dict }) {
               <p className="text-center text-sm text-ink-soft">{F.email.orLink}</p>
             </form>
           )}
+          <label className="flex items-start gap-2 text-xs text-ink-soft">
+            <input type="checkbox" className="mt-0.5 size-4 accent-ink" checked={noOffers} onChange={(e) => setNoOffers(e.target.checked)} />
+            <span>{F.email.noOffers}</span>
+          </label>
           <p className="text-xs text-ink-soft">
             {F.email.terms.split(/(\{terms\}|\{privacy\})/).map((part, i) =>
               part === "{terms}" ? <Link key={i} className="underline" href={`/${lang}/terms`}>{t.legal.terms}</Link>

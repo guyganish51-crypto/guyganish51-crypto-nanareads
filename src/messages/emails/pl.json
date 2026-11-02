@@ -8,19 +8,29 @@
     "cta": "Czytaj podgląd"
   },
   "nudge": {
-    "subject": "{title}",
-    "pre": "Większość jest wciąż pod kluczem.",
-    "h": "Twój raport czeka",
-    "body": "Przeczytałeś początek. Oto co jeszcze jest w środku:",
-    "cta": "Czytaj cały raport",
-    "credit": "Masz jeszcze darmowy kredyt — tę kolejkę stawiam ja."
+    "subject": "50% taniej · {title}",
+    "pre": "Twój raport za pół ceny przez najbliższe 24 godziny.",
+    "h": "Pół ceny. Tylko dla ciebie.",
+    "body": "Przeczytałeś początek. Oto co wciąż jest pod kluczem — łącznie z fragmentem o tobie:",
+    "deal": "Pół ceny przez najbliższe 24 godziny. Zniżka nalicza się sama, kiedy klikniesz.",
+    "cta": "Odblokuj 50% taniej",
+    "trust": "Bezpieczna płatność · Apple Pay · Google Pay · PayPal · karty"
   },
   "hook": {
-    "pre": "Ostatnie przypomnienie o twoim raporcie.",
+    "pre": "Ostatnia szansa na pół ceny.",
     "h": "Ostatni kawałek, zanim spakuję konsoletę",
     "body": "{title}",
+    "deal": "wciąż pół ceny, do jutra.",
     "cta": "Otwórz cały raport",
     "ps": "PS Przeczytaj, wrzuć na grupę i patrz, kto odpisze pierwszy 👀"
+  },
+  "gift": {
+    "subject": "{title} — prezent ode mnie 🎁",
+    "pre": "Zniżka się skończyła. To jest lepsze.",
+    "h": "No dobra. Ten stawiam ja.",
+    "body": "Odpowiedz na dwa krótkie pytania, a odblokuję ci pełny raport. Bez karty, bez haczyka.",
+    "cta": "Odpowiedz i odblokuj mój raport",
+    "ps": "PS Jak już przeczytasz, daj znać na grupie. Tylko o to proszę."
   },
   "fullReady": {
     "subject": "Twój pełny raport jest gotowy ✍️",

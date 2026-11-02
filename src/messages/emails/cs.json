@@ -8,19 +8,29 @@
     "cta": "Přečíst ukázku"
   },
   "nudge": {
-    "subject": "{title}",
-    "pre": "Většina je pořád zamčená.",
-    "h": "Tvůj report na tebe čeká",
-    "body": "Úvod už máš přečtený. Tohle tam ještě čeká:",
-    "cta": "Přečíst celý report",
-    "credit": "Pořád máš jeden kredit zdarma — tohle kolo platím já."
+    "subject": "Sleva 50 % · {title}",
+    "pre": "Poloviční cena za tvůj report na dalších 24 hodin.",
+    "h": "Poloviční cena. Jen pro tebe.",
+    "body": "Úvod už máš přečtený. Tohle je pořád zamčené — včetně části o tobě:",
+    "deal": "Poloviční cena na dalších 24 hodin. Sleva se uplatní automaticky po kliknutí.",
+    "cta": "Odemknout se slevou 50 %",
+    "trust": "Bezpečná platba · Apple Pay · Google Pay · PayPal · karty"
   },
   "hook": {
-    "pre": "Poslední připomínka tvého reportu.",
+    "pre": "Poslední šance na poloviční cenu.",
     "h": "Poslední písnička, než sbalím mixpult",
     "body": "{title}",
+    "deal": "pořád poloviční cena, do zítřka.",
     "cta": "Otevřít celý report",
     "ps": "P.S. Přečti si ho, hoď ho do chatu a sleduj, kdo odpoví první 👀"
+  },
+  "gift": {
+    "subject": "{title} — dárek ode mě 🎁",
+    "pre": "Sleva skončila. Tohle je lepší.",
+    "h": "Tak jo. Tohle platím já.",
+    "body": "Odpověz na dvě rychlé otázky a odemknu ti celý report. Žádná karta, žádný háček.",
+    "cta": "Odpovědět a odemknout report",
+    "ps": "P.S. Až si ho přečteš, řekni to v chatu. Víc nechci."
   },
   "fullReady": {
     "subject": "Tvůj celý report je hotový ✍️",

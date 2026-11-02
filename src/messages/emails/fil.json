@@ -8,19 +8,29 @@
     "cta": "Basahin ang preview ko"
   },
   "nudge": {
-    "subject": "{title}",
-    "pre": "Naka-lock pa ang karamihan.",
-    "h": "Naghihintay ang report mo",
-    "body": "Nabasa mo na ang intro. Ito pa ang laman:",
-    "cta": "Basahin ang buong report",
-    "credit": "May free credit ka pa — sagot ko na ang round na 'to."
+    "subject": "50% off · {title}",
+    "pre": "Half price ang report mo sa susunod na 24 oras.",
+    "h": "Half price. Para sa 'yo lang.",
+    "body": "Nabasa mo na ang intro. Ito pa ang naka-lock — kasama ang part tungkol sa 'yo:",
+    "deal": "Half price sa susunod na 24 oras. Naka-apply na ang discount pag-click mo.",
+    "cta": "I-unlock sa 50% off",
+    "trust": "Secure checkout · Apple Pay · Google Pay · PayPal · cards"
   },
   "hook": {
-    "pre": "Huling paalala tungkol sa report mo.",
+    "pre": "Huling chance para sa half price.",
     "h": "Huling kanta bago ko iligpit ang decks",
     "body": "{title}",
+    "deal": "same half price pa rin, hanggang bukas.",
     "cta": "Buksan ang buong report",
     "ps": "P.S. Basahin mo, i-drop sa GC, at abangan kung sino ang unang sasagot 👀"
+  },
+  "gift": {
+    "subject": "{title} — regalo ko sa 'yo 🎁",
+    "pre": "Tapos na ang discount. Mas maganda 'to.",
+    "h": "Sige na nga. Sagot ko na 'to.",
+    "body": "Sagutin mo lang ang dalawang mabilis na tanong at ia-unlock ko ang buong report para sa 'yo. Walang card, walang daya.",
+    "cta": "Sumagot & i-unlock ang report ko",
+    "ps": "P.S. Pag nabasa mo na, sabihin mo sa GC. 'Yun lang ang hiling ko."
   },
   "fullReady": {
     "subject": "Ready na ang buong report mo ✍️",

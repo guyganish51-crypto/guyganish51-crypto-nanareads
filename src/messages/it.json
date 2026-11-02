@@ -435,7 +435,8 @@
         "email": "Questa email non sembra giusta.",
         "code": "Il codice non funziona. Riprova o chiedine uno nuovo.",
         "rate": "Troppi tentativi. Aspetta un minuto e riprova."
-      }
+      },
+      "noOffers": "Non mandatemi promemoria né offerte sul mio report (il report vero e proprio arriva comunque)."
     },
     "writing": {
       "t": "Patrik sta leggendo la tua chat",
@@ -484,7 +485,7 @@
     "peopleTitle": "E su ognuno di voi",
     "unlock": "Leggi il report completo",
     "unlockNote": "Usa 1 credito · ne hai {n}",
-    "noCredits": "Hai finito i crediti. I pagamenti aprono presto — Patrik ti manderà un'email.",
+    "noCredits": "Hai finito i crediti.",
     "writingFull": "Patrik sta scrivendo il report completo. Circa 2 minuti — ti mandiamo anche un'email.",
     "failed": "Qualcosa è andato storto mentre Patrik scriveva. Ti abbiamo restituito il credito. Riprova.",
     "retry": "Riprova",
@@ -513,7 +514,34 @@
     "shareYou": "Condividi la card di {name}",
     "personKicker": "Cosa pensa Patrik di {name}",
     "readFull": "Leggi il report completo",
-    "sendYours": "Fai leggere la tua chat"
+    "sendYours": "Fai leggere la tua chat",
+    "pay": {
+      "title": "Sblocca il report completo",
+      "single": "1 report",
+      "trio": "3 report",
+      "ten": "10 report",
+      "perReport": "{price} a report",
+      "popular": "Il più scelto",
+      "best": "Il più conveniente",
+      "cta": "Sblocca a {price}",
+      "buy": "Compra crediti · {price}",
+      "offer": "50% di sconto — solo per te",
+      "trust": "Pagamento sicuro con Paddle · Apple Pay · Google Pay · PayPal · carte",
+      "tax": "Prezzo IVA inclusa. Pagamento unico, nessun abbonamento.",
+      "refund": "Report illeggibile? Ti rimborsiamo tutto.",
+      "credits": "I crediti non scadono mai. Usali per nuove chat o domande extra.",
+      "soon": "I pagamenti aprono a brevissimo — Patrik ti manda un'email appena si parte.",
+      "processing": "Pagamento ricevuto. Patrik si sta mettendo le cuffie…",
+      "failed": "Il pagamento non è andato a buon fine. Non ti è stato addebitato nulla."
+    },
+    "gift": {
+      "title": "Un regalo da Patrik 🎁",
+      "body": "Rispondi a due domande veloci e il report completo è tuo. Gratis.",
+      "q1": "Cosa speravi che Patrik ti dicesse su questa chat?",
+      "q2": "Cosa ti ha quasi fatto prendere il report completo — e cosa ti ha frenato?",
+      "cta": "Sblocca il mio report gratis",
+      "expired": "Questo regalo non è disponibile per questo report."
+    }
   },
   "account": {
     "title": "Le mie chat",
@@ -529,7 +557,17 @@
     "deleteAccount": "Elimina il mio account e tutto quello che contiene",
     "confirm": "Sicuro? Non si può annullare.",
     "open": "Apri",
-    "followup": "Domanda extra"
+    "followup": "Domanda extra",
+    "buy": "Compra crediti",
+    "buyNote": "1 credito = 1 report completo o 1 domanda extra."
+  },
+  "pricing": {
+    "title": "Prezzi",
+    "sub": "Inizi gratis. Paghi solo i report che vuoi davvero leggere — nessun abbonamento.",
+    "freeH": "Anteprima",
+    "freeD": "L'apertura di Patrik, i numeri e i titoli di tutti i capitoli.",
+    "free": "Gratis",
+    "includes": "Ogni report completo: tutti i capitoli, una scheda per ogni persona, i premi, il dizionario della vostra chat e il verdetto di Patrik."
   },
   "faq": {
     "title": "Domande prima di caricare",
@@ -540,7 +578,7 @@
       },
       {
         "q": "È gratis?",
-        "a": "La prima occhiata è gratis: l'apertura di Patrik, i numeri e i titoli di tutto quello che c'è nel report completo. Il report completo usa un credito. Nessun abbonamento."
+        "a": "La prima occhiata è gratis: l'apertura di Patrik, i numeri e i titoli di tutto quello che c'è nel report completo. Il report completo è un pagamento unico (o un credito da un pacchetto) — nessun abbonamento, e il prezzo include l'IVA."
       },
       {
         "q": "Con quali app funziona?",
@@ -643,7 +681,8 @@
       "feedback": "Feedback",
       "privacy": "Privacy",
       "terms": "Termini",
-      "about": "Chi siamo"
+      "about": "Chi siamo",
+      "pricing": "Prezzi"
     },
     "rights": "© {year} What Patrik Thinks. Solo a scopo di intrattenimento."
   },

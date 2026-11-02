@@ -8,19 +8,29 @@
     "cta": "Ön izlememi oku"
   },
   "nudge": {
-    "subject": "{title}",
-    "pre": "Çoğu hâlâ kilitli.",
-    "h": "Raporun seni bekliyor",
-    "body": "Girişi okudun. İçeride daha neler var:",
-    "cta": "Raporun tamamını oku",
-    "credit": "Hâlâ bir ücretsiz kredin var — bu tur benden."
+    "subject": "%50 indirim · {title}",
+    "pre": "Önümüzdeki 24 saat boyunca raporun yarı fiyatına.",
+    "h": "Yarı fiyat. Sadece sana.",
+    "body": "Girişi okudun. Hâlâ kilitli olanlar — senin hakkındaki kısım da dahil:",
+    "deal": "Önümüzdeki 24 saat yarı fiyat. Tıkladığında indirim zaten uygulanmış olacak.",
+    "cta": "%50 indirimle aç",
+    "trust": "Güvenli ödeme · Apple Pay · Google Pay · PayPal · kartlar"
   },
   "hook": {
-    "pre": "Raporunla ilgili son hatırlatma.",
+    "pre": "Yarı fiyat için son şans.",
     "h": "DJ masasını toplamadan önce son şarkı",
     "body": "{title}",
+    "deal": "yine yarı fiyat, yarına kadar.",
     "cta": "Raporun tamamını aç",
     "ps": "Not: Oku, gruba at ve ilk kim cevap veriyor izle 👀"
+  },
+  "gift": {
+    "subject": "{title} — benden bir hediye 🎁",
+    "pre": "İndirim bitti. Bu daha iyi.",
+    "h": "Peki. Bu benden.",
+    "body": "İki kısa soruyu yanıtla, tam raporun kilidini senin için açayım. Kart yok, tuzak yok.",
+    "cta": "Yanıtla ve raporumu aç",
+    "ps": "Not: Okuyunca gruba söyle. Tek isteğim bu."
   },
   "fullReady": {
     "subject": "Raporunun tamamı hazır ✍️",

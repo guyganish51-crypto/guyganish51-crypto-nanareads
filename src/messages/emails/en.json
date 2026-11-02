@@ -1,9 +1,51 @@
 {
-  "previewReady": { "subject": "Patrik finished reading 🎧", "pre": "Inside: {names}", "h": "I've read your chat.", "body": "Here's what I wrote about each of you:", "more": "…and more", "cta": "Read my preview" },
-  "nudge": { "subject": "{title}", "pre": "Most of it is still locked.", "h": "Your report is waiting", "body": "You've read the opening. Here's what's still inside:", "cta": "Read the full report", "credit": "You still have a free credit — this round's on me." },
-  "hook": { "pre": "Last reminder about your report.", "h": "Last song before I pack up the decks", "body": "{title}", "cta": "Open the full report", "ps": "P.S. Read it, drop it in the chat, and watch who replies first 👀" },
-  "fullReady": { "subject": "Your full report is ready ✍️", "pre": "{title}", "h": "Done. Every word of it.", "cta": "Read it now", "ps": "P.S. Share it with the chat. I dare you." },
-  "next": { "subject": "That was just the warm-up set 👀", "pre": "Now send me the chat you actually think about.", "h": "Which chat do you really want me to read?", "body": "The one you reread at 2 a.m. The ex. The situationship. Your mother.", "cta": "Send Patrik another chat" },
+  "previewReady": {
+    "subject": "Patrik finished reading 🎧",
+    "pre": "Inside: {names}",
+    "h": "I've read your chat.",
+    "body": "Here's what I wrote about each of you:",
+    "more": "…and more",
+    "cta": "Read my preview"
+  },
+  "nudge": {
+    "subject": "50% off · {title}",
+    "pre": "Half price on your report for the next 24 hours.",
+    "h": "Half price. Just for you.",
+    "body": "You've read the opening. Here's what's still locked — including the part about you:",
+    "deal": "Half price for the next 24 hours. The discount is already applied when you click.",
+    "cta": "Unlock at 50% off",
+    "trust": "Secure checkout · Apple Pay · Google Pay · PayPal · cards"
+  },
+  "hook": {
+    "pre": "Last chance for half price.",
+    "h": "Last song before I pack up the decks",
+    "body": "{title}",
+    "deal": "same half price, until tomorrow.",
+    "cta": "Open the full report",
+    "ps": "P.S. Read it, drop it in the chat, and watch who replies first 👀"
+  },
+  "gift": {
+    "subject": "{title} — a gift from me 🎁",
+    "pre": "The discount's over. This is better.",
+    "h": "Fine. This one's on me.",
+    "body": "Answer two quick questions and I'll unlock the full report for you. No card, no catch.",
+    "cta": "Answer & unlock my report",
+    "ps": "P.S. When you've read it, tell the chat. That's all I ask."
+  },
+  "fullReady": {
+    "subject": "Your full report is ready ✍️",
+    "pre": "{title}",
+    "h": "Done. Every word of it.",
+    "cta": "Read it now",
+    "ps": "P.S. Share it with the chat. I dare you."
+  },
+  "next": {
+    "subject": "That was just the warm-up set 👀",
+    "pre": "Now send me the chat you actually think about.",
+    "h": "Which chat do you really want me to read?",
+    "body": "The one you reread at 2 a.m. The ex. The situationship. Your mother.",
+    "cta": "Send Patrik another chat"
+  },
   "footer": "You're getting this because you asked Patrik to read a chat.",
   "unsubscribe": "Unsubscribe",
   "sign": "— Patrik"

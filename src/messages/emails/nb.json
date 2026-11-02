@@ -8,19 +8,29 @@
     "cta": "Les forhåndsvisningen min"
   },
   "nudge": {
-    "subject": "{title}",
-    "pre": "Det meste er fortsatt låst.",
-    "h": "Rapporten din venter",
-    "body": "Du har lest innledningen. Her er det som fortsatt ligger inni:",
-    "cta": "Les hele rapporten",
-    "credit": "Du har fortsatt en gratis kreditt — denne runden spanderer jeg."
+    "subject": "50 % rabatt · {title}",
+    "pre": "Halv pris på rapporten din de neste 24 timene.",
+    "h": "Halv pris. Bare for deg.",
+    "body": "Du har lest innledningen. Her er det som fortsatt er låst — også delen om deg:",
+    "deal": "Halv pris de neste 24 timene. Rabatten er allerede lagt inn når du klikker.",
+    "cta": "Lås opp med 50 % rabatt",
+    "trust": "Sikker betaling · Apple Pay · Google Pay · PayPal · kort"
   },
   "hook": {
-    "pre": "Siste påminnelse om rapporten din.",
+    "pre": "Siste sjanse for halv pris.",
     "h": "Siste låt før jeg pakker sammen DJ-pulten",
     "body": "{title}",
+    "deal": "samme halve pris, til i morgen.",
     "cta": "Åpne hele rapporten",
     "ps": "PS. Les den, slipp den i chatten, og se hvem som svarer først 👀"
+  },
+  "gift": {
+    "subject": "{title} — en gave fra meg 🎁",
+    "pre": "Rabatten er over. Dette er bedre.",
+    "h": "Greit. Denne spanderer jeg.",
+    "body": "Svar på to kjappe spørsmål, så låser jeg opp hele rapporten for deg. Ikke noe kort, ingen hake.",
+    "cta": "Svar og lås opp rapporten",
+    "ps": "PS. Når du har lest den, si det i chatten. Det er alt jeg ber om."
   },
   "fullReady": {
     "subject": "Hele rapporten din er klar ✍️",

@@ -435,7 +435,8 @@
         "email": "Ez az e-mail-cím nem tűnik jónak.",
         "code": "Ez a kód nem működött. Próbáld újra, vagy kérj újat.",
         "rate": "Túl sok próbálkozás. Várj egy percet, és próbáld újra."
-      }
+      },
+      "noOffers": "Ne küldjetek e-mailben emlékeztetőket vagy ajánlatokat a jelentésemmel kapcsolatban (magát a jelentést így is megkapod)."
     },
     "writing": {
       "t": "Patrik olvassa a chatedet",
@@ -484,7 +485,7 @@
     "peopleTitle": "És mindegyikőtökről",
     "unlock": "A teljes jelentés elolvasása",
     "unlockNote": "1 kreditbe kerül · neked {n} van",
-    "noCredits": "Elfogytak a kreditjeid. A fizetés hamarosan elindul — Patrik majd ír e-mailt.",
+    "noCredits": "Elfogytak a kreditjeid.",
     "writingFull": "Patrik írja a teljes jelentést. Kb. 2 perc — e-mailt is küldünk.",
     "failed": "Valami elromlott, miközben Patrik írt. A kreditedet visszaadtuk. Kérlek, próbáld újra.",
     "retry": "Újrapróbálás",
@@ -513,7 +514,34 @@
     "shareYou": "{name} kártyájának megosztása",
     "personKicker": "Patrik véleménye: {name}",
     "readFull": "A teljes jelentés elolvasása",
-    "sendYours": "Olvastasd el a saját chatedet"
+    "sendYours": "Olvastasd el a saját chatedet",
+    "pay": {
+      "title": "Nyisd meg a teljes jelentést",
+      "single": "1 jelentés",
+      "trio": "3 jelentés",
+      "ten": "10 jelentés",
+      "perReport": "{price} / jelentés",
+      "popular": "Legnépszerűbb",
+      "best": "Legjobb ár",
+      "cta": "Megnyitás {price} áron",
+      "buy": "Kreditvásárlás · {price}",
+      "offer": "50% kedvezmény — csak neked",
+      "trust": "Biztonságos fizetés a Paddle-lel · Apple Pay · Google Pay · PayPal · bankkártya",
+      "tax": "Az ár tartalmazza az adót. Egyszeri fizetés, nincs előfizetés.",
+      "refund": "Olvashatatlan a jelentés? A teljes összeget visszakapod.",
+      "credits": "A kreditek soha nem járnak le. Használd őket új chatekhez vagy további kérdésekhez.",
+      "soon": "A fizetés nagyon hamar elindul — Patrik ír neked e-mailt, amint lehet.",
+      "processing": "Megjött a fizetés. Patrik felteszi a fejhallgatóját…",
+      "failed": "A fizetés nem ment át. Nem terheltünk meg semmit."
+    },
+    "gift": {
+      "title": "Ajándék Patriktól 🎁",
+      "body": "Válaszolj két gyors kérdésre, és a teljes jelentés a tiéd. Ingyen.",
+      "q1": "Mit szerettél volna, hogy Patrik elmondjon neked erről a chatről?",
+      "q2": "Mi vett rá majdnem, hogy megvedd a teljes jelentést — és mi tartott vissza?",
+      "cta": "Ingyenes jelentésem megnyitása",
+      "expired": "Ez az ajándék ehhez a jelentéshez nem érhető el."
+    }
   },
   "account": {
     "title": "Chatjeim",
@@ -529,7 +557,17 @@
     "deleteAccount": "A fiókom és minden benne lévő adat törlése",
     "confirm": "Biztos vagy benne? Ezt nem lehet visszavonni.",
     "open": "Megnyitás",
-    "followup": "Ráadás kérdés"
+    "followup": "Ráadás kérdés",
+    "buy": "Kreditvásárlás",
+    "buyNote": "1 kredit = 1 teljes jelentés vagy 1 további kérdés."
+  },
+  "pricing": {
+    "title": "Árak",
+    "sub": "Kezdd ingyen. Csak azokért a jelentésekért fizetsz, amelyeket tényleg el akarsz olvasni — nincs előfizetés.",
+    "freeH": "Előnézet",
+    "freeD": "Patrik bevezetője, a számok és az összes fejezet címe.",
+    "free": "Ingyenes",
+    "includes": "Minden teljes jelentésben: az összes fejezet, egy kártya minden szereplőről, a díjak, a chatetek szótára és Patrik ítélete."
   },
   "faq": {
     "title": "Kérdések feltöltés előtt",
@@ -540,7 +578,7 @@
       },
       {
         "q": "Ingyenes?",
-        "a": "Az első betekintés ingyenes: Patrik bevezetője, a számok és a teljes jelentés összes fejezetcíme. A teljes jelentés egy kreditbe kerül. Nincs előfizetés."
+        "a": "Az első betekintés ingyenes: Patrik bevezetője, a számok és a teljes jelentés összes fejezetcíme. A teljes jelentésért egyszer kell fizetni (vagy egy kredit egy csomagból) — nincs előfizetés, és az ár tartalmazza az adót."
       },
       {
         "q": "Milyen appokkal működik?",
@@ -643,7 +681,8 @@
       "feedback": "Visszajelzés",
       "privacy": "Adatvédelem",
       "terms": "Feltételek",
-      "about": "Rólunk"
+      "about": "Rólunk",
+      "pricing": "Árak"
     },
     "rights": "© {year} What Patrik Thinks. Kizárólag szórakoztatási célra."
   },

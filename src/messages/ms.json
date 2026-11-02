@@ -435,7 +435,8 @@
         "email": "E-mel tu nampak macam tak betul.",
         "code": "Kod tu tak menjadi. Cuba lagi atau minta kod baharu.",
         "rate": "Terlalu banyak cubaan. Tunggu seminit dan cuba lagi."
-      }
+      },
+      "noOffers": "Jangan e-mel saya peringatan atau tawaran tentang laporan saya (awak tetap akan dapat laporan itu sendiri)."
     },
     "writing": {
       "t": "Patrik tengah baca chat awak",
@@ -484,7 +485,7 @@
     "peopleTitle": "Dan tentang setiap seorang daripada korang",
     "unlock": "Baca laporan penuh",
     "unlockNote": "Guna 1 kredit · awak ada {n}",
-    "noCredits": "Kredit awak dah habis. Pembayaran akan dibuka tak lama lagi — Patrik akan e-mel awak.",
+    "noCredits": "Kredit awak dah habis.",
     "writingFull": "Patrik tengah tulis laporan penuh. Lebih kurang 2 minit — kami akan e-mel awak juga.",
     "failed": "Ada yang tak kena masa Patrik menulis. Kredit awak dah dipulangkan. Sila cuba lagi.",
     "retry": "Cuba lagi",
@@ -513,7 +514,34 @@
     "shareYou": "Kongsi kad {name}",
     "personKicker": "Apa Patrik fikir tentang {name}",
     "readFull": "Baca laporan penuh",
-    "sendYours": "Biar Patrik baca chat awak pula"
+    "sendYours": "Biar Patrik baca chat awak pula",
+    "pay": {
+      "title": "Buka kunci laporan penuh",
+      "single": "1 laporan",
+      "trio": "3 laporan",
+      "ten": "10 laporan",
+      "perReport": "{price} setiap laporan",
+      "popular": "Paling popular",
+      "best": "Paling berbaloi",
+      "cta": "Buka kunci dengan {price}",
+      "buy": "Beli kredit · {price}",
+      "offer": "Diskaun 50% — khas untuk awak",
+      "trust": "Pembayaran selamat oleh Paddle · Apple Pay · Google Pay · PayPal · kad",
+      "tax": "Harga termasuk cukai. Bayaran sekali sahaja, tiada langganan.",
+      "refund": "Laporan tak boleh dibaca? Awak dapat bayaran balik penuh.",
+      "credits": "Kredit tak pernah luput. Guna untuk chat baru atau soalan susulan.",
+      "soon": "Pembayaran akan dibuka tak lama lagi — Patrik akan e-mel awak sebaik sahaja ia dibuka.",
+      "processing": "Bayaran diterima. Patrik tengah pakai headphone…",
+      "failed": "Bayaran tak berjaya. Awak tak dicaj."
+    },
+    "gift": {
+      "title": "Hadiah daripada Patrik 🎁",
+      "body": "Jawab dua soalan ringkas dan laporan penuh jadi milik awak. Percuma.",
+      "q1": "Apa yang awak harap Patrik akan beritahu tentang chat ni?",
+      "q2": "Apa yang hampir buat awak beli laporan penuh — dan apa yang halang awak?",
+      "cta": "Buka laporan percuma saya",
+      "expired": "Hadiah ni tak tersedia untuk laporan ini."
+    }
   },
   "account": {
     "title": "Chat saya",
@@ -529,7 +557,17 @@
     "deleteAccount": "Padam akaun saya dan semua isinya",
     "confirm": "Pasti? Ini tak boleh dibuat asal.",
     "open": "Buka",
-    "followup": "Susulan"
+    "followup": "Susulan",
+    "buy": "Beli kredit",
+    "buyNote": "1 kredit = 1 laporan penuh atau 1 soalan susulan."
+  },
+  "pricing": {
+    "title": "Harga",
+    "sub": "Mula secara percuma. Bayar hanya untuk laporan yang awak betul-betul nak baca — tiada langganan.",
+    "freeH": "Pratonton",
+    "freeD": "Pembukaan Patrik, angka-angkanya dan tajuk setiap bab.",
+    "free": "Percuma",
+    "includes": "Setiap laporan penuh: setiap bab, kad untuk setiap orang, anugerah, kamus chat awak dan keputusan Patrik."
   },
   "faq": {
     "title": "Soalan sebelum awak muat naik",
@@ -540,7 +578,7 @@
       },
       {
         "q": "Percuma ke?",
-        "a": "Tinjauan pertama percuma: pembukaan Patrik, angka-angkanya, dan tajuk setiap bahagian dalam laporan penuh. Laporan penuh guna satu kredit. Tiada langganan."
+        "a": "Pratonton percuma: pembukaan Patrik, angka-angkanya, dan tajuk setiap bahagian dalam laporan penuh. Laporan penuh ialah bayaran sekali sahaja (atau satu kredit daripada pek) — tiada langganan, dan harga termasuk cukai."
       },
       {
         "q": "App apa yang boleh guna?",
@@ -643,7 +681,8 @@
       "feedback": "Maklum balas",
       "privacy": "Privasi",
       "terms": "Terma",
-      "about": "Tentang kami"
+      "about": "Tentang kami",
+      "pricing": "Harga"
     },
     "rights": "© {year} What Patrik Thinks. Untuk hiburan sahaja."
   },

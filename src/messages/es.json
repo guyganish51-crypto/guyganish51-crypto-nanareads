@@ -435,7 +435,8 @@
         "email": "Ese correo no se ve bien.",
         "code": "Ese código no funcionó. Inténtalo de nuevo o pide uno nuevo.",
         "rate": "Demasiados intentos. Espera un minuto y vuelve a intentarlo."
-      }
+      },
+      "noOffers": "No me mandes recordatorios ni ofertas sobre mi informe (el informe te llega igual)."
     },
     "writing": {
       "t": "Patrik está leyendo tu chat",
@@ -484,7 +485,7 @@
     "peopleTitle": "Y sobre cada uno de ustedes",
     "unlock": "Leer el informe completo",
     "unlockNote": "Usa 1 crédito · tienes {n}",
-    "noCredits": "Te quedaste sin créditos. Los pagos abren pronto — Patrik te mandará un correo.",
+    "noCredits": "Te quedaste sin créditos.",
     "writingFull": "Patrik está escribiendo el informe completo. Unos 2 minutos — también te avisamos por correo.",
     "failed": "Algo salió mal mientras Patrik escribía. Te devolvimos el crédito. Vuelve a intentarlo.",
     "retry": "Intentar de nuevo",
@@ -513,7 +514,34 @@
     "shareYou": "Comparte la tarjeta de {name}",
     "personKicker": "Lo que Patrik piensa de {name}",
     "readFull": "Leer el informe completo",
-    "sendYours": "Que Patrik lea tu chat"
+    "sendYours": "Que Patrik lea tu chat",
+    "pay": {
+      "title": "Desbloquea el informe completo",
+      "single": "1 informe",
+      "trio": "3 informes",
+      "ten": "10 informes",
+      "perReport": "{price} por informe",
+      "popular": "El más popular",
+      "best": "Mejor precio",
+      "cta": "Desbloquear por {price}",
+      "buy": "Comprar créditos · {price}",
+      "offer": "50% de descuento — solo para ti",
+      "trust": "Pago seguro con Paddle · Apple Pay · Google Pay · PayPal · tarjetas",
+      "tax": "Impuestos incluidos. Pago único, sin suscripción.",
+      "refund": "¿El informe no se puede leer? Te devolvemos todo el dinero.",
+      "credits": "Los créditos nunca caducan. Úsalos en chats nuevos o en preguntas de seguimiento.",
+      "soon": "Los pagos abren muy pronto — Patrik te mandará un correo en cuanto abran.",
+      "processing": "Pago recibido. Patrik se está poniendo los auriculares…",
+      "failed": "El pago no se completó. No se te cobró nada."
+    },
+    "gift": {
+      "title": "Un regalo de Patrik 🎁",
+      "body": "Responde dos preguntas rápidas y el informe completo es tuyo. Gratis.",
+      "q1": "¿Qué esperabas que Patrik te dijera sobre este chat?",
+      "q2": "¿Qué casi te hizo comprar el informe completo — y qué te frenó?",
+      "cta": "Desbloquear mi informe gratis",
+      "expired": "Este regalo no está disponible para este informe."
+    }
   },
   "account": {
     "title": "Mis chats",
@@ -529,7 +557,17 @@
     "deleteAccount": "Borrar mi cuenta y todo lo que contiene",
     "confirm": "¿Seguro? No se puede deshacer.",
     "open": "Abrir",
-    "followup": "Pregunta de seguimiento"
+    "followup": "Pregunta de seguimiento",
+    "buy": "Comprar créditos",
+    "buyNote": "1 crédito = 1 informe completo o 1 pregunta de seguimiento."
+  },
+  "pricing": {
+    "title": "Precios",
+    "sub": "Empieza gratis. Paga solo por los informes que de verdad quieras leer — sin suscripción.",
+    "freeH": "Primer vistazo",
+    "freeD": "La introducción de Patrik, los números y los títulos de cada capítulo.",
+    "free": "Gratis",
+    "includes": "Cada informe completo: todos los capítulos, una tarjeta por persona, los premios, el diccionario de tu chat y el veredicto de Patrik."
   },
   "faq": {
     "title": "Preguntas antes de subir tu chat",
@@ -540,7 +578,7 @@
       },
       {
         "q": "¿Es gratis?",
-        "a": "El primer vistazo es gratis: la introducción de Patrik, los números y los títulos de todo lo que trae el informe completo. El informe completo usa un crédito. No hay suscripción."
+        "a": "El primer vistazo es gratis: la introducción de Patrik, los números y los títulos de todo lo que trae el informe completo. El informe completo es un pago único (o un crédito de un paquete) — sin suscripción, y el precio incluye impuestos."
       },
       {
         "q": "¿Qué apps funcionan?",
@@ -643,7 +681,8 @@
       "feedback": "Opiniones",
       "privacy": "Privacidad",
       "terms": "Términos",
-      "about": "Quiénes somos"
+      "about": "Quiénes somos",
+      "pricing": "Precios"
     },
     "rights": "© {year} What Patrik Thinks. Solo para entretenimiento."
   },

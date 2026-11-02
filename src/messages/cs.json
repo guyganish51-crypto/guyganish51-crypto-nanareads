@@ -435,7 +435,8 @@
         "email": "Tenhle e-mail nevypadá správně.",
         "code": "Tenhle kód nefunguje. Zkus to znovu nebo si řekni o nový.",
         "rate": "Příliš mnoho pokusů. Počkej minutku a zkus to znovu."
-      }
+      },
+      "noOffers": "Neposílejte mi e-mailem připomínky ani nabídky k mému reportu (samotný report ti stejně přijde)."
     },
     "writing": {
       "t": "Patrik čte tvůj chat",
@@ -484,7 +485,7 @@
     "peopleTitle": "A o každém z vás",
     "unlock": "Přečíst celý report",
     "unlockNote": "Stojí 1 kredit · máš {n}",
-    "noCredits": "Došly ti kredity. Platby brzy spustíme — Patrik ti pošle e-mail.",
+    "noCredits": "Došly ti kredity.",
     "writingFull": "Patrik píše celý report. Zhruba 2 minuty — pošleme ti i e-mail.",
     "failed": "Při psaní se něco pokazilo. Kredit ti vracíme. Zkus to prosím znovu.",
     "retry": "Zkusit znovu",
@@ -513,7 +514,34 @@
     "shareYou": "Sdílet kartu: {name}",
     "personKicker": "Co si Patrik myslí — {name}",
     "readFull": "Přečíst celý report",
-    "sendYours": "Ať Patrik přečte i tvůj chat"
+    "sendYours": "Ať Patrik přečte i tvůj chat",
+    "pay": {
+      "title": "Odemkni celý report",
+      "single": "1 report",
+      "trio": "3 reporty",
+      "ten": "10 reportů",
+      "perReport": "{price} za report",
+      "popular": "Nejoblíbenější",
+      "best": "Nejvýhodnější",
+      "cta": "Odemknout za {price}",
+      "buy": "Koupit kredity · {price}",
+      "offer": "Sleva 50 % — jen pro tebe",
+      "trust": "Bezpečná platba přes Paddle · Apple Pay · Google Pay · PayPal · karty",
+      "tax": "Cena je včetně daně. Jednorázová platba, žádné předplatné.",
+      "refund": "Report se nedá číst? Vrátíme ti celou částku.",
+      "credits": "Kredity nikdy nepropadají. Použij je na nové chaty nebo doplňující otázky.",
+      "soon": "Platby spustíme už brzy — Patrik ti pošle e-mail, jakmile to bude.",
+      "processing": "Platba přijata. Patrik si nasazuje sluchátka…",
+      "failed": "Platba neprošla. Nic ti nebylo strženo."
+    },
+    "gift": {
+      "title": "Dárek od Patrika 🎁",
+      "body": "Odpověz na dvě rychlé otázky a celý report je tvůj. Zdarma.",
+      "q1": "Co ti měl Patrik o tomhle chatu prozradit?",
+      "q2": "Co tě skoro přimělo vzít celý report — a co tě zastavilo?",
+      "cta": "Odemknout můj report zdarma",
+      "expired": "Tenhle dárek pro tento report není k dispozici."
+    }
   },
   "account": {
     "title": "Moje chaty",
@@ -529,7 +557,17 @@
     "deleteAccount": "Smazat můj účet i všechno v něm",
     "confirm": "Opravdu? Tohle nejde vrátit.",
     "open": "Otevřít",
-    "followup": "Doplňující otázka"
+    "followup": "Doplňující otázka",
+    "buy": "Koupit kredity",
+    "buyNote": "1 kredit = 1 celý report nebo 1 doplňující otázka."
+  },
+  "pricing": {
+    "title": "Ceník",
+    "sub": "Začni zdarma. Plať jen za reporty, které si opravdu chceš přečíst — žádné předplatné.",
+    "freeH": "Ukázka",
+    "freeD": "Patrikův úvod, čísla a názvy všech kapitol.",
+    "free": "Zdarma",
+    "includes": "Každý celý report: všechny kapitoly, karta pro každého člověka, ceny, slovník vašeho chatu a Patrikův verdikt."
   },
   "faq": {
     "title": "Otázky, než něco nahraješ",
@@ -540,7 +578,7 @@
       },
       {
         "q": "Je to zdarma?",
-        "a": "První pohled je zdarma: úvod, který Patrik napíše, čísla a názvy všech kapitol celého reportu. Celý report stojí jeden kredit. Žádné předplatné."
+        "a": "První pohled je zdarma: úvod, který Patrik napíše, čísla a názvy všech kapitol celého reportu. Celý report je jednorázová platba (nebo jeden kredit z balíčku) — žádné předplatné a cena je včetně daně."
       },
       {
         "q": "Které aplikace fungují?",
@@ -643,7 +681,8 @@
       "feedback": "Zpětná vazba",
       "privacy": "Soukromí",
       "terms": "Podmínky",
-      "about": "O nás"
+      "about": "O nás",
+      "pricing": "Ceník"
     },
     "rights": "© {year} What Patrik Thinks. Jen pro zábavu."
   },

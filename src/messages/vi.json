@@ -435,7 +435,8 @@
         "email": "Email này trông không đúng lắm.",
         "code": "Mã không đúng. Thử lại hoặc yêu cầu mã mới nhé.",
         "rate": "Thử quá nhiều lần. Đợi một phút rồi thử lại."
-      }
+      },
+      "noOffers": "Đừng gửi email nhắc nhở hay ưu đãi về báo cáo của tôi (bạn vẫn nhận được bản báo cáo như bình thường)."
     },
     "writing": {
       "t": "Patrik đang đọc đoạn chat của bạn",
@@ -484,7 +485,7 @@
     "peopleTitle": "Và về từng đứa",
     "unlock": "Đọc báo cáo đầy đủ",
     "unlockNote": "Dùng 1 lượt · bạn còn {n}",
-    "noCredits": "Bạn đã hết lượt. Sắp mở thanh toán — Patrik sẽ email cho bạn.",
+    "noCredits": "Bạn đã hết lượt.",
     "writingFull": "Patrik đang viết báo cáo đầy đủ. Khoảng 2 phút — bọn mình cũng sẽ email cho bạn.",
     "failed": "Có lỗi xảy ra khi Patrik đang viết. Lượt của bạn đã được hoàn lại. Vui lòng thử lại.",
     "retry": "Thử lại",
@@ -513,7 +514,34 @@
     "shareYou": "Chia sẻ thẻ của {name}",
     "personKicker": "Patrik nghĩ gì về {name}",
     "readFull": "Đọc báo cáo đầy đủ",
-    "sendYours": "Để Patrik đọc chat của bạn"
+    "sendYours": "Để Patrik đọc chat của bạn",
+    "pay": {
+      "title": "Mở khóa báo cáo đầy đủ",
+      "single": "1 báo cáo",
+      "trio": "3 báo cáo",
+      "ten": "10 báo cáo",
+      "perReport": "{price} mỗi báo cáo",
+      "popular": "Phổ biến nhất",
+      "best": "Đáng tiền nhất",
+      "cta": "Mở khóa với giá {price}",
+      "buy": "Mua lượt · {price}",
+      "offer": "Giảm 50% — dành riêng cho bạn",
+      "trust": "Thanh toán an toàn qua Paddle · Apple Pay · Google Pay · PayPal · thẻ",
+      "tax": "Giá đã bao gồm thuế. Thanh toán một lần, không có gói đăng ký.",
+      "refund": "Báo cáo không đọc được? Bạn được hoàn tiền toàn bộ.",
+      "credits": "Lượt không bao giờ hết hạn. Dùng cho chat mới hoặc câu hỏi tiếp theo.",
+      "soon": "Sắp mở thanh toán rồi — Patrik sẽ email cho bạn ngay khi mở.",
+      "processing": "Đã nhận thanh toán. Patrik đang đeo tai nghe…",
+      "failed": "Thanh toán không thành công. Bạn chưa bị trừ tiền."
+    },
+    "gift": {
+      "title": "Quà từ Patrik 🎁",
+      "body": "Trả lời hai câu hỏi nhanh là báo cáo đầy đủ thuộc về bạn. Miễn phí.",
+      "q1": "Bạn mong Patrik sẽ nói gì về đoạn chat này?",
+      "q2": "Điều gì suýt khiến bạn mua báo cáo đầy đủ — và điều gì khiến bạn dừng lại?",
+      "cta": "Mở khóa báo cáo miễn phí",
+      "expired": "Món quà này không áp dụng cho báo cáo này."
+    }
   },
   "account": {
     "title": "Chat của tôi",
@@ -529,7 +557,17 @@
     "deleteAccount": "Xoá tài khoản và mọi thứ bên trong",
     "confirm": "Bạn chắc chứ? Không hoàn tác được đâu.",
     "open": "Mở",
-    "followup": "Câu hỏi thêm"
+    "followup": "Câu hỏi thêm",
+    "buy": "Mua lượt",
+    "buyNote": "1 lượt = 1 báo cáo đầy đủ hoặc 1 câu hỏi tiếp theo."
+  },
+  "pricing": {
+    "title": "Bảng giá",
+    "sub": "Bắt đầu miễn phí. Chỉ trả tiền cho những báo cáo bạn thật sự muốn đọc — không có gói đăng ký.",
+    "freeH": "Xem trước",
+    "freeD": "Lời mở đầu của Patrik, các con số và tiêu đề của mọi chương.",
+    "free": "Miễn phí",
+    "includes": "Mỗi báo cáo đầy đủ: mọi chương, một thẻ cho từng người, các giải thưởng, từ điển của đoạn chat và phán quyết của Patrik."
   },
   "faq": {
     "title": "Hỏi trước khi tải lên",
@@ -540,7 +578,7 @@
       },
       {
         "q": "Có miễn phí không?",
-        "a": "Lần xem đầu tiên là miễn phí: lời mở đầu của Patrik, các con số, và tiêu đề của mọi phần trong báo cáo đầy đủ. Báo cáo đầy đủ dùng một lượt. Không có gói đăng ký."
+        "a": "Lần xem đầu tiên là miễn phí: lời mở đầu của Patrik, các con số, và tiêu đề của mọi phần trong báo cáo đầy đủ. Báo cáo đầy đủ là thanh toán một lần (hoặc một lượt từ gói) — không có gói đăng ký, và giá đã bao gồm thuế."
       },
       {
         "q": "Dùng được với ứng dụng nào?",
@@ -643,7 +681,8 @@
       "feedback": "Góp ý",
       "privacy": "Quyền riêng tư",
       "terms": "Điều khoản",
-      "about": "Giới thiệu"
+      "about": "Giới thiệu",
+      "pricing": "Bảng giá"
     },
     "rights": "© {year} What Patrik Thinks. Chỉ mang tính giải trí."
   },

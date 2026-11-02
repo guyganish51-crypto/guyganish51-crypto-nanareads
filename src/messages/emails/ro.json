@@ -8,19 +8,29 @@
     "cta": "Citește previzualizarea"
   },
   "nudge": {
-    "subject": "{title}",
-    "pre": "Cea mai mare parte e încă sub cheie.",
-    "h": "Raportul tău te așteaptă",
-    "body": "Ai citit începutul. Uite ce mai e înăuntru:",
-    "cta": "Citește raportul complet",
-    "credit": "Mai ai un credit gratuit — runda asta e din partea mea."
+    "subject": "50% reducere · {title}",
+    "pre": "Jumătate de preț la raportul tău, în următoarele 24 de ore.",
+    "h": "Jumătate de preț. Doar pentru tine.",
+    "body": "Ai citit începutul. Uite ce e încă sub cheie — inclusiv partea despre tine:",
+    "deal": "Jumătate de preț în următoarele 24 de ore. Reducerea se aplică automat când dai click.",
+    "cta": "Deblochează cu 50% reducere",
+    "trust": "Plată securizată · Apple Pay · Google Pay · PayPal · carduri"
   },
   "hook": {
-    "pre": "Ultimul memento despre raportul tău.",
+    "pre": "Ultima șansă la jumătate de preț.",
     "h": "Ultima piesă înainte să-mi strâng pupitrul",
     "body": "{title}",
+    "deal": "același preț redus la jumătate, până mâine.",
     "cta": "Deschide raportul complet",
     "ps": "P.S. Citește-l, aruncă-l pe grup și vezi cine răspunde primul 👀"
+  },
+  "gift": {
+    "subject": "{title} — un cadou de la mine 🎁",
+    "pre": "Reducerea s-a terminat. Asta e și mai bine.",
+    "h": "Bine. Asta e din partea mea.",
+    "body": "Răspunde la două întrebări scurte și îți deblochez raportul complet. Fără card, fără chichițe.",
+    "cta": "Răspunde și deblochează-mi raportul",
+    "ps": "P.S. După ce-l citești, spune-le celor de pe grup. Atât îți cer."
   },
   "fullReady": {
     "subject": "Raportul tău complet e gata ✍️",

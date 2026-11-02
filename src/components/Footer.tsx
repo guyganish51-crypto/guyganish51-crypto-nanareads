@@ -26,7 +26,7 @@ export function Footer({ lang, t }: { lang: Locale; t: Dict }) {
           <LanguageSwitcher lang={lang} label={t.nav.language} />
         </div>
         {col(t.footer.chats, [[L.home, ""], [L.relationship, "/relationship"], [L.friends, "/friends"], [L.family, "/family"], [L.whatsapp, "/whatsapp"], [L.imessage, "/imessage"]])}
-        {col(t.footer.help, [[L.account, "/account"], [L.faq, "/faq"], [L.support, "/support"], [L.feedback, "/feedback"]])}
+        {col(t.footer.help, [[L.account, "/account"], [L.pricing, "/pricing"], [L.faq, "/faq"], [L.support, "/support"], [L.feedback, "/feedback"]])}
         {col(t.footer.company, [[L.about, "/about"], [L.privacy, "/privacy"], [L.terms, "/terms"]])}
       </div>
       <p className="pb-8 text-center text-xs text-ink-soft">{fmt(t.footer.rights, { year: new Date().getFullYear() })}</p>

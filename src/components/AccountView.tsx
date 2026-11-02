@@ -6,6 +6,7 @@ import type { Locale } from "@/lib/i18n/config";
 import { fmt } from "@/lib/fmt";
 import { supabaseBrowser } from "@/lib/supabase/client";
 import { Arrow } from "@/components/Arrow";
+import { Paywall } from "@/components/Paywall";
 
 interface Me {
   email: string; credits: number;
@@ -21,6 +22,7 @@ export function AccountView({ lang, t }: { lang: Locale; t: Dict }) {
   const [email, setEmail] = useState(""); const [code, setCode] = useState(""); const [sent, setSent] = useState(false);
   const [err, setErr] = useState<string | null>(null);
 
+  const [buy, setBuy] = useState(false);
   const load = useCallback(async () => {
     const r = await fetch("/api/me", { cache: "no-store" });
     if (r.status === 401) return setState("out");
@@ -67,8 +69,12 @@ export function AccountView({ lang, t }: { lang: Locale; t: Dict }) {
     <div className="space-y-6">
       <div className="flex flex-wrap items-center justify-between gap-3">
         <div><div className="font-semibold" dir="ltr">{me.email}</div><div className="text-sm text-ink-soft">{fmt(A.credits, { n: me.credits })}</div></div>
-        <button className="chip text-sm" onClick={async () => { await sb.auth.signOut(); location.reload(); }}>{A.signOut}</button>
+        <div className="flex gap-2">
+          <button className="chip text-sm" onClick={() => setBuy((v) => !v)}>💳 {A.buy}</button>
+          <button className="chip text-sm" onClick={async () => { await sb.auth.signOut(); location.reload(); }}>{A.signOut}</button>
+        </div>
       </div>
+      {buy && <div className="card p-5"><p className="text-sm text-ink-soft">{A.buyNote}</p><Paywall t={t} lang={lang} credits={0} source="account" onPaid={() => { setBuy(false); setTimeout(load, 3000); }} /></div>}
       {me.chats.length === 0 && me.reports.length === 0 && (
         <div className="card p-6 text-center"><p>{A.empty}</p><Link className="btn btn-primary mt-4" href={`/${lang}/start`}>{t.nav.cta} <Arrow /></Link></div>
       )}

@@ -8,19 +8,29 @@
     "cta": "Lees mijn preview"
   },
   "nudge": {
-    "subject": "{title}",
-    "pre": "Het meeste zit nog op slot.",
-    "h": "Je rapport ligt op je te wachten",
-    "body": "Je hebt het begin gelezen. Dit zit er nog in:",
-    "cta": "Lees het volledige rapport",
-    "credit": "Je hebt nog een gratis credit — dit rondje is van mij."
+    "subject": "50% korting · {title}",
+    "pre": "Je rapport voor de halve prijs, de komende 24 uur.",
+    "h": "Halve prijs. Alleen voor jou.",
+    "body": "Je hebt het begin gelezen. Dit zit nog op slot — inclusief het stuk over jou:",
+    "deal": "Halve prijs voor de komende 24 uur. De korting staat er al op als je klikt.",
+    "cta": "Ontgrendel met 50% korting",
+    "trust": "Veilig afrekenen · Apple Pay · Google Pay · PayPal · kaarten"
   },
   "hook": {
-    "pre": "Laatste herinnering over je rapport.",
+    "pre": "Laatste kans op de halve prijs.",
     "h": "Laatste nummer voordat ik de draaitafels inpak",
     "body": "{title}",
+    "deal": "dezelfde halve prijs, tot morgen.",
     "cta": "Open het volledige rapport",
     "ps": "PS Lees het, gooi het in de groep en kijk wie als eerste reageert 👀"
+  },
+  "gift": {
+    "subject": "{title} — een cadeautje van mij 🎁",
+    "pre": "De korting is voorbij. Dit is beter.",
+    "h": "Vooruit dan. Deze is van mij.",
+    "body": "Beantwoord twee korte vragen en ik ontgrendel het volledige rapport voor je. Geen kaart, geen addertje.",
+    "cta": "Beantwoord & ontgrendel mijn rapport",
+    "ps": "PS Als je het gelezen hebt, vertel het in de groep. Meer vraag ik niet."
   },
   "fullReady": {
     "subject": "Je volledige rapport is klaar ✍️",

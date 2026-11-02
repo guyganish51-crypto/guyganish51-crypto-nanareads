@@ -435,7 +435,8 @@
         "email": "That email doesn't look right.",
         "code": "That code didn't work. Try again or request a new one.",
         "rate": "Too many attempts. Wait a minute and try again."
-      }
+      },
+      "noOffers": "Don't email me reminders or offers about my report (you'll still get the report itself)."
     },
     "writing": {
       "t": "Patrik is reading your chat",
@@ -484,7 +485,7 @@
     "peopleTitle": "And about each of you",
     "unlock": "Read the full report",
     "unlockNote": "Uses 1 credit · you have {n}",
-    "noCredits": "You're out of credits. Payments open soon — Patrik will email you.",
+    "noCredits": "You're out of credits.",
     "writingFull": "Patrik is writing the full report. About 2 minutes — we'll email you too.",
     "failed": "Something went wrong while Patrik was writing. Your credit was refunded. Please try again.",
     "retry": "Try again",
@@ -513,7 +514,34 @@
     "shareYou": "Share {name}'s card",
     "personKicker": "What Patrik thinks of {name}",
     "readFull": "Read the full report",
-    "sendYours": "Get your own chat read"
+    "sendYours": "Get your own chat read",
+    "pay": {
+      "title": "Unlock the full report",
+      "single": "1 report",
+      "trio": "3 reports",
+      "ten": "10 reports",
+      "perReport": "{price} per report",
+      "popular": "Most popular",
+      "best": "Best value",
+      "cta": "Unlock for {price}",
+      "buy": "Buy credits · {price}",
+      "offer": "50% off — just for you",
+      "trust": "Secure checkout by Paddle · Apple Pay · Google Pay · PayPal · cards",
+      "tax": "Price includes tax. One-off payment, no subscription.",
+      "refund": "Report unreadable? You get a full refund.",
+      "credits": "Credits never expire. Use them on new chats or follow-up questions.",
+      "soon": "Payments open very soon — Patrik will email you the moment they do.",
+      "processing": "Payment received. Patrik is putting his headphones on…",
+      "failed": "The payment didn't go through. You weren't charged."
+    },
+    "gift": {
+      "title": "A gift from Patrik 🎁",
+      "body": "Answer two quick questions and the full report is yours. Free.",
+      "q1": "What were you hoping Patrik would tell you about this chat?",
+      "q2": "What almost made you get the full report — and what stopped you?",
+      "cta": "Unlock my free report",
+      "expired": "This gift isn't available for this report."
+    }
   },
   "account": {
     "title": "My chats",
@@ -529,7 +557,17 @@
     "deleteAccount": "Delete my account and everything in it",
     "confirm": "Are you sure? This can't be undone.",
     "open": "Open",
-    "followup": "Follow-up"
+    "followup": "Follow-up",
+    "buy": "Buy credits",
+    "buyNote": "1 credit = 1 full report or 1 follow-up question."
+  },
+  "pricing": {
+    "title": "Pricing",
+    "sub": "Start free. Pay only for the reports you actually want to read — no subscription.",
+    "freeH": "Preview",
+    "freeD": "Patrik's opening, the numbers and the titles of every chapter.",
+    "free": "Free",
+    "includes": "Every full report: every chapter, a card for each person, the awards, the dictionary of your chat and Patrik's verdict."
   },
   "faq": {
     "title": "Questions before you upload",
@@ -540,7 +578,7 @@
       },
       {
         "q": "Is it free?",
-        "a": "Your first look is free: Patrik's opening, the numbers, and the titles of everything in the full report. The full report uses one credit. There's no subscription."
+        "a": "The preview is free: Patrik's opening, the numbers, and the titles of everything in the full report. The full report is a one-off payment (or one credit from a pack) — no subscription, and the price includes tax."
       },
       {
         "q": "Which apps work?",
@@ -643,7 +681,8 @@
       "feedback": "Feedback",
       "privacy": "Privacy",
       "terms": "Terms",
-      "about": "About"
+      "about": "About",
+      "pricing": "Pricing"
     },
     "rights": "© {year} What Patrik Thinks. For entertainment only."
   },

@@ -8,19 +8,29 @@
     "cta": "Lue esikatseluni"
   },
   "nudge": {
-    "subject": "{title}",
-    "pre": "Suurin osa on vielä lukossa.",
-    "h": "Raporttisi odottaa",
-    "body": "Olet lukenut alun. Tässä, mitä sisällä vielä on:",
-    "cta": "Lue koko raportti",
-    "credit": "Sinulla on vielä ilmainen krediitti — tämä kierros on minun piikkiini."
+    "subject": "-50 % · {title}",
+    "pre": "Raporttisi puoleen hintaan seuraavat 24 tuntia.",
+    "h": "Puoleen hintaan. Vain sinulle.",
+    "body": "Olet lukenut alun. Tässä, mikä on vielä lukossa — myös osa, joka kertoo sinusta:",
+    "deal": "Puoleen hintaan seuraavat 24 tuntia. Alennus on valmiina, kun klikkaat.",
+    "cta": "Avaa -50 % hintaan",
+    "trust": "Turvallinen maksu · Apple Pay · Google Pay · PayPal · kortit"
   },
   "hook": {
-    "pre": "Viimeinen muistutus raportistasi.",
+    "pre": "Viimeinen tilaisuus puoleen hintaan.",
     "h": "Viimeinen biisi, ennen kuin pakkaan DJ-pöydän",
     "body": "{title}",
+    "deal": "yhä puoleen hintaan, huomiseen asti.",
     "cta": "Avaa koko raportti",
     "ps": "PS. Lue se, pudota se chattiin ja katso, kuka vastaa ensin 👀"
+  },
+  "gift": {
+    "subject": "{title} — lahja minulta 🎁",
+    "pre": "Alennus on ohi. Tämä on parempi.",
+    "h": "No hyvä. Tämä on minun piikkiini.",
+    "body": "Vastaa kahteen nopeaan kysymykseen, niin avaan koko raportin sinulle. Ei korttia, ei koukkuja.",
+    "cta": "Vastaa ja avaa raporttini",
+    "ps": "PS. Kun olet lukenut sen, kerro chatissa. Muuta en pyydä."
   },
   "fullReady": {
     "subject": "Koko raporttisi on valmis ✍️",

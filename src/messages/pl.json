@@ -435,7 +435,8 @@
         "email": "Ten e-mail chyba nie jest poprawny.",
         "code": "Ten kod nie zadziałał. Spróbuj jeszcze raz albo poproś o nowy.",
         "rate": "Za dużo prób. Odczekaj minutę i spróbuj ponownie."
-      }
+      },
+      "noOffers": "Nie wysyłajcie mi przypomnień ani ofert dotyczących mojego raportu (sam raport i tak dostanę)."
     },
     "writing": {
       "t": "Patrik czyta twój czat",
@@ -484,7 +485,7 @@
     "peopleTitle": "I o każdym z was",
     "unlock": "Przeczytaj pełny raport",
     "unlockNote": "Kosztuje 1 kredyt · masz {n}",
-    "noCredits": "Skończyły ci się kredyty. Płatności ruszą wkrótce — Patrik da ci znać mailem.",
+    "noCredits": "Skończyły ci się kredyty.",
     "writingFull": "Patrik pisze pełny raport. Jakieś 2 minuty — wyślemy ci też maila.",
     "failed": "Coś poszło nie tak, gdy Patrik pisał. Kredyt wrócił na twoje konto. Spróbuj jeszcze raz.",
     "retry": "Spróbuj ponownie",
@@ -513,7 +514,34 @@
     "shareYou": "Udostępnij kartę: {name}",
     "personKicker": "Co Patrik myśli o: {name}",
     "readFull": "Przeczytaj cały raport",
-    "sendYours": "Daj Patrikowi swój czat"
+    "sendYours": "Daj Patrikowi swój czat",
+    "pay": {
+      "title": "Odblokuj pełny raport",
+      "single": "1 raport",
+      "trio": "3 raporty",
+      "ten": "10 raportów",
+      "perReport": "{price} za raport",
+      "popular": "Najczęściej wybierany",
+      "best": "Najlepsza cena",
+      "cta": "Odblokuj za {price}",
+      "buy": "Kup kredyty · {price}",
+      "offer": "50% taniej — specjalnie dla ciebie",
+      "trust": "Bezpieczna płatność przez Paddle · Apple Pay · Google Pay · PayPal · karty",
+      "tax": "Cena zawiera podatek. Jednorazowa płatność, bez subskrypcji.",
+      "refund": "Raport nieczytelny? Dostaniesz pełny zwrot pieniędzy.",
+      "credits": "Kredyty nigdy nie wygasają. Wykorzystaj je na nowe czaty albo dodatkowe pytania.",
+      "soon": "Płatności ruszą już niedługo — Patrik da ci znać mailem, jak tylko wystartują.",
+      "processing": "Płatność otrzymana. Patrik zakłada słuchawki…",
+      "failed": "Płatność nie przeszła. Nic nie zostało pobrane."
+    },
+    "gift": {
+      "title": "Prezent od Patrika 🎁",
+      "body": "Odpowiedz na dwa krótkie pytania, a pełny raport jest twój. Za darmo.",
+      "q1": "Co chciałeś, żeby Patrik powiedział ci o tym czacie?",
+      "q2": "Co prawie przekonało cię do pełnego raportu — i co cię powstrzymało?",
+      "cta": "Odblokuj mój darmowy raport",
+      "expired": "Ten prezent nie jest dostępny dla tego raportu."
+    }
   },
   "account": {
     "title": "Moje czaty",
@@ -529,7 +557,17 @@
     "deleteAccount": "Usuń moje konto i wszystko, co w nim jest",
     "confirm": "Na pewno? Tego nie da się cofnąć.",
     "open": "Otwórz",
-    "followup": "Dodatkowe pytanie"
+    "followup": "Dodatkowe pytanie",
+    "buy": "Kup kredyty",
+    "buyNote": "1 kredyt = 1 pełny raport albo 1 dodatkowe pytanie."
+  },
+  "pricing": {
+    "title": "Cennik",
+    "sub": "Zacznij za darmo. Płacisz tylko za raporty, które naprawdę chcesz przeczytać — bez subskrypcji.",
+    "freeH": "Podgląd",
+    "freeD": "Wstęp Patrika, liczby i tytuły wszystkich rozdziałów.",
+    "free": "Za darmo",
+    "includes": "Każdy pełny raport: wszystkie rozdziały, karta dla każdej osoby, nagrody, słownik waszego czatu i werdykt Patrika."
   },
   "faq": {
     "title": "Pytania przed wrzuceniem czatu",
@@ -540,7 +578,7 @@
       },
       {
         "q": "Czy to jest darmowe?",
-        "a": "Pierwszy rzut oka jest za darmo: wstęp Patrika, liczby i tytuły wszystkiego, co jest w pełnym raporcie. Pełny raport kosztuje jeden kredyt. Nie ma żadnej subskrypcji."
+        "a": "Pierwszy rzut oka jest za darmo: wstęp Patrika, liczby i tytuły wszystkiego, co jest w pełnym raporcie. Pełny raport to jednorazowa płatność (albo jeden kredyt z pakietu) — bez subskrypcji, a cena zawiera podatek."
       },
       {
         "q": "Jakie aplikacje działają?",
@@ -643,7 +681,8 @@
       "feedback": "Opinie",
       "privacy": "Prywatność",
       "terms": "Regulamin",
-      "about": "O nas"
+      "about": "O nas",
+      "pricing": "Cennik"
     },
     "rights": "© {year} What Patrik Thinks. Wyłącznie dla rozrywki."
   },

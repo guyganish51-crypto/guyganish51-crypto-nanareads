@@ -435,7 +435,8 @@
         "email": "Cette adresse mail a l'air bizarre.",
         "code": "Ce code ne marche pas. Réessaie ou demandes-en un nouveau.",
         "rate": "Trop de tentatives. Attends une minute et réessaie."
-      }
+      },
+      "noOffers": "Ne m'envoie pas de rappels ni d'offres sur mon rapport (tu recevras quand même le rapport)."
     },
     "writing": {
       "t": "Patrik lit ta conv",
@@ -484,7 +485,7 @@
     "peopleTitle": "Et sur chacun de vous",
     "unlock": "Lire le rapport complet",
     "unlockNote": "Utilise 1 crédit · il t'en reste {n}",
-    "noCredits": "Tu n'as plus de crédits. Les paiements ouvrent bientôt — Patrik t'enverra un mail.",
+    "noCredits": "Tu n'as plus de crédits.",
     "writingFull": "Patrik écrit le rapport complet. Environ 2 minutes — on t'envoie aussi un mail.",
     "failed": "Un souci est survenu pendant que Patrik écrivait. Ton crédit a été remboursé. Réessaie.",
     "retry": "Réessayer",
@@ -513,7 +514,34 @@
     "shareYou": "Partager la carte de {name}",
     "personKicker": "Ce que Patrik pense de {name}",
     "readFull": "Lire le rapport complet",
-    "sendYours": "Fais lire ta conversation"
+    "sendYours": "Fais lire ta conversation",
+    "pay": {
+      "title": "Débloque le rapport complet",
+      "single": "1 rapport",
+      "trio": "3 rapports",
+      "ten": "10 rapports",
+      "perReport": "{price} par rapport",
+      "popular": "Le plus populaire",
+      "best": "Le plus avantageux",
+      "cta": "Débloquer pour {price}",
+      "buy": "Acheter des crédits · {price}",
+      "offer": "-50 % — rien que pour toi",
+      "trust": "Paiement sécurisé par Paddle · Apple Pay · Google Pay · PayPal · cartes",
+      "tax": "Prix TTC. Paiement unique, sans abonnement.",
+      "refund": "Rapport illisible ? On te rembourse intégralement.",
+      "credits": "Les crédits n'expirent jamais. Utilise-les pour de nouvelles convs ou des questions de suivi.",
+      "soon": "Les paiements ouvrent très bientôt — Patrik t'envoie un mail dès que c'est le cas.",
+      "processing": "Paiement reçu. Patrik met son casque…",
+      "failed": "Le paiement n'est pas passé. Aucun montant n'a été débité."
+    },
+    "gift": {
+      "title": "Un cadeau de Patrik 🎁",
+      "body": "Réponds à deux petites questions et le rapport complet est à toi. Gratuit.",
+      "q1": "Qu'est-ce que tu espérais que Patrik te dise sur cette conv ?",
+      "q2": "Qu'est-ce qui t'a presque donné envie de prendre le rapport complet — et qu'est-ce qui t'en a empêché ?",
+      "cta": "Débloquer mon rapport gratuit",
+      "expired": "Ce cadeau n'est pas disponible pour ce rapport."
+    }
   },
   "account": {
     "title": "Mes convs",
@@ -529,7 +557,17 @@
     "deleteAccount": "Supprimer mon compte et tout son contenu",
     "confirm": "T'es sûr·e ? C'est irréversible.",
     "open": "Ouvrir",
-    "followup": "Question de suivi"
+    "followup": "Question de suivi",
+    "buy": "Acheter des crédits",
+    "buyNote": "1 crédit = 1 rapport complet ou 1 question de suivi."
+  },
+  "pricing": {
+    "title": "Tarifs",
+    "sub": "Commence gratuitement. Ne paie que les rapports que tu veux vraiment lire — sans abonnement.",
+    "freeH": "Aperçu",
+    "freeD": "L'intro de Patrik, les chiffres et les titres de chaque chapitre.",
+    "free": "Gratuit",
+    "includes": "Chaque rapport complet : tous les chapitres, une fiche par personne, les trophées, le dico de ta conv et le verdict de Patrik."
   },
   "faq": {
     "title": "Les questions avant d'importer",
@@ -540,7 +578,7 @@
       },
       {
         "q": "C'est gratuit ?",
-        "a": "Le premier aperçu est gratuit : l'intro de Patrik, les chiffres, et les titres de tout ce qu'il y a dans le rapport complet. Le rapport complet utilise un crédit. Pas d'abonnement."
+        "a": "Le premier aperçu est gratuit : l'intro de Patrik, les chiffres, et les titres de tout ce qu'il y a dans le rapport complet. Le rapport complet, c'est un paiement unique (ou un crédit d'un pack) — pas d'abonnement, et le prix est TTC."
       },
       {
         "q": "Quelles applis sont compatibles ?",
@@ -643,7 +681,8 @@
       "feedback": "Ton avis",
       "privacy": "Confidentialité",
       "terms": "Conditions",
-      "about": "À propos"
+      "about": "À propos",
+      "pricing": "Tarifs"
     },
     "rights": "© {year} What Patrik Thinks. Pour le divertissement uniquement."
   },

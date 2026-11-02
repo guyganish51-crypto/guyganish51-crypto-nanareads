@@ -8,19 +8,29 @@
     "cta": "Baca pratinjauku"
   },
   "nudge": {
-    "subject": "{title}",
-    "pre": "Sebagian besar masih terkunci.",
-    "h": "Laporanmu sudah menunggu",
-    "body": "Kamu sudah baca pembukaannya. Ini yang masih ada di dalam:",
-    "cta": "Baca laporan lengkap",
-    "credit": "Kamu masih punya satu kredit gratis — ronde ini aku yang traktir."
+    "subject": "Diskon 50% · {title}",
+    "pre": "Setengah harga untuk laporanmu selama 24 jam ke depan.",
+    "h": "Setengah harga. Khusus buat kamu.",
+    "body": "Kamu sudah baca pembukaannya. Ini yang masih terkunci — termasuk bagian tentang kamu:",
+    "deal": "Setengah harga selama 24 jam ke depan. Diskonnya langsung terpasang begitu kamu klik.",
+    "cta": "Buka dengan diskon 50%",
+    "trust": "Pembayaran aman · Apple Pay · Google Pay · PayPal · kartu"
   },
   "hook": {
-    "pre": "Pengingat terakhir soal laporanmu.",
+    "pre": "Kesempatan terakhir dapat setengah harga.",
     "h": "Lagu terakhir sebelum aku beresin deck",
     "body": "{title}",
+    "deal": "tetap setengah harga, sampai besok.",
     "cta": "Buka laporan lengkap",
     "ps": "P.S. Baca, lempar ke grup, lalu lihat siapa yang balas duluan 👀"
+  },
+  "gift": {
+    "subject": "{title} — hadiah dariku 🎁",
+    "pre": "Diskonnya sudah lewat. Yang ini lebih asyik.",
+    "h": "Oke deh. Yang ini aku yang traktir.",
+    "body": "Jawab dua pertanyaan singkat dan aku bukain laporan lengkapnya buat kamu. Tanpa kartu, tanpa jebakan.",
+    "cta": "Jawab & buka laporanku",
+    "ps": "P.S. Kalau sudah baca, kasih tahu grupnya. Cuma itu permintaanku."
   },
   "fullReady": {
     "subject": "Laporan lengkapmu sudah siap ✍️",

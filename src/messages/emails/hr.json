@@ -8,19 +8,29 @@
     "cta": "Pročitaj moj pregled"
   },
   "nudge": {
-    "subject": "{title}",
-    "pre": "Većina je još zaključana.",
-    "h": "Tvoj izvještaj čeka",
-    "body": "Uvod je pročitan. Evo što je još unutra:",
-    "cta": "Pročitaj cijeli izvještaj",
-    "credit": "Još imaš besplatni kredit — ovu rundu častim ja."
+    "subject": "50 % popusta · {title}",
+    "pre": "Pola cijene za tvoj izvještaj sljedeća 24 sata.",
+    "h": "Pola cijene. Samo za tebe.",
+    "body": "Uvod je pročitan. Evo što je još zaključano — uključujući dio o tebi:",
+    "deal": "Pola cijene sljedeća 24 sata. Popust je već uračunat kad klikneš.",
+    "cta": "Otključaj uz 50 % popusta",
+    "trust": "Sigurno plaćanje · Apple Pay · Google Pay · PayPal · kartice"
   },
   "hook": {
-    "pre": "Zadnji podsjetnik za tvoj izvještaj.",
+    "pre": "Zadnja prilika za pola cijene.",
     "h": "Zadnja pjesma prije nego što spakiram pult",
     "body": "{title}",
+    "deal": "ista pola cijene, do sutra.",
     "cta": "Otvori cijeli izvještaj",
     "ps": "P.S. Pročitaj ga, ubaci ga u chat i gledaj tko će prvi odgovoriti 👀"
+  },
+  "gift": {
+    "subject": "{title} — poklon od mene 🎁",
+    "pre": "Popust je gotov. Ovo je bolje.",
+    "h": "Dobro. Ovo častim ja.",
+    "body": "Odgovori na dva brza pitanja i otključat ću ti cijeli izvještaj. Bez kartice, bez kvake.",
+    "cta": "Odgovori i otključaj izvještaj",
+    "ps": "P.S. Kad ga pročitaš, reci to u chatu. To je sve što tražim."
   },
   "fullReady": {
     "subject": "Tvoj cijeli izvještaj je gotov ✍️",

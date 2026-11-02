@@ -435,7 +435,8 @@
         "email": "Adresa de mail nu arată bine.",
         "code": "Codul n-a mers. Încearcă din nou sau cere unul nou.",
         "rate": "Prea multe încercări. Așteaptă un minut și încearcă din nou."
-      }
+      },
+      "noOffers": "Nu-mi trimite pe mail mementouri sau oferte despre raportul meu (raportul în sine îl primești oricum)."
     },
     "writing": {
       "t": "Patrik îți citește conversația",
@@ -484,7 +485,7 @@
     "peopleTitle": "Și despre fiecare dintre voi",
     "unlock": "Citește raportul complet",
     "unlockNote": "Folosește 1 credit · ai {n}",
-    "noCredits": "Nu mai ai credite. Plățile se deschid curând — Patrik îți trimite un mail.",
+    "noCredits": "Nu mai ai credite.",
     "writingFull": "Patrik scrie raportul complet. Cam 2 minute — îți trimitem și pe mail.",
     "failed": "Ceva n-a mers cât scria Patrik. Ți-am dat creditul înapoi. Te rugăm să încerci din nou.",
     "retry": "Încearcă din nou",
@@ -513,7 +514,34 @@
     "shareYou": "Distribuie cardul lui {name}",
     "personKicker": "Ce crede Patrik despre {name}",
     "readFull": "Citește raportul complet",
-    "sendYours": "Dă-i lui Patrik chatul tău"
+    "sendYours": "Dă-i lui Patrik chatul tău",
+    "pay": {
+      "title": "Deblochează raportul complet",
+      "single": "1 raport",
+      "trio": "3 rapoarte",
+      "ten": "10 rapoarte",
+      "perReport": "{price} pe raport",
+      "popular": "Cel mai popular",
+      "best": "Cel mai avantajos",
+      "cta": "Deblochează pentru {price}",
+      "buy": "Cumpără credite · {price}",
+      "offer": "50% reducere — doar pentru tine",
+      "trust": "Plată securizată prin Paddle · Apple Pay · Google Pay · PayPal · carduri",
+      "tax": "Prețul include taxele. Plată unică, fără abonament.",
+      "refund": "Raportul nu se poate citi? Primești banii înapoi integral.",
+      "credits": "Creditele nu expiră niciodată. Folosește-le pentru conversații noi sau întrebări suplimentare.",
+      "soon": "Plățile se deschid foarte curând — Patrik îți trimite un mail imediat ce se întâmplă.",
+      "processing": "Plata a fost primită. Patrik își pune căștile…",
+      "failed": "Plata nu a trecut. Nu ți s-a luat niciun ban."
+    },
+    "gift": {
+      "title": "Un cadou de la Patrik 🎁",
+      "body": "Răspunde la două întrebări scurte și raportul complet e al tău. Gratis.",
+      "q1": "Ce sperai să-ți spună Patrik despre conversația asta?",
+      "q2": "Ce aproape te-a convins să iei raportul complet — și ce te-a oprit?",
+      "cta": "Deblochează-mi raportul gratuit",
+      "expired": "Cadoul ăsta nu e disponibil pentru acest raport."
+    }
   },
   "account": {
     "title": "Conversațiile mele",
@@ -529,7 +557,17 @@
     "deleteAccount": "Șterge-mi contul și tot ce e în el",
     "confirm": "Sigur? Nu se mai poate anula.",
     "open": "Deschide",
-    "followup": "Întrebare suplimentară"
+    "followup": "Întrebare suplimentară",
+    "buy": "Cumpără credite",
+    "buyNote": "1 credit = 1 raport complet sau 1 întrebare suplimentară."
+  },
+  "pricing": {
+    "title": "Prețuri",
+    "sub": "Începi gratis. Plătești doar pentru rapoartele pe care chiar vrei să le citești — fără abonament.",
+    "freeH": "Previzualizare",
+    "freeD": "Introducerea lui Patrik, cifrele și titlurile tuturor capitolelor.",
+    "free": "Gratis",
+    "includes": "Fiecare raport complet: toate capitolele, câte un card pentru fiecare persoană, premiile, dicționarul conversației voastre și verdictul lui Patrik."
   },
   "faq": {
     "title": "Întrebări înainte să încarci",
@@ -540,7 +578,7 @@
       },
       {
         "q": "E gratis?",
-        "a": "Prima privire e gratuită: introducerea lui Patrik, cifrele și titlurile a tot ce e în raportul complet. Raportul complet folosește un credit. Nu există abonament."
+        "a": "Prima privire e gratuită: introducerea lui Patrik, cifrele și titlurile a tot ce e în raportul complet. Raportul complet e o plată unică (sau un credit dintr-un pachet) — fără abonament, iar prețul include taxele."
       },
       {
         "q": "Ce aplicații merg?",
@@ -643,7 +681,8 @@
       "feedback": "Părerea ta",
       "privacy": "Confidențialitate",
       "terms": "Termeni",
-      "about": "Despre noi"
+      "about": "Despre noi",
+      "pricing": "Prețuri"
     },
     "rights": "© {year} What Patrik Thinks. Doar pentru distracție."
   },

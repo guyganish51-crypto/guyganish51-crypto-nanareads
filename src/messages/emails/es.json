@@ -8,19 +8,29 @@
     "cta": "Leer mi adelanto"
   },
   "nudge": {
-    "subject": "{title}",
-    "pre": "Casi todo sigue bajo llave.",
-    "h": "Tu informe te está esperando",
-    "body": "Ya leíste el principio. Esto es lo que queda dentro:",
-    "cta": "Leer el informe completo",
-    "credit": "Todavía tienes un crédito gratis — esta ronda la invito yo."
+    "subject": "50% de descuento · {title}",
+    "pre": "Tu informe a mitad de precio durante las próximas 24 horas.",
+    "h": "Mitad de precio. Solo para ti.",
+    "body": "Ya leíste el principio. Esto es lo que sigue bajo llave — incluida la parte sobre ti:",
+    "deal": "Mitad de precio durante las próximas 24 horas. El descuento ya se aplica al hacer clic.",
+    "cta": "Desbloquear con 50% de descuento",
+    "trust": "Pago seguro · Apple Pay · Google Pay · PayPal · tarjetas"
   },
   "hook": {
-    "pre": "Último aviso sobre tu informe.",
+    "pre": "Última oportunidad a mitad de precio.",
     "h": "Última canción antes de recoger la cabina",
     "body": "{title}",
+    "deal": "la misma mitad de precio, hasta mañana.",
     "cta": "Abrir el informe completo",
     "ps": "P. D. Léelo, suéltalo en el grupo y mira quién contesta primero 👀"
+  },
+  "gift": {
+    "subject": "{title} — un regalo de mi parte 🎁",
+    "pre": "Se acabó el descuento. Esto es mejor.",
+    "h": "Está bien. Este va por mi cuenta.",
+    "body": "Responde dos preguntas rápidas y te desbloqueo el informe completo. Sin tarjeta, sin trampa.",
+    "cta": "Responder y desbloquear mi informe",
+    "ps": "P. D. Cuando lo leas, cuéntaselo al grupo. Es lo único que te pido."
   },
   "fullReady": {
     "subject": "Tu informe completo está listo ✍️",

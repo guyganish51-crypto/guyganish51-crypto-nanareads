@@ -8,19 +8,29 @@
     "cta": "Ler minha prévia"
   },
   "nudge": {
-    "subject": "{title}",
-    "pre": "Quase tudo ainda está trancado.",
-    "h": "Seu relatório está te esperando",
-    "body": "Você leu o começo. Olha o que ainda tem aqui dentro:",
-    "cta": "Ler o relatório completo",
-    "credit": "Você ainda tem um crédito grátis — essa rodada é por minha conta."
+    "subject": "50% de desconto · {title}",
+    "pre": "Seu relatório pela metade do preço nas próximas 24 horas.",
+    "h": "Metade do preço. Só pra você.",
+    "body": "Você leu o começo. Olha o que ainda está trancado — inclusive a parte sobre você:",
+    "deal": "Metade do preço nas próximas 24 horas. O desconto já vem aplicado quando você clicar.",
+    "cta": "Desbloquear com 50% de desconto",
+    "trust": "Pagamento seguro · Apple Pay · Google Pay · PayPal · cartões"
   },
   "hook": {
-    "pre": "Último lembrete sobre o seu relatório.",
+    "pre": "Última chance pela metade do preço.",
     "h": "Última música antes de eu desmontar as pick-ups",
     "body": "{title}",
+    "deal": "a mesma metade do preço, até amanhã.",
     "cta": "Abrir o relatório completo",
     "ps": "P.S. Lê, joga no grupo e vê quem responde primeiro 👀"
+  },
+  "gift": {
+    "subject": "{title} — um presente meu 🎁",
+    "pre": "O desconto acabou. Isso aqui é melhor.",
+    "h": "Tá bom. Essa é por minha conta.",
+    "body": "Responda duas perguntas rápidas e eu desbloqueio o relatório completo pra você. Sem cartão, sem pegadinha.",
+    "cta": "Responder e desbloquear meu relatório",
+    "ps": "P.S. Quando ler, conta pro grupo. É só isso que eu peço."
   },
   "fullReady": {
     "subject": "Seu relatório completo está pronto ✍️",

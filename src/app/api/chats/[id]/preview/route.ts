@@ -1,3 +1,4 @@
+import { currencyFor } from "@/lib/billing/pricing";
 import { after } from "next/server";
 import { supabaseAdmin, currentUser } from "@/lib/supabase/server";
 import { ok, bad, body, HEATS } from "@/lib/server/http";
@@ -25,7 +26,7 @@ export async function POST(req: Request, ctx: RouteContext<"/api/chats/[id]/prev
   if (existing) return ok({ reportId: existing.id });
   const heat = HEATS.includes(b?.heat as never) ? b!.heat : "spicy";
   const { data: rep, error } = await db.from("reports").insert({
-    chat_id: id, user_id: user.id, number: 1, lang: chat.report_lang, status: "preview_pending", content: { heat },
+    chat_id: id, user_id: user.id, number: 1, lang: chat.report_lang, status: "preview_pending", content: { heat }, currency: currencyFor(req.headers.get("x-vercel-ip-country")),
     snapshot: { stats: chat.stats, participants: chat.participants, context: chat.context, messageCount: chat.message_count, meName: chat.me_name },
   }).select("id").single();
   if (error || !rep) return bad("db_error", 500);

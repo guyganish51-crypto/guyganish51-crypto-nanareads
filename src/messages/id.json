@@ -435,7 +435,8 @@
         "email": "Email-nya kayaknya salah deh.",
         "code": "Kodenya nggak cocok. Coba lagi atau minta kode baru.",
         "rate": "Kebanyakan percobaan. Tunggu semenit lalu coba lagi."
-      }
+      },
+      "noOffers": "Jangan kirim email pengingat atau penawaran soal laporan saya (laporannya sendiri tetap kamu terima)."
     },
     "writing": {
       "t": "Patrik lagi baca chat kamu",
@@ -484,7 +485,7 @@
     "peopleTitle": "Dan soal kalian masing-masing",
     "unlock": "Baca laporan lengkap",
     "unlockNote": "Pakai 1 kredit · kamu punya {n}",
-    "noCredits": "Kredit kamu habis. Pembayaran segera dibuka — Patrik bakal kirim email.",
+    "noCredits": "Kredit kamu habis.",
     "writingFull": "Patrik lagi nulis laporan lengkap. Sekitar 2 menit — kami juga kirim lewat email.",
     "failed": "Ada yang error waktu Patrik nulis. Kredit kamu sudah dikembalikan. Coba lagi, ya.",
     "retry": "Coba lagi",
@@ -513,7 +514,34 @@
     "shareYou": "Bagikan kartu {name}",
     "personKicker": "Pendapat Patrik soal {name}",
     "readFull": "Baca laporan lengkap",
-    "sendYours": "Biar Patrik baca chat kamu"
+    "sendYours": "Biar Patrik baca chat kamu",
+    "pay": {
+      "title": "Buka laporan lengkap",
+      "single": "1 laporan",
+      "trio": "3 laporan",
+      "ten": "10 laporan",
+      "perReport": "{price} per laporan",
+      "popular": "Paling populer",
+      "best": "Paling hemat",
+      "cta": "Buka seharga {price}",
+      "buy": "Beli kredit · {price}",
+      "offer": "Diskon 50% — khusus buat kamu",
+      "trust": "Pembayaran aman lewat Paddle · Apple Pay · Google Pay · PayPal · kartu",
+      "tax": "Harga sudah termasuk pajak. Sekali bayar, tanpa langganan.",
+      "refund": "Laporannya nggak bisa dibaca? Uangmu kembali penuh.",
+      "credits": "Kredit nggak pernah hangus. Pakai untuk chat baru atau pertanyaan lanjutan.",
+      "soon": "Pembayaran segera dibuka — Patrik bakal kirim email begitu sudah buka.",
+      "processing": "Pembayaran diterima. Patrik lagi pasang headphone-nya…",
+      "failed": "Pembayarannya gagal. Kamu nggak ditagih."
+    },
+    "gift": {
+      "title": "Hadiah dari Patrik 🎁",
+      "body": "Jawab dua pertanyaan singkat dan laporan lengkapnya jadi milikmu. Gratis.",
+      "q1": "Kamu berharap Patrik bilang apa soal chat ini?",
+      "q2": "Apa yang hampir bikin kamu ambil laporan lengkap — dan apa yang bikin kamu batal?",
+      "cta": "Buka laporan gratisku",
+      "expired": "Hadiah ini nggak tersedia untuk laporan ini."
+    }
   },
   "account": {
     "title": "Chat saya",
@@ -529,7 +557,17 @@
     "deleteAccount": "Hapus akun saya dan semua isinya",
     "confirm": "Yakin? Ini nggak bisa dibatalkan.",
     "open": "Buka",
-    "followup": "Pertanyaan lanjutan"
+    "followup": "Pertanyaan lanjutan",
+    "buy": "Beli kredit",
+    "buyNote": "1 kredit = 1 laporan lengkap atau 1 pertanyaan lanjutan."
+  },
+  "pricing": {
+    "title": "Harga",
+    "sub": "Mulai gratis. Bayar cuma untuk laporan yang memang mau kamu baca — tanpa langganan.",
+    "freeH": "Pratinjau",
+    "freeD": "Pembukaan dari Patrik, angka-angkanya, dan judul setiap bab.",
+    "free": "Gratis",
+    "includes": "Setiap laporan lengkap: semua bab, kartu untuk tiap orang, penghargaan, kamus chat kalian, dan vonis dari Patrik."
   },
   "faq": {
     "title": "Pertanyaan sebelum upload",
@@ -540,7 +578,7 @@
       },
       {
         "q": "Gratis nggak?",
-        "a": "Intipan pertama gratis: pembukaan dari Patrik, angka-angkanya, dan judul semua isi laporan lengkap. Laporan lengkap pakai satu kredit. Nggak ada langganan."
+        "a": "Intipan pertama gratis: pembukaan dari Patrik, angka-angkanya, dan judul semua isi laporan lengkap. Laporan lengkap dibayar sekali (atau pakai satu kredit dari paket) — nggak ada langganan, dan harganya sudah termasuk pajak."
       },
       {
         "q": "Aplikasi apa saja yang bisa?",
@@ -643,7 +681,8 @@
       "feedback": "Masukan",
       "privacy": "Privasi",
       "terms": "Ketentuan",
-      "about": "Tentang"
+      "about": "Tentang",
+      "pricing": "Harga"
     },
     "rights": "© {year} What Patrik Thinks. Hanya untuk hiburan."
   },

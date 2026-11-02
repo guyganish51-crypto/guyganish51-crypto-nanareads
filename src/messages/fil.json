@@ -435,7 +435,8 @@
         "email": "Parang mali ang email na 'yan.",
         "code": "Hindi gumana ang code na 'yan. Subukan ulit o humingi ng bago.",
         "rate": "Sobrang daming try. Maghintay ng isang minuto at subukan ulit."
-      }
+      },
+      "noOffers": "Huwag na akong i-email ng reminders o offers tungkol sa report ko (matatanggap mo pa rin ang mismong report)."
     },
     "writing": {
       "t": "Binabasa ni Patrik ang chat mo",
@@ -484,7 +485,7 @@
     "peopleTitle": "At tungkol sa bawat isa sa inyo",
     "unlock": "Basahin ang buong report",
     "unlockNote": "Gagamit ng 1 credit · may {n} ka",
-    "noCredits": "Ubos na ang credits mo. Bubuksan na ang payments soon — mag-e-email si Patrik sa 'yo.",
+    "noCredits": "Ubos na ang credits mo.",
     "writingFull": "Sinusulat na ni Patrik ang buong report. Mga 2 minutes — mag-e-email din kami.",
     "failed": "Nagkaproblema habang nagsusulat si Patrik. Na-refund na ang credit mo. Subukan ulit.",
     "retry": "Subukan ulit",
@@ -513,7 +514,34 @@
     "shareYou": "I-share ang card ni {name}",
     "personKicker": "Ang tingin ni Patrik kay {name}",
     "readFull": "Basahin ang buong report",
-    "sendYours": "Ipabasa rin ang chat mo"
+    "sendYours": "Ipabasa rin ang chat mo",
+    "pay": {
+      "title": "I-unlock ang buong report",
+      "single": "1 report",
+      "trio": "3 reports",
+      "ten": "10 reports",
+      "perReport": "{price} bawat report",
+      "popular": "Pinakasikat",
+      "best": "Pinakasulit",
+      "cta": "I-unlock sa halagang {price}",
+      "buy": "Bumili ng credits · {price}",
+      "offer": "50% off — para sa 'yo lang",
+      "trust": "Secure checkout sa Paddle · Apple Pay · Google Pay · PayPal · cards",
+      "tax": "Kasama na ang tax sa presyo. Isang bayad lang, walang subscription.",
+      "refund": "Hindi mabasa ang report? Ibabalik namin ang buong bayad mo.",
+      "credits": "Hindi nag-e-expire ang credits. Gamitin sa bagong chat o follow-up na tanong.",
+      "soon": "Bubuksan na ang payments very soon — mag-e-email agad si Patrik sa 'yo pagbukas nito.",
+      "processing": "Natanggap na ang bayad. Isinusuot na ni Patrik ang headphones niya…",
+      "failed": "Hindi natuloy ang bayad. Hindi ka na-charge."
+    },
+    "gift": {
+      "title": "Regalo mula kay Patrik 🎁",
+      "body": "Sagutin ang dalawang mabilis na tanong at sa 'yo na ang buong report. Libre.",
+      "q1": "Ano ang inaasahan mong sasabihin ni Patrik tungkol sa chat na 'to?",
+      "q2": "Ano ang muntik nang magpabili sa 'yo ng buong report — at ano ang pumigil sa 'yo?",
+      "cta": "I-unlock ang libreng report ko",
+      "expired": "Hindi available ang regalong ito para sa report na 'to."
+    }
   },
   "account": {
     "title": "Mga chat ko",
@@ -529,7 +557,17 @@
     "deleteAccount": "Burahin ang account ko at lahat ng laman nito",
     "confirm": "Sigurado ka? Hindi na ito maibabalik.",
     "open": "Buksan",
-    "followup": "Follow-up"
+    "followup": "Follow-up",
+    "buy": "Bumili ng credits",
+    "buyNote": "1 credit = 1 buong report o 1 follow-up na tanong."
+  },
+  "pricing": {
+    "title": "Presyo",
+    "sub": "Magsimula nang libre. Magbayad lang para sa mga report na gusto mo talagang basahin — walang subscription.",
+    "freeH": "Preview",
+    "freeD": "Ang intro ni Patrik, ang mga numero at ang mga title ng bawat chapter.",
+    "free": "Libre",
+    "includes": "Bawat buong report: lahat ng chapter, card para sa bawat isa, ang awards, ang diksiyunaryo ng chat n'yo at ang hatol ni Patrik."
   },
   "faq": {
     "title": "Mga tanong bago ka mag-upload",
@@ -540,7 +578,7 @@
       },
       {
         "q": "Libre ba ito?",
-        "a": "Libre ang unang silip: ang intro ni Patrik, ang mga numero, at ang mga title ng lahat ng nasa buong report. Isang credit ang buong report. Walang subscription."
+        "a": "Libre ang preview: ang intro ni Patrik, ang mga numero, at ang mga title ng lahat ng nasa buong report. Isang bayad lang ang buong report (o isang credit mula sa pack) — walang subscription, at kasama na ang tax sa presyo."
       },
       {
         "q": "Anong apps ang gumagana?",
@@ -643,7 +681,8 @@
       "feedback": "Feedback",
       "privacy": "Privacy",
       "terms": "Terms",
-      "about": "Tungkol sa amin"
+      "about": "Tungkol sa amin",
+      "pricing": "Presyo"
     },
     "rights": "© {year} What Patrik Thinks. Para sa entertainment lang."
   },

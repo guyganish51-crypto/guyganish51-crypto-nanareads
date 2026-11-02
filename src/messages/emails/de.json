@@ -8,19 +8,29 @@
     "cta": "Meine Vorschau lesen"
   },
   "nudge": {
-    "subject": "{title}",
-    "pre": "Das meiste ist noch verschlossen.",
-    "h": "Dein Bericht wartet auf dich",
-    "body": "Den Anfang kennst du schon. Das steckt noch drin:",
-    "cta": "Ganzen Bericht lesen",
-    "credit": "Du hast noch ein Gratis-Guthaben — die Runde geht auf mich."
+    "subject": "50 % Rabatt · {title}",
+    "pre": "Dein Bericht zum halben Preis — für die nächsten 24 Stunden.",
+    "h": "Halber Preis. Nur für dich.",
+    "body": "Den Anfang kennst du schon. Das ist noch verschlossen — auch der Teil über dich:",
+    "deal": "Halber Preis für die nächsten 24 Stunden. Der Rabatt ist beim Klick schon abgezogen.",
+    "cta": "Mit 50 % Rabatt freischalten",
+    "trust": "Sichere Zahlung · Apple Pay · Google Pay · PayPal · Karte"
   },
   "hook": {
-    "pre": "Letzte Erinnerung an deinen Bericht.",
+    "pre": "Letzte Chance auf den halben Preis.",
     "h": "Ein letzter Song, bevor ich das DJ-Pult abbaue",
     "body": "{title}",
+    "deal": "gleicher halber Preis, bis morgen.",
     "cta": "Ganzen Bericht öffnen",
     "ps": "PS: Lies ihn, wirf ihn in den Chat und schau, wer zuerst antwortet 👀"
+  },
+  "gift": {
+    "subject": "{title} — ein Geschenk von mir 🎁",
+    "pre": "Der Rabatt ist vorbei. Das hier ist besser.",
+    "h": "Na gut. Der geht auf mich.",
+    "body": "Beantworte zwei kurze Fragen und ich schalte dir den ganzen Bericht frei. Keine Karte, kein Haken.",
+    "cta": "Antworten & Bericht freischalten",
+    "ps": "PS: Wenn du ihn gelesen hast, erzähl's im Chat. Mehr will ich gar nicht."
   },
   "fullReady": {
     "subject": "Dein ganzer Bericht ist fertig ✍️",

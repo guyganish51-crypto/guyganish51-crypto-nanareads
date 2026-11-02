@@ -435,7 +435,8 @@
         "email": "Bu e-posta pek doğru görünmüyor.",
         "code": "Bu kod olmadı. Tekrar dene ya da yeni bir kod iste.",
         "rate": "Çok fazla deneme. Bir dakika bekleyip tekrar dene."
-      }
+      },
+      "noOffers": "Raporumla ilgili hatırlatma veya teklif e-postası gönderme (raporun kendisi yine gelir)."
     },
     "writing": {
       "t": "Patrik sohbetini okuyor",
@@ -484,7 +485,7 @@
     "peopleTitle": "Ve her biriniz hakkında",
     "unlock": "Tam raporu oku",
     "unlockNote": "1 kredi kullanır · {n} kredin var",
-    "noCredits": "Kredin bitti. Ödemeler yakında açılıyor — Patrik sana e-posta atacak.",
+    "noCredits": "Kredin bitti.",
     "writingFull": "Patrik tam raporu yazıyor. Yaklaşık 2 dakika — sana e-posta da atacağız.",
     "failed": "Patrik yazarken bir şeyler ters gitti. Kredin iade edildi. Lütfen tekrar dene.",
     "retry": "Tekrar dene",
@@ -513,7 +514,34 @@
     "shareYou": "{name} kartını paylaş",
     "personKicker": "Patrik, {name} hakkında ne düşünüyor",
     "readFull": "Raporun tamamını oku",
-    "sendYours": "Kendi sohbetini okut"
+    "sendYours": "Kendi sohbetini okut",
+    "pay": {
+      "title": "Tam raporun kilidini aç",
+      "single": "1 rapor",
+      "trio": "3 rapor",
+      "ten": "10 rapor",
+      "perReport": "Rapor başına {price}",
+      "popular": "En popüler",
+      "best": "En avantajlı",
+      "cta": "{price} karşılığında aç",
+      "buy": "Kredi satın al · {price}",
+      "offer": "%50 indirim — sadece sana",
+      "trust": "Paddle ile güvenli ödeme · Apple Pay · Google Pay · PayPal · kartlar",
+      "tax": "Fiyata vergiler dahil. Tek seferlik ödeme, abonelik yok.",
+      "refund": "Rapor okunmuyor mu? Paranın tamamı iade edilir.",
+      "credits": "Kredilerin süresi hiç dolmaz. Yeni sohbetler veya ek sorular için kullan.",
+      "soon": "Ödemeler çok yakında açılıyor — açıldığı an Patrik sana e-posta atacak.",
+      "processing": "Ödeme alındı. Patrik kulaklıklarını takıyor…",
+      "failed": "Ödeme gerçekleşmedi. Senden ücret alınmadı."
+    },
+    "gift": {
+      "title": "Patrik'ten bir hediye 🎁",
+      "body": "İki kısa soruyu yanıtla, tam rapor senin. Ücretsiz.",
+      "q1": "Patrik'in bu sohbet hakkında sana ne söylemesini umuyordun?",
+      "q2": "Seni neredeyse tam raporu almaya ne itti — peki ne durdurdu?",
+      "cta": "Ücretsiz raporumu aç",
+      "expired": "Bu hediye bu rapor için geçerli değil."
+    }
   },
   "account": {
     "title": "Sohbetlerim",
@@ -529,7 +557,17 @@
     "deleteAccount": "Hesabımı ve içindeki her şeyi sil",
     "confirm": "Emin misin? Bu geri alınamaz.",
     "open": "Aç",
-    "followup": "Ek soru"
+    "followup": "Ek soru",
+    "buy": "Kredi satın al",
+    "buyNote": "1 kredi = 1 tam rapor veya 1 ek soru."
+  },
+  "pricing": {
+    "title": "Fiyatlar",
+    "sub": "Ücretsiz başla. Sadece gerçekten okumak istediğin raporlar için öde — abonelik yok.",
+    "freeH": "Ön izleme",
+    "freeD": "Patrik'in girişi, rakamlar ve tüm bölümlerin başlıkları.",
+    "free": "Ücretsiz",
+    "includes": "Her tam raporda: tüm bölümler, herkes için bir kart, ödüller, sohbetinizin sözlüğü ve Patrik'in kararı."
   },
   "faq": {
     "title": "Yüklemeden önce sorular",
@@ -540,7 +578,7 @@
       },
       {
         "q": "Ücretsiz mi?",
-        "a": "İlk bakış ücretsiz: Patrik'in girişi, rakamlar ve tam rapordaki her şeyin başlıkları. Tam rapor bir kredi kullanır. Abonelik yok."
+        "a": "İlk bakış ücretsiz: Patrik'in girişi, rakamlar ve tam rapordaki her şeyin başlıkları. Tam rapor tek seferlik bir ödeme (ya da bir paketten bir kredi) — abonelik yok ve fiyata vergiler dahil."
       },
       {
         "q": "Hangi uygulamalar çalışıyor?",
@@ -643,7 +681,8 @@
       "feedback": "Geri bildirim",
       "privacy": "Gizlilik",
       "terms": "Koşullar",
-      "about": "Hakkımızda"
+      "about": "Hakkımızda",
+      "pricing": "Fiyatlar"
     },
     "rights": "© {year} What Patrik Thinks. Yalnızca eğlence amaçlıdır."
   },

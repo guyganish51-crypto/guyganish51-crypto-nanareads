@@ -9,6 +9,7 @@ import type { Preview, Report, Block } from "@/lib/ai/schema";
 import { Avatar } from "./Avatar";
 import { WritingScreen } from "./StartFlow";
 import { Arrow } from "@/components/Arrow";
+import { Paywall } from "./Paywall";
 
 interface Data {
   id: string; chatId: string | null; number: number; status: string; unlocked: boolean; lang: string;
@@ -133,6 +134,16 @@ export function ReportView({ id, lang, t }: { id: string; lang: Locale; t: Dict 
   const [msg, setMsg] = useState<string | null>(null);
   const [q, setQ] = useState("");
   const [fb, setFb] = useState<string | null>(null);
+  const [paying, setPaying] = useState(false);
+  const [needCredits, setNeedCredits] = useState(false);
+  const [gift, setGift] = useState(false);
+  const [source, setSource] = useState("report");
+  useEffect(() => {
+    const sp = new URLSearchParams(location.search);
+    const e = sp.get("email");
+    if (e) setSource(`email_${e}`.slice(0, 40));
+    if (e === "gift" || sp.get("gift") === "1") setGift(true);
+  }, []);
 
   const load = useCallback(async () => {
     const r = await fetch(`/api/reports/${id}`, { cache: "no-store" });
@@ -141,6 +152,13 @@ export function ReportView({ id, lang, t }: { id: string; lang: Locale; t: Dict 
   }, [id]);
 
   useEffect(() => { load(); }, [load]);
+  useEffect(() => {
+    if (!paying || d?.unlocked) return;
+    const h = setInterval(load, 2000);
+    const stop = setTimeout(() => setPaying(false), 90_000);
+    return () => { clearInterval(h); clearTimeout(stop); };
+  }, [paying, d?.unlocked, load]);
+  const awaitPaid = useCallback(() => { setPaying(true); load(); }, [load]);
   useEffect(() => {
     if (!d || !["preview_pending", "full_pending"].includes(d.status)) return;
     const h = setInterval(load, 4000);
@@ -195,7 +213,7 @@ export function ReportView({ id, lang, t }: { id: string; lang: Locale; t: Dict 
     setBusy(true); setMsg(null);
     const r = await fetch(`/api/chats/${d.chatId}/followup`, { method: "POST", headers: { "content-type": "application/json" }, body: JSON.stringify({ question: q, lang: d.lang }) });
     setBusy(false);
-    if (r.status === 402) return setMsg(R.noCredits);
+    if (r.status === 402) return setNeedCredits(true);
     if (r.status === 410) return setMsg(R.askExpired);
     if (!r.ok) return setMsg(t.common.error);
     const { reportId } = await r.json();
@@ -245,12 +263,10 @@ export function ReportView({ id, lang, t }: { id: string; lang: Locale; t: Dict 
                   <button aria-label={fmt(R.shareYou, { name: x.name })} className="shrink-0 text-sm underline" onClick={() => sharePerson(i, x.name)}>↗</button></li>
               ))}</ul>
             </>}
-            {d.isOwner && d.status === "preview_ready" && (
-              <div className="mt-6">
-                <button className="btn btn-primary w-full" disabled={busy} onClick={unlock}>{R.unlock} <Arrow /></button>
-                <p className="mt-2 text-center text-sm text-ink-soft">{fmt(R.unlockNote, { n: d.credits ?? 0 })}</p>
-              </div>
-            )}
+            {d.isOwner && d.status === "preview_ready" && (gift
+              ? <GiftForm t={t} reportId={d.id} onDone={load} />
+              : <Paywall t={t} lang={lang} reportId={d.id} credits={d.credits ?? 0} busy={busy} onUseCredit={unlock} onPaid={awaitPaid} source={source} />)}
+            {paying && !d.unlocked && <p className="mt-4 text-center font-semibold">💳 {R.pay.processing}</p>}
             {d.status === "full_pending" && <p className="mt-6 text-center font-semibold">✍️ {R.writingFull}</p>}
           </section>
         </>
@@ -335,6 +351,7 @@ export function ReportView({ id, lang, t }: { id: string; lang: Locale; t: Dict 
                 <textarea value={q} onChange={(e) => setQ(e.target.value)} rows={3} maxLength={500} placeholder={R.askPlaceholder}
                   className="mt-3 w-full rounded-xl border-2 border-ink bg-paper px-3 py-2.5" />
                 <button className="btn btn-primary mt-3" disabled={busy || q.trim().length < 5} onClick={ask}>{R.askCta}</button>
+                {needCredits && <Paywall t={t} lang={lang} credits={0} onPaid={() => { setNeedCredits(false); load(); }} source="followup" />}
               </> : <p className="mt-2 text-ink-soft">{R.askExpired}</p>}
             </section>
           )}
@@ -347,5 +364,29 @@ export function ReportView({ id, lang, t }: { id: string; lang: Locale; t: Dict 
         <Link href={`/${lang}/start?from=report_end`} className="btn btn-primary mt-4">{R.nextCta} <Arrow /></Link>
       </section>
     </main>
+  );
+}
+
+function GiftForm({ t, reportId, onDone }: { t: Dict; reportId: string; onDone: () => void }) {
+  const G = t.report.gift;
+  const [a1, setA1] = useState(""), [a2, setA2] = useState("");
+  const [busy, setBusy] = useState(false), [err, setErr] = useState<string | null>(null);
+  const send = async () => {
+    setBusy(true); setErr(null);
+    const r = await fetch(`/api/reports/${reportId}/gift`, { method: "POST", headers: { "content-type": "application/json" }, body: JSON.stringify({ q1: a1, q2: a2 }) });
+    setBusy(false);
+    if (!r.ok) return setErr(r.status === 403 ? G.expired : t.common.error);
+    onDone();
+  };
+  const field = "mt-1 w-full rounded-xl border-2 border-ink bg-paper px-3 py-2.5";
+  return (
+    <div className="mt-6 rounded-2xl border-2 border-ink bg-butter/50 p-4">
+      <h3 className="font-display text-xl font-bold">{G.title}</h3>
+      <p className="mt-1 text-sm">{G.body}</p>
+      <label className="mt-3 block text-sm font-semibold">{G.q1}<textarea rows={2} maxLength={600} value={a1} onChange={(e) => setA1(e.target.value)} className={field} /></label>
+      <label className="mt-3 block text-sm font-semibold">{G.q2}<textarea rows={2} maxLength={600} value={a2} onChange={(e) => setA2(e.target.value)} className={field} /></label>
+      <button className="btn btn-primary mt-3 w-full" disabled={busy || a1.trim().length < 2 || a2.trim().length < 2} onClick={send}>{G.cta} <Arrow /></button>
+      {err && <p className="mt-2 text-center text-sm font-semibold">{err}</p>}
+    </div>
   );
 }

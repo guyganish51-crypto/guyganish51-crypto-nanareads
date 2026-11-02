@@ -435,7 +435,8 @@
         "email": "Ta e-mail adresa ne izgleda ispravno.",
         "code": "Taj kod nije uspio. Pokušaj ponovno ili zatraži novi.",
         "rate": "Previše pokušaja. Pričekaj minutu i pokušaj ponovno."
-      }
+      },
+      "noOffers": "Ne šaljite mi podsjetnike ni ponude za moj izvještaj e-mailom (sam izvještaj ćeš svejedno dobiti)."
     },
     "writing": {
       "t": "Patrik čita tvoj chat",
@@ -484,7 +485,7 @@
     "peopleTitle": "I o svakome od vas",
     "unlock": "Pročitaj cijeli izvještaj",
     "unlockNote": "Troši 1 kredit · imaš ih {n}",
-    "noCredits": "Krediti su ti potrošeni. Plaćanje se otvara uskoro — Patrik će ti se javiti e-mailom.",
+    "noCredits": "Krediti su ti potrošeni.",
     "writingFull": "Patrik piše cijeli izvještaj. Otprilike 2 minute — javit ćemo ti i e-mailom.",
     "failed": "Nešto je pošlo po zlu dok je Patrik pisao. Kredit ti je vraćen. Pokušaj ponovno.",
     "retry": "Pokušaj ponovno",
@@ -513,7 +514,34 @@
     "shareYou": "Podijeli karticu: {name}",
     "personKicker": "Što Patrik misli o osobi {name}",
     "readFull": "Pročitaj cijeli izvještaj",
-    "sendYours": "Daj Patriku da pročita i tvoj chat"
+    "sendYours": "Daj Patriku da pročita i tvoj chat",
+    "pay": {
+      "title": "Otključaj cijeli izvještaj",
+      "single": "1 izvještaj",
+      "trio": "3 izvještaja",
+      "ten": "10 izvještaja",
+      "perReport": "{price} po izvještaju",
+      "popular": "Najpopularnije",
+      "best": "Najisplativije",
+      "cta": "Otključaj za {price}",
+      "buy": "Kupi kredite · {price}",
+      "offer": "50 % popusta — samo za tebe",
+      "trust": "Sigurno plaćanje putem Paddlea · Apple Pay · Google Pay · PayPal · kartice",
+      "tax": "Cijena uključuje porez. Jednokratno plaćanje, bez pretplate.",
+      "refund": "Izvještaj je nečitljiv? Dobivaš puni povrat novca.",
+      "credits": "Krediti nikad ne istječu. Iskoristi ih za nove chatove ili dodatna pitanja.",
+      "soon": "Plaćanje se otvara vrlo uskoro — Patrik će ti se javiti e-mailom čim se otvori.",
+      "processing": "Plaćanje primljeno. Patrik stavlja slušalice…",
+      "failed": "Plaćanje nije prošlo. Ništa ti nije naplaćeno."
+    },
+    "gift": {
+      "title": "Poklon od Patrika 🎁",
+      "body": "Odgovori na dva brza pitanja i cijeli izvještaj je tvoj. Besplatno.",
+      "q1": "Što ti je Patrik trebao reći o ovom chatu?",
+      "q2": "Što te skoro natjeralo da uzmeš cijeli izvještaj — i što te zaustavilo?",
+      "cta": "Otključaj moj besplatni izvještaj",
+      "expired": "Ovaj poklon nije dostupan za ovaj izvještaj."
+    }
   },
   "account": {
     "title": "Moji chatovi",
@@ -529,7 +557,17 @@
     "deleteAccount": "Obriši moj račun i sve u njemu",
     "confirm": "Sigurno? Ovo se ne može poništiti.",
     "open": "Otvori",
-    "followup": "Dodatno pitanje"
+    "followup": "Dodatno pitanje",
+    "buy": "Kupi kredite",
+    "buyNote": "1 kredit = 1 cijeli izvještaj ili 1 dodatno pitanje."
+  },
+  "pricing": {
+    "title": "Cijene",
+    "sub": "Počni besplatno. Plaćaj samo izvještaje koje stvarno želiš pročitati — bez pretplate.",
+    "freeH": "Pregled",
+    "freeD": "Patrikov uvod, brojke i naslovi svih poglavlja.",
+    "free": "Besplatno",
+    "includes": "Svaki cijeli izvještaj: sva poglavlja, kartica za svaku osobu, nagrade, rječnik vašeg chata i Patrikova presuda."
   },
   "faq": {
     "title": "Pitanja prije učitavanja",
@@ -540,7 +578,7 @@
       },
       {
         "q": "Je li besplatno?",
-        "a": "Prvi pogled je besplatan: Patrikov uvod, brojke i naslovi svega što je u cijelom izvještaju. Cijeli izvještaj troši jedan kredit. Nema pretplate."
+        "a": "Prvi pogled je besplatan: Patrikov uvod, brojke i naslovi svega što je u cijelom izvještaju. Cijeli izvještaj plaća se jednokratno (ili jednim kreditom iz paketa) — nema pretplate, a cijena uključuje porez."
       },
       {
         "q": "Koje aplikacije rade?",
@@ -643,7 +681,8 @@
       "feedback": "Povratne informacije",
       "privacy": "Privatnost",
       "terms": "Uvjeti",
-      "about": "O nama"
+      "about": "O nama",
+      "pricing": "Cijene"
     },
     "rights": "© {year} What Patrik Thinks. Samo za zabavu."
   },
