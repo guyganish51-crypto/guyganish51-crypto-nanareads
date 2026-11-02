@@ -55,7 +55,7 @@ export async function sendEmail(to: string, subject: string, html: string, kind:
   if (!key) return false;
   const from = kind === "transactional"
     ? process.env.EMAIL_FROM_TRANSACTIONAL ?? "Patrik <reports@whatpatrikthink.com>"
-    : process.env.EMAIL_FROM_MARKETING ?? "Patrik <patrik@go.whatpatrikthink.com>";
+    : process.env.EMAIL_FROM_MARKETING ?? "Patrik <patrik@whatpatrikthink.com>";
   const r = await fetch("https://api.resend.com/emails", {
     method: "POST",
     headers: { authorization: `Bearer ${key}`, "content-type": "application/json" },
